@@ -732,6 +732,7 @@ Size: 25553
 SHA256sum: db248ef16a995ef23ffed962f7f634d920bff27570cb1250cbe839c2d1948c48
 Description:  minified javascript jQuery 1.4 library
 
+<<<<<<< HEAD
 Package: mcproxy
 Version: 2017-08-24-93b5ace42268160ebbfff4c61818fb15fa2d9b99-2
 Depends: libc, libpthread, libstdcpp6
@@ -746,6 +747,8 @@ Description:  mcproxy is a free & open source implementation of the IGMP/MLD pro
  It operates on the kernel tables for multicast routing and allows for multiple instantiations,
  as well as dynamically changing downstream interfaces.
 
+=======
+>>>>>>> eadf213c16d76a5b42804b7838e80b6d843c97e4
 Package: minimalist-pcproxy
 Version: 2015-01-12-2d6d1b0b0a3b79a9b4a9b0a7606a84600a967bcb-1
 Depends: libc, libubox20191228
@@ -763,6 +766,7 @@ Description:  This package contains a daemon which can be used to forward
  it allows for control of NAT forwarding and firewall pinholes from multiple
  hops away.
 
+<<<<<<< HEAD
 Package: mrd6
 Version: 2013-11-30-c805eb33255dbc0b6647d463c6c67d1c9d3105a0-2
 Depends: libc, libstdcpp6
@@ -780,6 +784,8 @@ Description:  Multicast is becoming a major component in next generation network
  a modular IPv6 Multicast Routing Framework for the Linux operating system 
  and provides MLDv2 (as well as MLDv1), PIM-SM and MBGP support.
 
+=======
+>>>>>>> eadf213c16d76a5b42804b7838e80b6d843c97e4
 Package: ndppd
 Version: 0.2.5-1
 Depends: libc, uclibcxx

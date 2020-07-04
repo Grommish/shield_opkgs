@@ -7353,10 +7353,17 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Damiano Renfer <damiano.renfer@gmail.com>
 Architecture: mips64_octeon3
+<<<<<<< HEAD
 Installed-Size: 75978
 Filename: dnscrypt-proxy_2019-08-20-07ac3825-2_mips64_octeon3.ipk
 Size: 76958
 SHA256sum: 13fbc4b601580fee54fb6134e27105102abd327c59435450bf8af5b98f71a845
+=======
+Installed-Size: 75954
+Filename: dnscrypt-proxy_2019-08-20-07ac3825-2_mips64_octeon3.ipk
+Size: 76910
+SHA256sum: 9f8780a931dca0a73ae966a3c8148f2a5dd21f308d4044eeb2121fadd5266451
+>>>>>>> eadf213c16d76a5b42804b7838e80b6d843c97e4
 Description:  dnscrypt-proxy provides local service which can be used directly as your
  local resolver or as a DNS forwarder, encrypting and authenticating requests
  using the DNSCrypt protocol and passing them to an upstream server.
@@ -29842,8 +29849,13 @@ Maintainer: Darryl Sokoloski <darryl@egloo.ca>
 Architecture: mips64_octeon3
 Installed-Size: 391031
 Filename: netifyd_2020-04-29-v3.00-1_mips64_octeon3.ipk
+<<<<<<< HEAD
 Size: 391598
 SHA256sum: 02cb1c748e4ecb3e74d1c929a0a771a926f37190302b6fa5c0836308e6996f74
+=======
+Size: 391602
+SHA256sum: 880d9e873cc5f92cd401d2762ec5da5fc182db7578297de76930fa020533aa5c
+>>>>>>> eadf213c16d76a5b42804b7838e80b6d843c97e4
 Description:  The Netify Agent is a deep-packet inspection server which detects network
  protocols and applications.  These detections can be saved locally, served over
  a UNIX or TCP socket, and/or "pushed" (via HTTP POSTs) to a remote third-party
