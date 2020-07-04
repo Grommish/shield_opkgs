@@ -5816,17 +5816,10 @@ Depends: libc, libsodium, dnscrypt-proxy-resolvers
 License: ISC
 Section: net
 Architecture: mips64_octeon3
-<<<<<<< HEAD
 Installed-Size: 75978
 Filename: dnscrypt-proxy_2019-08-20-07ac3825-2_mips64_octeon3.ipk
 Size: 76958
 SHA256sum: 13fbc4b601580fee54fb6134e27105102abd327c59435450bf8af5b98f71a845
-=======
-Installed-Size: 75954
-Filename: dnscrypt-proxy_2019-08-20-07ac3825-2_mips64_octeon3.ipk
-Size: 76910
-SHA256sum: 9f8780a931dca0a73ae966a3c8148f2a5dd21f308d4044eeb2121fadd5266451
->>>>>>> eadf213c16d76a5b42804b7838e80b6d843c97e4
 Description:  dnscrypt-proxy provides local service which can be used directly as your
  local resolver or as a DNS forwarder, encrypting and authenticating requests
  using the DNSCrypt protocol and passing them to an upstream server.
@@ -23568,13 +23561,8 @@ Section: net
 Architecture: mips64_octeon3
 Installed-Size: 391031
 Filename: netifyd_2020-04-29-v3.00-1_mips64_octeon3.ipk
-<<<<<<< HEAD
 Size: 391598
 SHA256sum: 02cb1c748e4ecb3e74d1c929a0a771a926f37190302b6fa5c0836308e6996f74
-=======
-Size: 391602
-SHA256sum: 880d9e873cc5f92cd401d2762ec5da5fc182db7578297de76930fa020533aa5c
->>>>>>> eadf213c16d76a5b42804b7838e80b6d843c97e4
 Description:  The Netify Agent is a deep-packet inspection server which detects network
  protocols and applications.  These detections can be saved locally, served over
  a UNIX or TCP socket, and/or "pushed" (via HTTP POSTs) to a remote third-party
@@ -41539,6 +41527,23 @@ Description:  Simple Network Management Protocol (SNMP) is a widely used protoco
  IPv4 and IPv6.
  .
  This package contains the SNMP notification receiver.
+
+Package: snort3
+Version: 3.0.0-beta-5
+Depends: libc, libstdcpp6, libdaq, libdnet, libopenssl1.1, libpcap1, libpcre, libpthread, libuuid1, zlib, libhwloc, libtirpc, luajit
+License: GPL-2.0-only
+Section: net
+CPE-ID: cpe:/a:snort:snort
+Architecture: mips64_octeon3
+Installed-Size: 1072412
+Filename: snort3_3.0.0-beta-5_mips64_octeon3.ipk
+Size: 1067679
+SHA256sum: e743b40c06d74ddff9a20ec4bef02f78959aeedb8e063305e3c9daf93de30e9f
+Description:  Snort is an open source network intrusion detection and prevention system.
+ It is capable of performing real-time traffic analysis, alerting, blocking
+ and packet logging on IP networks.  It utilizes a combination of protocol
+ analysis and pattern matching in order to detect anomalies, misuse and
+ attacks.
 
 Package: snort
 Version: 2.9.15.1-1
