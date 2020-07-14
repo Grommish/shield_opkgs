@@ -1,0 +1,5688 @@
+Package: baresip-mod-alsa
+Version: 0.6.4-2
+Depends: libc, baresip, alsa-lib
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-alsa
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 3732
+Filename: baresip-mod-alsa_0.6.4-2_mips64_octeon3.ipk
+Size: 4491
+SHA256sum: 9b1482da61abffadceca96e87f8dede740510175224f786a439236b63fd4ac1c
+Description:  ALSA audio driver
+
+Package: baresip-mod-aubridge
+Version: 0.6.4-2
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-aubridge
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 2875
+Filename: baresip-mod-aubridge_0.6.4-2_mips64_octeon3.ipk
+Size: 3616
+SHA256sum: 4e270741896dd86f74988bceddcaa2811bc1d157beb895d93053c580597681be
+Description:  Audio bridge module
+
+Package: baresip-mod-aufile
+Version: 0.6.4-2
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-aufile
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 2780
+Filename: baresip-mod-aufile_0.6.4-2_mips64_octeon3.ipk
+Size: 3551
+SHA256sum: f931b24ae7b0e283944d8f5607ee1ac598f06a323af6c258fdbe35d8d381dce1
+Description:  Audio module for using a WAV-file as audio input
+
+Package: baresip-mod-b2bua
+Version: 0.6.4-2
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-b2bua
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 3232
+Filename: baresip-mod-b2bua_0.6.4-2_mips64_octeon3.ipk
+Size: 3984
+SHA256sum: 23e34c73e83cb7e6bfcb3921b004901229c6c0423c7f38a3e2e1036b966c295e
+Description:  Back-to-Back User-Agent module
+
+Package: baresip-mod-cons
+Version: 0.6.4-2
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-cons
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 2644
+Filename: baresip-mod-cons_0.6.4-2_mips64_octeon3.ipk
+Size: 3389
+SHA256sum: c9f07b82955a67670f716cec31520d40b4908ca5574aac9ce29349f054c69dff
+Description:  UDP/TCP console UI driver
+
+Package: baresip-mod-ctrl-tcp
+Version: 0.6.4-2
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-ctrl-tcp
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 5007
+Filename: baresip-mod-ctrl-tcp_0.6.4-2_mips64_octeon3.ipk
+Size: 5751
+SHA256sum: 1f57005451f8912bfe1ff51e4e2dfc62db5ad1c224da80987514cd864a4b8aca
+Description:  TCP control interface
+
+Package: baresip-mod-debug-cmd
+Version: 0.6.4-2
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-debug-cmd
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 2997
+Filename: baresip-mod-debug-cmd_0.6.4-2_mips64_octeon3.ipk
+Size: 3741
+SHA256sum: 51e4525061a4113f1b4e215e93bc796716c25d3d8ee61c679163dea541e6ee7e
+Description:  Debug commands
+
+Package: baresip-mod-dtls-srtp
+Version: 0.6.4-2
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-dtls-srtp
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 5128
+Filename: baresip-mod-dtls-srtp_0.6.4-2_mips64_octeon3.ipk
+Size: 5882
+SHA256sum: b085e05050000b1fdb9422d49ff01888935050f6a8231da510b5a6993973a070
+Description:  DTLS-SRTP end-to-end encryption
+
+Package: baresip-mod-dtmfio
+Version: 0.6.4-2
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-dtmfio
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 1634
+Filename: baresip-mod-dtmfio_0.6.4-2_mips64_octeon3.ipk
+Size: 2410
+SHA256sum: e463b15620fd69ceafbd4a42098e68499c391773d72c97f3e3ddc12ded930307
+Description:  DTMF input/output
+
+Package: baresip-mod-echo
+Version: 0.6.4-2
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-echo
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 2296
+Filename: baresip-mod-echo_0.6.4-2_mips64_octeon3.ipk
+Size: 3038
+SHA256sum: 53ff52801b754c2da3b4c9dab56988e4fc21c61f500c2b947d68de79d6c0d4ae
+Description:  Echo server module
+
+Package: baresip-mod-evdev
+Version: 0.6.4-2
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-evdev
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 7238
+Filename: baresip-mod-evdev_0.6.4-2_mips64_octeon3.ipk
+Size: 7800
+SHA256sum: 5b94daf99b07f6d65d3d2a24b467d98ae409781dc0d752ab6918797805c1e7b4
+Description:  Linux input driver
+
+Package: baresip-mod-fakevideo
+Version: 0.6.4-2
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-fakevideo
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 2183
+Filename: baresip-mod-fakevideo_0.6.4-2_mips64_octeon3.ipk
+Size: 2932
+SHA256sum: 02bfdd091d003e17480b8c66bed3f7549aa70af4285c9a1b98d921780dc7f8ce
+Description:  Fake video input/output driver
+
+Package: baresip-mod-g711
+Version: 0.6.4-2
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-g711
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 1619
+Filename: baresip-mod-g711_0.6.4-2_mips64_octeon3.ipk
+Size: 2403
+SHA256sum: e85f58a52cc11cbdd031b91acd4568053f1bb02884d65be7835d8e3c5a1f1f7f
+Description:  G.711 audio codec
+
+Package: baresip-mod-g722
+Version: 0.6.4-2
+Depends: libc, baresip, libspandsp
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-g722
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 1613
+Filename: baresip-mod-g722_0.6.4-2_mips64_octeon3.ipk
+Size: 2392
+SHA256sum: e4917fb29b4a04aa156201ae9a2acd98a25b9eb15e6fb3f43cfd825475cf0474
+Description:  G.722 audio codec
+
+Package: baresip-mod-g726
+Version: 0.6.4-2
+Depends: libc, baresip, libspandsp
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-g726
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 1831
+Filename: baresip-mod-g726_0.6.4-2_mips64_octeon3.ipk
+Size: 2575
+SHA256sum: 83636cb357b1749713ec3d05647835297a324de0303dc8cad35b8f81d9fb940b
+Description:  G.726 audio codec
+
+Package: baresip-mod-httpd
+Version: 0.6.4-2
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-httpd
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 2514
+Filename: baresip-mod-httpd_0.6.4-2_mips64_octeon3.ipk
+Size: 3261
+SHA256sum: 15b163313de42e9fade9581f7e643d3ce6ced52bde62b1d3f695599f64c27bdb
+Description:  HTTP webserver UI-module
+
+Package: baresip-mod-mwi
+Version: 0.6.4-2
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-mwi
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 2667
+Filename: baresip-mod-mwi_0.6.4-2_mips64_octeon3.ipk
+Size: 3416
+SHA256sum: c192fc87cb7bd0d28ddd07b15d2400ba31b35666631786b59518e570cb4f8d3f
+Description:  Message Waiting Indication
+
+Package: baresip-mod-natpmp
+Version: 0.6.4-2
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-natpmp
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 4605
+Filename: baresip-mod-natpmp_0.6.4-2_mips64_octeon3.ipk
+Size: 5365
+SHA256sum: f3f764168eef6a674121b21be1c192c759610a989f631bcdde9372b69f68a0a6
+Description:  NAT Port Mapping Protocol module
+
+Package: baresip-mod-opus
+Version: 0.6.4-2
+Depends: libc, baresip, libopus
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-opus
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 4344
+Filename: baresip-mod-opus_0.6.4-2_mips64_octeon3.ipk
+Size: 5111
+SHA256sum: 0ff5e327f4a24d416e38f3358ba2d8c6af9f17d6bb76cdd1111e9af85a27dd1d
+Description:  OPUS Interactive audio codec
+
+Package: baresip-mod-oss
+Version: 0.6.4-2
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-oss
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 2630
+Filename: baresip-mod-oss_0.6.4-2_mips64_octeon3.ipk
+Size: 3369
+SHA256sum: ea377c828f44375ffe492b351de03e9054d29e695b286ddb8bf76808adc98134
+Description:  OSS audio driver
+
+Package: baresip-mod-plc
+Version: 0.6.4-2
+Depends: libc, baresip, libspandsp
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-plc
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 1705
+Filename: baresip-mod-plc_0.6.4-2_mips64_octeon3.ipk
+Size: 2490
+SHA256sum: e8ba79c2f60607f96f3fa1d73d46e97adbd83f3044a18466de783ed35be61789
+Description:  Packet Loss Concealment
+
+Package: baresip-mod-portaudio
+Version: 0.6.4-2
+Depends: libc, baresip, portaudio
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-portaudio
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 2467
+Filename: baresip-mod-portaudio_0.6.4-2_mips64_octeon3.ipk
+Size: 3211
+SHA256sum: 43926de0eab788fe16a716899551229c746b265858de5ec28404b8b55f787e1f
+Description:  Portaudio audio driver
+
+Package: baresip-mod-presence
+Version: 0.6.4-2
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-presence
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 6756
+Filename: baresip-mod-presence_0.6.4-2_mips64_octeon3.ipk
+Size: 7539
+SHA256sum: 7757658e3a2f3b05fb3ecba4205128717bbd6c9ec608b2fd6de113643c883ac7
+Description:  Presence module
+
+Package: baresip-mod-pulse
+Version: 0.6.4-2
+Depends: libc, baresip, pulseaudio
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-pulse
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 3943
+Filename: baresip-mod-pulse_0.6.4-2_mips64_octeon3.ipk
+Size: 4712
+SHA256sum: 4e4c896950eff6c0fb773d3af1547f57955fd80e35922d924b53455e8a6f67d2
+Description:  Pulseaudio audio driver
+
+Package: baresip-mod-rtcpsummary
+Version: 0.6.4-2
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-rtcpsummary
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 2130
+Filename: baresip-mod-rtcpsummary_0.6.4-2_mips64_octeon3.ipk
+Size: 2874
+SHA256sum: 692ae3af51ff282bc5313e38aa5069dcc1d4e871ad0e4330a05d3ce2346097ae
+Description:  RTCP summary module
+
+Package: baresip-mod-selfview
+Version: 0.6.4-2
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-selfview
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 2537
+Filename: baresip-mod-selfview_0.6.4-2_mips64_octeon3.ipk
+Size: 3277
+SHA256sum: 2c67644a492549a975a4d5047ac0524faece11548ba21907703e7e8145099635
+Description:  Video selfview module
+
+Package: baresip-mod-sndfile
+Version: 0.6.4-2
+Depends: libc, baresip, libsndfile
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-sndfile
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 2488
+Filename: baresip-mod-sndfile_0.6.4-2_mips64_octeon3.ipk
+Size: 3237
+SHA256sum: 98df6d67cd8b9a095930416f822aae494de60b3d327ddae7a677b155fc4fbccd
+Description:  Audio dumper using libsndfile
+
+Package: baresip-mod-srtp
+Version: 0.6.4-2
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-srtp
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 4217
+Filename: baresip-mod-srtp_0.6.4-2_mips64_octeon3.ipk
+Size: 4970
+SHA256sum: 05230d1723747ed38a1a35e3d0f9b0c19efa7993ea352a9656bfe90e102319ba
+Description:  Secure RTP module using libre
+
+Package: baresip-mod-stdio
+Version: 0.6.4-2
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-stdio
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 2165
+Filename: baresip-mod-stdio_0.6.4-2_mips64_octeon3.ipk
+Size: 2908
+SHA256sum: b8f2aea5c97b00d0e2f48af84e96e3de647bacbfcefd1b5b469028d4aef7e74e
+Description:  Standard input/output UI driver
+
+Package: baresip-mod-uuid
+Version: 0.6.4-2
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-uuid
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 1936
+Filename: baresip-mod-uuid_0.6.4-2_mips64_octeon3.ipk
+Size: 2673
+SHA256sum: ef355005b36ca573f84fe2f62115f6975fe7acfa85c6050d0b546a76af63bb9f
+Description:  UUID generator and loader
+
+Package: baresip-mod-v4l2-codec
+Version: 0.6.4-2
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-v4l2-codec
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 4450
+Filename: baresip-mod-v4l2-codec_0.6.4-2_mips64_octeon3.ipk
+Size: 5203
+SHA256sum: 246efaed5c45e6cbf248031e031e98e6ea99d0c32fc079b84785cf43fc0182b2
+Description:  Video4Linux2 video codec module
+
+Package: baresip-mod-v4l2
+Version: 0.6.4-2
+Depends: libc, baresip, libv4l
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-v4l2
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 4395
+Filename: baresip-mod-v4l2_0.6.4-2_mips64_octeon3.ipk
+Size: 5145
+SHA256sum: 7ace66c3fbfe55881884d92ba0d8c13694cbb9a545c45c94b54e2a9ce47f46b2
+Description:  Video4Linux2 video source
+
+Package: baresip-mod-vidbridge
+Version: 0.6.4-2
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-vidbridge
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 2347
+Filename: baresip-mod-vidbridge_0.6.4-2_mips64_octeon3.ipk
+Size: 3096
+SHA256sum: 6333e4cb7e650819e9345309c5bea2f834cd9083949d8594039db1b620789e83
+Description:  Video bridge module
+
+Package: baresip-mod-vidloop
+Version: 0.6.4-2
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-vidloop
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 6129
+Filename: baresip-mod-vidloop_0.6.4-2_mips64_octeon3.ipk
+Size: 6867
+SHA256sum: 5afc567fbfc80524c87e5e21deb60d1be57f0adbe475b99bfb6415ee5d4f1d3a
+Description:  Video-loop test module
+
+Package: baresip-mod-vp8
+Version: 0.6.4-2
+Depends: libc, baresip, libvpx1.8
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-vp8
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 4123
+Filename: baresip-mod-vp8_0.6.4-2_mips64_octeon3.ipk
+Size: 4868
+SHA256sum: 3ff746f917397ce90d321ab43b2b61ef021089ecf2409fc330306b784bf2bfd5
+Description:  VP8 video codec
+
+Package: baresip-mod-vp9
+Version: 0.6.4-2
+Depends: libc, baresip, libvpx1.8
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-vp9
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 4521
+Filename: baresip-mod-vp9_0.6.4-2_mips64_octeon3.ipk
+Size: 5277
+SHA256sum: bd9de49ad604171aea763cacc184729de712ca22259f3e63b5e699e321e58bbe
+Description:  VP9 video codec
+
+Package: baresip-mod-vumeter
+Version: 0.6.4-2
+Depends: libc, baresip
+Source: feeds/telephony/net/baresip
+SourceName: baresip-mod-vumeter
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 2456
+Filename: baresip-mod-vumeter_0.6.4-2_mips64_octeon3.ipk
+Size: 3209
+SHA256sum: 55b393b96614e2995bbfab9db248b18da497ef1b707d204e33dba9c2c87d1c77
+Description:  Display audio levels in console
+
+Package: baresip
+Version: 0.6.4-2
+Depends: libc, libre, librem
+Source: feeds/telephony/net/baresip
+SourceName: baresip
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Require-User: baresip=374:baresip=374
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 290398
+Filename: baresip_0.6.4-2_mips64_octeon3.ipk
+Size: 291098
+SHA256sum: cf85d499423848f6996162785d0de84b5f03ea52c53807b16363fd3826ca5cf1
+Description:  Portable and modular SIP User-Agent with A/V support
+
+Package: bcg729
+Version: 1.0.4-4
+Depends: libc
+Source: feeds/telephony/libs/bcg729
+SourceName: bcg729
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: libs
+Maintainer: Alex Samorukov <samm@os2.kiev.ua>
+Architecture: mips64_octeon3
+Installed-Size: 30896
+Filename: bcg729_1.0.4-4_mips64_octeon3.ipk
+Size: 31763
+SHA256sum: 978e6742d414f464a502b3ed278173462814ada76097af16d3b9990e795b2f3b
+Description:  Bcg729 is a software G729A encoder and decoder library written in C, developed
+ by Belledonne Communications, the company supporting the Linphone project.
+ It was written from scratch and is NOT a derivative work of ITU reference
+ source code in any kind.
+
+Package: gsm-utils
+Version: 1.10-20140304-2
+Depends: libc, gsmlib
+Source: feeds/telephony/libs/gsmlib
+SourceName: gsm-utils
+License: LGPL-2.1+
+LicenseFiles: COPYING
+Section: utils
+Maintainer: Sebastian Kemper <sebastian_ml@gmx.net>
+Architecture: mips64_octeon3
+Installed-Size: 48125
+Filename: gsm-utils_1.10-20140304-2_mips64_octeon3.ipk
+Size: 48959
+SHA256sum: e384448e638f7ff1b3393f864c0078d6775fd4ae2b3ffe4cd5a6b0e3cfedbea7
+Description:  Some simple command line programs to access GSM mobile phones via GSM modems.
+
+Package: gsmlib
+Version: 1.10-20140304-2
+Depends: libc, uclibcxx
+Source: feeds/telephony/libs/gsmlib
+SourceName: gsmlib
+License: LGPL-2.1+
+LicenseFiles: COPYING
+Section: libs
+Maintainer: Sebastian Kemper <sebastian_ml@gmx.net>
+Architecture: mips64_octeon3
+Installed-Size: 113803
+Filename: gsmlib_1.10-20140304-2_mips64_octeon3.ipk
+Size: 114516
+SHA256sum: dd1049584bcabf5da7b6fe76fc0960df7e580a8f4cd9870a4d6b14438fc1d908
+Description:  A library to access GSM mobile phones via GSM modems.
+
+Package: iptables-mod-rtpengine
+Version: mr8.3.1.4-3
+Depends: libc, libxtables12
+Source: feeds/telephony/net/rtpengine
+SourceName: iptables-mod-rtpengine
+License: GPL-3.0
+LicenseFiles: LICENSE
+Section: net
+Maintainer: Sebastian Kemper <sebastian_ml@gmx.net>
+Architecture: mips64_octeon3
+Installed-Size: 1534
+Filename: iptables-mod-rtpengine_mr8.3.1.4-3_mips64_octeon3.ipk
+Size: 2321
+SHA256sum: 16969025aabd3e96b9fec1e275d35d061663ac124b4642b65a211b43a1ab5f56
+Description:  Sipwise rtpengine iptables extension
+
+Package: kamailio5-lib-libkamailio-ims
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-lib-libkamailio-ims
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 21377
+Filename: kamailio5-lib-libkamailio-ims_5.3.3-3_mips64_octeon3.ipk
+Size: 22107
+SHA256sum: 3d875acbaace98feb5bd95a6496e62f9476c9e4f83b8c30cd1dbfac05752ada3
+Description:  Kamailio5 IMS library
+
+Package: kamailio5-lib-libtrie
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-lib-libtrie
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 5426
+Filename: kamailio5-lib-libtrie_5.3.3-3_mips64_octeon3.ipk
+Size: 6147
+SHA256sum: d24acf72b07d557bd07b39bb0dcb93aedfbad254203efdf67c9a289e7999535b
+Description:  Kamailio5 digital tree library
+
+Package: kamailio5-mod-acc-diameter
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-acc
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-acc-diameter
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 23072
+Filename: kamailio5-mod-acc-diameter_5.3.3-3_mips64_octeon3.ipk
+Size: 23828
+SHA256sum: 5590c35a818c9165c59fdb3cb1caea685be649dbb639b2f9b5c0011cac9d89a1
+Description:  Accounting for DIAMETER backend for Kamailio5
+
+Package: kamailio5-mod-acc-json
+Version: 5.3.3-3
+Depends: libc, kamailio5, jansson, kamailio5-mod-acc
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-acc-json
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 7844
+Filename: kamailio5-mod-acc-json_5.3.3-3_mips64_octeon3.ipk
+Size: 8672
+SHA256sum: 932eed6ed4f4ddf80b00306d63955bfce2f050a98b89f01c198f7958ffc5e97d
+Description:  Accounting with records exported in JSON format for Kamailio5
+
+Package: kamailio5-mod-acc
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-tm
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-acc
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 41460
+Filename: kamailio5-mod-acc_5.3.3-3_mips64_octeon3.ipk
+Size: 42256
+SHA256sum: 270c8a8c9bede0ac64f4183feb73eaadc89dac31b8ae3a531e3601de8988b2e5
+Description:  Accounting for Kamailio5
+
+Package: kamailio5-mod-alias-db
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-alias-db
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 9209
+Filename: kamailio5-mod-alias-db_5.3.3-3_mips64_octeon3.ipk
+Size: 9949
+SHA256sum: 1c463bafec8dc0fce2df04fe4a042e61046af0bfde2155c3302f4b2fb39b927b
+Description:  Database-backend aliases for Kamailio5
+
+Package: kamailio5-mod-app-jsdt
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-app-jsdt
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 181254
+Filename: kamailio5-mod-app-jsdt_5.3.3-3_mips64_octeon3.ipk
+Size: 177274
+SHA256sum: 349093cf1f941855c1eef19fd1f8247da4e3b5860a9d2bb1cecb2572ce681678
+Description:  Execute JavaScript scripts for Kamailio5
+
+Package: kamailio5-mod-app-lua-sr
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-app-lua
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-app-lua-sr
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 47522
+Filename: kamailio5-mod-app-lua-sr_5.3.3-3_mips64_octeon3.ipk
+Size: 47967
+SHA256sum: 8bc0f1f5970a936b832e6a2d9479a58256a8e9843ff25b5fe8fbdc4872925e1a
+Description:  Old Lua API for Kamailio5
+
+Package: kamailio5-mod-app-lua
+Version: 5.3.3-3
+Depends: libc, kamailio5, liblua5.1.5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-app-lua
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 46455
+Filename: kamailio5-mod-app-lua_5.3.3-3_mips64_octeon3.ipk
+Size: 41779
+SHA256sum: 7567da6a44ca33307ed3faaa70a6a3690c945be152270ce95512beb18453dd49
+Description:  Execute embedded Lua scripts for Kamailio5
+
+Package: kamailio5-mod-app-python3
+Version: 5.3.3-3
+Depends: libc, kamailio5, python3-light
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-app-python3
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 56377
+Filename: kamailio5-mod-app-python3_5.3.3-3_mips64_octeon3.ipk
+Size: 52098
+SHA256sum: a64fe2e396a57dadf94f7536de87b0ae9e842782a776157526e594cf6177497b
+Description:  Python3 scripting interpreter for Kamailio5
+
+Package: kamailio5-mod-app-ruby
+Version: 5.3.3-3
+Depends: libc, kamailio5, libruby2.7
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-app-ruby
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 41206
+Filename: kamailio5-mod-app-ruby_5.3.3-3_mips64_octeon3.ipk
+Size: 37202
+SHA256sum: b8be63effc6861a48a3d1c14582eed1fe5984b355ef7f9f5b8a02d5ad555e2b3
+Description:  Ruby scripting interpreter for Kamailio5
+
+Package: kamailio5-mod-app-sqlang
+Version: 5.3.3-3
+Depends: libc, kamailio5, libstdcpp6
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-app-sqlang
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 160602
+Filename: kamailio5-mod-app-sqlang_5.3.3-3_mips64_octeon3.ipk
+Size: 156004
+SHA256sum: 22d880a437ca3012a3b1462fada32f8ff0a97fe21259cf8d25713be5034b698b
+Description:  Execute Squirrel language scripts for Kamailio5
+
+Package: kamailio5-mod-async
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-tm, kamailio5-mod-tmx
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-async
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 13048
+Filename: kamailio5-mod-async_5.3.3-3_mips64_octeon3.ipk
+Size: 13797
+SHA256sum: db696d88389d57ee4f65446ac0cd8d08aac11609077d2a07e97f323ab5f56678
+Description:  Asynchronous SIP handling functions for Kamailio5
+
+Package: kamailio5-mod-auth-db
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-auth
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-auth-db
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 16083
+Filename: kamailio5-mod-auth-db_5.3.3-3_mips64_octeon3.ipk
+Size: 16821
+SHA256sum: c00f0158f8371fcae934703a69b737ab41b27d05f77e16325e546baefcb1b445
+Description:  Database-backend authentication for Kamailio5
+
+Package: kamailio5-mod-auth-diameter
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-sl
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-auth-diameter
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 28533
+Filename: kamailio5-mod-auth-diameter_5.3.3-3_mips64_octeon3.ipk
+Size: 29274
+SHA256sum: 29e0983ef13907acaad69ed9b503ae268f1f786f093945c5d0aab42ba24c9134
+Description:  Diameter authentication for Kamailio5
+
+Package: kamailio5-mod-auth-ephemeral
+Version: 5.3.3-3
+Depends: libc, kamailio5, libopenssl1.1
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-auth-ephemeral
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 18402
+Filename: kamailio5-mod-auth-ephemeral_5.3.3-3_mips64_octeon3.ipk
+Size: 19172
+SHA256sum: 09702212631d78c5f8dae49bfee05cf76a1124b92fa5f8d3c346e099aa5f403c
+Description:  Ephemeral credentials for Kamailio5
+
+Package: kamailio5-mod-auth-identity
+Version: 5.3.3-3
+Depends: libc, kamailio5, libopenssl1.1, libcurl4
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-auth-identity
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 33797
+Filename: kamailio5-mod-auth-identity_5.3.3-3_mips64_octeon3.ipk
+Size: 34606
+SHA256sum: 1d42ec5c231d0364a1f8334cc35b60f9a840cae6f53a00fce2623c1d09797fdc
+Description:  Identity authentication for Kamailio5
+
+Package: kamailio5-mod-auth-xkeys
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-auth
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-auth-xkeys
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 11407
+Filename: kamailio5-mod-auth-xkeys_5.3.3-3_mips64_octeon3.ipk
+Size: 12154
+SHA256sum: 5d554ef4338b9f8bff95ab99e2747d275e61158712d8d7d5738d8c6ccdac5c75
+Description:  Shared-key authentication for Kamailio5
+
+Package: kamailio5-mod-auth
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-auth
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 32519
+Filename: kamailio5-mod-auth_5.3.3-3_mips64_octeon3.ipk
+Size: 33324
+SHA256sum: af08ca2b8e043731d84f6193505ff41f6d4f06f90d5dfeef8885533cb2d37e33
+Description:  Authentication Framework for Kamailio5
+
+Package: kamailio5-mod-avp
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-avp
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 22915
+Filename: kamailio5-mod-avp_5.3.3-3_mips64_octeon3.ipk
+Size: 23647
+SHA256sum: 7e45946a2ddd2b1e48b70050a2688c046df840b94be286606bc1d53865713015
+Description:  Functions for handling AVPs for Kamailio5
+
+Package: kamailio5-mod-avpops
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-avpops
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 49293
+Filename: kamailio5-mod-avpops_5.3.3-3_mips64_octeon3.ipk
+Size: 50065
+SHA256sum: d51373153f57eaf8252f4db348c6479e057360607bf23895a8821ad44ee66491
+Description:  AVP operation for Kamailio5
+
+Package: kamailio5-mod-benchmark
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-benchmark
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 10279
+Filename: kamailio5-mod-benchmark_5.3.3-3_mips64_octeon3.ipk
+Size: 11056
+SHA256sum: 56148547be0e98a52fdc53d183708be6dad7526e2ab47a7dd62e5a555b711198
+Description:  Config benchmark for Kamailio5
+
+Package: kamailio5-mod-blst
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-blst
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 3976
+Filename: kamailio5-mod-blst_5.3.3-3_mips64_octeon3.ipk
+Size: 4739
+SHA256sum: c022c38bb6913978d6da5d07ad214735d6aa303c010063cf7e803f191a912494
+Description:  Blacklisting API for config for Kamailio5
+
+Package: kamailio5-mod-call-control
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-dialog, kamailio5-mod-pv
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-call-control
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 16370
+Filename: kamailio5-mod-call-control_5.3.3-3_mips64_octeon3.ipk
+Size: 17072
+SHA256sum: 3d43134302a1d3ecec40a32979609ddf2b7281eb81923ff46810650dd98d65ce
+Description:  Call Control for Kamailio5
+
+Package: kamailio5-mod-call-obj
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-call-obj
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 16209
+Filename: kamailio5-mod-call-obj_5.3.3-3_mips64_octeon3.ipk
+Size: 16948
+SHA256sum: 25aece2a4226ffe8c5ef46ee1fdcbda375fd071891e4fb7904c43f17e8671b24
+Description:  Call identification support for Kamailio5
+
+Package: kamailio5-mod-carrierroute
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-lib-libtrie
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-carrierroute
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 75285
+Filename: kamailio5-mod-carrierroute_5.3.3-3_mips64_octeon3.ipk
+Size: 76094
+SHA256sum: 81eab244982d18b27a495ae7b02b154ff809c6b788de8fc6b7471348ec95752b
+Description:  Carrier Route for Kamailio5
+
+Package: kamailio5-mod-cdp-avp
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-cdp
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-cdp-avp
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 44104
+Filename: kamailio5-mod-cdp-avp_5.3.3-3_mips64_octeon3.ipk
+Size: 43797
+SHA256sum: f087b7f3e346bfe454ddaa02abc5ca6eaf7865d7dc6fe7c27c1f9a158448ea09
+Description:  CDP AVP helper module for Kamailio5
+
+Package: kamailio5-mod-cdp
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-cdp
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 123980
+Filename: kamailio5-mod-cdp_5.3.3-3_mips64_octeon3.ipk
+Size: 124592
+SHA256sum: d745bd7c9f5201c27bb53af52e4a79cef8d9d70f197cbac8562d2d87a0dbca14
+Description:  C Diameter Peer for Kamailio5
+
+Package: kamailio5-mod-cfg-db
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-cfg-db
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 8972
+Filename: kamailio5-mod-cfg-db_5.3.3-3_mips64_octeon3.ipk
+Size: 9716
+SHA256sum: ed9100237695d07c6d2f98c610664c12264d0ed9eae57da0e71684d6a40650fa
+Description:  Load parameters from database for Kamailio5
+
+Package: kamailio5-mod-cfg-rpc
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-cfg-rpc
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 7408
+Filename: kamailio5-mod-cfg-rpc_5.3.3-3_mips64_octeon3.ipk
+Size: 8177
+SHA256sum: 2b6f6b34e5c2a577ac199862c32dd99def15e6dcba25906c3a3abbd9fdaf544d
+Description:  Update parameters via RPC for Kamailio5
+
+Package: kamailio5-mod-cfgt
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-cfgt
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 26979
+Filename: kamailio5-mod-cfgt_5.3.3-3_mips64_octeon3.ipk
+Size: 27750
+SHA256sum: c4f336436f245a08138bcda95b76520d764df8d29db1b347d848cc3258bafa42
+Description:  Unit test reporting for Kamailio5
+
+Package: kamailio5-mod-cfgutils
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-cfgutils
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 14676
+Filename: kamailio5-mod-cfgutils_5.3.3-3_mips64_octeon3.ipk
+Size: 15388
+SHA256sum: 74250057f44ed1886a7623606cff55b5d18c124b9c18ef97ff90144dcd644272
+Description:  Config utilities for Kamailio5
+
+Package: kamailio5-mod-cnxcc
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-dialog, libhiredis, libevent2-7
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-cnxcc
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 49221
+Filename: kamailio5-mod-cnxcc_5.3.3-3_mips64_octeon3.ipk
+Size: 49994
+SHA256sum: b68495c6b7cacbb0e036b86f61610f9b5322fe70dacbd18c7da50514ca1a332c
+Description:  Limit call duration for Kamailio5
+
+Package: kamailio5-mod-corex
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-corex
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 23664
+Filename: kamailio5-mod-corex_5.3.3-3_mips64_octeon3.ipk
+Size: 24356
+SHA256sum: c0f1da6e71e3b0e1a2ac58c2d8237089e521f69b560dd9b6ee0bf13742e8be5e
+Description:  Legacy functions for Kamailio5
+
+Package: kamailio5-mod-counters
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-counters
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 5324
+Filename: kamailio5-mod-counters_5.3.3-3_mips64_octeon3.ipk
+Size: 6035
+SHA256sum: 586d0999553cf07c26bd134e2c9fe9e9ab5b624e5b1028dda28979c5790229ba
+Description:  Functions for counter manipulation for Kamailio5
+
+Package: kamailio5-mod-cplc
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-sl, kamailio5-mod-tm, kamailio5-mod-usrloc
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-cplc
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 107613
+Filename: kamailio5-mod-cplc_5.3.3-3_mips64_octeon3.ipk
+Size: 108319
+SHA256sum: 4a9a5eec738878122a2aeaaf87c8a6d59ef464718bdaf03795ea3a0672b57752
+Description:  Call Processing Language interpreter for Kamailio5
+
+Package: kamailio5-mod-crypto
+Version: 5.3.3-3
+Depends: libc, kamailio5, libopenssl1.1
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-crypto
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 12588
+Filename: kamailio5-mod-crypto_5.3.3-3_mips64_octeon3.ipk
+Size: 13344
+SHA256sum: 9a035685f6566bb449c21cb04431ea1d8e0f18343c86e501e96c93513cc1b900
+Description:  Various cryptography tools for Kamailio5
+
+Package: kamailio5-mod-ctl
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-ctl
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 60424
+Filename: kamailio5-mod-ctl_5.3.3-3_mips64_octeon3.ipk
+Size: 61212
+SHA256sum: 0f08de90ffb7ff64e7f6744effda4f531fff70626fd3fd20e4205f4922d722da
+Description:  BINRPC transport interface for Kamailio5
+
+Package: kamailio5-mod-db-berkeley
+Version: 5.3.3-3
+Depends: libc, kamailio5, libdb47
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-db-berkeley
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 64296
+Filename: kamailio5-mod-db-berkeley_5.3.3-3_mips64_octeon3.ipk
+Size: 64988
+SHA256sum: 9dd14d36cf2f0eefeb6a754474145204368485cb758b8f625bfc53cf3fcfa8cd
+Description:  Berkeley DB backend for Kamailio5
+
+Package: kamailio5-mod-db-cluster
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-db-cluster
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 20859
+Filename: kamailio5-mod-db-cluster_5.3.3-3_mips64_octeon3.ipk
+Size: 21602
+SHA256sum: ca569768deeb6078a8dd10a00e0266b903c9bebf52b20ab5562da8e54f95205d
+Description:  Database clustering system for Kamailio5
+
+Package: kamailio5-mod-db-flatstore
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-db-flatstore
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 18506
+Filename: kamailio5-mod-db-flatstore_5.3.3-3_mips64_octeon3.ipk
+Size: 19264
+SHA256sum: 08c18b3c0a027863926f0b1ed04bb081e45b91ba2074f7d2fa613ecee0f23633
+Description:  fast write-only text DB-backend for Kamailio5
+
+Package: kamailio5-mod-db-mysql
+Version: 5.3.3-3
+Depends: libc, kamailio5, libmysqlclient3
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-db-mysql
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 47463
+Filename: kamailio5-mod-db-mysql_5.3.3-3_mips64_octeon3.ipk
+Size: 48259
+SHA256sum: 41e3fd4ffd623ed27d5c10976650a133546bbb6af50d4fd7612a96808c57c364
+Description:  MySQL DB-backend for Kamailio5
+
+Package: kamailio5-mod-db-postgres
+Version: 5.3.3-3
+Depends: libc, kamailio5, libpq
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-db-postgres
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 62764
+Filename: kamailio5-mod-db-postgres_5.3.3-3_mips64_octeon3.ipk
+Size: 63540
+SHA256sum: 97bd09222e7e31ac03d0f616530fb015e005f81a38ac68b1c51e89b037304903
+Description:  PostgreSQL DB-backend for Kamailio5
+
+Package: kamailio5-mod-db-redis
+Version: 5.3.3-3
+Depends: libc, kamailio5, libhiredis
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-db-redis
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 73677
+Filename: kamailio5-mod-db-redis_5.3.3-3_mips64_octeon3.ipk
+Size: 74434
+SHA256sum: 3a102d87adce00e329d81d76f53a8e15b38cb1daed39e60b262e3b6c894dc1d5
+Description:  Database backend with Redis server for Kamailio5
+
+Package: kamailio5-mod-db-sqlite
+Version: 5.3.3-3
+Depends: libc, kamailio5, libsqlite3-0
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-db-sqlite
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 18908
+Filename: kamailio5-mod-db-sqlite_5.3.3-3_mips64_octeon3.ipk
+Size: 19653
+SHA256sum: f6e33b42c8e65f298882d8911e0236e695425e2ac364606d8716fc5d64874d53
+Description:  SQLite DB-backend for Kamailio5
+
+Package: kamailio5-mod-db-text
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-db-text
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 54146
+Filename: kamailio5-mod-db-text_5.3.3-3_mips64_octeon3.ipk
+Size: 54876
+SHA256sum: bb6d79776954d0793cc9d4a26e1cf6508ceca8aba7998f8d10ba73fc75aaa6b9
+Description:  Text DB-backend for Kamailio5
+
+Package: kamailio5-mod-db-unixodbc
+Version: 5.3.3-3
+Depends: libc, kamailio5, unixodbc
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-db-unixodbc
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 24269
+Filename: kamailio5-mod-db-unixodbc_5.3.3-3_mips64_octeon3.ipk
+Size: 24997
+SHA256sum: f4961fb43145a3cdd35ff62431ef39880ab33813e9b861435b39053646d61ccc
+Description:  UnixODBC DB-backend for Kamailio5
+
+Package: kamailio5-mod-db2-ldap
+Version: 5.3.3-3
+Depends: libc, kamailio5, libopenldap
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-db2-ldap
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 30699
+Filename: kamailio5-mod-db2-ldap_5.3.3-3_mips64_octeon3.ipk
+Size: 31447
+SHA256sum: 9445fc92f31e71348d4f6810f6ea5d482f03f6fc633927fb5ff39cafc27df682
+Description:  DBv2 LDAP module for Kamailio5
+
+Package: kamailio5-mod-db2-ops
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-db2-ops
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 21106
+Filename: kamailio5-mod-db2-ops_5.3.3-3_mips64_octeon3.ipk
+Size: 21847
+SHA256sum: 4932670b59f952215506aa337bab5c0af4e8ab256d3482a10e34cbd9859c3f15
+Description:  Run SQL queries from script for Kamailio5
+
+Package: kamailio5-mod-debugger
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-debugger
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 29479
+Filename: kamailio5-mod-debugger_5.3.3-3_mips64_octeon3.ipk
+Size: 30230
+SHA256sum: 70183508d1d12eee153ee0776090d0cd658a7fc721fddd7b018445b8c80ff009
+Description:  Interactive config file debugger for Kamailio5
+
+Package: kamailio5-mod-dialog
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-rr, kamailio5-mod-tm
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-dialog
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 139789
+Filename: kamailio5-mod-dialog_5.3.3-3_mips64_octeon3.ipk
+Size: 140449
+SHA256sum: 96d38f3da7cf0cb3bf711386d17f675d592362825cd20e103585731b9b0765c5
+Description:  Dialog support for Kamailio5
+
+Package: kamailio5-mod-dialplan
+Version: 5.3.3-3
+Depends: libc, kamailio5, libpcre
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-dialplan
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 40364
+Filename: kamailio5-mod-dialplan_5.3.3-3_mips64_octeon3.ipk
+Size: 41220
+SHA256sum: c8e5f403a426c99277355601dd3a6a901524a083ae4969004c92f3a97d29c744
+Description:  Dialplan management for Kamailio5
+
+Package: kamailio5-mod-dispatcher
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-dispatcher
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 70464
+Filename: kamailio5-mod-dispatcher_5.3.3-3_mips64_octeon3.ipk
+Size: 71265
+SHA256sum: 4cf849ee6afdc33ce89be35eec5f2e8bfc0db571fc34e6e2ff7da97bf73b917c
+Description:  Dispatcher for Kamailio5
+
+Package: kamailio5-mod-diversion
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-diversion
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 4350
+Filename: kamailio5-mod-diversion_5.3.3-3_mips64_octeon3.ipk
+Size: 5113
+SHA256sum: 20a8bc7c686c24f1cf75860b243146bb95a358ea189ee691d72ca381188bb403
+Description:  Diversion header insertion for Kamailio5
+
+Package: kamailio5-mod-dmq-usrloc
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-dmq, kamailio5-mod-usrloc
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-dmq-usrloc
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 19676
+Filename: kamailio5-mod-dmq-usrloc_5.3.3-3_mips64_octeon3.ipk
+Size: 20468
+SHA256sum: 8da13222364387581be5987b441adbb2c41253a61d034017a259dc78e489ba62
+Description:  DMQ USRLOC replication for Kamailio5
+
+Package: kamailio5-mod-dmq
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-sl, kamailio5-mod-tm
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-dmq
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 38747
+Filename: kamailio5-mod-dmq_5.3.3-3_mips64_octeon3.ipk
+Size: 39570
+SHA256sum: cd99bdadd4bccd34136c188c28c488fb4fe2874db47b1fc6614f07259ff982b5
+Description:  Distributed Message Queue for Kamailio5
+
+Package: kamailio5-mod-domain
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-domain
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 17121
+Filename: kamailio5-mod-domain_5.3.3-3_mips64_octeon3.ipk
+Size: 17887
+SHA256sum: 80115af48223449998babfe29174ab234468ca9aa4cf254959fa24b4920cd1f2
+Description:  Multi-domain support for Kamailio5
+
+Package: kamailio5-mod-domainpolicy
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-domainpolicy
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 22133
+Filename: kamailio5-mod-domainpolicy_5.3.3-3_mips64_octeon3.ipk
+Size: 22896
+SHA256sum: d0baf68eba3273b3027f0a0af9c2f5f75f29381ec8aa1c4d9f4f3cf96b434c30
+Description:  Domain policy for Kamailio5
+
+Package: kamailio5-mod-drouting
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-drouting
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 42000
+Filename: kamailio5-mod-drouting_5.3.3-3_mips64_octeon3.ipk
+Size: 42804
+SHA256sum: 4f0eb0fb2281a5ea76442783555ad4f8055b62ab6eecff9c09ed0b3993f5dbad
+Description:  Dynamic routing module for Kamailio5
+
+Package: kamailio5-mod-enum
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-enum
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 17739
+Filename: kamailio5-mod-enum_5.3.3-3_mips64_octeon3.ipk
+Size: 18479
+SHA256sum: 491a27939eb47c78f15f6942ec84026265f0f54855c3ef2bbe1ad1e7430b752e
+Description:  ENUM lookup for Kamailio5
+
+Package: kamailio5-mod-evapi
+Version: 5.3.3-3
+Depends: libc, kamailio5, libev
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-evapi
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 25984
+Filename: kamailio5-mod-evapi_5.3.3-3_mips64_octeon3.ipk
+Size: 26720
+SHA256sum: 3a9c0b3de7067716c5942dd46dfce96e12b7899ee3755bdac530418d00bc2f95
+Description:  push event details via tcp for Kamailio5
+
+Package: kamailio5-mod-evrexec
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-evrexec
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 6927
+Filename: kamailio5-mod-evrexec_5.3.3-3_mips64_octeon3.ipk
+Size: 7725
+SHA256sum: d1362c9ea9ad5f68c2b7ab72c6b212ac9e48c567cb5b6314d30973f7f7220216
+Description:  Execut event routes at startup for Kamailio5
+
+Package: kamailio5-mod-exec
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-exec
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 20208
+Filename: kamailio5-mod-exec_5.3.3-3_mips64_octeon3.ipk
+Size: 20989
+SHA256sum: e23994e40b5c32e3db41a7989d9ab3f98eb7d48e42358b50f0211daa91b5f2c8
+Description:  External exec for Kamailio5
+
+Package: kamailio5-mod-group
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-group
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 12853
+Filename: kamailio5-mod-group_5.3.3-3_mips64_octeon3.ipk
+Size: 13605
+SHA256sum: 7e70136f427efb83e49c7a7bd735f54b1354c5ca4552adbf73ae11198128befb
+Description:  Database-backend user-groups for Kamailio5
+
+Package: kamailio5-mod-gzcompress
+Version: 5.3.3-3
+Depends: libc, kamailio5, zlib
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-gzcompress
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 7446
+Filename: kamailio5-mod-gzcompress_5.3.3-3_mips64_octeon3.ipk
+Size: 8246
+SHA256sum: 7991c2c9b4ebc28cc7a3aaa296df6fb239c19b230ab8fcc458c0592ccbce2d20
+Description:  Compress SIP messages for Kamailio5
+
+Package: kamailio5-mod-h350
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-ldap, libopenldap
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-h350
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 10837
+Filename: kamailio5-mod-h350_5.3.3-3_mips64_octeon3.ipk
+Size: 11579
+SHA256sum: 687d18e277577a8d67496735bc64e6942ab3f52e1e79a11cd37ff83e6d0345ff
+Description:  H.350 for Kamailio5
+
+Package: kamailio5-mod-htable
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-htable
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 63370
+Filename: kamailio5-mod-htable_5.3.3-3_mips64_octeon3.ipk
+Size: 64109
+SHA256sum: 7df3725271b80971f5a91187c4846ba03d8abce0ef3f23fe01970d831258db7f
+Description:  Hash Table for Kamailio5
+
+Package: kamailio5-mod-http-client
+Version: 5.3.3-3
+Depends: libc, kamailio5, libcurl4
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-http-client
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 39638
+Filename: kamailio5-mod-http-client_5.3.3-3_mips64_octeon3.ipk
+Size: 40471
+SHA256sum: f07e21af44f8208a89314159a61621c72ae813772302ab4858b3a1ab9a039487
+Description:  HTTP client using CURL for Kamailio5
+
+Package: kamailio5-mod-imc
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-db-mysql, kamailio5-mod-tm
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-imc
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 40779
+Filename: kamailio5-mod-imc_5.3.3-3_mips64_octeon3.ipk
+Size: 41550
+SHA256sum: 2746c2f86863ee78d8aab107784f4f7f9c1fbd38cde0a99b9275772830b26b0a
+Description:  IM conferencing for Kamailio5
+
+Package: kamailio5-mod-ims-auth
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-lib-libkamailio-ims, kamailio5-mod-cdp, kamailio5-mod-cdp-avp, kamailio5-mod-tm
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-ims-auth
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 51503
+Filename: kamailio5-mod-ims-auth_5.3.3-3_mips64_octeon3.ipk
+Size: 52362
+SHA256sum: 02c4ed9cd37975061dcb962c9da33a964b05c0f2b31536b2d27175cf57f44086
+Description:  IMS authentication module for Kamailio5
+
+Package: kamailio5-mod-ims-charging
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-lib-libkamailio-ims, kamailio5-mod-cdp, kamailio5-mod-cdp-avp, kamailio5-mod-tm
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-ims-charging
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 80678
+Filename: kamailio5-mod-ims-charging_5.3.3-3_mips64_octeon3.ipk
+Size: 81479
+SHA256sum: 33164500855ad5780b76f941222d3622105be450e72af117bf48191519631d6c
+Description:  IMS charging component module for Kamailio5
+
+Package: kamailio5-mod-ims-dialog
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-rr, kamailio5-mod-tm
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-ims-dialog
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 105345
+Filename: kamailio5-mod-ims-dialog_5.3.3-3_mips64_octeon3.ipk
+Size: 106052
+SHA256sum: 6d3ba40b819d71e01a3b0f6e7bcc82dd63f6e82b5fe464378cc1687198faeb8b
+Description:  IMS dialog tracking module for Kamailio5
+
+Package: kamailio5-mod-ims-diameter-server
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-lib-libkamailio-ims, kamailio5-mod-cdp, kamailio5-mod-cdp-avp
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-ims-diameter-server
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 24048
+Filename: kamailio5-mod-ims-diameter-server_5.3.3-3_mips64_octeon3.ipk
+Size: 24828
+SHA256sum: 5c1a95d446fd39c5836879368a2eb47e596edcf97d55ed706e6b0400f8ffd325
+Description:  IMS DIAMETER server module for Kamailio5
+
+Package: kamailio5-mod-ims-icscf
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-lib-libkamailio-ims, kamailio5-mod-cdp, kamailio5-mod-cdp-avp, kamailio5-mod-sl, kamailio5-mod-tm
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-ims-icscf
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 43807
+Filename: kamailio5-mod-ims-icscf_5.3.3-3_mips64_octeon3.ipk
+Size: 44627
+SHA256sum: 4077b890ce795c61371865429416bb4cc911cf02185300a59fcc7518f508e1ac
+Description:  IMS ICSCF component module for Kamailio5
+
+Package: kamailio5-mod-ims-ipsec-pcscf
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-lib-libkamailio-ims, kamailio5-mod-ims-usrloc-pcscf, kamailio5-mod-tm, libmnl0
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-ims-ipsec-pcscf
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 34806
+Filename: kamailio5-mod-ims-ipsec-pcscf_5.3.3-3_mips64_octeon3.ipk
+Size: 35664
+SHA256sum: 331b90ff8ab925a5195e90e9b95a576f65b8c52d5505c00e5a766a719dc43bdd
+Description:  Diameter server implementation for Kamailio5
+
+Package: kamailio5-mod-ims-isc
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-lib-libkamailio-ims, kamailio5-mod-ims-usrloc-scscf, kamailio5-mod-tm
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-ims-isc
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 35647
+Filename: kamailio5-mod-ims-isc_5.3.3-3_mips64_octeon3.ipk
+Size: 36478
+SHA256sum: edb69d49042e7871286d62299a58973c31e660a64ace713463eb08ae51d8873d
+Description:  IMS ISC component module for Kamailio5
+
+Package: kamailio5-mod-ims-ocs
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-lib-libkamailio-ims, kamailio5-mod-cdp, kamailio5-mod-cdp-avp
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-ims-ocs
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 13085
+Filename: kamailio5-mod-ims-ocs_5.3.3-3_mips64_octeon3.ipk
+Size: 13887
+SHA256sum: 9623f68df823eb651d143f3eeaebc9f41857c89745a35719ba26de995872fc08
+Description:  MS OCS component module for Kamailio5
+
+Package: kamailio5-mod-ims-qos
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-lib-libkamailio-ims, kamailio5-mod-cdp, kamailio5-mod-cdp-avp, kamailio5-mod-ims-dialog, kamailio5-mod-ims-usrloc-pcscf, kamailio5-mod-tm
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-ims-qos
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 78260
+Filename: kamailio5-mod-ims-qos_5.3.3-3_mips64_octeon3.ipk
+Size: 79114
+SHA256sum: d273626e7e6cba87fb934b89094a92d96434dc51bfc995a05204a88db207e100
+Description:  IMS Diameter Rx interface between PCSCF and PCRF functions for Kamailio5
+
+Package: kamailio5-mod-ims-registrar-pcscf
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-lib-libkamailio-ims, kamailio5-mod-ims-usrloc-pcscf
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-ims-registrar-pcscf
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 59451
+Filename: kamailio5-mod-ims-registrar-pcscf_5.3.3-3_mips64_octeon3.ipk
+Size: 60290
+SHA256sum: 1cb5f7a413c616964ecd6f0db52366b394c69c96f3ee9a2293bf8562bf400392
+Description:  MS PCSCF registrar module for Kamailio5
+
+Package: kamailio5-mod-ims-registrar-scscf
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-lib-libkamailio-ims, kamailio5-mod-cdp, kamailio5-mod-cdp-avp, kamailio5-mod-ims-usrloc-scscf, kamailio5-mod-tm
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-ims-registrar-scscf
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 135956
+Filename: kamailio5-mod-ims-registrar-scscf_5.3.3-3_mips64_octeon3.ipk
+Size: 136691
+SHA256sum: a5180b4c81655750a607a98c66cb20109aef25065922b22a250618022ac5ee0f
+Description:  IMS SCSCF registrar module for Kamailio5
+
+Package: kamailio5-mod-ims-usrloc-pcscf
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-ims-usrloc-pcscf
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 47448
+Filename: kamailio5-mod-ims-usrloc-pcscf_5.3.3-3_mips64_octeon3.ipk
+Size: 48298
+SHA256sum: d073ab409eb25530d97a121b0f5d6203e8aad7edd2e73638944c559edcc66193
+Description:  IMS PCSCF usrloc module for Kamailio5
+
+Package: kamailio5-mod-ims-usrloc-scscf
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-ims-usrloc-scscf
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 102420
+Filename: kamailio5-mod-ims-usrloc-scscf_5.3.3-3_mips64_octeon3.ipk
+Size: 103205
+SHA256sum: d7c8bc6645ef1930c26e0a5525d6c2cd7a9d03734071ebbc5db43a90cd3e23a6
+Description:  IMS SCSCF usrloc module for Kamailio5
+
+Package: kamailio5-mod-ipops
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-ipops
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 38661
+Filename: kamailio5-mod-ipops_5.3.3-3_mips64_octeon3.ipk
+Size: 39398
+SHA256sum: 7882cea2584b066ef13194b830c8d407014bc75acc6f433b15fd5204257fc1d5
+Description:  IP and IPv6 operations for Kamailio5
+
+Package: kamailio5-mod-jansson
+Version: 5.3.3-3
+Depends: libc, kamailio5, jansson
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-jansson
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 11790
+Filename: kamailio5-mod-jansson_5.3.3-3_mips64_octeon3.ipk
+Size: 12544
+SHA256sum: 02d8e35f57d637c831e68424959aee780928654809da0f2128f4175aa5e29369
+Description:  Access to JSON attributes for Kamailio5
+
+Package: kamailio5-mod-janssonrpcc
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-jansson, libevent2-7
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-janssonrpcc
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 50982
+Filename: kamailio5-mod-janssonrpcc_5.3.3-3_mips64_octeon3.ipk
+Size: 51841
+SHA256sum: 95279b68e5199c579a0b536e250539f00b4cef06015e78c6d92ea668fab2457b
+Description:  Alternative JSONRPC server for Kamailio5
+
+Package: kamailio5-mod-json
+Version: 5.3.3-3
+Depends: libc, kamailio5, libjson-c5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-json
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 14403
+Filename: kamailio5-mod-json_5.3.3-3_mips64_octeon3.ipk
+Size: 15183
+SHA256sum: 86577ca63f11421c6584fad4d052a8d4fb2940885344c25817eecdbefdca2c82
+Description:  Access to JSON document attributes for Kamailio5
+
+Package: kamailio5-mod-jsonrpcs
+Version: 5.3.3-3
+Depends: libc, kamailio5, libevent2-7
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-jsonrpcs
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 43873
+Filename: kamailio5-mod-jsonrpcs_5.3.3-3_mips64_octeon3.ipk
+Size: 44714
+SHA256sum: c107bab14af90be8a696663e6151e6bfe41c80fa260df9077d930e1a5d6c57c5
+Description:  JSONRPC server over HTTP for Kamailio5
+
+Package: kamailio5-mod-keepalive
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-keepalive
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 8422
+Filename: kamailio5-mod-keepalive_5.3.3-3_mips64_octeon3.ipk
+Size: 9233
+SHA256sum: 1a20a3b70149289f4db5e04e4a629fa554966d4519b8fb5e1577eb78b1941d72
+Description:  SIP keepalive monitoring for Kamailio5
+
+Package: kamailio5-mod-kemix
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-kemix
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 6747
+Filename: kamailio5-mod-kemix_5.3.3-3_mips64_octeon3.ipk
+Size: 7532
+SHA256sum: 0a410f06d339be540b11d05ab546e6d06220b00b5184c51f59c527c7423ebb94
+Description:  KEMI extensions for Kamailio5
+
+Package: kamailio5-mod-kex
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-kex
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 15985
+Filename: kamailio5-mod-kex_5.3.3-3_mips64_octeon3.ipk
+Size: 16608
+SHA256sum: 0767eef85d11921d58828d29b5755af6a82d154d5a1fa5694273567609241075
+Description:  Core extensions for Kamailio5
+
+Package: kamailio5-mod-lcr
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-tm, libpcre
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-lcr
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 53258
+Filename: kamailio5-mod-lcr_5.3.3-3_mips64_octeon3.ipk
+Size: 53942
+SHA256sum: 7c5ed9d082264fddeb8972318149a2e7b8a0ae2dbd59f141275664ec350e230e
+Description:  Least Cost Routing for Kamailio5
+
+Package: kamailio5-mod-ldap
+Version: 5.3.3-3
+Depends: libc, kamailio5, libopenldap
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-ldap
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 23495
+Filename: kamailio5-mod-ldap_5.3.3-3_mips64_octeon3.ipk
+Size: 24266
+SHA256sum: 2b66085704270af65f68adc7f71b1085fea07118c4c1ec381538c3edea9559b6
+Description:  LDAP connector for Kamailio5
+
+Package: kamailio5-mod-log-custom
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-log-custom
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 3848
+Filename: kamailio5-mod-log-custom_5.3.3-3_mips64_octeon3.ipk
+Size: 4607
+SHA256sum: 48bd459e21770d5ee8edcf3bcb4ca311a268fded9a7407836885817de9ae942f
+Description:  Logging to custom backends for Kamailio5
+
+Package: kamailio5-mod-lost
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-http-client
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-lost
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 24007
+Filename: kamailio5-mod-lost_5.3.3-3_mips64_octeon3.ipk
+Size: 24740
+SHA256sum: 473e73994150ed0f989b550127c65a91140bca2e1028ac7be3c45eb8b5ed0e3e
+Description:  HELD and LOST routing for Kamailio5
+
+Package: kamailio5-mod-mangler
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-mangler
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 20651
+Filename: kamailio5-mod-mangler_5.3.3-3_mips64_octeon3.ipk
+Size: 21402
+SHA256sum: 071a50221f994e0966b7023af0fed27e1727135c755bc8754f0d7af355d886ed
+Description:  SDP mangling for Kamailio5
+
+Package: kamailio5-mod-matrix
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-matrix
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 10598
+Filename: kamailio5-mod-matrix_5.3.3-3_mips64_octeon3.ipk
+Size: 11388
+SHA256sum: 23a86246cdadccbc3b662a70d45d2b64687e3636a2591d0df6e829594df99ba5
+Description:  Matrix operations for Kamailio5
+
+Package: kamailio5-mod-maxfwd
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-maxfwd
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 6407
+Filename: kamailio5-mod-maxfwd_5.3.3-3_mips64_octeon3.ipk
+Size: 7195
+SHA256sum: fcb7cb28366d283512507410b5ae1487f3023593bd91f33b05902aed908b71ee
+Description:  Max-Forward processor for Kamailio5
+
+Package: kamailio5-mod-mediaproxy
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-dialog
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-mediaproxy
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 26886
+Filename: kamailio5-mod-mediaproxy_5.3.3-3_mips64_octeon3.ipk
+Size: 27651
+SHA256sum: 75904cefa04ada3bc8f2faae137bc4a30c397ed32a79f61002a2c19bd4d67870
+Description:  Automatic NAT traversal for Kamailio5
+
+Package: kamailio5-mod-mohqueue
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-rtpproxy, kamailio5-mod-sl, kamailio5-mod-tm
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-mohqueue
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 45267
+Filename: kamailio5-mod-mohqueue_5.3.3-3_mips64_octeon3.ipk
+Size: 46098
+SHA256sum: d4761c828825df43091ec6a04e4b54d3f776f89f05c846729fd1d7c7c2bd5093
+Description:  Music on hold queuing system for Kamailio5
+
+Package: kamailio5-mod-mqueue
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-mqueue
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 11538
+Filename: kamailio5-mod-mqueue_5.3.3-3_mips64_octeon3.ipk
+Size: 12259
+SHA256sum: 99579febde22ad7e6f120dbbf6a3efa1f8afded43341577f6e211941941e11b3
+Description:  Generic message queue system for Kamailio5
+
+Package: kamailio5-mod-msilo
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-tm
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-msilo
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 32472
+Filename: kamailio5-mod-msilo_5.3.3-3_mips64_octeon3.ipk
+Size: 33264
+SHA256sum: 54d7e9d5e730432b1bc6fe2f1ec49e85a843daece3a024c0a8f11191aa20c423
+Description:  SIP message silo for Kamailio5
+
+Package: kamailio5-mod-msrp
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-tls
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-msrp
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 35556
+Filename: kamailio5-mod-msrp_5.3.3-3_mips64_octeon3.ipk
+Size: 36349
+SHA256sum: 6a8653932f2bdf574c1e6677176a8f70602c3dbd2e2e45983dee87f10ef8d1df
+Description:  MSRP routing engine for Kamailio5
+
+Package: kamailio5-mod-mtree
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-mtree
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 31493
+Filename: kamailio5-mod-mtree_5.3.3-3_mips64_octeon3.ipk
+Size: 32227
+SHA256sum: d7a55763b35403d1fe7d543cf5347957c7e3a4d372c3ef86fe2c0ea8434fa020
+Description:  Memory caching system for Kamailio5
+
+Package: kamailio5-mod-nat-traversal
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-dialog, kamailio5-mod-sl, kamailio5-mod-tm
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-nat-traversal
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 25238
+Filename: kamailio5-mod-nat-traversal_5.3.3-3_mips64_octeon3.ipk
+Size: 25962
+SHA256sum: 0e0780ab2be9ece604413dc585e5b97a7fc6ca339307ab3f3480a20d1578f64a
+Description:  NAT traversal for Kamailio5
+
+Package: kamailio5-mod-nathelper
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-usrloc
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-nathelper
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 41119
+Filename: kamailio5-mod-nathelper_5.3.3-3_mips64_octeon3.ipk
+Size: 41915
+SHA256sum: 4d13f393ffee7cc4dcea6cd9a9d4f347a976e6f4cba1dcfff5ca35015021259f
+Description:  NAT helper for Kamailio5
+
+Package: kamailio5-mod-ndb-redis
+Version: 5.3.3-3
+Depends: libc, kamailio5, libhiredis
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-ndb-redis
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 33694
+Filename: kamailio5-mod-ndb-redis_5.3.3-3_mips64_octeon3.ipk
+Size: 34510
+SHA256sum: ed6c97cf36c4316a9d58db35248578cf1eb37d0baa71a15da50a04db7ad2b942
+Description:  Connect to REDIS NoSQL for Kamailio5
+
+Package: kamailio5-mod-nosip
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-rr
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-nosip
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 3608
+Filename: kamailio5-mod-nosip_5.3.3-3_mips64_octeon3.ipk
+Size: 4362
+SHA256sum: e57f42ea5a2e46ed045faf32ac90ab900f78c93771efd815d472732968350701
+Description:  non-sip package handling for Kamailio5
+
+Package: kamailio5-mod-outbound
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-stun, libopenssl1.1
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-outbound
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 10080
+Filename: kamailio5-mod-outbound_5.3.3-3_mips64_octeon3.ipk
+Size: 10875
+SHA256sum: 8ce9085866548aee7d3d2fbeda0da81d8596c14195e4a6d44ad891ea4c541aad
+Description:  SIP Outbound implementation for Kamailio5
+
+Package: kamailio5-mod-p-usrloc
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-p-usrloc
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 76155
+Filename: kamailio5-mod-p-usrloc_5.3.3-3_mips64_octeon3.ipk
+Size: 76842
+SHA256sum: 587fe424652cdcadebe08a8e7f1259b4b347889cede5a582c9ae36893cb25fa5
+Description:  Partitioned USRLOC services for Kamailio5
+
+Package: kamailio5-mod-path
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-rr
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-path
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 9508
+Filename: kamailio5-mod-path_5.3.3-3_mips64_octeon3.ipk
+Size: 10272
+SHA256sum: ab5f3d39a90b18799f7bcb3f62bffcb22eb5aee207a0a6a47fefcef6cf7cc7b3
+Description:  SIP path insertion for Kamailio5
+
+Package: kamailio5-mod-pdb
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-pdb
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 13977
+Filename: kamailio5-mod-pdb_5.3.3-3_mips64_octeon3.ipk
+Size: 14737
+SHA256sum: 65db8c30f5e4e403d3baeae348985d90501aa7c7af61c709eb2d961dd39b25a3
+Description:  Number portability module for Kamailio5
+
+Package: kamailio5-mod-pdt
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-pdt
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 19203
+Filename: kamailio5-mod-pdt_5.3.3-3_mips64_octeon3.ipk
+Size: 20003
+SHA256sum: 27ae7390bb8332d1025409f6f5c6b15a98a8d9c1059a3de7ed1e146bbc8a25b0
+Description:  Prefix-to-Domain translator for Kamailio5
+
+Package: kamailio5-mod-permissions
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-permissions
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 49013
+Filename: kamailio5-mod-permissions_5.3.3-3_mips64_octeon3.ipk
+Size: 49798
+SHA256sum: e27fc26069c852e8194f0eb081d884f6c18272b4cfd197d83184995aef24aa0f
+Description:  Permissions control for Kamailio5
+
+Package: kamailio5-mod-pike
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-pike
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 17955
+Filename: kamailio5-mod-pike_5.3.3-3_mips64_octeon3.ipk
+Size: 18717
+SHA256sum: b27727032c1ba2677e84bef2fe2c81f451671ff9b734f166715d4859ee2c8fcf
+Description:  Flood detector for Kamailio5
+
+Package: kamailio5-mod-pipelimit
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-sl
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-pipelimit
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 23696
+Filename: kamailio5-mod-pipelimit_5.3.3-3_mips64_octeon3.ipk
+Size: 24431
+SHA256sum: 27fa05d0e97ffeb470a327c8182d1857e20df6ed075da10748f23969c63c9f01
+Description:  Traffic shaping policies for Kamailio5
+
+Package: kamailio5-mod-prefix-route
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-prefix-route
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 10638
+Filename: kamailio5-mod-prefix-route_5.3.3-3_mips64_octeon3.ipk
+Size: 11402
+SHA256sum: eb23737b46473029180e6bd8a75014080cb0603eba6e9365608921f64653574f
+Description:  Execute based on prefix for Kamailio5
+
+Package: kamailio5-mod-presence-conference
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-presence
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-presence-conference
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 7890
+Filename: kamailio5-mod-presence-conference_5.3.3-3_mips64_octeon3.ipk
+Size: 8700
+SHA256sum: b9bb20b9b9a7871a51470c6ab4f2d0e488b38761581bf731aad9091525a5c928
+Description:  Conference events for Kamailio5
+
+Package: kamailio5-mod-presence-dialoginfo
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-presence
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-presence-dialoginfo
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 14644
+Filename: kamailio5-mod-presence-dialoginfo_5.3.3-3_mips64_octeon3.ipk
+Size: 15402
+SHA256sum: 09e2d05e70b3e0caff55ffffa2ad88f17d9c0c1606f5c9aa69501166bb3eaabc
+Description:  Dialog Event presence for Kamailio5
+
+Package: kamailio5-mod-presence-mwi
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-presence
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-presence-mwi
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 3934
+Filename: kamailio5-mod-presence-mwi_5.3.3-3_mips64_octeon3.ipk
+Size: 4692
+SHA256sum: e02860e7790bff8b19e2a3e09c8c5b309ce5ab668ab13ee79848f294ffe36e7a
+Description:  MWI presence for Kamailio5
+
+Package: kamailio5-mod-presence-profile
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-presence
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-presence-profile
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 2863
+Filename: kamailio5-mod-presence-profile_5.3.3-3_mips64_octeon3.ipk
+Size: 3629
+SHA256sum: e430337c7b804df0cee39bdbf8e6129d73930b9edb22e178c09c6a78453835b6
+Description:  User profile extensions for Kamailio5
+
+Package: kamailio5-mod-presence-reginfo
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-presence
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-presence-reginfo
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 2875
+Filename: kamailio5-mod-presence-reginfo_5.3.3-3_mips64_octeon3.ipk
+Size: 3635
+SHA256sum: e1064fbafd92ec9f250ebc62f1a940245295d368b2c110959da6992d17d98333
+Description:  Registration info for Kamailio5
+
+Package: kamailio5-mod-presence-xml
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-presence, kamailio5-mod-xcap-client
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-presence-xml
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 35312
+Filename: kamailio5-mod-presence-xml_5.3.3-3_mips64_octeon3.ipk
+Size: 36142
+SHA256sum: f7308119c0dd9f9913a24cf7894c2e0b19517ee93f8237bb3dd4dc2d1b41e3ff
+Description:  XCAP presence for Kamailio5
+
+Package: kamailio5-mod-presence
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-sl, kamailio5-mod-tm
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-presence
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 160428
+Filename: kamailio5-mod-presence_5.3.3-3_mips64_octeon3.ipk
+Size: 161109
+SHA256sum: 370f4755a2315d21623bcf5ad1ed181dd8996ada46faf01b3d1ced21a22c9629
+Description:  Presence server for Kamailio5
+
+Package: kamailio5-mod-pua-bla
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-presence, kamailio5-mod-pua, kamailio5-mod-usrloc
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-pua-bla
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 10433
+Filename: kamailio5-mod-pua-bla_5.3.3-3_mips64_octeon3.ipk
+Size: 11188
+SHA256sum: f61b2a7a3cf377688a11b97ed63b4e96d1a26ca9e27025496d08e7c64600f96c
+Description:  Bridged Line Appearence PUA for Kamailio5
+
+Package: kamailio5-mod-pua-dialoginfo
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-dialog, kamailio5-mod-pua
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-pua-dialoginfo
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 17307
+Filename: kamailio5-mod-pua-dialoginfo_5.3.3-3_mips64_octeon3.ipk
+Size: 18056
+SHA256sum: 987c7f9f55acb87f7493ca6057e7d7a53c8a51288d0b15bc26608c2c4dd0b6ef
+Description:  Dialog Event PUA for Kamailio5
+
+Package: kamailio5-mod-pua-json
+Version: 5.3.3-3
+Depends: libc, kamailio5, libjson-c5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-pua-json
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 8028
+Filename: kamailio5-mod-pua-json_5.3.3-3_mips64_octeon3.ipk
+Size: 8830
+SHA256sum: cf8670930d026fc55dea0291477d7ecdf19eb7da3a6d6831e08eb75c2b66628c
+Description:  Presence user agent implementation with JSON messages for Kamailio5
+
+Package: kamailio5-mod-pua-reginfo
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-pua, kamailio5-mod-usrloc
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-pua-reginfo
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 18902
+Filename: kamailio5-mod-pua-reginfo_5.3.3-3_mips64_octeon3.ipk
+Size: 19675
+SHA256sum: 27245cc1f461277a74bf40b7691a027b7ae4b3c1de78f8063bf0b1b1ddb0f605
+Description:  PUA registration info for Kamailio5
+
+Package: kamailio5-mod-pua-rpc
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-pua
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-pua-rpc
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 8818
+Filename: kamailio5-mod-pua-rpc_5.3.3-3_mips64_octeon3.ipk
+Size: 9585
+SHA256sum: f8f357d1d276ce5131534ce40934de57c16b882e78800eb13dedd91abfe7a736
+Description:  RPC extensions for PUA for Kamailio5
+
+Package: kamailio5-mod-pua-usrloc
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-pua, kamailio5-mod-usrloc
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-pua-usrloc
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 9806
+Filename: kamailio5-mod-pua-usrloc_5.3.3-3_mips64_octeon3.ipk
+Size: 10569
+SHA256sum: 4c1a9e86d215db237904cd6d4b35d894f6357ba62e9893a36e805260c14492a0
+Description:  PUA User Location for Kamailio5
+
+Package: kamailio5-mod-pua-xmpp
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-presence, kamailio5-mod-pua, kamailio5-mod-xmpp
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-pua-xmpp
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 28029
+Filename: kamailio5-mod-pua-xmpp_5.3.3-3_mips64_octeon3.ipk
+Size: 28833
+SHA256sum: 855500eb810e2b7344cdb3c79c98222b6d7a38dc6db606df00dc8d04cafb650f
+Description:  PUA XMPP for Kamailio5
+
+Package: kamailio5-mod-pua
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-tm
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-pua
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 76281
+Filename: kamailio5-mod-pua_5.3.3-3_mips64_octeon3.ipk
+Size: 77024
+SHA256sum: 506bea4192e1e316541684010fcd295bf6bd57071ecc5438904954fab9308d07
+Description:  Presence User Agent for Kamailio5
+
+Package: kamailio5-mod-pv
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-pv
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 114871
+Filename: kamailio5-mod-pv_5.3.3-3_mips64_octeon3.ipk
+Size: 115435
+SHA256sum: 87bd3c03fb1e105c328d7b94585300e2c8a9e7f9e9dda730729e291130236f0a
+Description:  Pseudo-Variables for Kamailio5
+
+Package: kamailio5-mod-qos
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-dialog
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-qos
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 21307
+Filename: kamailio5-mod-qos_5.3.3-3_mips64_octeon3.ipk
+Size: 22089
+SHA256sum: 9a0d5c4e78c484129238884a792b2b48f53b4590b8a27d4318c7c0204b70d716
+Description:  QoS control for Kamailio5
+
+Package: kamailio5-mod-ratelimit
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-ratelimit
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 20906
+Filename: kamailio5-mod-ratelimit_5.3.3-3_mips64_octeon3.ipk
+Size: 21666
+SHA256sum: 6733815404eeb581c004a734aebdcd5f03ede0b6f894b750246feb73b868d3be
+Description:  Traffic shapping for Kamailio5
+
+Package: kamailio5-mod-regex
+Version: 5.3.3-3
+Depends: libc, kamailio5, libpcre
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-regex
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 12956
+Filename: kamailio5-mod-regex_5.3.3-3_mips64_octeon3.ipk
+Size: 13726
+SHA256sum: adfd569147643ba78d3dd9bf55e36581488cf4b84d6fcbaadaab86b27e5e3ec0
+Description:  Regular Expression for Kamailio5
+
+Package: kamailio5-mod-registrar
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-usrloc
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-registrar
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 58438
+Filename: kamailio5-mod-registrar_5.3.3-3_mips64_octeon3.ipk
+Size: 59275
+SHA256sum: be9f351c0438391d14e9ec3d7385f664d9b9d649130acd1e314e75dfc54970d5
+Description:  SIP Registrar for Kamailio5
+
+Package: kamailio5-mod-rls
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-presence, kamailio5-mod-pua, kamailio5-mod-tm
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-rls
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 91347
+Filename: kamailio5-mod-rls_5.3.3-3_mips64_octeon3.ipk
+Size: 92115
+SHA256sum: 8f89aa795a74e432eec1622d7a75721f0da7e0b477e764ffa7d9fd570c31ce0e
+Description:  Resource List Server for Kamailio5
+
+Package: kamailio5-mod-rr
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-rr
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 36302
+Filename: kamailio5-mod-rr_5.3.3-3_mips64_octeon3.ipk
+Size: 37095
+SHA256sum: f5041c46c2b73feb05365e517569b998b7aac1ac9b0f9e80ac710f51a6387330
+Description:  Record-Route and Route for Kamailio5
+
+Package: kamailio5-mod-rtimer
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-rtimer
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 6975
+Filename: kamailio5-mod-rtimer_5.3.3-3_mips64_octeon3.ipk
+Size: 7761
+SHA256sum: 367b20a04d0b4a9d2a5c602df8822a7f6b6ce357dbd8edef2c8528aa7bbbeaf8
+Description:  Routing Timer for Kamailio5
+
+Package: kamailio5-mod-rtjson
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-rtjson
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 12086
+Filename: kamailio5-mod-rtjson_5.3.3-3_mips64_octeon3.ipk
+Size: 12858
+SHA256sum: a50f236726e32728de47c6d457b63019ebfce621fb00c3e2fb5e1de39ae433fc
+Description:  SIP routing based on JSON API for Kamailio5
+
+Package: kamailio5-mod-rtpengine
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-tm
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-rtpengine
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 68233
+Filename: kamailio5-mod-rtpengine_5.3.3-3_mips64_octeon3.ipk
+Size: 69021
+SHA256sum: 0b8b08ee4f013e585f6201dd79d74607f81d32f6d20851610facb577a504294a
+Description:  RTP engine for Kamailio5
+
+Package: kamailio5-mod-rtpproxy
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-tm
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-rtpproxy
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 43447
+Filename: kamailio5-mod-rtpproxy_5.3.3-3_mips64_octeon3.ipk
+Size: 44254
+SHA256sum: 680e8e80e2e1b445a72551c0a688d6ab19de5296e34b61e09f791d59781b239d
+Description:  RTP proxy for Kamailio5
+
+Package: kamailio5-mod-sanity
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-sl
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-sanity
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 22617
+Filename: kamailio5-mod-sanity_5.3.3-3_mips64_octeon3.ipk
+Size: 23355
+SHA256sum: 6111c912108e83123b0a6d867fd3d3c8d41b55311a798e7b0869b2906655c93c
+Description:  SIP sanity checks for Kamailio5
+
+Package: kamailio5-mod-sca
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-sl, kamailio5-mod-tm
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-sca
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 100332
+Filename: kamailio5-mod-sca_5.3.3-3_mips64_octeon3.ipk
+Size: 101097
+SHA256sum: 81a1eff69462348a023a43e1b5da8ec01b2a54b0b5aaecfd089abf6d0a9ef082
+Description:  Shared Call Appearances for Kamailio5
+
+Package: kamailio5-mod-sctp
+Version: 5.3.3-3
+Depends: libc, kamailio5, libsctp
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-sctp
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 34113
+Filename: kamailio5-mod-sctp_5.3.3-3_mips64_octeon3.ipk
+Size: 34947
+SHA256sum: 096cc66eac1a273bb089f3b7eb6818f5d5eb51cecdad92d6b82defbd57d2af32
+Description:  SCTP support for Kamailio5
+
+Package: kamailio5-mod-sdpops
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-sdpops
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 29337
+Filename: kamailio5-mod-sdpops_5.3.3-3_mips64_octeon3.ipk
+Size: 30051
+SHA256sum: b14137558f7c740abd7f87d9eb70ba78b66aa56ca08de9e74e84f865a7fbd8e6
+Description:  Managing SDP payloads for Kamailio5
+
+Package: kamailio5-mod-seas
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-tm
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-seas
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 101139
+Filename: kamailio5-mod-seas_5.3.3-3_mips64_octeon3.ipk
+Size: 101933
+SHA256sum: 99b2542d17ee4324e589622cf731bd9d269f04b073eb464abd5caf721b5e50d9
+Description:  Sip Express Application Server for Kamailio5
+
+Package: kamailio5-mod-secfilter
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-secfilter
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 20171
+Filename: kamailio5-mod-secfilter_5.3.3-3_mips64_octeon3.ipk
+Size: 20908
+SHA256sum: c3c04d30a0f68a1de358bd419ef85afad04dc5d54c9932ad50ff24ef8d088297
+Description:  Allow/block filters for Kamailio5
+
+Package: kamailio5-mod-sipcapture
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-sipcapture
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 51402
+Filename: kamailio5-mod-sipcapture_5.3.3-3_mips64_octeon3.ipk
+Size: 52065
+SHA256sum: 77065f2677385aa374d8c8e3925b3739b5464750337ab7e27b1790a64d10d738
+Description:  SIP capture for Kamailio5
+
+Package: kamailio5-mod-sipdump
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-sipdump
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 10614
+Filename: kamailio5-mod-sipdump_5.3.3-3_mips64_octeon3.ipk
+Size: 11371
+SHA256sum: e701d127bb079c91537df304bb651de9fe149491e739d76e8538ca40df65cf9c
+Description:  Save SIP traffic for Kamailio5
+
+Package: kamailio5-mod-sipt
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-sipt
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 13101
+Filename: kamailio5-mod-sipt_5.3.3-3_mips64_octeon3.ipk
+Size: 13852
+SHA256sum: 2c912655369df22a2f47b72d15a1243cd702cdd4ff25a7735e2384a1420ba893
+Description:  SIP-T and SIP-I operations for Kamailio5
+
+Package: kamailio5-mod-siptrace
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-siptrace
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 52927
+Filename: kamailio5-mod-siptrace_5.3.3-3_mips64_octeon3.ipk
+Size: 53746
+SHA256sum: d5038e42194a486d5bf4df252fe606791d7af2ee3305dc90c2e73bfbeb5b1875
+Description:  SIP trace for Kamailio5
+
+Package: kamailio5-mod-siputils
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-sl
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-siputils
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 46776
+Filename: kamailio5-mod-siputils_5.3.3-3_mips64_octeon3.ipk
+Size: 47550
+SHA256sum: 87156c12a984843b306af3677a7fb12b5b5b1c906fef478783bdfcc6ade20bfa
+Description:  SIP utilities for Kamailio5
+
+Package: kamailio5-mod-sl
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-sl
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 22988
+Filename: kamailio5-mod-sl_5.3.3-3_mips64_octeon3.ipk
+Size: 23692
+SHA256sum: a5b99247df860ca063425d2a98588ea70e896bfa3665f93c2188f7bf33fa57c8
+Description:  Stateless replier for Kamailio5
+
+Package: kamailio5-mod-sms
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-tm
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-sms
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 41105
+Filename: kamailio5-mod-sms_5.3.3-3_mips64_octeon3.ipk
+Size: 41920
+SHA256sum: d1d4d7f9c62c9a2d54f2878b2083fdd3d13fd9cdc62ee1be0094659ce0b663c0
+Description:  SIP-to-SMS IM gateway for Kamailio5
+
+Package: kamailio5-mod-smsops
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-smsops
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 13864
+Filename: kamailio5-mod-smsops_5.3.3-3_mips64_octeon3.ipk
+Size: 14590
+SHA256sum: ba713e79e38690421d7faf15c54c753d373c40bdaa89b35864822961ebbe67dc
+Description:  Handle SMS packets in SIP for Kamailio5
+
+Package: kamailio5-mod-snmpstats
+Version: 5.3.3-3
+Depends: libc, kamailio5, libnetsnmp
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-snmpstats
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 65417
+Filename: kamailio5-mod-snmpstats_5.3.3-3_mips64_octeon3.ipk
+Size: 65723
+SHA256sum: 519051a2a1d661545f7e99dc63fd6be0ed6a7cdc981ba9f09985a9fa93b37d55
+Description:  SNMP interface for statistics for Kamailio5
+
+Package: kamailio5-mod-speeddial
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-speeddial
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 6658
+Filename: kamailio5-mod-speeddial_5.3.3-3_mips64_octeon3.ipk
+Size: 7458
+SHA256sum: f6e44423c4c2b5fce795089bbd8f2088a10759a813f558f58c415baa388d2690
+Description:  Per-user speed-dial controller for Kamailio5
+
+Package: kamailio5-mod-sqlops
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-sqlops
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 24954
+Filename: kamailio5-mod-sqlops_5.3.3-3_mips64_octeon3.ipk
+Size: 25650
+SHA256sum: 0db4d65dcbf9322974002f7b854082ad5ad1b299c80773f54b47b9cc2b98c326
+Description:  SQL operations for Kamailio5
+
+Package: kamailio5-mod-ss7ops
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-ss7ops
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 21469
+Filename: kamailio5-mod-ss7ops_5.3.3-3_mips64_octeon3.ipk
+Size: 22037
+SHA256sum: e3e8fb1c8804df6952e0d2771eae7dbfac1289e4916d6385dc9de7a52a947e30
+Description:  JSON Operations for SS7 over HEP for Kamailio5
+
+Package: kamailio5-mod-sst
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-dialog, kamailio5-mod-sl
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-sst
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 16049
+Filename: kamailio5-mod-sst_5.3.3-3_mips64_octeon3.ipk
+Size: 16801
+SHA256sum: 1a2c8c048bbcaba98affbd7b74fef996e3138c451308faed6147f899ce422176
+Description:  SIP Session Timer for Kamailio5
+
+Package: kamailio5-mod-statistics
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-statistics
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 6416
+Filename: kamailio5-mod-statistics_5.3.3-3_mips64_octeon3.ipk
+Size: 7202
+SHA256sum: 8b0d2572bdf847229be7ada9a6470afb90e32805839421d8150b41094c2823aa
+Description:  Script statistics for Kamailio5
+
+Package: kamailio5-mod-statsc
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-statsc
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 6957
+Filename: kamailio5-mod-statsc_5.3.3-3_mips64_octeon3.ipk
+Size: 7734
+SHA256sum: df5da8a66a891c712ce1d38084795725c1b7dcfc362242ba50649b0517580129
+Description:  Statistics collector for Kamailio5
+
+Package: kamailio5-mod-statsd
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-statsd
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 7210
+Filename: kamailio5-mod-statsd_5.3.3-3_mips64_octeon3.ipk
+Size: 7997
+SHA256sum: 8468d5a1cae9246ffc6fd6e0716205bd5ebb11774be708cc6a117010dfa81e17
+Description:  Connector for statsd application for Kamailio5
+
+Package: kamailio5-mod-stun
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-stun
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 11351
+Filename: kamailio5-mod-stun_5.3.3-3_mips64_octeon3.ipk
+Size: 12124
+SHA256sum: 582834ddc489f53fe4790307d6b09d8c86408d80d148bc21d0998a0356468cb0
+Description:  STUN server support for Kamailio5
+
+Package: kamailio5-mod-tcpops
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-tcpops
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 14225
+Filename: kamailio5-mod-tcpops_5.3.3-3_mips64_octeon3.ipk
+Size: 14959
+SHA256sum: 5152814ad074c02f18bf29874492cefc5d4fcf001a72254210648d1f1198b223
+Description:  TCP options tweaking operations for Kamailio5
+
+Package: kamailio5-mod-textops
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-textops
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 61125
+Filename: kamailio5-mod-textops_5.3.3-3_mips64_octeon3.ipk
+Size: 61783
+SHA256sum: cdd3beff64a93ce26f264bac1d8e7e04f62a88845b2ef89d70854fe263daca3d
+Description:  Text operations for Kamailio5
+
+Package: kamailio5-mod-textopsx
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-textopsx
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 20742
+Filename: kamailio5-mod-textopsx_5.3.3-3_mips64_octeon3.ipk
+Size: 21497
+SHA256sum: e64e15203fb6615bb3fd22fc8d8fc82d75ebd240e31a38649cdab38ea92ec8a8
+Description:  Extra text operations for Kamailio5
+
+Package: kamailio5-mod-timer
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-timer
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 8253
+Filename: kamailio5-mod-timer_5.3.3-3_mips64_octeon3.ipk
+Size: 9052
+SHA256sum: 2090e23a4b022660d7d053fe7a9ec3bc24f5e7298620d00a49f342edbe5b14e4
+Description:  Execute routing blocks on core timers for Kamailio5
+
+Package: kamailio5-mod-tls
+Version: 5.3.3-3
+Depends: libc, kamailio5, libopenssl1.1
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-tls
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 112628
+Filename: kamailio5-mod-tls_5.3.3-3_mips64_octeon3.ipk
+Size: 111979
+SHA256sum: ef1aa0ec512175a71ac8b453fc790514037bf0552343fbbcf827a80fc793fe45
+Description:  TLS operations for Kamailio5
+
+Package: kamailio5-mod-tm
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-tm
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 242321
+Filename: kamailio5-mod-tm_5.3.3-3_mips64_octeon3.ipk
+Size: 242730
+SHA256sum: 051c2fc6819cbce4cdca30cf22870db19bd855dfe08b359bd2b38474610e131c
+Description:  Transaction for Kamailio5
+
+Package: kamailio5-mod-tmrec
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-tmrec
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 6198
+Filename: kamailio5-mod-tmrec_5.3.3-3_mips64_octeon3.ipk
+Size: 6994
+SHA256sum: b4061169709e2eec66ac5d1505cd2ea5a6582468ec585a9a9445bdbba59664d6
+Description:  Match time recurrences for Kamailio5
+
+Package: kamailio5-mod-tmx
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-tmx
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 23729
+Filename: kamailio5-mod-tmx_5.3.3-3_mips64_octeon3.ipk
+Size: 24427
+SHA256sum: 223759fd86c0c22bef3a8cc63ca173f4aec0d8eeb78fdf554755153a9fde2f5e
+Description:  Transaction module extensions for Kamailio5
+
+Package: kamailio5-mod-topoh
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-rr
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-topoh
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 30502
+Filename: kamailio5-mod-topoh_5.3.3-3_mips64_octeon3.ipk
+Size: 31238
+SHA256sum: 5716876d2fc13ee3315aaf5b6fa93ba798e9ce59de4fe91be695581589ca7d71
+Description:  Topology hiding for Kamailio5
+
+Package: kamailio5-mod-topos-redis
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-ndb-redis, kamailio5-mod-topos
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-topos-redis
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 25481
+Filename: kamailio5-mod-topos-redis_5.3.3-3_mips64_octeon3.ipk
+Size: 26180
+SHA256sum: e5f40b496cb0e43f646c28ecb5e03d664f176c7667384801a7b6d4818f2ee98d
+Description:  Redis backend for topos module for Kamailio5
+
+Package: kamailio5-mod-topos
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-rr
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-topos
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 38109
+Filename: kamailio5-mod-topos_5.3.3-3_mips64_octeon3.ipk
+Size: 38847
+SHA256sum: 040aaca90409272a0ea44f1edcc002299344cc03c0f1836c77572b0c1405ca01
+Description:  Topology stripping module for Kamailio5
+
+Package: kamailio5-mod-tsilo
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-registrar, kamailio5-mod-sl, kamailio5-mod-tm
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-tsilo
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 18569
+Filename: kamailio5-mod-tsilo_5.3.3-3_mips64_octeon3.ipk
+Size: 19312
+SHA256sum: cc94504eb4842c4e6a3970bfd907583115f3ad54bee73513d3d27d427a2ac4c2
+Description:  Transaction storage for Kamailio5
+
+Package: kamailio5-mod-uac-redirect
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-tm
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-uac-redirect
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 12174
+Filename: kamailio5-mod-uac-redirect_5.3.3-3_mips64_octeon3.ipk
+Size: 12971
+SHA256sum: bf07819eb2bbbf529717e08962a468d58550d2a307449bebb061f57052f02428
+Description:  User Agent Client redirection for Kamailio5
+
+Package: kamailio5-mod-uac
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-tm
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-uac
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 75266
+Filename: kamailio5-mod-uac_5.3.3-3_mips64_octeon3.ipk
+Size: 76042
+SHA256sum: 8ad1c642b77d71e09d770c46b7e74888aff37164a3d375a442926a3a5b3e84e0
+Description:  User Agent Client for Kamailio5
+
+Package: kamailio5-mod-uid-auth-db
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-auth
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-uid-auth-db
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 12283
+Filename: kamailio5-mod-uid-auth-db_5.3.3-3_mips64_octeon3.ipk
+Size: 13053
+SHA256sum: 37a07f83744331a1397f5956bab332cf5edcf8d800b5bcfd20d47755416549d0
+Description:  Authentication module for Kamailio5
+
+Package: kamailio5-mod-uid-avp-db
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-uid-avp-db
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 13328
+Filename: kamailio5-mod-uid-avp-db_5.3.3-3_mips64_octeon3.ipk
+Size: 14072
+SHA256sum: 71aea60eb54dc04395de747d8f670dca9d800b11db0787afebadd08bba944b10
+Description:  AVP database operations for Kamailio5
+
+Package: kamailio5-mod-uid-domain
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-uid-domain
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 13841
+Filename: kamailio5-mod-uid-domain_5.3.3-3_mips64_octeon3.ipk
+Size: 14551
+SHA256sum: c44bdcbbfdd9fe4e20d74b477de9b775460eadde5c0a79ba8b6c3e0ee5f93d61
+Description:  Domains management for Kamailio5
+
+Package: kamailio5-mod-uid-gflags
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-uid-gflags
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 7400
+Filename: kamailio5-mod-uid-gflags_5.3.3-3_mips64_octeon3.ipk
+Size: 8196
+SHA256sum: 74bd58c50e2d291651a02fc56a06e7da0c649c1df4adb23d95475020739f5a97
+Description:  Global attributes and flags for Kamailio5
+
+Package: kamailio5-mod-uid-uri-db
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-uid-uri-db
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 7784
+Filename: kamailio5-mod-uid-uri-db_5.3.3-3_mips64_octeon3.ipk
+Size: 8583
+SHA256sum: 492b7e426d8199768b3a75aca738261738a810d324f469741c8ab2ef50f1c09b
+Description:  Database URI operations for Kamailio5
+
+Package: kamailio5-mod-uri-db
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-uri-db
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 9281
+Filename: kamailio5-mod-uri-db_5.3.3-3_mips64_octeon3.ipk
+Size: 10060
+SHA256sum: 97bd3261e966560afd078a90120668790fdfac35eb52cf649ae83bf2f9ab33eb
+Description:  Database-backend SIP URI checking for Kamailio5
+
+Package: kamailio5-mod-userblacklist
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-lib-libtrie
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-userblacklist
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 14236
+Filename: kamailio5-mod-userblacklist_5.3.3-3_mips64_octeon3.ipk
+Size: 14984
+SHA256sum: ccf91b50658bba4976f6552e57225df4a48e72d9c8d3a56add43b00b90fbcb76
+Description:  User blacklists for Kamailio5
+
+Package: kamailio5-mod-usrloc
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-usrloc
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 65186
+Filename: kamailio5-mod-usrloc_5.3.3-3_mips64_octeon3.ipk
+Size: 65914
+SHA256sum: 593a9983d8ca3fb012b50b0b02b7af96b3c3376c59acd9b255fb1382e3741be3
+Description:  User location for Kamailio5
+
+Package: kamailio5-mod-utils
+Version: 5.3.3-3
+Depends: libc, kamailio5, libcurl4
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-utils
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 21900
+Filename: kamailio5-mod-utils_5.3.3-3_mips64_octeon3.ipk
+Size: 22644
+SHA256sum: f73b71a3b5b0d9dbfc16fd7e4956dec3aa70d42937d1c947799beaafdf297b80
+Description:  Misc utilities for Kamailio5
+
+Package: kamailio5-mod-uuid
+Version: 5.3.3-3
+Depends: libc, kamailio5, libuuid1
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-uuid
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 2796
+Filename: kamailio5-mod-uuid_5.3.3-3_mips64_octeon3.ipk
+Size: 3556
+SHA256sum: 058dad88f58677460e93aabe704fcc35f34efc77aad57738cf0a979eee2b5172
+Description:  UUID utilities for Kamailio5
+
+Package: kamailio5-mod-websocket
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-sl, kamailio5-mod-tm, libopenssl1.1, libunistring
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-websocket
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 37543
+Filename: kamailio5-mod-websocket_5.3.3-3_mips64_octeon3.ipk
+Size: 38378
+SHA256sum: 0bfc9e16ce3593186824527769e342e3ff0ad53c267296f69e9682a546d9e796
+Description:  WebSocket transport layer for Kamailio5
+
+Package: kamailio5-mod-xcap-client
+Version: 5.3.3-3
+Depends: libc, kamailio5, libcurl4
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-xcap-client
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 14164
+Filename: kamailio5-mod-xcap-client_5.3.3-3_mips64_octeon3.ipk
+Size: 14919
+SHA256sum: 1a741be41abd7e071050e16bc980a9343e8d01652920021bbb1d5907e9bceab0
+Description:  XCAP Client for Kamailio5
+
+Package: kamailio5-mod-xcap-server
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-xhttp, kamailio5-mod-sl
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-xcap-server
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 31314
+Filename: kamailio5-mod-xcap-server_5.3.3-3_mips64_octeon3.ipk
+Size: 32040
+SHA256sum: 8f4c517cdb27eaa1607594ee75e2c4bd091608955e937b0da2a7633418127dee
+Description:  XCAP server implementation for Kamailio5
+
+Package: kamailio5-mod-xhttp-pi
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-xhttp
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-xhttp-pi
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 83110
+Filename: kamailio5-mod-xhttp-pi_5.3.3-3_mips64_octeon3.ipk
+Size: 83877
+SHA256sum: bc76d378d33c7a5f6e796a1dd993ac644d65c743ac5f3dacfde8d6986711cf4f
+Description:  HTTP provisioning interface for Kamailio5
+
+Package: kamailio5-mod-xhttp-prom
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-xhttp
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-xhttp-prom
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 47014
+Filename: kamailio5-mod-xhttp-prom_5.3.3-3_mips64_octeon3.ipk
+Size: 47706
+SHA256sum: 9ce5df2edeb008e2a90697b330068292c4793d8dd2fe348811e52dff1858b4f0
+Description:  Prometheus metrics for Kamailio5
+
+Package: kamailio5-mod-xhttp-rpc
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-xhttp
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-xhttp-rpc
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 20298
+Filename: kamailio5-mod-xhttp-rpc_5.3.3-3_mips64_octeon3.ipk
+Size: 21063
+SHA256sum: 9cc7a392465f0cf5cbf3ee315dddade2b8a01e9da5d5637d20e6fc6320bdfc0b
+Description:  RPC commands handling over HTTP for Kamailio5
+
+Package: kamailio5-mod-xhttp
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-sl
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-xhttp
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 13705
+Filename: kamailio5-mod-xhttp_5.3.3-3_mips64_octeon3.ipk
+Size: 14469
+SHA256sum: 62fea73e24227abdf2d726836c0d9641696daffe31d8ae7320a29b69b82af2b9
+Description:  Basic HTTP request handling server for Kamailio5
+
+Package: kamailio5-mod-xlog
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-xlog
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 11308
+Filename: kamailio5-mod-xlog_5.3.3-3_mips64_octeon3.ipk
+Size: 12047
+SHA256sum: 965410c60625f53bb0037d88661369a9aae25c4dd39aed4e4c03cb3920094138
+Description:  Advanced logger for Kamailio5
+
+Package: kamailio5-mod-xmlops
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-xmlops
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 8056
+Filename: kamailio5-mod-xmlops_5.3.3-3_mips64_octeon3.ipk
+Size: 8839
+SHA256sum: 8c908850d7f744272bc9ef8801e8c3a9e6834afc80cc8acdbed73bd5b3e733c5
+Description:  XML operations for Kamailio5
+
+Package: kamailio5-mod-xmlrpc
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-xmlrpc
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 24677
+Filename: kamailio5-mod-xmlrpc_5.3.3-3_mips64_octeon3.ipk
+Size: 25398
+SHA256sum: 1747cc27ae1a50dd6548987910a88cf572909340969220db5b549b8506e5ea95
+Description:  XML RPC module for Kamailio5
+
+Package: kamailio5-mod-xmpp
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-tm, libexpat
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-xmpp
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 37507
+Filename: kamailio5-mod-xmpp_5.3.3-3_mips64_octeon3.ipk
+Size: 38336
+SHA256sum: 8b656ab560871ee9da1860340467edfcb5de43129afb1ff4a0d579ddb441cf61
+Description:  SIP-to-XMPP Gateway for Kamailio5
+
+Package: kamailio5-mod-xprint
+Version: 5.3.3-3
+Depends: libc, kamailio5
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-mod-xprint
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 23978
+Filename: kamailio5-mod-xprint_5.3.3-3_mips64_octeon3.ipk
+Size: 24721
+SHA256sum: d5eb4f056b5d0f2b68abe6e7b710fafc0215b9f64bee8910bfb07a75bff312d6
+Description:  Print messages with specifiers for Kamailio5
+
+Package: kamailio5-util-kambdb-recover
+Version: 5.3.3-3
+Depends: libc, kamailio5, kamailio5-mod-db-berkeley
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5-util-kambdb-recover
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 7391
+Filename: kamailio5-util-kambdb-recover_5.3.3-3_mips64_octeon3.ipk
+Size: 8190
+SHA256sum: d450c6a75fd730c1f8af2acbf6a253120de1dded9d92c501a2ab048dec4e5320
+Description:  Kamailio5 Berkeley DB recovery utility
+
+Package: kamailio5
+Version: 5.3.3-3
+Depends: libc, libncurses6, libpthread, libreadline8, libxml2
+Source: feeds/telephony/net/kamailio-5.x
+SourceName: kamailio5
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: net
+Require-User: kamailio=380:kamailio=380
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 1097177
+Filename: kamailio5_5.3.3-3_mips64_octeon3.ipk
+Size: 1095905
+SHA256sum: 0e5e3f78d0165a4da2eeabc27ba2298ba31ffd556c2aa65fd5e9e3fb884e68f3
+Description:  Mature and flexible open source SIP server, v5.3.3
+
+Package: libctb
+Version: 0.16-2
+Depends: libc, uclibcxx
+Source: feeds/telephony/libs/libctb
+SourceName: libctb
+License: LGPL
+LicenseFiles: build/COPYING
+Section: libs
+Maintainer: Sebastian Kemper <sebastian_ml@gmx.net>
+Architecture: mips64_octeon3
+Installed-Size: 9866
+Filename: libctb_0.16-2_mips64_octeon3.ipk
+Size: 10628
+SHA256sum: 192787e930b9bec9724d3e66f492881fe16f91d94825f2166739486d2300bbf0
+Description:  Multiplatform library for different interfaces.
+
+Package: libiksemel
+Version: 1.4-2
+Depends: libc, libgnutls
+Source: feeds/telephony/libs/iksemel
+SourceName: libiksemel
+License: LGPL-2.1
+LicenseFiles: COPYING
+Section: libs
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 20607
+Filename: libiksemel_1.4-2_mips64_octeon3.ipk
+Size: 21460
+SHA256sum: 2fc6e9c633f917279c9a6038451a8d83b6a7f719064f80dc285bb1db29a33f4f
+Description:  Iksemel is an XML parser library mainly designed for Jabber applications.
+ It provides SAX, DOM, and special Jabber stream APIs. Library is coded
+ in ANSI C except the network code (which is POSIX compatible), thus
+ highly portable.
+
+Package: libks1
+Version: 1.6.0-1
+Depends: libc, libatomic1, libopenssl1.1, libuuid1
+Provides: libks
+Source: feeds/telephony/libs/libks
+SourceName: libks
+License: BSD-1-Clause BSD-3-Clause ISC MIT PUBLICDOMAIN twofish
+LicenseFiles: copyright
+Section: libs
+Maintainer: Sebastian Kemper <sebastian_ml@gmx.net>
+Architecture: mips64_octeon3
+Installed-Size: 87152
+Filename: libks1_1.6.0-1_mips64_octeon3.ipk
+Size: 87843
+SHA256sum: 55a9f2e5b84eaf8ab7aefe8d4a83af9897a66750802e2a92b963f19cfbd42af6
+Description:  Foundational support for SignalWire C products
+
+Package: libosip2-12
+Version: 5.1.0-1
+Depends: libc, librt
+Provides: libosip2
+Source: feeds/telephony/libs/libosip2
+SourceName: libosip2
+License: LGPL-2.1+
+LicenseFiles: COPYING
+Section: libs
+Architecture: mips64_octeon3
+Installed-Size: 65116
+Filename: libosip2-12_5.1.0-1_mips64_octeon3.ipk
+Size: 65695
+SHA256sum: 9e814750867b1d8bcb0a95f9a16673be0daad33b4d0eba2d128c70b8ea0452f8
+Description:  GNU oSIP library, a Session Initiation Protocol (SIP) implementation.
+
+Package: libpj
+Version: 2.9-4
+Depends: libc, uclibcxx, libopenssl1.1, libuuid1, libpthread, librt
+Source: feeds/telephony/libs/pjproject
+SourceName: libpj
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: lib
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 65128
+Filename: libpj_2.9-4_mips64_octeon3.ipk
+Size: 65809
+SHA256sum: 4dc47722493e3ca007f189b747ba5e2ae44e68a7938739e60a1109f447c6c944
+Description:  libpj library
+
+Package: libpjlib-util
+Version: 2.9-4
+Depends: libc, uclibcxx, libopenssl1.1, libuuid1, libpthread, libpj, librt
+Source: feeds/telephony/libs/pjproject
+SourceName: libpjlib-util
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: lib
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 65236
+Filename: libpjlib-util_2.9-4_mips64_octeon3.ipk
+Size: 65891
+SHA256sum: f52974ffb8775f3bc233fdd8ecc0ba6070b209957633955c0b7eb80a487daf73
+Description:  libpjlib-util library
+
+Package: libpjnath
+Version: 2.9-4
+Depends: libc, uclibcxx, libopenssl1.1, libuuid1, libpthread, libpj, libpjlib-util, librt
+Source: feeds/telephony/libs/pjproject
+SourceName: libpjnath
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: lib
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 62384
+Filename: libpjnath_2.9-4_mips64_octeon3.ipk
+Size: 63087
+SHA256sum: 21c044767694c055efe160cd04caaff8b4e89251b51b225440227ddba0343bc0
+Description:  libpjnath library
+
+Package: libre
+Version: 0.6.1-1
+Depends: libc, libopenssl1.1, zlib
+Source: feeds/telephony/libs/re
+SourceName: libre
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: libs
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 171177
+Filename: libre_0.6.1-1_mips64_octeon3.ipk
+Size: 171812
+SHA256sum: 667d65e688ac936770bc464f690b3645b9c65cc00059748468f60017d9af6593
+Description:  Generic library for real-time communications with async IO support
+
+Package: librem
+Version: 0.6.0-2
+Depends: libc, libre
+Source: feeds/telephony/libs/rem
+SourceName: librem
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: libs
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 26640
+Filename: librem_0.6.0-2_mips64_octeon3.ipk
+Size: 27402
+SHA256sum: e529185257652c1dad249455553d527f9d36e2acd49a6c34afbbf84fbe2a02af
+Description:  Audio and video processing media library
+
+Package: libspandsp
+Version: 0.0.6-4
+Depends: libc, libtiff5
+Source: feeds/telephony/libs/spandsp
+SourceName: libspandsp
+License: LGPL-2.1 GPL-2.0
+LicenseFiles: COPYING
+Section: libs
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 289658
+Filename: libspandsp_0.0.6-4_mips64_octeon3.ipk
+Size: 288589
+SHA256sum: 0056b1b54e60bfb7fcb0c90ba139a5aee6f7e27ddc00bd8ef83ac8ec71befcec
+Description:  spandsp library
+
+Package: libsrtp
+Version: 1.6.0-2
+Depends: libc, libpcap1
+Source: feeds/telephony/libs/libsrtp
+SourceName: libsrtp
+License: BSD-3-Clause
+LicenseFiles: LICENSE
+Section: libs
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 39627
+Filename: libsrtp_1.6.0-2_mips64_octeon3.ipk
+Size: 39845
+SHA256sum: 1735b4fa5fbcbbc35f1af62a0e371aec19b5fd742589d7174a611d9ac0db05d0
+Description:  Open-source implementation of the Secure Real-time Transport
+ Protocol (SRTP) originally authored by Cisco Systems, Inc.
+ It is available under a BSD-style license.
+
+Package: miax
+Version: 1.4-2
+Depends: libc, libpthread
+Source: feeds/telephony/net/miax
+SourceName: miax
+License: GPL-2.0
+LicenseFiles: COPYING LICENSE
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 39446
+Filename: miax_1.4-2_mips64_octeon3.ipk
+Size: 40264
+SHA256sum: b512346127d94edce18388f91adf211a6d0bedbeae9ce9beba84b2528a4c59f2
+Description:  miax is a console iax (asterisk) client, it can work with 
+ a soundcard as a normal voip phone, taking input/output from 
+ keyboard or analog/gsm/isdn modem.
+
+Package: pcapsipdump
+Version: 2019-10-07-151-2
+Depends: libc, uclibcxx, libpcap1
+Source: feeds/telephony/net/pcapsipdump
+SourceName: pcapsipdump
+License: GPL-2.0+
+LicenseFiles: LICENSE
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 22833
+Filename: pcapsipdump_2019-10-07-151-2_mips64_octeon3.ipk
+Size: 23589
+SHA256sum: dc0217e3d6911932ef522d153219e220e0d3a4a09e7da6d49c9cad83db1f0bc4
+Description:  pcapsipdump is a tool for dumping SIP sessions (+RTP traffic, if available) to disk in a
+ fashion similar to "tcpdump -w" (format is exactly the same), but one file per sip session
+ (even if there is thousands of concurrect SIP sessions).
+
+Package: restund-mod-mysql
+Version: 0.4.12-7
+Depends: libc, restund, libmysqlclient3
+Source: feeds/telephony/net/restund
+SourceName: restund-mod-mysql
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 2622
+Filename: restund-mod-mysql_0.4.12-7_mips64_octeon3.ipk
+Size: 3386
+SHA256sum: b4c940d30f86d7b3cf70d8e5b88ebb532ebd722a13b8a4240487e515f5a4c117
+Description:  restund MySQL database backend module
+
+Package: restund
+Version: 0.4.12-7
+Depends: libc, libre
+Source: feeds/telephony/net/restund
+SourceName: restund
+License: BSD-3-Clause
+LicenseFiles: docs/COPYING
+Section: net
+Require-User: restund=373:restund=373
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 29335
+Filename: restund_0.4.12-7_mips64_octeon3.ipk
+Size: 30180
+SHA256sum: 540c06fcf55b8016072d3ce6a2e33b74de616eebf567d55d702bbec3ddfaa9dd
+Description:  Modular STUN/TURN server
+
+Package: rtpengine-no-transcode
+Version: mr8.3.1.4-3
+Depends: libc, glib2, json-glib, libevent2-7, libevent2-pthreads7, libhiredis, libip4tc2, libopenssl1.1, libpcap1, libpcre, xmlrpc-c-client, zlib, libip6tc2
+Conflicts: rtpengine
+Source: feeds/telephony/net/rtpengine
+SourceName: rtpengine-no-transcode
+License: GPL-3.0
+LicenseFiles: LICENSE
+Section: net
+Require-User: rtpengine=378:rtpengine=378
+Maintainer: Sebastian Kemper <sebastian_ml@gmx.net>
+Architecture: mips64_octeon3
+Installed-Size: 187902
+Filename: rtpengine-no-transcode_mr8.3.1.4-3_mips64_octeon3.ipk
+Size: 188123
+SHA256sum: 4cae169353a87fff5759b8318f140f3d9a08c97d5c258e3a0e0075317a737324
+Description:  The Sipwise NGCP rtpengine is a proxy for RTP traffic and other UDP
+ based media traffic. It's meant to be used with the Kamailio SIP proxy
+ and forms a drop-in replacement for any of the other available RTP and
+ media proxies.
+ 
+ This package comes without transcoding support.
+ 
+ Please consider installing kmod-ipt-rtpengine.
+ 
+
+Package: rtpengine-recording
+Version: mr8.3.1.4-3
+Depends: libc, glib2, libffmpeg-full, libmariadb3, libopenssl1.1
+Source: feeds/telephony/net/rtpengine
+SourceName: rtpengine-recording
+License: GPL-3.0
+LicenseFiles: LICENSE
+Section: net
+Require-User: rtpengine=378:rtpengine=378
+Maintainer: Sebastian Kemper <sebastian_ml@gmx.net>
+Architecture: mips64_octeon3
+Installed-Size: 51107
+Filename: rtpengine-recording_mr8.3.1.4-3_mips64_octeon3.ipk
+Size: 51854
+SHA256sum: dc32e18225d037b110a2d1e9d2789af94a1daa88c0cc9b34c6396c13e3d5bde8
+Description:  Sipwise RTP Recording Daemon
+
+Package: rtpengine
+Version: mr8.3.1.4-3
+Depends: libc, glib2, json-glib, libevent2-7, libevent2-pthreads7, libhiredis, libip4tc2, libopenssl1.1, libpcap1, libpcre, xmlrpc-c-client, zlib, bcg729, libffmpeg-full, libmariadb3, libspandsp, libip6tc2
+Source: feeds/telephony/net/rtpengine
+SourceName: rtpengine
+License: GPL-3.0
+LicenseFiles: LICENSE
+Section: net
+Require-User: rtpengine=378:rtpengine=378
+Maintainer: Sebastian Kemper <sebastian_ml@gmx.net>
+Architecture: mips64_octeon3
+Installed-Size: 215600
+Filename: rtpengine_mr8.3.1.4-3_mips64_octeon3.ipk
+Size: 215406
+SHA256sum: 1cf0ebfed2cdb968fe42cf27bf072192e179690405bd2890e97eb5b79d296f04
+Description:  The Sipwise NGCP rtpengine is a proxy for RTP traffic and other UDP
+ based media traffic. It's meant to be used with the Kamailio SIP proxy
+ and forms a drop-in replacement for any of the other available RTP and
+ media proxies.
+ 
+ Please consider installing kmod-ipt-rtpengine.
+ 
+
+Package: rtpproxy-mod-acct-csv
+Version: 2019-10-02-aa1f179e-2
+Depends: libc, rtpproxy
+Source: feeds/telephony/net/rtpproxy
+SourceName: rtpproxy-mod-acct-csv
+License: BSD-2-Clause
+LicenseFiles: LICENSE
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 3660
+Filename: rtpproxy-mod-acct-csv_2019-10-02-aa1f179e-2_mips64_octeon3.ipk
+Size: 4416
+SHA256sum: 7b787799ce3701cbd2fd37e7cb748143112692774305378732161a90f27d1940
+Description:  RTPproxy CSV accounting module
+
+Package: rtpproxy-mod-acct-rtcp-hep
+Version: 2019-10-02-aa1f179e-2
+Depends: libc, rtpproxy
+Source: feeds/telephony/net/rtpproxy
+SourceName: rtpproxy-mod-acct-rtcp-hep
+License: BSD-2-Clause
+LicenseFiles: LICENSE
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 7020
+Filename: rtpproxy-mod-acct-rtcp-hep_2019-10-02-aa1f179e-2_mips64_octeon3.ipk
+Size: 7815
+SHA256sum: 189ade74b5fe5f08a7af2b8b60947448f4bb01f32ddfc5e63afa96c911a438d3
+Description:  RTPproxy RTCP HEP accounting module
+
+Package: rtpproxy
+Version: 2019-10-02-aa1f179e-2
+Depends: libc, libatomic1, libpthread, librt
+Source: feeds/telephony/net/rtpproxy
+SourceName: rtpproxy
+License: BSD-2-Clause
+LicenseFiles: LICENSE
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 113895
+Filename: rtpproxy_2019-10-02-aa1f179e-2_mips64_octeon3.ipk
+Size: 114578
+SHA256sum: 29e3d2138e4680510fb78b5e132dd4c3b244a1a1ad4639fe605fab224780773d
+Description:  RTP (Realtime Transport Protocol) proxy
+
+Package: signalwire-client-c1
+Version: 1.3.0-1
+Depends: libc, libatomic1, libks1, libopenssl1.1
+Provides: signalwire-client-c
+Source: feeds/telephony/libs/signalwire-client-c
+SourceName: signalwire-client-c
+License: MIT
+LicenseFiles: copyright
+Section: libs
+Maintainer: Sebastian Kemper <sebastian_ml@gmx.net>
+Architecture: mips64_octeon3
+Installed-Size: 50880
+Filename: signalwire-client-c1_1.3.0-1_mips64_octeon3.ipk
+Size: 51514
+SHA256sum: d9dbb27f96387e8842e47658da7fc751d31e0d7394d9e9d11d79868df44169ff
+Description:  SignalWire C client library
+
+Package: sipgrep
+Version: 2019-06-27-1cc00079-1
+Depends: libc, libpcap1, libpcre
+Source: feeds/telephony/net/sipgrep
+SourceName: sipgrep
+License: GPL-3.0
+LicenseFiles: COPYING
+Section: utils
+Maintainer: Sebastian Kemper <sebastian_ml@gmx.net>
+Architecture: mips64_octeon3
+Installed-Size: 26505
+Filename: sipgrep_2019-06-27-1cc00079-1_mips64_octeon3.ipk
+Size: 27277
+SHA256sum: cf03cb3247e672214ea2d16372e6a2355e8c9d2c380653285ca2f1a34232c74f
+Description:  Powerful pcap-aware command line tool to sniff, capture, display and
+ troubleshoot SIP signaling over IP networks, allowing the user to
+ specify extended regular expressions matching against SIP headers.
+
+Package: sipp
+Version: 3.6.0-1
+Depends: libc, uclibcxx, libncurses6, libpthread
+Source: feeds/telephony/net/sipp
+SourceName: sipp
+License: GPL-2.0+ BSD-3-Clause Zlib
+LicenseFiles: LICENSE.txt
+Section: net
+Architecture: mips64_octeon3
+Installed-Size: 181101
+Filename: sipp_3.6.0-1_mips64_octeon3.ipk
+Size: 181424
+SHA256sum: 59e1716b614c82d3d1cb39c58600543eb7c6a3057dd8e6092886bbb192335bb0
+Description:  SIPp is a free Open Source test tool / traffic generator for the SIP
+ protocol. It includes a few basic SipStone user agent scenarios (UAC and
+ UAS) and establishes and releases multiple calls with the INVITE and BYE
+ methods.
+
+Package: sngrep
+Version: 2019-12-02-564ad926-1
+Depends: libc, libncursesw6, libopenssl1.1, libpcap1, libpcre
+Source: feeds/telephony/net/sngrep
+SourceName: sngrep
+License: GPL-3.0+
+LicenseFiles: COPYING
+Section: utils
+Maintainer: Sebastian Kemper <sebastian_ml@gmx.net>
+Architecture: mips64_octeon3
+Installed-Size: 80490
+Filename: sngrep_2019-12-02-564ad926-1_mips64_octeon3.ipk
+Size: 81011
+SHA256sum: 8135ec5f0bd7036a484665016da4b8f272cef3c766714c8c453a20cc387f106b
+Description:  sngrep is a tool for displaying SIP calls message flows from terminal.
+ 
+ It supports live capture to display realtime SIP packets and can also be
+ used as PCAP viewer.
+
+Package: yate-mod-accfile
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-accfile
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 7822
+Filename: yate-mod-accfile_6.1.0-1-2_mips64_octeon3.ipk
+Size: 8661
+SHA256sum: 8fdd2f5060b084e38b4e044acea3f62fd80f7aa92bfb4998a7961ddf2a57848f
+Description:  SIP or H.323 client (from file) module for yate
+
+Package: yate-mod-alsachan
+Version: 6.1.0-1-2
+Depends: libc, yate, alsa-lib
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-alsachan
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 11907
+Filename: yate-mod-alsachan_6.1.0-1-2_mips64_octeon3.ipk
+Size: 12622
+SHA256sum: a5291f585e528c5e570bc6ba6d8a8123389ab227ce175721740655dac5cd695b
+Description:  ALSA Sound Channel module for yate
+
+Package: yate-mod-analog
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-analog
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 31797
+Filename: yate-mod-analog_6.1.0-1-2_mips64_octeon3.ipk
+Size: 32603
+SHA256sum: fee8671e817f1847ba42cee4addfc00d9d76a8cd1620cf54db93d85702f16087
+Description:  Analog (e.g. POTS) Channel module for yate
+
+Package: yate-mod-analogdetect
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-analogdetect
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 18481
+Filename: yate-mod-analogdetect_6.1.0-1-2_mips64_octeon3.ipk
+Size: 19231
+SHA256sum: 1e8609f54de3855b6de647ea8ce64cfd0cfb867f85a37e50379ea7c961f61c21
+Description:  Analog Data Detector module for yate
+
+Package: yate-mod-analyzer
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-analyzer
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 12416
+Filename: yate-mod-analyzer_6.1.0-1-2_mips64_octeon3.ipk
+Size: 13175
+SHA256sum: 1d42d32901bc3b7b29d11b2c848fc4bc665bfd02ac01a6be312995b071b2650c
+Description:  Test Call Generator and AQ Analyzer module for yate
+
+Package: yate-mod-cache
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-cache
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 21406
+Filename: yate-mod-cache_6.1.0-1-2_mips64_octeon3.ipk
+Size: 22192
+SHA256sum: cd3f350c79b760f654df847b3b0fc844febc3a9d5fb4223d815c3b6ae18e1876
+Description:  CNAM and LNP memory caches module for yate
+
+Package: yate-mod-callcounters
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-callcounters
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 6166
+Filename: yate-mod-callcounters_6.1.0-1-2_mips64_octeon3.ipk
+Size: 7009
+SHA256sum: 002e6992f2e2dc5a65d374d43a8c1eb2ebd978c47628468f7dfe4bb66e7e6580
+Description:  Count Active Call Legs module for yate
+
+Package: yate-mod-callfork
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-callfork
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 13732
+Filename: yate-mod-callfork_6.1.0-1-2_mips64_octeon3.ipk
+Size: 14515
+SHA256sum: bb423fd7c98f45be7cbdcc1e0ce7aca76d3ba0ac8b73b14da3faf9e685f8d9b0
+Description:  Call Forker module for yate
+
+Package: yate-mod-callgen
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-callgen
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 12353
+Filename: yate-mod-callgen_6.1.0-1-2_mips64_octeon3.ipk
+Size: 13114
+SHA256sum: 21d21bf75a665c7d8b4021f6ca51ada9d336e3524ef368810fbfd068524e6e88
+Description:  Call Generator module for yate
+
+Package: yate-mod-camel-map
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-camel-map
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 102339
+Filename: yate-mod-camel-map_6.1.0-1-2_mips64_octeon3.ipk
+Size: 102145
+SHA256sum: d627c440b4db822ee86e6aeb0028ed922e925e03b2c67c1bea6142048a797b7c
+Description:  MAP/CAMEL TCAP <-> XML translators module for yate
+
+Package: yate-mod-ccongestion
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-ccongestion
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 5725
+Filename: yate-mod-ccongestion_6.1.0-1-2_mips64_octeon3.ipk
+Size: 6543
+SHA256sum: f3dbe1841ba94de2e91da0f7704cf4f4095a5156b8eb512ae5c777fd9aa73fe8
+Description:  Accept Status from Installed Engine Monitors module for yate
+
+Package: yate-mod-cdrbuild
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-cdrbuild
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 14996
+Filename: yate-mod-cdrbuild_6.1.0-1-2_mips64_octeon3.ipk
+Size: 15762
+SHA256sum: c16343be6a36c03ead7a961b42c9dd806428f96bfc6d067d90b4f107258376fc
+Description:  Call Detail Record Builder module for yate
+
+Package: yate-mod-cdrcombine
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-cdrcombine
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 6251
+Filename: yate-mod-cdrcombine_6.1.0-1-2_mips64_octeon3.ipk
+Size: 7065
+SHA256sum: cbf59616db05af2f54ea3912c21922e21f3045a692a97f09970e09e9c078f3ec
+Description:  Call Detail Records per call instead of per call leg module for yate
+
+Package: yate-mod-cdrfile
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-cdrfile
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 5405
+Filename: yate-mod-cdrfile_6.1.0-1-2_mips64_octeon3.ipk
+Size: 6186
+SHA256sum: a5d39fb5555599402bba0f2322dac5fa98dd954edab9f315284fb5eed9648d6f
+Description:  Call Detail Record to File module for yate
+
+Package: yate-mod-ciscosm
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-ciscosm
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 21557
+Filename: yate-mod-ciscosm_6.1.0-1-2_mips64_octeon3.ipk
+Size: 22206
+SHA256sum: 9b5adda96cd304e31e99fae67e7c577dc75bd4028f784bee01ff96cc7ba2446a
+Description:  SS7 Support module for yate
+
+Package: yate-mod-clustering
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-clustering
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 6870
+Filename: yate-mod-clustering_6.1.0-1-2_mips64_octeon3.ipk
+Size: 7707
+SHA256sum: 9c6001df145a97e62db059de9b24c670fb13a592b04470d5822b6c2965c2eb52
+Description:  Clustering Server Support module for yate
+
+Package: yate-mod-conference
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-conference
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 18056
+Filename: yate-mod-conference_6.1.0-1-2_mips64_octeon3.ipk
+Size: 18815
+SHA256sum: 4b62eb0bf223617bd27208ef2f54e081b96e2270a9fba7cd8594a5f4b1b3a6d9
+Description:  Conference Room Mixer module for yate
+
+Package: yate-mod-cpuload
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-cpuload
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 11817
+Filename: yate-mod-cpuload_6.1.0-1-2_mips64_octeon3.ipk
+Size: 12625
+SHA256sum: 7b35d2361516234e215beff63766d65fb75fda8eecb4876cf536728d37a852c4
+Description:  Monitor CPU load and Inform Yate module for yate
+
+Package: yate-mod-dbpbx
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-dbpbx
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 9329
+Filename: yate-mod-dbpbx_6.1.0-1-2_mips64_octeon3.ipk
+Size: 10146
+SHA256sum: c940a34f2ff649b638e6cd88449cad9b76c38852988082daca1e0da2caabc900
+Description:  PBX IVR and Multi-routing from Database module for yate
+
+Package: yate-mod-dbwave
+Version: 6.1.0-1-2
+Depends: libc, yate, yate-mod-wavefile
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-dbwave
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 5575
+Filename: yate-mod-dbwave_6.1.0-1-2_mips64_octeon3.ipk
+Size: 6312
+SHA256sum: 4b1ba6d411d78fabe0b1f8d5c394abb0ba765d80db89af94623126010468b8fd
+Description:  Wav Media for DB Storage module for yate
+
+Package: yate-mod-dumbchan
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-dumbchan
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 5631
+Filename: yate-mod-dumbchan_6.1.0-1-2_mips64_octeon3.ipk
+Size: 6351
+SHA256sum: efd5bcf95b1d876698ae8b1b49ecde8ab09fddc908cc0d94c15629d6426d473a
+Description:  Dummy Channel module for yate
+
+Package: yate-mod-enumroute
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-enumroute
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 7659
+Filename: yate-mod-enumroute_6.1.0-1-2_mips64_octeon3.ipk
+Size: 8487
+SHA256sum: 5d4040d019ff4f9e9ba121a1e463e89957d238359e74837f111cc1a90f887bda
+Description:  ENUM Routing module for yate
+
+Package: yate-mod-eventlogs
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-eventlogs
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 5532
+Filename: yate-mod-eventlogs_6.1.0-1-2_mips64_octeon3.ipk
+Size: 6309
+SHA256sum: e67326748388ba2bcaf8995836331ebae577f069ed8eb9828c264ced7063259a
+Description:  Write events and alarms to log files module for yate
+
+Package: yate-mod-extmodule
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-extmodule
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 26186
+Filename: yate-mod-extmodule_6.1.0-1-2_mips64_octeon3.ipk
+Size: 26933
+SHA256sum: ebda6e13f16ac64d1e3847c0d4cf087b4b05791bbc8e2105914d8e49a3eaf2c4
+Description:  External Module Handler module for yate
+
+Package: yate-mod-faxchan
+Version: 6.1.0-1-2
+Depends: libc, yate, libspandsp
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-faxchan
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 14802
+Filename: yate-mod-faxchan_6.1.0-1-2_mips64_octeon3.ipk
+Size: 15484
+SHA256sum: 1a60f35708b990de5be9216a54cdcc4833755042ff5a93d9e910bdfa70b899fa
+Description:  Spandsp Fax Channel module for yate
+
+Package: yate-mod-fileinfo
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-fileinfo
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 12486
+Filename: yate-mod-fileinfo_6.1.0-1-2_mips64_octeon3.ipk
+Size: 13272
+SHA256sum: 6ff723019e229c58bb2cb2cb9589761317bbd6107b36dc52dcc6ab5bc30c4cc8
+Description:  File Info Holder module for yate
+
+Package: yate-mod-filetransfer
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-filetransfer
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 19372
+Filename: yate-mod-filetransfer_6.1.0-1-2_mips64_octeon3.ipk
+Size: 20131
+SHA256sum: afedbe97cd6acb85b89b46e9a20f70514f920beb1df4746a291fc0b171a82962
+Description:  File Transfer Driver module for yate
+
+Package: yate-mod-gvoice
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-gvoice
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 6565
+Filename: yate-mod-gvoice_6.1.0-1-2_mips64_octeon3.ipk
+Size: 7398
+SHA256sum: e2cfdb724083f457c100b7494eb1848f2c05646fbe9ac741189f9eceee6d7ff4
+Description:  Google Voice support module for yate
+
+Package: yate-mod-heartbeat
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-heartbeat
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 7986
+Filename: yate-mod-heartbeat_6.1.0-1-2_mips64_octeon3.ipk
+Size: 8830
+SHA256sum: f6120ed839461f7c45de7bfcc0abb27aa1b4e8a028be55df026abb80342b2c89
+Description:  Linux-HA compatible heartbeat module for yate
+
+Package: yate-mod-ilbccodec
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-ilbccodec
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 33559
+Filename: yate-mod-ilbccodec_6.1.0-1-2_mips64_octeon3.ipk
+Size: 34325
+SHA256sum: 764d0df1e4652112ef51521136134796a5b0f8ec7b6226f715558ac7fd594c6a
+Description:  iLBC Codec module for yate
+
+Package: yate-mod-ilbcwebrtc
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-ilbcwebrtc
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 39332
+Filename: yate-mod-ilbcwebrtc_6.1.0-1-2_mips64_octeon3.ipk
+Size: 40114
+SHA256sum: b06c057651441f2f3b93753ef2649def2826106634553e819a88b5f105c577cd
+Description:  iLBC Codec from the WebRTC project module for yate
+
+Package: yate-mod-isaccodec
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-isaccodec
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 76864
+Filename: yate-mod-isaccodec_6.1.0-1-2_mips64_octeon3.ipk
+Size: 77057
+SHA256sum: e3d8ec834add61cef2e786e34a7c8761f157068e7cb30874123e3e022017a864
+Description:  internet Speech Audio Codec module for yate
+
+Package: yate-mod-isupmangler
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-isupmangler
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 12092
+Filename: yate-mod-isupmangler_6.1.0-1-2_mips64_octeon3.ipk
+Size: 12905
+SHA256sum: 4a43287850eb1066f5ec65ae6375765e347c851e6bd65eb3e77a5261146cabbb
+Description:  ISUP parameter mangling in a STP module for yate
+
+Package: yate-mod-jabberclient
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-jabberclient
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 42354
+Filename: yate-mod-jabberclient_6.1.0-1-2_mips64_octeon3.ipk
+Size: 43139
+SHA256sum: dfa4bbf140b5f96fea14747d124b7464caa0ed822f7b687df6a0f5d4b5f930f7
+Description:  Jabber Client module for yate
+
+Package: yate-mod-jabberserver
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-jabberserver
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 52221
+Filename: yate-mod-jabberserver_6.1.0-1-2_mips64_octeon3.ipk
+Size: 53001
+SHA256sum: 3099188514809914729a48a1a2d7a6e061f338431042b6f8440054a6a541399d
+Description:  Jabber Server module for yate
+
+Package: yate-mod-javascript
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-javascript
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 62945
+Filename: yate-mod-javascript_6.1.0-1-2_mips64_octeon3.ipk
+Size: 63707
+SHA256sum: f732b654cceeff6cf4ee84c516d3dc090bd40980f36368863b963608e6bdffcd
+Description:  Routing using the embedded Javascript language module for yate
+
+Package: yate-mod-jbfeatures
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-jbfeatures
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 14926
+Filename: yate-mod-jbfeatures_6.1.0-1-2_mips64_octeon3.ipk
+Size: 15682
+SHA256sum: d4efb4ecfd5f50686e2fb6ce409c1f87bc5a15da188a2253af30fdd7a3ced569
+Description:  Jabber Server Features module for yate
+
+Package: yate-mod-lateroute
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-lateroute
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 5723
+Filename: yate-mod-lateroute_6.1.0-1-2_mips64_octeon3.ipk
+Size: 6488
+SHA256sum: 09995f4f95c741edf204bd755993021629375d861601d5dc84508179ed411c33
+Description:  Last Chance Routing module for yate
+
+Package: yate-mod-mgcpca
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-mgcpca
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 51102
+Filename: yate-mod-mgcpca_6.1.0-1-2_mips64_octeon3.ipk
+Size: 51923
+SHA256sum: 5b676144dc898bb1cff2990201257045f2b6af7b15c3c338b732b96e2ee99dda
+Description:  Media Gateway Control Protocol Agent module for yate
+
+Package: yate-mod-mgcpgw
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-mgcpgw
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 35628
+Filename: yate-mod-mgcpgw_6.1.0-1-2_mips64_octeon3.ipk
+Size: 36450
+SHA256sum: d0700f23763d94d839c83f3d6e49f9854be261104950608b053b11c08b02f0b4
+Description:  Media Gateway Control Protocol Gateway module for yate
+
+Package: yate-mod-moh
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-moh
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 10091
+Filename: yate-mod-moh_6.1.0-1-2_mips64_octeon3.ipk
+Size: 10888
+SHA256sum: 25faa003d01598879cdf85f063c84414915291bc428b961d3f42191f8c23f7c2
+Description:  On Hold (music) Generator module for yate
+
+Package: yate-mod-monitoring
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-monitoring
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 32354
+Filename: yate-mod-monitoring_6.1.0-1-2_mips64_octeon3.ipk
+Size: 32674
+SHA256sum: 43c4ede09ff945c533f93d51a1f4ef265dd8004a8293fc5a4b3eec77c30676b5
+Description:  Monitoring/gathering Information module for yate
+
+Package: yate-mod-mrcpspeech
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-mrcpspeech
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 8365
+Filename: yate-mod-mrcpspeech_6.1.0-1-2_mips64_octeon3.ipk
+Size: 9147
+SHA256sum: cb273ca90b8a314cc9a6b0b7c83717107175d754dcbcee89f8d5948b4f377223
+Description:  MRCP v2 Voice/Tone Detector and Synthesizer module for yate
+
+Package: yate-mod-msgsniff
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-msgsniff
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 6330
+Filename: yate-mod-msgsniff_6.1.0-1-2_mips64_octeon3.ipk
+Size: 7125
+SHA256sum: e70816dffd110ff83de359978e0995c19b6d721571bcbf8247ba9a3e17f1e613
+Description:  Sample Message Sniffer module for yate
+
+Package: yate-mod-mux
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-mux
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 12567
+Filename: yate-mod-mux_6.1.0-1-2_mips64_octeon3.ipk
+Size: 13344
+SHA256sum: d108ae3239eea71fd7e70f7e1874b161e6f6c8b7fcafc7afabd64ca74e39be97
+Description:  Data Multiplexor module for yate
+
+Package: yate-mod-mysqldb
+Version: 6.1.0-1-2
+Depends: libc, yate, libmysqlclient-r3
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-mysqldb
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 12015
+Filename: yate-mod-mysqldb_6.1.0-1-2_mips64_octeon3.ipk
+Size: 12828
+SHA256sum: 180363afb3df4dc8775ced606b39ad50c3c8027d652b1f20c221dc34d8739b0f
+Description:  MySQL Backend DB module for yate
+
+Package: yate-mod-openssl
+Version: 6.1.0-1-2
+Depends: libc, yate, libopenssl1.1
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-openssl
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 12729
+Filename: yate-mod-openssl_6.1.0-1-2_mips64_octeon3.ipk
+Size: 13506
+SHA256sum: 9d0fdfa6b08d32379da183412a7f9d79c1ad1e5cb533f2bd0f65efa802cbe76b
+Description:  Encrypted transport (OpenSSL) module for yate
+
+Package: yate-mod-osschan
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-osschan
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 10475
+Filename: yate-mod-osschan_6.1.0-1-2_mips64_octeon3.ipk
+Size: 11239
+SHA256sum: 47b327598e335d7ed2af340dc561eab2603999175b3b794877002c61c946506d
+Description:  OSS Sound Channel module for yate
+
+Package: yate-mod-park
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-park
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 6131
+Filename: yate-mod-park_6.1.0-1-2_mips64_octeon3.ipk
+Size: 6871
+SHA256sum: 03cccce267a40e6c56aa7d79f713ac5e60d3fd7785f709562927a8b56b8e52eb
+Description:  Call Parking module for yate
+
+Package: yate-mod-pbx
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-pbx
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 6773
+Filename: yate-mod-pbx_6.1.0-1-2_mips64_octeon3.ipk
+Size: 7563
+SHA256sum: d6157019660c78a276330b62059e5ec29239106bf077215a1484f81aff30d470
+Description:  PBX Message Handlers module for yate
+
+Package: yate-mod-pbxassist
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-pbxassist
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 21207
+Filename: yate-mod-pbxassist_6.1.0-1-2_mips64_octeon3.ipk
+Size: 21979
+SHA256sum: cd63f24cb96cf31c634972b8eed14279583c0b31493e2325060ad80fec784418
+Description:  Full featured PBX and IVR module for yate
+
+Package: yate-mod-pgsqldb
+Version: 6.1.0-1-2
+Depends: libc, yate, libpq
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-pgsqldb
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 11101
+Filename: yate-mod-pgsqldb_6.1.0-1-2_mips64_octeon3.ipk
+Size: 11837
+SHA256sum: c5fa569c1a94d9d307f3c2dfbe24bd3670d00679ed5f58ccaadd4c26f6680294
+Description:  PostgrestSQL Backend DB module for yate
+
+Package: yate-mod-presence
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-presence
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 11297
+Filename: yate-mod-presence_6.1.0-1-2_mips64_octeon3.ipk
+Size: 12066
+SHA256sum: 89e8211e576d1981454f863c6e7b42fc174d9cf8ef21f604925488590c1e3b01
+Description:  Presence module for yate
+
+Package: yate-mod-queues
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-queues
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 11912
+Filename: yate-mod-queues_6.1.0-1-2_mips64_octeon3.ipk
+Size: 12687
+SHA256sum: 6ac36de34e91d106cb3c69a9d054d67decb1c302b5aca33a3a6fb43539927095
+Description:  Call Distribution and Queues from Database module for yate
+
+Package: yate-mod-queuesnotify
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-queuesnotify
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 11505
+Filename: yate-mod-queuesnotify_6.1.0-1-2_mips64_octeon3.ipk
+Size: 12283
+SHA256sum: 4804494d79f6f57e9d6931d350dfcc991d909efc4b4cbe39b42afd96a0ac2257
+Description:  Notify when queued call status changes module for yate
+
+Package: yate-mod-regexroute
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-regexroute
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 19645
+Filename: yate-mod-regexroute_6.1.0-1-2_mips64_octeon3.ipk
+Size: 20478
+SHA256sum: c9843eb790ee6f2da15259a0a5933e6e9cfc91025d0a737fafa5562cd33de757
+Description:  Regular Expression Based Routing module for yate
+
+Package: yate-mod-regfile
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-regfile
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 9980
+Filename: yate-mod-regfile_6.1.0-1-2_mips64_octeon3.ipk
+Size: 10786
+SHA256sum: ec7cd265a0510d44d6eff54cf87190b0685a931572177aba347a0591f08bd9e2
+Description:  Registration based on users in file module for yate
+
+Package: yate-mod-register
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-register
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 18061
+Filename: yate-mod-register_6.1.0-1-2_mips64_octeon3.ipk
+Size: 18757
+SHA256sum: f9cb471f53db57a3637f5159b8f5b71d7668680f7743018149b3e8b583e8d24b
+Description:  Call Detail Record to a database module for yate
+
+Package: yate-mod-rmanager
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-rmanager
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 23717
+Filename: yate-mod-rmanager_6.1.0-1-2_mips64_octeon3.ipk
+Size: 24455
+SHA256sum: be595368dcc2d8570594ac0d3dc22378c860fd495a0d3db8d0ce8a8cbaffe492
+Description:  Yate Remote Management module for yate
+
+Package: yate-mod-sigtransport
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-sigtransport
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 20532
+Filename: yate-mod-sigtransport_6.1.0-1-2_mips64_octeon3.ipk
+Size: 21303
+SHA256sum: b87acc960c43bdb7048e1824344cf50f82183ea5280afe72aad12f93cd2ffafe
+Description:  SIGTRAN (SS7 over IP) connection provider module for yate
+
+Package: yate-mod-sip-cnam-lnp
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-sip-cnam-lnp
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 9717
+Filename: yate-mod-sip-cnam-lnp_6.1.0-1-2_mips64_octeon3.ipk
+Size: 10551
+SHA256sum: 106db8e7ad52047abd310462581cb7a15259b219b1fdd26fb51b1428fff4bd47
+Description:  Query CNAM and LNP databases using SIP INVITE module for yate
+
+Package: yate-mod-sipfeatures
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-sipfeatures
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 10185
+Filename: yate-mod-sipfeatures_6.1.0-1-2_mips64_octeon3.ipk
+Size: 10970
+SHA256sum: 63db7535ccca7425b52e783a6a63d2c368d2155f9a34abd6245231228709c585
+Description:  SIP Features (SUBSCRIBE/NOTIFY) module for yate
+
+Package: yate-mod-sqlitedb
+Version: 6.1.0-1-2
+Depends: libc, yate, libsqlite3-0
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-sqlitedb
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 11099
+Filename: yate-mod-sqlitedb_6.1.0-1-2_mips64_octeon3.ipk
+Size: 11917
+SHA256sum: 354fad5bbdf14a38891cb73cb0446199d21bd0dfc631d56b18dd9e4d837f131d
+Description:  SQLite Support module for yate
+
+Package: yate-mod-ss7-lnp-ansi
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-ss7-lnp-ansi
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 23071
+Filename: yate-mod-ss7-lnp-ansi_6.1.0-1-2_mips64_octeon3.ipk
+Size: 23775
+SHA256sum: 5ca3d6cc5488a45d1c1c25463d9b39b699ff4796ab0666ef0b25772cb975c614
+Description:  Query LNP Databases module for yate
+
+Package: yate-mod-subscription
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-subscription
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 25965
+Filename: yate-mod-subscription_6.1.0-1-2_mips64_octeon3.ipk
+Size: 26710
+SHA256sum: c7ce1c694fe73bdfb11efc7b5a28f3d7477d74ddae5947a76a8b03c90aa083b5
+Description:  Subcription handler and presence notifier module for yate
+
+Package: yate-mod-tonedetect
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-tonedetect
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 9621
+Filename: yate-mod-tonedetect_6.1.0-1-2_mips64_octeon3.ipk
+Size: 10375
+SHA256sum: 4179745984f16d51167ae98142f3fa73b60ac7d621371ca84b26fb1c7384bea6
+Description:  Detectors for Various Tones module for yate
+
+Package: yate-mod-tonegen
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-tonegen
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 20774
+Filename: yate-mod-tonegen_6.1.0-1-2_mips64_octeon3.ipk
+Size: 21512
+SHA256sum: 9a4b8989b548d5557ced48bf1ca24ee29188c1fc24bcaf80bcc4f13700b3195c
+Description:  Tones Generator module for yate
+
+Package: yate-mod-users
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-users
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 8637
+Filename: yate-mod-users_6.1.0-1-2_mips64_octeon3.ipk
+Size: 9432
+SHA256sum: 5a5ce55e03cb5124b2fb17ad1a80b416884afb06e2bd82672a5f858b2b30c9e1
+Description:  Users module for yate
+
+Package: yate-mod-wavefile
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-wavefile
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 17983
+Filename: yate-mod-wavefile_6.1.0-1-2_mips64_octeon3.ipk
+Size: 18711
+SHA256sum: a5f4277fa63acdc4ed36a4a13a7d995470e13b83a1b1cd33322ac237543be08a
+Description:  Wav file Record and Playback module for yate
+
+Package: yate-mod-yiaxchan
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-yiaxchan
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 78361
+Filename: yate-mod-yiaxchan_6.1.0-1-2_mips64_octeon3.ipk
+Size: 79016
+SHA256sum: 506755244e7384f180e153f2604aa4ba455bceb548c83739a057b91448a26d49
+Description:  IAX Channel module for yate
+
+Package: yate-mod-yjinglechan
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-yjinglechan
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 50437
+Filename: yate-mod-yjinglechan_6.1.0-1-2_mips64_octeon3.ipk
+Size: 51254
+SHA256sum: 6350eace9b5eee89446daecc964518e87a68dfe774e1d750a597156a41d5582a
+Description:  Jingle Channel module for yate
+
+Package: yate-mod-yradius
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-yradius
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 21667
+Filename: yate-mod-yradius_6.1.0-1-2_mips64_octeon3.ipk
+Size: 22011
+SHA256sum: 5541f496c42d3fc8af81cd96f37a8556029bf8f2abe950cadc471b44ac248654
+Description:  RADIUS Client module for yate
+
+Package: yate-mod-yrtpchan
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-yrtpchan
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 46725
+Filename: yate-mod-yrtpchan_6.1.0-1-2_mips64_octeon3.ipk
+Size: 47501
+SHA256sum: 9d29969c1a1796d147330cc7e895ac5969118988604f7ecda27db82bb53e58c0
+Description:  RTP Channel and Other Data Helper module for yate
+
+Package: yate-mod-ysigchan
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-ysigchan
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 61490
+Filename: yate-mod-ysigchan_6.1.0-1-2_mips64_octeon3.ipk
+Size: 62145
+SHA256sum: 285d5489ac0747a5e21fe8bf34b3318c8295262456560dc2d274de4f2e4adcc7
+Description:  SS7/ISDN Protocols - Yate Signalling Library module for yate
+
+Package: yate-mod-ysipchan
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-ysipchan
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 138698
+Filename: yate-mod-ysipchan_6.1.0-1-2_mips64_octeon3.ipk
+Size: 139071
+SHA256sum: 9c6b5a6cf06f747e6d930423addafa3c6019fdf9a546d2160779b76d6fd4d994
+Description:  SIP Channel module for yate
+
+Package: yate-mod-ysnmpagent
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-ysnmpagent
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 65254
+Filename: yate-mod-ysnmpagent_6.1.0-1-2_mips64_octeon3.ipk
+Size: 65723
+SHA256sum: c4c717d4de72592cc04c80c3c95e481983dcf491edec6425e35f5794dae8d567
+Description:  SNMP Protocol Agent module for yate
+
+Package: yate-mod-ysockschan
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-ysockschan
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 28846
+Filename: yate-mod-ysockschan_6.1.0-1-2_mips64_octeon3.ipk
+Size: 29605
+SHA256sum: 00eb595af20eeee236cf489b87e7ad7952ad402a30e9c78d602d1335b0a168aa
+Description:  SOCKS Channel module for yate
+
+Package: yate-mod-ystunchan
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-ystunchan
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 11040
+Filename: yate-mod-ystunchan_6.1.0-1-2_mips64_octeon3.ipk
+Size: 11852
+SHA256sum: 7eb4503f18da0e3cfd51b88dbcf8a293c2fb55c563032a71ae2226993b6870f1
+Description:  STUN Support module for yate
+
+Package: yate-mod-zapcard
+Version: 6.1.0-1-2
+Depends: libc, yate, kmod-dahdi
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-zapcard
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 30635
+Filename: yate-mod-zapcard_6.1.0-1-2_mips64_octeon3.ipk
+Size: 31383
+SHA256sum: 8c8eac45b970b07f638d6db28430eca5cebda197b4f564ddfb57900c521c11f2
+Description:  Zaptel PRI/TDM/FXS/FXO cards module for yate
+
+Package: yate-mod-zlibcompress
+Version: 6.1.0-1-2
+Depends: libc, yate, zlib
+Source: feeds/telephony/net/yate
+SourceName: yate-mod-zlibcompress
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 7386
+Filename: yate-mod-zlibcompress_6.1.0-1-2_mips64_octeon3.ipk
+Size: 8223
+SHA256sum: 67601486d15d33f224f5dfd0912629f6d4692203f4d480659ffced223c33c228
+Description:  Zlib Compression module for yate
+
+Package: yate-scripts-perl
+Version: 6.1.0-1-2
+Depends: libc, yate, yate-mod-extmodule, perlbase-data
+Source: feeds/telephony/net/yate
+SourceName: yate-scripts-perl
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 9220
+Filename: yate-scripts-perl_6.1.0-1-2_mips64_octeon3.ipk
+Size: 10009
+SHA256sum: 8715911c28ce3b7f27c548d15189d97cc38cdd6609b48ff7b1a6dde47abcb6f9
+Description:  Perl module for Yate
+
+Package: yate-sounds
+Version: 6.1.0-1-2
+Depends: libc, yate
+Source: feeds/telephony/net/yate
+SourceName: yate-sounds
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 141402
+Filename: yate-sounds_6.1.0-1-2_mips64_octeon3.ipk
+Size: 139907
+SHA256sum: 18d44e4d95d2b0c40b97aade3638df296585874590a3778988aa12307a0a7863
+Description:  Sounds for Yate
+
+Package: yate
+Version: 6.1.0-1-2
+Depends: libc, libpthread, uclibcxx
+Source: feeds/telephony/net/yate
+SourceName: yate
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jiri Slachta <jiri@slachta.eu>
+Architecture: mips64_octeon3
+Installed-Size: 970399
+Filename: yate_6.1.0-1-2_mips64_octeon3.ipk
+Size: 967670
+SHA256sum: bef773e43202e169d5f559ebfaad9e53082b1bede039470b227f0cda61a0beb0
+Description:  Yet Another Telephony Engine
+

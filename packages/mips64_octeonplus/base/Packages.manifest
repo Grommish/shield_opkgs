@@ -1,0 +1,1373 @@
+Package: busybox
+Version: 1.31.1-1
+Depends: libc, jsonfilter
+Source: package/utils/busybox
+SourceName: busybox
+License: GPL-2.0
+LicenseFiles: LICENSE archival/libarchive/bz/LICENSE
+Section: base
+CPE-ID: cpe:/a:busybox:busybox
+Essential: yes
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: mips64_octeonplus
+Installed-Size: 291351
+Filename: busybox_1.31.1-1_mips64_octeonplus.ipk
+Size: 291162
+SHA256sum: 59d75540766c2f7aafcc71759b188b3fcf569a1e6defb15d3da5cfbae95e578e
+Description:  The Swiss Army Knife of embedded Linux.
+ It slices, it dices, it makes Julian Fries.
+
+Package: ca-bundle
+Version: 20200601-1
+Depends: libc
+Provides: ca-certs
+Source: package/system/ca-certificates
+SourceName: ca-bundle
+Section: base
+Architecture: all
+Installed-Size: 115562
+Filename: ca-bundle_20200601-1_all.ipk
+Size: 116371
+SHA256sum: bb80d13a8f93b61cc6b13c2271416bafa8fd13d0b5b3bc88cb5b003aa70f46db
+Description:  System CA certificates as a bundle
+
+Package: ca-certificates
+Version: 20200601-1
+Depends: libc
+Provides: ca-certs
+Source: package/system/ca-certificates
+SourceName: ca-certificates
+Section: base
+Architecture: all
+Installed-Size: 125108
+Filename: ca-certificates_20200601-1_all.ipk
+Size: 125824
+SHA256sum: 8583489ed3daef37af49c1178c8b70062be463e374a6a7dc6cfdae71f810c366
+Description:  System CA certificates
+
+Package: curl
+Version: 7.71.1-1
+Depends: libc, libcurl4
+Source: package/network/utils/curl
+SourceName: curl
+License: MIT
+LicenseFiles: COPYING
+Section: net
+CPE-ID: cpe:/a:haxx:libcurl
+Maintainer: Imre Kaloz <kaloz@openwrt.org>
+Architecture: mips64_octeonplus
+Installed-Size: 57185
+Filename: curl_7.71.1-1_mips64_octeonplus.ipk
+Size: 57351
+SHA256sum: df75846b3099d28e0ab5a3ea215256c7a54e2a50b6a244661c36614a5e5a4373
+Description:  A client-side URL transfer utility
+
+Package: dnsmasq-full
+Version: 2.81-3
+Depends: libc, libubus20191227, libnettle7, kmod-ipt-ipset, libnetfilter-conntrack3
+Provides: dnsmasq
+Source: package/network/services/dnsmasq
+SourceName: dnsmasq-full
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Require-User: dnsmasq=453:dnsmasq=453
+CPE-ID: cpe:/a:thekelleys:dnsmasq
+Architecture: mips64_octeonplus
+Installed-Size: 179475
+Filename: dnsmasq-full_2.81-3_mips64_octeonplus.ipk
+Size: 179830
+SHA256sum: ab2ca4680a374073bb89396f5f6d5cc1b75476727874a03f4e67bd4dd96f6b7d
+Description:  It is intended to provide coupled DNS and DHCP service to a LAN.
+ 
+ This is a fully configurable variant with DHCPv4, DHCPv6, DNSSEC, Authoritative DNS
+ and IPset, Conntrack support & NO_ID enabled by default.
+
+Package: dropbear
+Version: 2020.80-1
+Depends: libc
+Alternatives: 100:/usr/bin/ssh:/usr/sbin/dropbear, 100:/usr/bin/scp:/usr/sbin/dropbear
+Source: package/network/services/dropbear
+SourceName: dropbear
+License: MIT
+LicenseFiles: LICENSE libtomcrypt/LICENSE libtommath/LICENSE
+Section: net
+CPE-ID: cpe:/a:matt_johnston:dropbear_ssh_server
+Architecture: mips64_octeonplus
+Installed-Size: 100176
+Filename: dropbear_2020.80-1_mips64_octeonplus.ipk
+Size: 100827
+SHA256sum: d53ee3ab086970eaca7592d3907668e0939aa9f3675f9b31b3cc6741a07777bc
+Description:  A small SSH2 server/client designed for small memory environments.
+
+Package: e2fsprogs
+Version: 1.45.6-1
+Depends: libc, libuuid1, libext2fs2
+Source: package/utils/e2fsprogs
+SourceName: e2fsprogs
+License: GPL-2.0
+LicenseFiles: NOTICE
+Section: utils
+CPE-ID: cpe:/a:e2fsprogs_project:e2fsprogs
+Architecture: mips64_octeonplus
+Installed-Size: 182164
+Filename: e2fsprogs_1.45.6-1_mips64_octeonplus.ipk
+Size: 181771
+SHA256sum: 861b6ceb8282d705232f4a2b1e153e8767a8748059d7b09eafdc367b8fa87367
+Description:  This package contains essential ext2 filesystem utilities which consists of
+ e2fsck, mke2fs and most of the other core ext2 filesystem utilities.
+
+Package: f2fsck
+Version: 1.13.0-1
+Depends: libc, libf2fs6
+Source: package/utils/f2fs-tools
+SourceName: f2fsck
+License: GPL-2.0
+Section: utils
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: mips64_octeonplus
+Installed-Size: 84653
+Filename: f2fsck_1.13.0-1_mips64_octeonplus.ipk
+Size: 85399
+SHA256sum: ec54142ee9eebb3d13709fe828fe544452869b782b8857353c5dee67b0812c3a
+Description:  Utility for checking/repairing a Flash-Friendly File System (F2FS)
+
+Package: firewall
+Version: 2019-11-22-8174814a-1
+Depends: libc, libubox20191228, libubus20191227, libuci20130104, libip4tc2, libip6tc2, libxtables12, kmod-ipt-core, kmod-ipt-conntrack, kmod-nf-conntrack6, kmod-ipt-nat
+Source: package/network/config/firewall
+SourceName: firewall
+License: ISC
+Section: net
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: mips64_octeonplus
+Installed-Size: 53780
+Filename: firewall_2019-11-22-8174814a-1_mips64_octeonplus.ipk
+Size: 54036
+SHA256sum: fba8e9ceda380e0bc68278cdc18a4c337e15c392ea5484da4939eb8cf38ac059
+Description:  This package provides a config-compatible C implementation of the UCI firewall.
+
+Package: getrandom
+Version: 2019-12-31-0e34af14-4
+Depends: libc
+Source: package/system/ubox
+SourceName: getrandom
+License: GPL-2.0
+Section: base
+Maintainer: John Crispin <john@phrozen.org>
+Architecture: mips64_octeonplus
+Installed-Size: 1847
+Filename: getrandom_2019-12-31-0e34af14-4_mips64_octeonplus.ipk
+Size: 2570
+SHA256sum: 754ce803542adcd6d4838bbd6a141fafba55d4568e98a1eac2b0a7187c99ff88
+Description:  OpenWrt getrandom system helper
+
+Package: ip-tiny
+Version: 5.7.0-1
+Depends: libc, libnl-tiny
+Provides: ip
+Alternatives: 200:/sbin/ip:/usr/libexec/ip-tiny
+Source: package/network/utils/iproute2
+SourceName: ip-tiny
+License: GPL-2.0
+Section: net
+CPE-ID: cpe:/a:iproute2_project:iproute2
+Maintainer: Russell Senior <russell@personaltelco.net>
+Architecture: mips64_octeonplus
+Installed-Size: 144792
+Filename: ip-tiny_5.7.0-1_mips64_octeonplus.ipk
+Size: 145099
+SHA256sum: 2ae4ea305ad7deb02504cd11365ea084de19b8c8c4949b5e3e2082218764963b
+Description:  Routing control utility (Minimal)
+
+Package: iperf3-ssl
+Version: 3.7-1
+Depends: libc, libopenssl1.1
+Source: package/network/utils/iperf3
+SourceName: iperf3-ssl
+License: BSD-3-Clause
+Section: net
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: mips64_octeonplus
+Installed-Size: 53692
+Filename: iperf3-ssl_3.7-1_mips64_octeonplus.ipk
+Size: 54421
+SHA256sum: d66288f259c1717fee05f5e38ec0f1007b1429d484b11e546995deab46e825b4
+Description:  Internet Protocol bandwidth measuring tool with iperf_auth support
+
+Package: ipset
+Version: 7.4-1
+Depends: libc, kmod-ipt-ipset, libmnl0, libipset13
+Source: package/network/utils/ipset
+SourceName: ipset
+License: GPL-2.0
+Section: net
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: mips64_octeonplus
+Installed-Size: 1482
+Filename: ipset_7.4-1_mips64_octeonplus.ipk
+Size: 2255
+SHA256sum: 4d124509486e96f8466a2b90b0d2ec81466d9fce0ae14f0337654a425e6ccd04
+Description:  IPset administration utility
+
+Package: jshn
+Version: 2020-07-11-f4e9bf73-1
+Depends: libc, libjson-c5, libubox20191228, libblobmsg-json
+Source: package/libs/libubox
+SourceName: jshn
+License: ISC
+Section: utils
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: mips64_octeonplus
+Installed-Size: 6746
+Filename: jshn_2020-07-11-f4e9bf73-1_mips64_octeonplus.ipk
+Size: 7553
+SHA256sum: 20094b4308fad768e6b61007da7b4b76face2be09df2b825b16c2e6a349ffde8
+Description:  Library for parsing and generating JSON from shell scripts
+
+Package: jsonfilter
+Version: 2018-02-04-c7e938d6-1
+Depends: libc, libubox20191228, libjson-c5
+Source: package/utils/jsonfilter
+SourceName: jsonfilter
+License: ISC
+Section: base
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: mips64_octeonplus
+Installed-Size: 11104
+Filename: jsonfilter_2018-02-04-c7e938d6-1_mips64_octeonplus.ipk
+Size: 11837
+SHA256sum: 93f2755b655e88f3bb32f7636baad6cc9e8ded4a314068e708e70853ed46148d
+Description:  OpenWrt JSON filter utility
+
+Package: libblkid1
+Version: 2.35.1-2
+Depends: libc, libuuid1
+Provides: libblkid
+Source: package/utils/util-linux
+SourceName: libblkid
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: libs
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: mips64_octeonplus
+Installed-Size: 118482
+Filename: libblkid1_2.35.1-2_mips64_octeonplus.ipk
+Size: 119147
+SHA256sum: c56c9c31719336a20508cfad78f27843b8c054ba8623c201e3ee56b56642e99d
+Description:  The libblkid library is used to identify block devices (disks) as to their
+ content (e.g. filesystem type, partitions) as well as extracting additional
+ information such as filesystem labels/volume names, partitions, unique
+ identifiers/serial numbers...
+
+Package: libblobmsg-json
+Version: 2020-07-11-f4e9bf73-1
+Depends: libc, libjson-c5, libubox20191228
+Source: package/libs/libubox
+SourceName: libblobmsg-json
+License: ISC
+Section: libs
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: mips64_octeonplus
+Installed-Size: 4008
+Filename: libblobmsg-json_2020-07-11-f4e9bf73-1_mips64_octeonplus.ipk
+Size: 4745
+SHA256sum: ed4a3d2a1422d483de10b17979443b3793d700a73d7a874c95ef2fd3361ea4e1
+Description:  blobmsg <-> json conversion library
+
+Package: libbz2-1.0
+Version: 1.0.8-1
+Depends: libc
+Provides: libbz2
+Source: package/utils/bzip2
+SourceName: libbz2
+License: bzip2-1.0.8
+LicenseFiles: LICENSE
+Section: libs
+CPE-ID: cpe:/a:bzip:bzip2
+Maintainer: Steven Barth <cyrus@openwrt.org>
+Architecture: mips64_octeonplus
+Installed-Size: 25852
+Filename: libbz2-1.0_1.0.8-1_mips64_octeonplus.ipk
+Size: 26657
+SHA256sum: 709781ed7dbd7e0c629407fc4e7ea24da93fce934aec5df9c44f11c62dc49c22
+Description:  bzip2 is a freely available, patent free, high-quality
+ data compressor. This packages provides libbz2 library.
+
+Package: libcomerr0
+Version: 1.45.6-1
+Depends: libc, libuuid1
+Provides: libcomerr
+Source: package/utils/e2fsprogs
+SourceName: libcomerr
+License: GPL-2.0
+LicenseFiles: NOTICE
+Section: libs
+CPE-ID: cpe:/a:e2fsprogs_project:e2fsprogs
+Architecture: mips64_octeonplus
+Installed-Size: 3863
+Filename: libcomerr0_1.45.6-1_mips64_octeonplus.ipk
+Size: 4637
+SHA256sum: 737c13c240ccd2d91b60c20c58eefa29a1585badcb64897b1d2a4beb1157fa96
+Description:  This package contains libcom_err, the common error description library
+ bundled with e2fsprogs.
+
+Package: libcurl4
+Version: 7.71.1-1
+Depends: libc, libmbedtls12, ca-bundle
+Provides: libcurl
+Source: package/network/utils/curl
+SourceName: libcurl
+License: MIT
+LicenseFiles: COPYING
+Section: libs
+CPE-ID: cpe:/a:haxx:libcurl
+Maintainer: Imre Kaloz <kaloz@openwrt.org>
+Architecture: mips64_octeonplus
+Installed-Size: 127476
+Filename: libcurl4_7.71.1-1_mips64_octeonplus.ipk
+Size: 128132
+SHA256sum: bc81a1e56e3c707356f85b7a6e99563945cb11277f32880a24b0348cbb0cdcf9
+Description:  A client-side URL transfer library
+
+Package: libext2fs2
+Version: 1.45.6-1
+Depends: libc, libuuid1, libblkid1, libss2, libcomerr0
+Provides: libext2fs
+Source: package/utils/e2fsprogs
+SourceName: libext2fs
+License: GPL-2.0
+LicenseFiles: NOTICE
+Section: libs
+CPE-ID: cpe:/a:e2fsprogs_project:e2fsprogs
+Architecture: mips64_octeonplus
+Installed-Size: 172265
+Filename: libext2fs2_1.45.6-1_mips64_octeonplus.ipk
+Size: 172686
+SHA256sum: b023c9dcc2a5b9ae4b03af98db6c45eaf6f34122a13f8586c95a135c87512722
+Description:  libext2fs is a library which can access ext2, ext3 and ext4 filesystems.
+
+Package: libf2fs6
+Version: 1.13.0-1
+Depends: libc, libuuid1
+Provides: libf2fs
+Source: package/utils/f2fs-tools
+SourceName: libf2fs
+License: GPL-2.0
+Section: libs
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: mips64_octeonplus
+Installed-Size: 38240
+Filename: libf2fs6_1.13.0-1_mips64_octeonplus.ipk
+Size: 38936
+SHA256sum: a3f4edb8d72f09d47d9ce0b4a3b4382d0476e86a09244ea7697d7fa61d3344e3
+Description:  Library for Flash-Friendly File System (F2FS) tools
+
+Package: libgmp10
+Version: 6.1.2-2
+Depends: libc
+Provides: libgmp
+Source: package/libs/gmp
+SourceName: libgmp
+License: GPL-2.0+
+Section: libs
+Architecture: mips64_octeonplus
+Installed-Size: 222860
+Filename: libgmp10_6.1.2-2_mips64_octeonplus.ipk
+Size: 223694
+SHA256sum: d0710700b580460f5f2214ee1c7232fda7772d94f60dacd746aa95e586d47a28
+Description:  GMP is a free library for arbitrary precision arithmetic, operating on
+ signed integers, rational numbers, and floating point numbers.
+
+Package: libipset13
+Version: 7.4-1
+Depends: libc, kmod-ipt-ipset, libmnl0
+Provides: libipset
+Source: package/network/utils/ipset
+SourceName: libipset
+License: GPL-2.0
+Section: net
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: mips64_octeonplus
+Installed-Size: 43011
+Filename: libipset13_7.4-1_mips64_octeonplus.ipk
+Size: 43585
+SHA256sum: d79eebea1cad1f232d691a8c28e5a28fb06519049fcb7ce169f3b217a79c94de
+Description:  IPset administration utility
+
+Package: libjson-c5
+Version: 0.14-1
+Depends: libc
+Provides: libjson-c
+Source: package/libs/libjson-c
+SourceName: libjson-c
+License: MIT
+LicenseFiles: COPYING
+Section: libs
+CPE-ID: cpe:/a:json-c_project:json-c
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: mips64_octeonplus
+Installed-Size: 23950
+Filename: libjson-c5_0.14-1_mips64_octeonplus.ipk
+Size: 24680
+SHA256sum: 0da163d6b7aaaf7905c1c7cb1cb242ab2eef57d3518f24bc422970e8f430fa49
+Description:  This package contains a library for javascript object notation backends.
+
+Package: libjson-script
+Version: 2020-07-11-f4e9bf73-1
+Depends: libc, libubox20191228
+Source: package/libs/libubox
+SourceName: libjson-script
+License: ISC
+Section: utils
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: mips64_octeonplus
+Installed-Size: 5347
+Filename: libjson-script_2020-07-11-f4e9bf73-1_mips64_octeonplus.ipk
+Size: 6082
+SHA256sum: c4d483d886e8da68a45f2a158da7a493dde5d2a417c6b6ae14b1b667cc53b7d7
+Description:  Minimalistic JSON based scripting engine
+
+Package: libltdl7
+Version: 2.4.6-2
+Depends: libc
+Provides: libltdl
+Source: package/libs/libtool
+SourceName: libltdl
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: libs
+CPE-ID: cpe:/a:gnu:libtool
+Architecture: mips64_octeonplus
+Installed-Size: 13192
+Filename: libltdl7_2.4.6-2_mips64_octeonplus.ipk
+Size: 13944
+SHA256sum: b488eab2ea46ef87d9b6b39c01ad9deca8184378d0de7c6dde63f1da265ea668
+Description:  A generic dynamic object loading library
+
+Package: liblua5.1.5
+Version: 5.1.5-7
+Depends: libc
+Provides: liblua
+Source: package/utils/lua
+SourceName: liblua
+License: MIT
+LicenseFiles: COPYRIGHT
+Section: libs
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: mips64_octeonplus
+Installed-Size: 72099
+Filename: liblua5.1.5_5.1.5-7_mips64_octeonplus.ipk
+Size: 72712
+SHA256sum: c27ba672a0a0b03ccafe9bf264cf217de88f6577aee0c53e825c3b0ed28eb47f
+Description:  Lua is a powerful light-weight programming language designed for extending 
+ applications. Lua is also frequently used as a general-purpose, stand-alone 
+ language. Lua is free software.
+ This package contains the Lua shared libraries, needed by other programs.
+
+Package: liblzo2
+Version: 2.10-3
+Depends: libc
+Provides: liblzo
+Source: package/libs/lzo
+SourceName: liblzo
+License: GPL-2.0-or-later
+LicenseFiles: COPYING
+Section: libs
+Architecture: mips64_octeonplus
+Installed-Size: 37046
+Filename: liblzo2_2.10-3_mips64_octeonplus.ipk
+Size: 37841
+SHA256sum: 943634767ebdecd2f6c19ef0cb88a9de11699aedc4b6ddba888595e7096c43d0
+Description:  LZO is a data compression library which is suitable for data de-/compression
+ in real-time. This means it favours speed over compression ratio.
+
+Package: libmbedtls12
+Version: 2.16.6-1
+Depends: libc
+Provides: libmbedtls
+Source: package/libs/mbedtls
+SourceName: libmbedtls
+License: GPL-2.0-or-later
+LicenseFiles: gpl-2.0.txt
+Section: libs
+CPE-ID: cpe:/a:arm:mbed_tls
+Architecture: mips64_octeonplus
+Installed-Size: 175561
+Filename: libmbedtls12_2.16.6-1_mips64_octeonplus.ipk
+Size: 175850
+SHA256sum: f766f1a5f989bc7f4d7b33f5a0c460e4d6b8adb165fbfc4ccb6dff0cc5aa531d
+Description:  The aim of the mbedtls project is to provide a quality, open-source
+ cryptographic library written in C and targeted at embedded systems.
+ This package contains the mbedtls library.
+
+Package: libmnl0
+Version: 1.0.4-2
+Depends: libc
+Provides: libmnl
+Source: package/libs/libmnl
+SourceName: libmnl
+License: LGPL-2.1+
+Section: libs
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: mips64_octeonplus
+Installed-Size: 6013
+Filename: libmnl0_1.0.4-2_mips64_octeonplus.ipk
+Size: 7240
+SHA256sum: 1eb45e58a9329c2b7bd68ffbc6db94d3aef1e06e1f2269c655def20396bf3836
+Description:  libmnl is a minimalistic user-space library oriented to Netlink developers.
+ There are a lot of common tasks in parsing, validating, constructing of
+ both the Netlink header and TLVs that are repetitive and easy to get wrong.
+ This library aims to provide simple helpers that allows you to re-use code
+ and to avoid re-inventing the wheel. The main features of this library are:
+ .
+ * Small: the shared library requires around 30KB for an x86-based computer.
+ .
+ * Simple: this library avoids complexity and elaborated abstractions that
+ tend to hide Netlink details.
+ .
+ * Easy to use: the library simplifies the work for Netlink-wise developers.
+ It provides functions to make socket handling, message building, validating,
+ parsing and sequence tracking, easier.
+ .
+ * Easy to re-use: you can use the library to build your own abstraction layer
+ on top of this library.
+ .
+ * Decoupling: the interdependency of the main bricks that compose the library
+ is reduced, i.e. the library provides many helpers, but the programmer is not
+ forced to use them.
+
+Package: libncurses6
+Version: 6.2-1
+Depends: libc, terminfo
+Provides: libncursesw, libncurses, libncursesw6
+Source: package/libs/ncurses
+SourceName: libncurses
+License: MIT
+LicenseFiles: README
+Section: libs
+Architecture: mips64_octeonplus
+Installed-Size: 169928
+Filename: libncurses6_6.2-1_mips64_octeonplus.ipk
+Size: 167487
+SHA256sum: 06729f2050f7cb878dbd12c10cfa0fddc9f9a3ee476a16fa40c1a3af63883faa
+Description:  Terminal handling library (Unicode)
+
+Package: libnetfilter-conntrack3
+Version: 2018-05-01-3ccae9f5-2
+Depends: libc, libnfnetlink0, kmod-nf-conntrack-netlink, libmnl0
+Provides: libnetfilter-conntrack
+Source: package/libs/libnetfilter-conntrack
+SourceName: libnetfilter-conntrack
+License: GPL-2.0+
+Section: libs
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: mips64_octeonplus
+Installed-Size: 36567
+Filename: libnetfilter-conntrack3_2018-05-01-3ccae9f5-2_mips64_octeonplus.ipk
+Size: 37253
+SHA256sum: 27bc6241650dc315a18077af31c36a519e53a9de94d5ae92cfc60dfb95e1a00b
+Description:  libnetfilter_conntrack is a userspace library providing a programming
+ interface (API) to the in-kernel connection tracking state table. The
+ library libnetfilter_conntrack has been previously known as
+ libnfnetlink_conntrack and libctnetlink. This library is currently
+ used by conntrack-tools among many other applications.
+
+Package: libnettle7
+Version: 3.5.1-2
+Depends: libc, libgmp10
+Provides: libnettle
+Source: package/libs/nettle
+SourceName: libnettle
+License: GPL-2.0+
+LicenseFiles: COPYING
+Section: libs
+Architecture: mips64_octeonplus
+Installed-Size: 248615
+Filename: libnettle7_3.5.1-2_mips64_octeonplus.ipk
+Size: 248509
+SHA256sum: 26119809c1b558df92f3797d7945e5ec2b4f3dddefdc7f786526bfc22d40efdd
+Description:  GNU crypto library
+
+Package: libnfnetlink0
+Version: 1.0.1-3
+Depends: libc
+Provides: libnfnetlink
+Source: package/libs/libnfnetlink
+SourceName: libnfnetlink
+License: GPL-2.0+
+Section: libs
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: mips64_octeonplus
+Installed-Size: 9599
+Filename: libnfnetlink0_1.0.1-3_mips64_octeonplus.ipk
+Size: 10493
+SHA256sum: 145b69f7085bf052ebc0a8f87d09105f419efab9e8dd518ce22e2f9c4052b726
+Description:  libnfnetlink is is the low-level library for netfilter related kernel/userspace communication.
+ It provides a generic messaging infrastructure for in-kernel netfilter subsystems
+ (such as nfnetlink_log, nfnetlink_queue, nfnetlink_conntrack) and their respective users
+ and/or management tools in userspace.
+
+Package: libnl-tiny
+Version: 2019-10-29-0219008c-1
+Depends: libc
+Source: package/libs/libnl-tiny
+SourceName: libnl-tiny
+License: LGPL-2.1
+Section: libs
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: mips64_octeonplus
+Installed-Size: 13976
+Filename: libnl-tiny_2019-10-29-0219008c-1_mips64_octeonplus.ipk
+Size: 14724
+SHA256sum: 374cc94ec65e38d59b6f81aebde19c487401341ba8b7871fb08e27355399bc58
+Description:  This package contains a stripped down version of libnl
+
+Package: libopenssl1.1
+Version: 1.1.1g-1
+Depends: libc
+Provides: libopenssl
+Source: package/libs/openssl
+SourceName: libopenssl
+License: OpenSSL
+LicenseFiles: LICENSE
+Section: libs
+CPE-ID: cpe:/a:openssl:openssl
+Maintainer: Eneas U de Queiroz <cotequeiroz@gmail.com>
+Architecture: mips64_octeonplus
+Installed-Size: 974783
+Filename: libopenssl1.1_1.1.1g-1_mips64_octeonplus.ipk
+Size: 965415
+SHA256sum: 7472a396706e2213d7ca001affe9a2ece157f17d3832a01e96ec0228f2c2f168
+Description:  The OpenSSL Project is a collaborative effort to develop a robust,
+ commercial-grade, full-featured, and Open Source toolkit implementing the
+ Transport Layer Security (TLS) protocol as well as a full-strength
+ general-purpose cryptography library.
+ This package contains the OpenSSL shared libraries, needed by other programs.
+
+Package: libpcap1
+Version: 1.9.1-2
+Depends: libc
+Provides: libpcap
+Source: package/libs/libpcap
+SourceName: libpcap
+License: BSD-3-Clause
+LicenseFiles: LICENSE
+Section: libs
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: mips64_octeonplus
+Installed-Size: 98238
+Filename: libpcap1_1.9.1-2_mips64_octeonplus.ipk
+Size: 98680
+SHA256sum: 0d3ab15ea93eaca13a067b2682f5157f69c5ed7a0adcb1d23ddfd376cc8c7fa7
+Description:  This package contains a system-independent library for user-level network packet
+ capture.
+
+Package: libreadline8
+Version: 8.0-1
+Depends: libc, libncursesw6
+Provides: libreadline
+Source: package/libs/readline
+SourceName: libreadline
+License: GPL-3.0
+LicenseFiles: COPYING
+Section: libs
+CPE-ID: cpe:/a:gnu:readline
+Architecture: mips64_octeonplus
+Installed-Size: 119588
+Filename: libreadline8_8.0-1_mips64_octeonplus.ipk
+Size: 119675
+SHA256sum: 50dea970f0f47500b8cced4cb8af8959e2a9714a98377d82521fb6bca3fc206f
+Description:  The Readline library provides a set of functions for use by applications
+ that allow users to edit command lines as they are typed in. Both Emacs
+ and vi editing modes are available. The Readline library includes
+ additional functions to maintain a list of previously-entered command
+ lines, to recall and perhaps reedit those lines, and perform csh-like
+ history expansion on previous commands.
+
+Package: libss2
+Version: 1.45.6-1
+Depends: libc, libcomerr0
+Provides: libss
+Source: package/utils/e2fsprogs
+SourceName: libss
+License: GPL-2.0
+LicenseFiles: NOTICE
+Section: libs
+CPE-ID: cpe:/a:e2fsprogs_project:e2fsprogs
+Architecture: mips64_octeonplus
+Installed-Size: 8280
+Filename: libss2_1.45.6-1_mips64_octeonplus.ipk
+Size: 9075
+SHA256sum: c25a243f4bc54c79a88c45a286e24d09e0ded8361d9ce29e1780b67d7338a31c
+Description:  This pacakge contains libss, a command-line interface parsing library
+ bundled with e2fsprogs.
+
+Package: libsysfs2
+Version: 2.1.0-3
+Depends: libc
+Provides: libsysfs
+Source: package/libs/sysfsutils
+SourceName: libsysfs
+License: LGPL-2.1
+LicenseFiles: COPYING cmd/GPL lib/LGPL
+Section: libs
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: mips64_octeonplus
+Installed-Size: 11612
+Filename: libsysfs2_2.1.0-3_mips64_octeonplus.ipk
+Size: 12405
+SHA256sum: 6978674df1c1e556f469b8c32e223e528dbe7d069105e47a94cefc028dac59e3
+Description:  The library's purpose is to provide a consistant and stable interface for
+ querying system device information exposed through sysfs.
+
+Package: libubox20191228
+Version: 2020-07-11-f4e9bf73-1
+Depends: libc
+Provides: libubox
+Source: package/libs/libubox
+SourceName: libubox
+License: ISC
+Section: libs
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: mips64_octeonplus
+Installed-Size: 21827
+Filename: libubox20191228_2020-07-11-f4e9bf73-1_mips64_octeonplus.ipk
+Size: 22481
+SHA256sum: 9fdae3628e4f6ff32f9cf10a45b67c2177765d659ec5732214e08064a705d518
+Description:  Basic utility library
+
+Package: libubus-lua
+Version: 2020-02-05-171469e3-1
+Depends: libc, libubus20191227, liblua5.1.5
+Source: package/system/ubus
+SourceName: libubus-lua
+License: LGPL-2.1
+Section: libs
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: mips64_octeonplus
+Installed-Size: 6603
+Filename: libubus-lua_2020-02-05-171469e3-1_mips64_octeonplus.ipk
+Size: 7389
+SHA256sum: c5dd50740634175e3e8e33a33a775ec7538afd13e5909e34d7347ada89c44288
+Description:  Lua binding for the OpenWrt RPC client
+
+Package: libubus20191227
+Version: 2020-02-05-171469e3-1
+Depends: libc, libubox20191228
+Provides: libubus
+Source: package/system/ubus
+SourceName: libubus
+License: LGPL-2.1
+Section: libs
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: mips64_octeonplus
+Installed-Size: 10303
+Filename: libubus20191227_2020-02-05-171469e3-1_mips64_octeonplus.ipk
+Size: 11058
+SHA256sum: 014e74e6774eba7ffae116fcd9aa489600fdd75d763c57236e55144114e9c8e4
+Description:  OpenWrt RPC client library
+
+Package: libuci20130104
+Version: 2020-04-24-ec8d3233-3
+Depends: libc, libubox20191228
+Provides: libuci
+Source: package/system/uci
+SourceName: libuci
+License: LGPL-2.1
+Section: libs
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: mips64_octeonplus
+Installed-Size: 16507
+Filename: libuci20130104_2020-04-24-ec8d3233-3_mips64_octeonplus.ipk
+Size: 17323
+SHA256sum: d72df30a5361dd3b7b8009ba6b3e402efe06d8526172cfec84af9425f39268fa
+Description:  C library for the Unified Configuration Interface (UCI)
+
+Package: libuclient20160123
+Version: 2020-06-17-c6609861-1
+Depends: libc, libubox20191228
+Provides: libuclient
+Source: package/libs/uclient
+SourceName: libuclient
+License: ISC
+Section: libs
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: mips64_octeonplus
+Installed-Size: 10288
+Filename: libuclient20160123_2020-06-17-c6609861-1_mips64_octeonplus.ipk
+Size: 11042
+SHA256sum: ce48b37d22a293220eb461e3641690a3e553c147e4caac8185cce73064a61d27
+Description:  HTTP/1.1 client library
+
+Package: libustream-mbedtls20200215
+Version: 2020-03-13-5e1bc342-1
+Depends: libc, libubox20191228, libmbedtls12
+Provides: libustream-mbedtls
+Source: package/libs/ustream-ssl
+SourceName: libustream-mbedtls
+License: ISC
+Section: libs
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: mips64_octeonplus
+Installed-Size: 4379
+Filename: libustream-mbedtls20200215_2020-03-13-5e1bc342-1_mips64_octeonplus.ipk
+Size: 5145
+SHA256sum: 0d73f88629a27f086e34fc81b6506f1ceb5791cc802ad768134af261b5c86ee8
+Description:  ustream SSL Library (mbedtls)
+
+Package: libuuid1
+Version: 2.35.1-2
+Depends: libc, librt
+Provides: libuuid
+Source: package/utils/util-linux
+SourceName: libuuid
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: libs
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: mips64_octeonplus
+Installed-Size: 11988
+Filename: libuuid1_2.35.1-2_mips64_octeonplus.ipk
+Size: 12943
+SHA256sum: ca3e01d1524ebd760b10565e28f68568800497bda82eebe7e32b067b52d051e5
+Description:  The UUID library is used to generate unique identifiers for objects
+ that may be accessible beyond the local system. This library
+ generates UUIDs compatible with those created by the Open Software
+ Foundation (OSF) Distributed Computing Environment (DCE) utility.
+
+Package: logd
+Version: 2019-12-31-0e34af14-4
+Depends: libc, libubox20191228, libubus20191227, libblobmsg-json
+Source: package/system/ubox
+SourceName: logd
+License: GPL-2.0
+Section: base
+Maintainer: John Crispin <john@phrozen.org>
+Architecture: mips64_octeonplus
+Installed-Size: 11139
+Filename: logd_2019-12-31-0e34af14-4_mips64_octeonplus.ipk
+Size: 11883
+SHA256sum: d485492fb30d4234ec067adef945678b58dc956909cef604f895a035bb5b3df3
+Description:  OpenWrt system log implementation
+
+Package: lua
+Version: 5.1.5-7
+Depends: libc, liblua5.1.5
+Source: package/utils/lua
+SourceName: lua
+License: MIT
+LicenseFiles: COPYRIGHT
+Section: lang
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: mips64_octeonplus
+Installed-Size: 4878
+Filename: lua_5.1.5-7_mips64_octeonplus.ipk
+Size: 5734
+SHA256sum: dbe56211bee55187ed28a9d5cb3e9553eb44ace2a0d9a026f5ed1b090694d532
+Description:  Lua is a powerful light-weight programming language designed for extending 
+ applications. Lua is also frequently used as a general-purpose, stand-alone 
+ language. Lua is free software.
+ This package contains the Lua language interpreter.
+
+Package: mkf2fs
+Version: 1.13.0-1
+Depends: libc, libf2fs6
+Source: package/utils/f2fs-tools
+SourceName: mkf2fs
+License: GPL-2.0
+Section: utils
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: mips64_octeonplus
+Installed-Size: 16549
+Filename: mkf2fs_1.13.0-1_mips64_octeonplus.ipk
+Size: 17314
+SHA256sum: 3450348604d4ff55ccf781308f38c85643c10b3cf24575b7deb64313060ee92e
+Description:  Utility for creating a Flash-Friendly File System (F2FS)
+
+Package: netifd
+Version: 2020-06-06-51e9fb81-1
+Depends: libc, libuci20130104, libnl-tiny, libubus20191227, ubus, ubusd, jshn, libubox20191228
+Source: package/network/config/netifd
+SourceName: netifd
+License: GPL-2.0
+Section: base
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: mips64_octeonplus
+Installed-Size: 83523
+Filename: netifd_2020-06-06-51e9fb81-1_mips64_octeonplus.ipk
+Size: 84111
+SHA256sum: 78a5ea31e109d66282f7acb24de7ad4301f75a6b167a3309710fca44749a780c
+Description:  OpenWrt Network Interface Configuration Daemon
+
+Package: odhcp6c
+Version: 2020-03-28-f575351c-16
+Depends: libc, libubox20191228
+Source: package/network/ipv6/odhcp6c
+SourceName: odhcp6c
+License: GPL-2.0
+Section: net
+Maintainer: Hans Dedecker <dedeckeh@gmail.com>
+Architecture: mips64_octeonplus
+Installed-Size: 28186
+Filename: odhcp6c_2020-03-28-f575351c-16_mips64_octeonplus.ipk
+Size: 28910
+SHA256sum: e4766993e4bd19531e1f8fa1f127ae9e80e789bc1101da0fb59e7281d4db1681
+Description:  Embedded DHCPv6-client for OpenWrt
+
+Package: odhcpd-ipv6only
+Version: 2020-06-21-5da52992-4
+Depends: libc, libubox20191228, libuci20130104, libubus20191227, libnl-tiny
+Source: package/network/services/odhcpd
+SourceName: odhcpd-ipv6only
+License: GPL-2.0
+Section: net
+Maintainer: Hans Dedecker <dedeckeh@gmail.com>
+Architecture: mips64_octeonplus
+Installed-Size: 39728
+Filename: odhcpd-ipv6only_2020-06-21-5da52992-4_mips64_octeonplus.ipk
+Size: 40431
+SHA256sum: 4c00d30e11ea4f549b0d8b8fa56ffe62e9c687d002f699c303ff0ecb3f78ee1e
+Description:  odhcpd is a daemon for serving and relaying IP management protocols to
+ configure clients and downstream routers. It tries to follow the RFC 6204
+ requirements for IPv6 home routers.
+ 
+ This is a variant providing server services for RA, stateless and stateful
+ DHCPv6,  prefix delegation and can be used to relay RA, DHCPv6 and NDP between
+ routed (non-bridged) interfaces in case no delegated prefixes are available.
+
+Package: openvpn-openssl
+Version: 2.4.9-2
+Depends: libc, kmod-tun, liblzo2, libopenssl1.1
+Provides: openvpn, openvpn-crypto
+Source: package/network/services/openvpn
+SourceName: openvpn-openssl
+License: GPL-2.0
+Section: net
+CPE-ID: cpe:/a:openvpn:openvpn
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: mips64_octeonplus
+Installed-Size: 223144
+Filename: openvpn-openssl_2.4.9-2_mips64_octeonplus.ipk
+Size: 223355
+SHA256sum: bb41eb6c52734cc3fefb8a46f1805a2feae65fcc2c52d69b1fda8435ac0993aa
+Description:  Open source VPN solution using OpenSSL
+
+Package: openwrt-keyring
+Version: 2019-07-25-8080ef34-1
+Depends: libc
+Provides: lede-keyring
+Source: package/system/openwrt-keyring
+SourceName: openwrt-keyring
+License: GPL-2.0
+Section: base
+Maintainer: John Crispin <john@phrozen.org>
+Architecture: mips64_octeonplus
+Installed-Size: 1319
+Filename: openwrt-keyring_2019-07-25-8080ef34-1_mips64_octeonplus.ipk
+Size: 2105
+SHA256sum: b4fc4454dce33f18ece5af422dae16bf0569cd2e588d846edc27ba58f443c27d
+Description:  The keyring of with the developer using and gpg public keys.
+
+Package: opkg
+Version: 2020-05-07-f2166a89-1
+Depends: libc, uclient-fetch, libpthread, libubox20191228
+Source: package/system/opkg
+SourceName: opkg
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: base
+Essential: yes
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: mips64_octeonplus
+Installed-Size: 73162
+Filename: opkg_2020-05-07-f2166a89-1_mips64_octeonplus.ipk
+Size: 74067
+SHA256sum: 8e98fb97e1144c3ae22ea7875952384db80274cc401cca39aebdc52ecb146f73
+Description:  Lightweight package management system
+ opkg is the opkg Package Management System, for handling
+ installation and removal of packages on a system. It can
+ recursively follow dependencies and download all packages
+ necessary to install a particular package.
+ 
+ opkg knows how to install both .ipk and .deb packages.
+
+Package: ppp-mod-pppoe
+Version: 2.4.8.git-2020-05-25-2
+Depends: libc, kmod-pppoe
+Source: package/network/services/ppp
+SourceName: ppp-mod-pppoe
+License: BSD-4-Clause
+Section: net
+CPE-ID: cpe:/a:samba:ppp
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: mips64_octeonplus
+Installed-Size: 10072
+Filename: ppp-mod-pppoe_2.4.8.git-2020-05-25-2_mips64_octeonplus.ipk
+Size: 10900
+SHA256sum: 8366a1e348faaa2cd9b4d021c6acce586afc43c6d8d1637d62a94759046aad2a
+Description:  This package contains a PPPoE (PPP over Ethernet) plugin for ppp.
+
+Package: ppp
+Version: 2.4.8.git-2020-05-25-2
+Depends: libc, kmod-ppp
+Source: package/network/services/ppp
+SourceName: ppp
+License: BSD-4-Clause
+Section: net
+CPE-ID: cpe:/a:samba:ppp
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: mips64_octeonplus
+Installed-Size: 123593
+Filename: ppp_2.4.8.git-2020-05-25-2_mips64_octeonplus.ipk
+Size: 124214
+SHA256sum: 00cff3f03a66b316c7d5070d2d8a1f175f3c9d0eeb11cd5ae45a3d0b63aa2de1
+Description:  This package contains the PPP (Point-to-Point Protocol) daemon.
+
+Package: procd
+Version: 2020-07-11-3034eaf5-3
+Depends: libc, ubusd, ubus, libjson-script, ubox, libubox20191228, libubus20191227, libblobmsg-json, libjson-c5
+Source: package/system/procd
+SourceName: procd
+License: GPL-2.0
+Section: base
+Require-User: :dialout=20 :audio=29
+Maintainer: John Crispin <john@phrozen.org>
+Architecture: mips64_octeonplus
+Installed-Size: 48461
+Filename: procd_2020-07-11-3034eaf5-3_mips64_octeonplus.ipk
+Size: 49084
+SHA256sum: 7b28a7090222f6bd23046217b3311996e9c2c914ae2515615099a605cfd1d23d
+Description:  OpenWrt system process manager
+
+Package: px5g-mbedtls
+Version: 9
+Depends: libc, libmbedtls12
+Provides: px5g
+Source: package/utils/px5g
+SourceName: px5g-mbedtls
+License: LGPL-2.1
+Section: utils
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: mips64_octeonplus
+Installed-Size: 4687
+Filename: px5g-mbedtls_9_mips64_octeonplus.ipk
+Size: 5498
+SHA256sum: a1a9712806a789274fb86ee332bf64ef499b3c1b5620eaacece4e5444b5765cc
+Description:  Px5g is a tiny standalone X.509 certificate generator.
+ It suitable to create key files and certificates in DER
+ and PEM format for use with stunnel, uhttpd and others.
+
+Package: rpcd-mod-file
+Version: 2020-05-26-078bb57e-1
+Depends: libc, libubus20191227, libubox20191228, rpcd
+Source: package/system/rpcd
+SourceName: rpcd-mod-file
+License: ISC
+Section: utils
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: mips64_octeonplus
+Installed-Size: 7066
+Filename: rpcd-mod-file_2020-05-26-078bb57e-1_mips64_octeonplus.ipk
+Size: 7848
+SHA256sum: 65d92b60c17014497b931bf54425b794c9afc0a3cf7d05d3c794674088df1e51
+Description:  Provides ubus calls for file and directory operations.
+
+Package: rpcd-mod-iwinfo
+Version: 2020-05-26-078bb57e-1
+Depends: libc, libubus20191227, libubox20191228, rpcd, libiwinfo20200105
+Source: package/system/rpcd
+SourceName: rpcd-mod-iwinfo
+License: ISC
+Section: utils
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: mips64_octeonplus
+Installed-Size: 6832
+Filename: rpcd-mod-iwinfo_2020-05-26-078bb57e-1_mips64_octeonplus.ipk
+Size: 7668
+SHA256sum: fee76b3bd186be85ee8b03c2a52a76263d27b8b69ef409c4489701637c5dd70f
+Description:  Provides ubus calls for accessing iwinfo data.
+
+Package: rpcd
+Version: 2020-05-26-078bb57e-1
+Depends: libc, libubus20191227, libubox20191228, libuci20130104, libblobmsg-json, libjson-c5
+Source: package/system/rpcd
+SourceName: rpcd
+License: ISC
+Section: utils
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: mips64_octeonplus
+Installed-Size: 23703
+Filename: rpcd_2020-05-26-078bb57e-1_mips64_octeonplus.ipk
+Size: 24358
+SHA256sum: 69f589ac36f82b84fa5f1821b12b27b8c87b9ee2ea8a52cbb430078efa3c97b9
+Description:  This package provides the UBUS RPC backend server to expose various
+ functionality to frontend programs via JSON-RPC.
+
+Package: sysfsutils
+Version: 2.1.0-3
+Depends: libc, libsysfs2
+Source: package/libs/sysfsutils
+SourceName: sysfsutils
+License: LGPL-2.1
+LicenseFiles: COPYING cmd/GPL lib/LGPL
+Section: utils
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: mips64_octeonplus
+Installed-Size: 8734
+Filename: sysfsutils_2.1.0-3_mips64_octeonplus.ipk
+Size: 9598
+SHA256sum: 427d91f208ee3a9c4d493eb19ebd343e81be47a50cbb250d05003b4789ea5442
+Description:  A utility built upon libsysfs that lists devices by bus, class, and topology.
+
+Package: tcpdump
+Version: 4.9.3-1
+Depends: libc, libpcap1
+Source: package/network/utils/tcpdump
+SourceName: tcpdump
+License: BSD-3-Clause
+Section: net
+CPE-ID: cpe:/a:tcpdump:tcpdump
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: mips64_octeonplus
+Installed-Size: 359489
+Filename: tcpdump_4.9.3-1_mips64_octeonplus.ipk
+Size: 356147
+SHA256sum: 5cec6b646276c8ecb6fcb24ac6d07972adc796188b9daa7a3e3aa72b9be1b366
+Description:  Network monitoring and data acquisition tool
+
+Package: terminfo
+Version: 6.2-1
+Depends: libc
+Source: package/libs/ncurses
+SourceName: terminfo
+License: MIT
+LicenseFiles: README
+Section: libs
+Architecture: mips64_octeonplus
+Installed-Size: 6294
+Filename: terminfo_6.2-1_mips64_octeonplus.ipk
+Size: 6964
+SHA256sum: 280e7648ac4545e873c56328eb7d5083e4431e3be50f2f606c42c90015810945
+Description:  Terminal Info Database (ncurses)
+
+Package: ubox
+Version: 2019-12-31-0e34af14-4
+Depends: libc, libubox20191228, ubusd, ubus, libubus20191227, libuci20130104
+Alternatives: 100:/sbin/rmmod:/sbin/kmodloader, 100:/sbin/insmod:/sbin/kmodloader, 100:/sbin/lsmod:/sbin/kmodloader, 100:/sbin/modinfo:/sbin/kmodloader, 100:/sbin/modprobe:/sbin/kmodloader
+Source: package/system/ubox
+SourceName: ubox
+License: GPL-2.0
+Section: base
+Maintainer: John Crispin <john@phrozen.org>
+Architecture: mips64_octeonplus
+Installed-Size: 16467
+Filename: ubox_2019-12-31-0e34af14-4_mips64_octeonplus.ipk
+Size: 17305
+SHA256sum: 37f3ed8c1cd627951ce18591b1ba68d7efe1004a7cd15affe1a662e3515b818c
+Description:  OpenWrt system helper toolbox
+
+Package: ubus
+Version: 2020-02-05-171469e3-1
+Depends: libc, libubus20191227, libblobmsg-json, ubusd
+Source: package/system/ubus
+SourceName: ubus
+License: LGPL-2.1
+Section: base
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: mips64_octeonplus
+Installed-Size: 6060
+Filename: ubus_2020-02-05-171469e3-1_mips64_octeonplus.ipk
+Size: 6826
+SHA256sum: 897904eda44e98cb153ddcc1cda6661641a25994ae2195337e5fc6539a855aeb
+Description:  OpenWrt RPC client utility
+
+Package: ubusd
+Version: 2020-02-05-171469e3-1
+Depends: libc, libubox20191228, libblobmsg-json
+Source: package/system/ubus
+SourceName: ubusd
+License: LGPL-2.1
+Section: base
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: mips64_octeonplus
+Installed-Size: 12150
+Filename: ubusd_2020-02-05-171469e3-1_mips64_octeonplus.ipk
+Size: 12879
+SHA256sum: 7f700395ed8a36de915bcc50cbfab47f61730e54342800aa6f4158247bbc87a1
+Description:  OpenWrt RPC daemon
+
+Package: uci
+Version: 2020-04-24-ec8d3233-3
+Depends: libc, libuci20130104
+Source: package/system/uci
+SourceName: uci
+License: LGPL-2.1
+Section: base
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: mips64_octeonplus
+Installed-Size: 7415
+Filename: uci_2020-04-24-ec8d3233-3_mips64_octeonplus.ipk
+Size: 8222
+SHA256sum: b1fd83188cb14de33a8f6afc0a1cc0281d2561e04da3b6b4c7519a12f8854db3
+Description:  Utility for the Unified Configuration Interface (UCI)
+
+Package: uclient-fetch
+Version: 2020-06-17-c6609861-1
+Depends: libc, libuclient20160123
+Provides: wget
+Alternatives: 200:/usr/bin/wget:/bin/uclient-fetch
+Source: package/libs/uclient
+SourceName: uclient-fetch
+License: ISC
+Section: net
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: mips64_octeonplus
+Installed-Size: 7746
+Filename: uclient-fetch_2020-06-17-c6609861-1_mips64_octeonplus.ipk
+Size: 8549
+SHA256sum: 031e33dc89540adbcecc758625e4dc59caf2320700131085b45715878194cedd
+Description:  Tiny wget replacement using libuclient
+
+Package: uhttpd-mod-ubus
+Version: 2020-06-03-939c281c-1
+Depends: libc, uhttpd, libubus20191227, libblobmsg-json
+Source: package/network/services/uhttpd
+SourceName: uhttpd-mod-ubus
+License: ISC
+Section: net
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: mips64_octeonplus
+Installed-Size: 6092
+Filename: uhttpd-mod-ubus_2020-06-03-939c281c-1_mips64_octeonplus.ipk
+Size: 6895
+SHA256sum: eb1bb3bb69e4c53037fb5f6beccd56d5b479964909f73138d4b07f8738ccdab7
+Description:  The ubus plugin adds a HTTP/JSON RPC proxy for ubus and publishes the
+ session.* namespace and procedures.
+
+Package: uhttpd
+Version: 2020-06-03-939c281c-1
+Depends: libc, libubox20191228, libblobmsg-json, libjson-script, libjson-c5
+Source: package/network/services/uhttpd
+SourceName: uhttpd
+License: ISC
+Section: net
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: mips64_octeonplus
+Installed-Size: 29246
+Filename: uhttpd_2020-06-03-939c281c-1_mips64_octeonplus.ipk
+Size: 29891
+SHA256sum: 11929103026bde6eb68a047a37a8e88e361db2177ff397101f9f4a9e989bb90d
+Description:  uHTTPd is a tiny single threaded HTTP server with TLS, CGI and Lua
+ support. It is intended as a drop-in replacement for the Busybox
+ HTTP daemon.
+
+Package: urandom-seed
+Version: 1.0-2
+Depends: libc, getrandom
+Source: package/system/urandom-seed
+SourceName: urandom-seed
+License: GPL-2.0-only
+Section: base
+Architecture: mips64_octeonplus
+Installed-Size: 839
+Filename: urandom-seed_1.0-2_mips64_octeonplus.ipk
+Size: 1569
+SHA256sum: cd614459dfbc8120d0a9b9e4eb82e634bae4c353a5331e8f199e9442cf14e08a
+Description:  /etc/urandom.seed handling for OpenWrt
+
+Package: urngd
+Version: 2020-01-21-c7f7b6b6-1
+Depends: libc, libubox20191228
+Source: package/system/urngd
+SourceName: urngd
+License: GPL-2.0 BSD-3-Clause
+Section: utils
+Architecture: mips64_octeonplus
+Installed-Size: 4929
+Filename: urngd_2020-01-21-c7f7b6b6-1_mips64_octeonplus.ipk
+Size: 5922
+SHA256sum: faaa384c8e004e2ce34e7a5ef3e759e148dc5d7015c671f1594db6defce899ef
+Description:  urngd is OpenWrt's micro non-physical true random number generator based on
+ timing jitter.
+ 
+ Using the Jitter RNG core, the rngd provides an entropy source that feeds into
+ the Linux /dev/random device if its entropy runs low. It updates the
+ /dev/random entropy estimator such that the newly provided entropy unblocks
+ /dev/random.
+ 
+ The seeding of /dev/random also ensures that /dev/urandom benefits from
+ entropy. Especially during boot time, when the entropy of Linux is low, the
+ Jitter RNGd provides a source of sufficient entropy.
+
+Package: usign
+Version: 2020-05-23-f1f65026-1
+Depends: libc, libubox20191228
+Source: package/system/usign
+SourceName: usign
+License: ISC
+Section: base
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: mips64_octeonplus
+Installed-Size: 11475
+Filename: usign_2020-05-23-f1f65026-1_mips64_octeonplus.ipk
+Size: 12261
+SHA256sum: 833244fca146f6763d5bc0a3d0e9b34349b8645f12eb08eeedeeb7c292877ef8
+Description:  OpenWrt signature verification utility
+
+Package: wireguard-tools
+Version: 1.0.20200513-1
+Depends: libc, ip
+Source: package/network/utils/wireguard-tools
+SourceName: wireguard-tools
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: opt
+Architecture: mips64_octeonplus
+Installed-Size: 46677
+Filename: wireguard-tools_1.0.20200513-1_mips64_octeonplus.ipk
+Size: 47476
+SHA256sum: 01f022a31604da4d19ae33b8a34cc26fd3643af2924484288a4aa127e5ec186a
+Description:  
+ 
+ This package provides the userspace control program for WireGuard,
+ `wg(8)`, a netifd protocol helper, and a re-resolve watchdog script.
+
+Package: wireguard
+Version: 1.0.20200623-1
+Depends: libc, wireguard-tools, kmod-wireguard
+Source: package/network/services/wireguard
+SourceName: wireguard
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: net
+Maintainer: Jason A. Donenfeld <Jason@zx2c4.com>
+Architecture: mips64_octeonplus
+Installed-Size: 105
+Filename: wireguard_1.0.20200623-1_mips64_octeonplus.ipk
+Size: 1122
+SHA256sum: 3ac1fecab68e1a9b0813f1ddfb83dd6537f0bc6a2ecbb349f74563fe867b766d
+Description:  WireGuard is a novel VPN that runs inside the Linux Kernel and utilizes
+ state-of-the-art cryptography. It aims to be faster, simpler, leaner, and
+ more useful than IPSec, while avoiding the massive headache. It intends to
+ be considerably more performant than OpenVPN.  WireGuard is designed as a
+ general purpose VPN for running on embedded interfaces and super computers
+ alike, fit for many different circumstances. It uses UDP.
+
+Package: zlib
+Version: 1.2.11-3
+Depends: libc
+Source: package/libs/zlib
+SourceName: zlib
+License: Zlib
+LicenseFiles: README
+Section: libs
+CPE-ID: cpe:/a:gnu:zlib
+Architecture: mips64_octeonplus
+Installed-Size: 43124
+Filename: zlib_1.2.11-3_mips64_octeonplus.ipk
+Size: 43825
+SHA256sum: a2ce680e4792f4ea3552a7c5345a3482a1bad83440042b08ae9560d0876f0f28
+Description:  zlib is a lossless data-compression library.
+ This package includes the shared library.
+

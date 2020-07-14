@@ -1,0 +1,25 @@
+Package: cgi-io
+Version: 19
+Depends: libc, libubox20191228, libubus20191227
+License: GPL-2.0-or-later
+Section: net
+Architecture: mips64_octeonplus
+Installed-Size: 9435
+Filename: cgi-io_19_mips64_octeonplus.ipk
+Size: 10235
+SHA256sum: 89a72ee4bc7ba853ec7c904a9fba391b8c07b4f7f9113ae93becfa8cd86c3b4a
+Description:  This package contains an cgi utility that is useful for up/downloading files
+
+Package: dosfstools
+Version: 4.1-4
+Depends: libc
+License: GPL-3.0-or-later
+Section: utils
+CPE-ID: cpe:/a:dosfstools_project:dosfstools
+Architecture: mips64_octeonplus
+Installed-Size: 69074
+Filename: dosfstools_4.1-4_mips64_octeonplus.ipk
+Size: 69998
+SHA256sum: 0e2ed5547d8a1509ce44f0072bb7fb0f816feba17a7c52d70dbf5c126f875f94
+Description:  The dosfstools package includes the mkfs.fat and fsck.fat utilities, which respectively make and check MS-DOS FAT filesystems.
+
