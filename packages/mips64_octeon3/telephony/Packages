@@ -3213,10 +3213,10 @@ Depends: libc, libatomic1, libpthread, librt
 License: BSD-2-Clause
 Section: net
 Architecture: mips64_octeon3
-Installed-Size: 113895
+Installed-Size: 113880
 Filename: rtpproxy_2019-10-02-aa1f179e-2_mips64_octeon3.ipk
-Size: 114578
-SHA256sum: 29e3d2138e4680510fb78b5e132dd4c3b244a1a1ad4639fe605fab224780773d
+Size: 114551
+SHA256sum: 604e668bab122c6384e8e727b7a84aadc52bd396cf7491010096231802c7c518
 Description:  RTP (Realtime Transport Protocol) proxy
 
 Package: signalwire-client-c1

@@ -847,10 +847,10 @@ License: BSD-3-Clause
 Section: net
 Maintainer: Saverio Proto <zioproto@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 133191
+Installed-Size: 133199
 Filename: olsrd_2020-06-18-84400e5c-1_mips64_octeon3.ipk
-Size: 133830
-SHA256sum: b16582ff564e681d73440f868cf56cc047dad07fcca1e7fa0ef93a4051d4b04a
+Size: 133807
+SHA256sum: 69801c5ad7a2c3058aa8772376fd6aefc17f1a58d121770e8894743224399618
 Description:  OLSR (Optimized Link State Routing) daemon
 
 Package: oonf-init-scripts

@@ -79,7 +79,7 @@ Architecture: all
 Installed-Size: 18009
 Filename: adblock_4.0.6-1_all.ipk
 Size: 19001
-SHA256sum: 0cfb09dd592ffbd7e83682dfae8ca09784c1d3032c54f0a417b1bf452b5446c3
+SHA256sum: d82098d0d065c66fe098319de00080dbdf540b3dfeae3214980464d8d7b39430
 Description:  Powerful adblock script to block ad/abuse domains via dnsmasq, unbound, named or kresd.
  The script supports many domain blacklist sites plus manual black- and whitelist overrides.
  Please see https://github.com/openwrt/packages/blob/master/net/adblock/files/README.md for further information.
@@ -138,8 +138,8 @@ Maintainer: Antti Seppälä <a.seppala@gmail.com>
 Architecture: mips64_octeon3
 Installed-Size: 2016993
 Filename: alpine-nossl_2.23-1_mips64_octeon3.ipk
-Size: 1974065
-SHA256sum: f013f479b601b4043bdaaefd9f6d66222b6147cdedee7961f6b6a05bdbc773da
+Size: 1974044
+SHA256sum: 68629e0c45856e4234c877410c39cbdb2c90b8f09bcb47d35502f4af0ddca55b
 Description:  Alpine (Alternatively Licensed Program for Internet News and Email) is a
  free software email client developed at the University of Washington.
  It is suitable for both the inexperienced email user as well as for
@@ -156,10 +156,10 @@ LicenseFiles: LICENSE
 Section: mail
 Maintainer: Antti Seppälä <a.seppala@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 2064342
+Installed-Size: 2064343
 Filename: alpine_2.23-1_mips64_octeon3.ipk
-Size: 2021266
-SHA256sum: 431b817b034dee42a4ac23a8359e02297e27b21b23555857de80cffd260219d6
+Size: 2021283
+SHA256sum: e03944f572469d79852bca7c69813ca11c2c4217dec4e75828173a67bb827118
 Description:  Alpine (Alternatively Licensed Program for Internet News and Email) is a
  free software email client developed at the University of Washington.
  It is suitable for both the inexperienced email user as well as for
@@ -1320,10 +1320,10 @@ Section: net
 CPE-ID: cpe:/a:wildbit:beanstalkd
 Maintainer: Philip Prindeville <philipp@redfish-solutions.com>
 Architecture: mips64_octeon3
-Installed-Size: 27086
+Installed-Size: 27092
 Filename: beanstalkd_1.9-1_mips64_octeon3.ipk
-Size: 27826
-SHA256sum: 4321bd7cf1d0ef970d26d4194fecf1e0c39d1c9f0a6551e6c324bac0050459e2
+Size: 27820
+SHA256sum: e11c5e122cd6aa13e24198b8e85b088f17853f3a11e36f2654cd73521453b292
 Description:  Beanstalk is a simple, fast work queue.
 
 Package: bigclown-control-tool
@@ -1352,10 +1352,10 @@ LicenseFiles: LICENSE
 Section: utils
 Maintainer: Karel Kočí <cynerd@email.cz>
 Architecture: mips64_octeon3
-Installed-Size: 36006
+Installed-Size: 36007
 Filename: bigclown-firmware-tool_1.5.1-2_mips64_octeon3.ipk
-Size: 36919
-SHA256sum: ef1f9c100cf462a56542484bdea3e30087f8bbc1efa54eb5e1ff305b80c87884
+Size: 36914
+SHA256sum: e47ece78a09176a8f4bc6f0b46902a1de39c378de86c3c86e2e78742841f1762
 Description:  BigCLown firmware tool
 
 Package: bigclown-gateway
@@ -7130,10 +7130,10 @@ Section: net
 CPE-ID: cpe:/a:roy_marples:dhcpcd
 Maintainer: Marko Ratkaj <marko.ratkaj@sartura.hr>
 Architecture: mips64_octeon3
-Installed-Size: 139593
+Installed-Size: 141174
 Filename: dhcpcd_7.2.2-1_mips64_octeon3.ipk
-Size: 140205
-SHA256sum: 156ffddca75f1357d05bb9edcf2af6c23b545928cc39978555ebcbcff05123f2
+Size: 141674
+SHA256sum: adfa0250a36504a06919ba915b059102489ecd689f3d8906f078f00bed12a64f
 Description:  DHCPv4, IPv6RS and DHCPv6 client with IPv4LL support
  dhcpcd is a one stop network management daemon which includes
  * RFC compliant DHCPv4 and DHCPv6 clients
@@ -7274,10 +7274,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Damiano Renfer <damiano.renfer@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 76757
+Installed-Size: 76786
 Filename: dnscrypt-proxy_2019-08-20-07ac3825-2_mips64_octeon3.ipk
-Size: 77656
-SHA256sum: 5f1fb3af7d1504082edb541b3d84b7f32bb98281b09ddc70fc9072e91e3446a4
+Size: 77645
+SHA256sum: 899f6125c9d9160aa7621b6a6bc391d638857dc344058d76ca842b3517e01939
 Description:  dnscrypt-proxy provides local service which can be used directly as your
  local resolver or as a DNS forwarder, encrypting and authenticating requests
  using the DNSCrypt protocol and passing them to an upstream server.
@@ -7437,10 +7437,10 @@ LicenseFiles: GPL
 Section: utils
 Maintainer: Yousong Zhou <yszhou4tech@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 47008
+Installed-Size: 47011
 Filename: dtc_1.6.0-1_mips64_octeon3.ipk
-Size: 47745
-SHA256sum: 89d9eb1ab1324b8d64b8fca4fa573e918fa48660cfdd43753d1195e425f68819
+Size: 47760
+SHA256sum: 3762715497972aa1aa1dc0494e31afa0dc90dff3d63769c43be5770a24d6c1fd
 Description:  Device Tree Compiler for Flat Device Trees Device Tree Compiler, dtc, takes
  as input a device-tree in a given format and outputs a device-tree in another
  format for booting kernels on embedded systems.
@@ -7867,10 +7867,10 @@ Section: lang
 CPE-ID: cpe:/a:erlang:erlang
 Maintainer: Arnaud Sautaux <arnaud.sautaux@infoteam.ch>
 Architecture: mips64_octeon3
-Installed-Size: 1220689
+Installed-Size: 1220687
 Filename: erlang-ssl_9.0_mips64_octeon3.ipk
-Size: 1221825
-SHA256sum: e08e8bb7a83b3a1d77072e10a9e2b239f21013358f8453d754ceeaf5509c7110
+Size: 1221816
+SHA256sum: bdad4fce3b0c941333e631498036455a24e4b4aa08796f8f2d9c6c732c248bc6
 Description:  Erlang/OTP is a general-purpose programming language and runtime
  environment. Erlang has built-in support for concurrency, distribution
  and fault tolerance.
@@ -7956,8 +7956,8 @@ Maintainer: Arnaud Sautaux <arnaud.sautaux@infoteam.ch>
 Architecture: mips64_octeon3
 Installed-Size: 6808270
 Filename: erlang_23.0-1_mips64_octeon3.ipk
-Size: 6769384
-SHA256sum: e6bb64193197007949e799bfa311ee66ce62c12d467574426612b3ab27a752f3
+Size: 6769378
+SHA256sum: 9962fe125c2151e7f1c24b070e3453eda621668c95cf19d8cc1c0ea5b3b7c9a0
 Description:  Erlang/OTP is a general-purpose programming language and runtime
  environment. Erlang has built-in support for concurrency, distribution
  and fault tolerance.
@@ -8245,10 +8245,10 @@ LicenseFiles: GPL
 Section: utils
 Maintainer: Yousong Zhou <yszhou4tech@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 25865
+Installed-Size: 25880
 Filename: fdt-utils_1.6.0-1_mips64_octeon3.ipk
-Size: 26523
-SHA256sum: bae42404cad866e6393fae665e7821431fa054a08b89eece447928bad7c9a0dd
+Size: 26529
+SHA256sum: d347194f1d08b14b4ed8b1d42407dbc560392b91e25e991a290f69a788b187d2
 Description:  Flat Device Tree Utilities
 
 Package: ffmpeg
@@ -8598,10 +8598,10 @@ LicenseFiles: COPYRIGHT LICENSE
 Section: net
 CPE-ID: cpe:/a:freeradius:freeradius
 Architecture: mips64_octeon3
-Installed-Size: 4198
+Installed-Size: 4199
 Filename: freeradius3-democerts_release_3_0_21-2_mips64_octeon3.ipk
 Size: 4960
-SHA256sum: 5f749c45770dc62c8495d2d32284de38f6df91ce281d24b45aceb3d5f03c3631
+SHA256sum: 8d02c347defaa007c23008a58a5ae1e35c961c7c4f57502cd3a6498a433bc605
 Description:  Demo certificates to test the server
 
 Package: freeradius3-mod-always
@@ -9737,10 +9737,10 @@ Section: devel
 CPE-ID: cpe:/a:gnu:gcc
 Maintainer: Noble Pepper <gccmaintain@noblepepper.com>
 Architecture: mips64_octeon3
-Installed-Size: 33579975
+Installed-Size: 33579978
 Filename: gcc_7.4.0-5_mips64_octeon3.ipk
-Size: 33371335
-SHA256sum: 23d597ac4709aea2a4def2ad4634354f92f5191a8aaf8c47a836687ab8f4b1b6
+Size: 33371060
+SHA256sum: b9db814d241fa5496404867afa1bb4e26f5c17dd3b74388c712f1215b43486fc
 Description:  Build a native toolchain for compiling on target
  device.
 
@@ -15358,8 +15358,8 @@ Maintainer: Noah Meyerhans <frodo@morgul.net>
 Architecture: mips64_octeon3
 Installed-Size: 8085
 Filename: iputils-arping_20190709-1_mips64_octeon3.ipk
-Size: 8877
-SHA256sum: ff1e67f94ea6a31e9874a3e072145836b6c4b58dc4220ecb6b8e2a1136948d3c
+Size: 8880
+SHA256sum: 0a80dde32b227b20360307baa3ace2f796b59f61805d19abb791ecdeecc9d406
 Description:  Send ARP REQUEST packets to a neighbor host
 
 Package: iputils-clockdiff
@@ -15373,10 +15373,10 @@ Section: net
 CPE-ID: cpe:/a:iputils_project:iputils
 Maintainer: Noah Meyerhans <frodo@morgul.net>
 Architecture: mips64_octeon3
-Installed-Size: 5372
+Installed-Size: 5370
 Filename: iputils-clockdiff_20190709-1_mips64_octeon3.ipk
-Size: 6165
-SHA256sum: 4753732867511789bb4870a9bf7acbb9ddb7881351ad4d9a53eadc2075aeefbf
+Size: 6160
+SHA256sum: f89c1a336bf7ea36b713a1e15c941f8e0715e3efa50169b9ef528b20ca5ba58f
 Description:  Measure the clock difference between two hosts
 
 Package: iputils-ping
@@ -15392,8 +15392,8 @@ Maintainer: Noah Meyerhans <frodo@morgul.net>
 Architecture: mips64_octeon3
 Installed-Size: 27912
 Filename: iputils-ping_20190709-1_mips64_octeon3.ipk
-Size: 28685
-SHA256sum: 570f833a0404ea6ca56ee335dfe240506f80e75524bfdfff18430c6f278229d5
+Size: 28682
+SHA256sum: 05d19ba17b4734509612dd81d55d7a10d40f16830e9e12cf670908837b918e24
 Description:  Send ICMP_ECHOREQUEST packets to IP hosts and report on replies
 
 Package: iputils-tftpd
@@ -15407,10 +15407,10 @@ Section: net
 CPE-ID: cpe:/a:iputils_project:iputils
 Maintainer: Noah Meyerhans <frodo@morgul.net>
 Architecture: mips64_octeon3
-Installed-Size: 6982
+Installed-Size: 6983
 Filename: iputils-tftpd_20190709-1_mips64_octeon3.ipk
 Size: 7808
-SHA256sum: 7df14d8552309e8162cdf62b07f31e47f734c0a52e365350cc9eda0c4b252451
+SHA256sum: c695204c426b5c3b144cb414d137e35ff12a623c98f538070a074831996612ae
 Description:  Trivial File Transfer Protocol server
 
 Package: iputils-tracepath
@@ -15424,10 +15424,10 @@ Section: net
 CPE-ID: cpe:/a:iputils_project:iputils
 Maintainer: Noah Meyerhans <frodo@morgul.net>
 Architecture: mips64_octeon3
-Installed-Size: 6249
+Installed-Size: 6248
 Filename: iputils-tracepath_20190709-1_mips64_octeon3.ipk
-Size: 7088
-SHA256sum: 1223a7825360ea3b8e9400a59374a0855b6138952d281032a5d813446c47a426
+Size: 7087
+SHA256sum: df22b5a7a9e1c0a8c837f8efb9753448c9def2dd3e7af62df77c9cc59e029678
 Description:  trace network path to a host, discovering PMTU
 
 Package: ipvsadm
@@ -15879,10 +15879,10 @@ Section: net
 CPE-ID: cpe:/a:keepalived:keepalived
 Maintainer: Ben Kelly <ben@benjii.net> Florian Eckert <fe@dev.tdt.de>
 Architecture: mips64_octeon3
-Installed-Size: 275033
+Installed-Size: 275040
 Filename: keepalived_2.0.20-4_mips64_octeon3.ipk
-Size: 275228
-SHA256sum: eb38ceb715bc3822adb41f3db79e5bc4ae35a32c8d5f2700009d6a423df8e70d
+Size: 275250
+SHA256sum: 292e1dfa497a571f29be731335cee44b9819b0534b5637b4049fd70d19a4ad78
 Description:  VRRP with failover and monitoring daemon for Linux Virtual Server (LVS) clusters.
 
 Package: keyctl
@@ -24069,10 +24069,10 @@ LicenseFiles: COPYING
 Section: libs
 Maintainer: Bruno Randolf <br1@einfach.org>, Nick Hainke <vincent@systemli.org>
 Architecture: mips64_octeon3
-Installed-Size: 20810
+Installed-Size: 20811
 Filename: libuwifi_2020-03-10-4_mips64_octeon3.ipk
-Size: 21515
-SHA256sum: 9182afbae2ccbc96b61a8b10ef8cf647b0df55d198fdb16b1b7ad03b3ff2367f
+Size: 21514
+SHA256sum: ec46afb98b95ed105e1cfefc68807010ad5f8956dcb0ec61220b9b6320b17e03
 Description:  Library for parsing, generating and analyzing Wifi (WLAN 802.11) frames in userspace and related functions.
 
 Package: libuwsc-mbedtls
@@ -27701,10 +27701,10 @@ LicenseFiles: COPYING
 Section: devel
 Maintainer: Andre Heider <a.heider@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 724646
+Installed-Size: 724663
 Filename: meson_0.54.3-1_mips64_octeon3.ipk
-Size: 725702
-SHA256sum: 192cfb51cb9decfb1e511d8e3183fd74b9caea13d766a19f0b5ec9dafd4fa461
+Size: 725715
+SHA256sum: c92018a311992a3c8da6685211a6ca2338feb779aa40f6a9f4742d0cd838f41d
 Description:  Meson is an open source build system meant to be both extremely fast, and, even more importantly, as user friendly as possible.
 
 Package: micrond
@@ -27748,10 +27748,10 @@ LicenseFiles: LICENSE
 Section: lang
 Maintainer: Roger D <rogerdammit@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 200179
+Installed-Size: 200235
 Filename: micropython_1.9.4-1_mips64_octeon3.ipk
-Size: 199633
-SHA256sum: 0db2a155bf95651e915cbb3c10c38a786d6793c462e4e91792cc227936c3044f
+Size: 199723
+SHA256sum: 8202279fcf4f312f834571f238297278032d1657f818c6b256555b408d7e6391
 Description:  This package contains Micro Python, a lean and fast implementation of the Python 3.4 programming language
  that is optimised to run on a microcontroller (and low power computers).
 
@@ -28500,10 +28500,10 @@ LicenseFiles: COPYING
 Section: sound
 Maintainer: Ted Hess <thess@kitschensync.net>
 Architecture: mips64_octeon3
-Installed-Size: 382571
+Installed-Size: 382572
 Filename: mpd-mini_0.21.24-1_mips64_octeon3.ipk
-Size: 381366
-SHA256sum: 8b6f8478bb9d9b877497ba1a6197666b83380e2eb0ec8679280b7a570e49df67
+Size: 381369
+SHA256sum: d9a7e70ed776289b6bb7e35d75c96ec756b29c1e9b29b0330ab458c2b7a6b479
 Description:  Music Player Daemon (MPD) is a flexible, powerful, server-side
  application for playing music. It is typically controlled over a
  network using one of it's many clients including mpc (console),
@@ -29121,8 +29121,8 @@ Maintainer: Darryl Sokoloski <darryl@egloo.ca>
 Architecture: mips64_octeon3
 Installed-Size: 390903
 Filename: netifyd_2020-04-29-v3.00-1_mips64_octeon3.ipk
-Size: 391124
-SHA256sum: 9c3198952e829a47c1c2305dd75a1fdf5725d57f379cf4920193fa0e58623b50
+Size: 391121
+SHA256sum: fe3f1759c6c0f46c0af2a466882a6471ef16050535ada757ec356a0838057036
 Description:  The Netify Agent is a deep-packet inspection server which detects network
  protocols and applications.  These detections can be saved locally, served over
  a UNIX or TCP socket, and/or "pushed" (via HTTP POSTs) to a remote third-party
@@ -38852,10 +38852,10 @@ Require-User: prosody=54:prosody=54
 CPE-ID: cpe:/a:prosody:prosody
 Maintainer: Thomas Heil <heil@terminal-consulting.de>
 Architecture: mips64_octeon3
-Installed-Size: 337186
+Installed-Size: 337184
 Filename: prosody_0.11.5-1_mips64_octeon3.ipk
-Size: 338322
-SHA256sum: 720a63e2ce5159e904995be6aa96121a7fcdd6272229776c81547671e0bc1672
+Size: 338250
+SHA256sum: d666f4622491e21ee93e18e08b8b3d481f2004e4a8c2341b73c1f1c4f6574692
 Description:  Prosody is an exciting new server for Jabber/XMPP
  written in Lua. It aims to be easy to use, and light
  on resources
@@ -39398,10 +39398,10 @@ Section: lang
 CPE-ID: cpe:/a:python:python
 Maintainer: Alexandru Ardelean <ardeleanalex@gmail.com>, Jeffery To <jeffery.to@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 142232
+Installed-Size: 142233
 Filename: python3-asyncio_3.8.3-3_mips64_octeon3.ipk
-Size: 143200
-SHA256sum: 454b71ebfdc240c3cea8cd6cfd0d780310300d24cf2aa7c389342b62a6df2b92
+Size: 143202
+SHA256sum: d61926abb0d84aad04d47f8f9d754a6878fedd90d56778d9e8287c17540ca9e3
 Description:  Python 3.8 asyncio module
 
 Package: python3-atomicwrites-src
@@ -40420,7 +40420,7 @@ Architecture: mips64_octeon3
 Installed-Size: 234740
 Filename: python3-dateutil_2.8.1-2_mips64_octeon3.ipk
 Size: 235642
-SHA256sum: ef4ad9c3d6cdeb98104ea48a529b1a30de814905c57e28d32854b5cfb4f3cc62
+SHA256sum: 6b0c1df9c974f60dac08a774e33bbcd4c697bc18d1016227ef5a157f0c252360
 Description:  Extensions to the standard Python datetime module
 
 Package: python3-dbm-src
@@ -40736,10 +40736,10 @@ LicenseFiles: LICENSE
 Section: lang
 Maintainer: Alexandru Ardelean <ardeleanalex@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 108715
+Installed-Size: 108718
 Filename: python3-django-compressor_2.4-1_mips64_octeon3.ipk
-Size: 109639
-SHA256sum: 1cf65409a20926ea020ecb8f88b61623c7f372ef20b44b9bb4e01112623fa6fe
+Size: 109641
+SHA256sum: 2493415a726cfcb18d95718b5e787117280bd784bb7aa6a1a97f74de64ba5dd5
 Description:  Compresses linked and inline JavaScript or CSS into single cached files.
  Note that the JavaScript filter is not being installed as a dependency.
  You'll need to build the rjsmin module (it is not par of the openwrt standard
@@ -41081,10 +41081,10 @@ LicenseFiles: LICENSE.md
 Section: lang
 Maintainer: Alexandru Ardelean <ardeleanalex@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 839532
+Installed-Size: 839535
 Filename: python3-django-restframework39_3.9.4-2_mips64_octeon3.ipk
-Size: 839243
-SHA256sum: cb3e03f189758904dee7faa633619adb8fefbc8dc8f452a0a0b23d93b6139259
+Size: 839242
+SHA256sum: 858da360b323a93dc90c275bac4bb9df5f259aa067f4d00af89c6168f78bdc69
 Description:  Web APIs for Django, made easy. (3.9 series)
 
 Package: python3-django-restframework
@@ -41097,10 +41097,10 @@ LicenseFiles: LICENSE.md
 Section: lang
 Maintainer: Alexandru Ardelean <ardeleanalex@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 845179
+Installed-Size: 845183
 Filename: python3-django-restframework_3.11.0-3_mips64_octeon3.ipk
-Size: 844896
-SHA256sum: 440935551b013d427742b47beefce90cac5abc6e1fe2c918299321a4222743e3
+Size: 844909
+SHA256sum: 6daadfea5b839dc0bc615c545fe4b4b5239efa0f5f3d38d8d412d2034c7e74ef
 Description:  Web APIs for Django, made easy.
 
 Package: python3-django-simple-captcha-src
@@ -41257,10 +41257,10 @@ Section: lang
 CPE-ID: cpe:/a:djangoproject:django
 Maintainer: Alexandru Ardelean <ardeleanalex@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 4528018
+Installed-Size: 4528014
 Filename: python3-django1_1.11.29-4_mips64_octeon3.ipk
-Size: 4509435
-SHA256sum: 1737faa5e78b2d7d67aedd3b6121a6360741b741dd36cf56e02d07e12348aaa2
+Size: 4509433
+SHA256sum: 44bb2466dddce7b0fad7d27e5172bd1fca8ef4289a99aac754a87bacf8850e3b
 Description:  The web framework for perfectionists with deadlines (LTS 1.11 series).
 
 Package: python3-django
@@ -41276,10 +41276,10 @@ Section: lang
 CPE-ID: cpe:/a:djangoproject:django
 Maintainer: Alexandru Ardelean <ardeleanalex@gmail.com>, Peter Stadler <peter.stadler@student.uibk.ac.at>
 Architecture: mips64_octeon3
-Installed-Size: 4963237
+Installed-Size: 4963244
 Filename: python3-django_3.0.7-1_mips64_octeon3.ipk
-Size: 4944221
-SHA256sum: b78fd556ec6e926c80ad7051f4ff902784840c14a8b6d1e3f4e92ccb2286f652
+Size: 4944237
+SHA256sum: 18e4ba5f932fc25722339d1e55cc32270ca92588e5c0dfcd2841cee5ae673ab0
 Description:  The web framework for perfectionists with deadlines.
 
 Package: python3-dns-src
@@ -42202,10 +42202,10 @@ Section: lang
 CPE-ID: cpe:/a:pocoo:jinja2
 Maintainer: Daniel Golle <daniel@makrotopia.org>
 Architecture: mips64_octeon3
-Installed-Size: 157645
+Installed-Size: 157643
 Filename: python3-jinja2_2.11.2-1_mips64_octeon3.ipk
-Size: 158649
-SHA256sum: 06972e74cf13ef1d571ddd23f3b3d04cc3d8e1e8d35b54eefed77c6cab255116
+Size: 158647
+SHA256sum: 437e5a7b8d41d9e35a2ad998e091e1522e66bb4d51718a94e998713dbcecb7f4
 Description:  Jinja2 is a full featured template engine for Python. It has full
  unicode support, an optional integrated sandboxed execution
  environment, widely used and BSD licensed.
@@ -42391,10 +42391,10 @@ Section: lang
 CPE-ID: cpe:/a:python:python
 Maintainer: Alexandru Ardelean <ardeleanalex@gmail.com>, Jeffery To <jeffery.to@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 1787795
+Installed-Size: 1787813
 Filename: python3-light_3.8.3-3_mips64_octeon3.ipk
-Size: 1787228
-SHA256sum: a288682346c0050f3bcbda0d7d7f75c469d01530f646697470f810394570d8f7
+Size: 1787225
+SHA256sum: 6fc8eb7cb10f059805e87a51237005c920c770446b60b9f8ff70dc965b1d7031
 Description:  This package is essentially the python3-base package plus
  a few of the rarely used (and big) libraries stripped out
  into separate packages.
@@ -43060,10 +43060,10 @@ LicenseFiles: LICENSE.APACHE LICENSE.BSD
 Section: lang
 Maintainer: Jan Pavlinec <jan.pavlinec@nic.cz>
 Architecture: mips64_octeon3
-Installed-Size: 32715
+Installed-Size: 32714
 Filename: python3-packaging_20.4-1_mips64_octeon3.ipk
-Size: 33659
-SHA256sum: d4fbb3d2ead46ebe6ee6763c55c030bedd86acb7cca2351c1ae09e97de80114a
+Size: 33656
+SHA256sum: 166591494a389b2ed9ee7aa57058673ca23db6827285f872b8ddb50f4770a981
 Description:  The packaging project includes version handling, specifiers,
  markers, requirements, tags, utilities.
 
@@ -43281,10 +43281,10 @@ Section: lang
 CPE-ID: cpe:/a:python:python
 Maintainer: Alexandru Ardelean <ardeleanalex@gmail.com>, Jeffery To <jeffery.to@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 1292840
+Installed-Size: 1292841
 Filename: python3-pip_19.2.3-4_mips64_octeon3.ipk
-Size: 1292495
-SHA256sum: 736b05c9b9128c693e71f4d451df6a53c93853a6415469c4b2815160e28782fd
+Size: 1292472
+SHA256sum: c0443758e7418287332ebeba706643e1b752336a25678460365d0661b465a010
 Description:  Python 3.8 pip module
 
 Package: python3-pkg-resources-src
@@ -43571,10 +43571,10 @@ Section: lang
 CPE-ID: cpe:/a:python:python
 Maintainer: Alexandru Ardelean <ardeleanalex@gmail.com>, Jeffery To <jeffery.to@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 188792
+Installed-Size: 188796
 Filename: python3-pydoc_3.8.3-3_mips64_octeon3.ipk
-Size: 189698
-SHA256sum: 65231b5075894bfafad1a28b5eaeae7fdd6672c5a91aabee5e035eb234bfb358
+Size: 189703
+SHA256sum: 8dd25a5de55273ee52d115f74fba3b85f1fde0179ad3c3c7273fecd43b911b43
 Description:  Python 3.8 pydoc module
 
 Package: python3-pyjwt-src
@@ -43958,7 +43958,7 @@ Architecture: mips64_octeon3
 Installed-Size: 306152
 Filename: python3-pytest_5.4.2-2_mips64_octeon3.ipk
 Size: 307198
-SHA256sum: 31ab33ed6f74740c2279852b5c1433bb3eda802b51a5db2fe034e28aaeee109b
+SHA256sum: 15f50bab82a5014986065b2c57b90be064c048807b55fc0c29a04b4430523ce6
 Description:  The pytest framework makes it easy to write small tests, yet scales to support
  complex functional testing for applications and libraries.
 
@@ -44568,10 +44568,10 @@ Section: lang
 CPE-ID: cpe:/a:simplejson_project:simplejson
 Maintainer: Alexandru Ardelean <ardeleanalex@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 40676
+Installed-Size: 40673
 Filename: python3-simplejson_3.17.0-2_mips64_octeon3.ipk
-Size: 41543
-SHA256sum: 2c64dbc595fec56ef8e064557a8087552dbf087f5dcfe87a5c95165e73171f7d
+Size: 41547
+SHA256sum: 3b45766658a32a3bbfc6cab20b1fce59b7c9807e2f6e1268d597d698ebf20c71
 Description:  Simple, fast, extensible JSON encoder/decoder for Python
 
 Package: python3-six-src
@@ -45036,10 +45036,10 @@ Section: lang
 CPE-ID: cpe:/a:python:python
 Maintainer: Alexandru Ardelean <ardeleanalex@gmail.com>, Jeffery To <jeffery.to@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 75710
+Installed-Size: 75711
 Filename: python3-unittest_3.8.3-3_mips64_octeon3.ipk
-Size: 76678
-SHA256sum: 489ce3190e9eea35cb99af445d89f5f057ca15a170127bf29b4b92e67a2eae59
+Size: 76677
+SHA256sum: 35ce379c8b9f12fdd2a530b637465fa5775d989a16350a7a0928184c6db522bd
 Description:  Python 3.8 unittest module
 
 Package: python3-urllib-src
@@ -45314,10 +45314,10 @@ LicenseFiles: LICENSE.rst
 Section: lang
 Maintainer: Daniel Golle <daniel@makrotopia.org>
 Architecture: mips64_octeon3
-Installed-Size: 343060
+Installed-Size: 343063
 Filename: python3-werkzeug_1.0.1-1_mips64_octeon3.ipk
-Size: 339238
-SHA256sum: 30c63c986b5ba5427339352dfa43e57926af46437b8b9c87c3e704a277f9e401
+Size: 339244
+SHA256sum: d8fce3a5c3131b0880934ab3cb619353157c56ce24d8f8d05f582a683d3cd3eb
 Description:  The comprehensive WSGI web application library.
 
 Package: python3-xml-src
@@ -45871,10 +45871,10 @@ Section: libs
 CPE-ID: cpe:/a:pivotal_software:redis
 Maintainer: Jan Pavlinec <jan.pavlinec@nic.cz>
 Architecture: mips64_octeon3
-Installed-Size: 107387
+Installed-Size: 107388
 Filename: redis-cli_6.0.5-1_mips64_octeon3.ipk
-Size: 107917
-SHA256sum: 311f03cefadd98f738faf3b0a6a88e3e5aba0b36f2799590cdb311d2668aea22
+Size: 107904
+SHA256sum: cb67dac0a81d1a49cec255ba34a5ae4177d803a139c4ec879ef4ca56995c88a3
 Description:  Redis cli
 
 Package: redis-server
@@ -45888,10 +45888,10 @@ Section: libs
 CPE-ID: cpe:/a:pivotal_software:redis
 Maintainer: Jan Pavlinec <jan.pavlinec@nic.cz>
 Architecture: mips64_octeon3
-Installed-Size: 543699
+Installed-Size: 543677
 Filename: redis-server_6.0.5-1_mips64_octeon3.ipk
-Size: 543136
-SHA256sum: b83699e91fd659eb06a2aa19ebb774d6abdc6e22c00ceadbc0b6e82c964036a5
+Size: 543127
+SHA256sum: 80271f18d36e590c3e1004323a48ac370ee395866111b9944f0782b67c898624
 Description:  Redis server
 
 Package: redis-utils
@@ -45905,10 +45905,10 @@ Section: libs
 CPE-ID: cpe:/a:pivotal_software:redis
 Maintainer: Jan Pavlinec <jan.pavlinec@nic.cz>
 Architecture: mips64_octeon3
-Installed-Size: 685267
+Installed-Size: 685251
 Filename: redis-utils_6.0.5-1_mips64_octeon3.ipk
 Size: 634833
-SHA256sum: 27fc7b919723fa8d49408a54e0358607bb50a5b258cd07925ee1015d50283359
+SHA256sum: bc83bda11dd5ad3708951e72666bebdb081f09cf8d16668069d5d5ce6d0ea3f0
 Description:  Redis utilities
 
 Package: redsocks
@@ -48335,10 +48335,10 @@ Section: net
 CPE-ID: cpe:/a:samba:samba
 Maintainer: Andy Walsh <andy.walsh44+github@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 766071
+Installed-Size: 764987
 Filename: samba4-admin_4.12.5-1_mips64_octeon3.ipk
-Size: 760378
-SHA256sum: 098475be920dbcc69ae3dba7b942e627be7ff0d67cc9ebd471c9235e95343be9
+Size: 759163
+SHA256sum: 76a3f94e528fdd63d84f01a8cea0b53761ca092530778fce807d970eda034136
 Description:  installs: net smbcontrol profiles rpcclient dbwrap_tool eventlogadm
  ldbadd ldbdel ldbedit ldbmodify ldbrename ldbsearch
  tdbbackup tdbdump tdbrestore tdbtool
@@ -48356,10 +48356,10 @@ Section: net
 CPE-ID: cpe:/a:samba:samba
 Maintainer: Andy Walsh <andy.walsh44+github@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 95345
+Installed-Size: 95290
 Filename: samba4-client_4.12.5-1_mips64_octeon3.ipk
-Size: 95735
-SHA256sum: c2113bd9787b21d3ae8a8f601a9d27fb606ad08ddd83fef0ff695eaf2c81f31f
+Size: 95691
+SHA256sum: 2f87163cec8ede23c29cab0a758c7345da73851915ff7dd26e6d09001f377696
 Description:  installs: cifsdd smbclient smbget
  
  The smbclient program implements a simple ftp-like client for accessing SMB shares
@@ -48375,10 +48375,10 @@ Section: net
 CPE-ID: cpe:/a:samba:samba
 Maintainer: Andy Walsh <andy.walsh44+github@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 7199627
+Installed-Size: 7202271
 Filename: samba4-libs_4.12.5-1_mips64_octeon3.ipk
-Size: 7126160
-SHA256sum: e0399de53e417f0bf232db7f8ba97e65f253548d67b863967f79c1032c7cec15
+Size: 7130763
+SHA256sum: 09af65330e489de2f94222b93d6f0769c233f9f8bcf4a5a1ff4f1ea974c2ae79
 Description:  Samba 4.12.5 libs
 
 Package: samba4-server
@@ -48393,10 +48393,10 @@ Section: net
 CPE-ID: cpe:/a:samba:samba
 Maintainer: Andy Walsh <andy.walsh44+github@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 227311
+Installed-Size: 227335
 Filename: samba4-server_4.12.5-1_mips64_octeon3.ipk
-Size: 227325
-SHA256sum: 5e64d8d4ef7fffcf143e89ddb7c7ba6cb17a9ff13a8573a19e5d4bcd91e30e37
+Size: 227225
+SHA256sum: 373caf11ab4a8af84d1af3d77e5b43eb74a54d6c4936f950bc8e8e4b089ca5f3
 Description:  installs: smbd (nmbd) smbpasswd pdbedit testparm (nmblookup) (smbcacls sharesec)
  (samba samba-tool ntlm_auth samba-gpupdate samba_dnsupdate samba_kcc samba_spnupdate samba_upgradedns samba_downgrade_db)
  
@@ -48414,10 +48414,10 @@ Section: net
 CPE-ID: cpe:/a:samba:samba
 Maintainer: Andy Walsh <andy.walsh44+github@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 38744
+Installed-Size: 38769
 Filename: samba4-utils_4.12.5-1_mips64_octeon3.ipk
-Size: 39638
-SHA256sum: 9fbb45a65f9792ae2350b892490d893550b00cffbd82597302f074bd205c7ef0
+Size: 39667
+SHA256sum: cb28a8de15ba20e167f00ad12c39fa325e45b4ee30b4ab1781989869da3420d5
 Description:  installs: smbstatus smbtree mvxattr smbtar smbcquotas
  
  Utilities collection
@@ -48509,10 +48509,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 41790
+Installed-Size: 41850
 Filename: sane-artec_eplus48u_1.0.30-2_mips64_octeon3.ipk
-Size: 42718
-SHA256sum: 6dd1f8bcee19e5fa9d68403960a65ae8b3be504e231437acccc24cdb7a577552
+Size: 42816
+SHA256sum: 052c97475689a9d6072a03bac184149256478d69e389f348c23f4946a112946c
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for Artec E+ 48U and re-badged models.
@@ -48547,10 +48547,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 71905
+Installed-Size: 72448
 Filename: sane-avision_1.0.30-2_mips64_octeon3.ipk
-Size: 72761
-SHA256sum: 06273516b7376c27f02b83b0e96c34d8eedb3fc86b81c9b39bca689310d72867
+Size: 73287
+SHA256sum: da91c31dc273ef212cabd2780a23d03472d8aa0bbb0e7e27cfad893cb0f1c084
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for Avision and Avision OEM scanners and possibly more flatbed and film scanners.
@@ -48604,10 +48604,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 29936
+Installed-Size: 30098
 Filename: sane-canon630u_1.0.30-2_mips64_octeon3.ipk
-Size: 30882
-SHA256sum: c2ab3698fe30659c2645320f827420198137d5f449d21591c9bb251aca7d3190
+Size: 31043
+SHA256sum: ce7a64f6c5b112eee1f7d4a0ed0dc3b8730da3a4ffe731842b610f73971e6885
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for the Canon 630u USB flatbed scanner.
@@ -48642,10 +48642,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 70212
+Installed-Size: 70504
 Filename: sane-canon_dr_1.0.30-2_mips64_octeon3.ipk
-Size: 71164
-SHA256sum: 6503873d6e495505a19a2aca79ab09c02df97eb7eea17876a2cef47489bbfd4d
+Size: 71477
+SHA256sum: 04cf4add48fc7dbce5ac8b0a7a59d31bfdae77435e4fb4f6b89f3c8d2d4ebf80
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for Canon DR-series scanners.
@@ -48661,10 +48661,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 25881
+Installed-Size: 26132
 Filename: sane-cardscan_1.0.30-2_mips64_octeon3.ipk
-Size: 26785
-SHA256sum: cb381dd486f9c875431f9248545511190ae43a4135863517632275eac20c11db
+Size: 26997
+SHA256sum: 84e59c4b8bd54728edf1133b8603aba3c5c7ba7fd5c4c358836e7de2ef31fafa
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for Corex CardScan usb scanners.
@@ -48680,10 +48680,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 41088
+Installed-Size: 41229
 Filename: sane-coolscan2_1.0.30-2_mips64_octeon3.ipk
-Size: 42084
-SHA256sum: c29089a9547bd9103ccda80270a77a5469e62ecdf4f811da564513b3fca0fa36
+Size: 42246
+SHA256sum: 6392b534f55d83586befa071edb79b07f4fc12cacab84bad95b38a337d343fb9
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for Nikon Coolscan film scanners.
@@ -48699,10 +48699,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 42514
+Installed-Size: 42706
 Filename: sane-coolscan3_1.0.30-2_mips64_octeon3.ipk
-Size: 43482
-SHA256sum: cbc5f0957ab1e1ee2b5c6a96a7c15ef5a06dfa36d88136d96c07a2d45c0e06eb
+Size: 43665
+SHA256sum: 584dbb973d3fc0e139dbed5c3f91ada43a6f0c0d036a350bd4602393cb306eed
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for Nikon Coolscan film scanners.
@@ -48813,10 +48813,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 18729
+Installed-Size: 18871
 Filename: sane-dell1600n_net_1.0.30-2_mips64_octeon3.ipk
-Size: 19667
-SHA256sum: 0e1a1f893b173c38f1587d3b739619a1fca5894fa488ed93e59fa1a980853774
+Size: 19811
+SHA256sum: e4ffd5439e66e882c9592964f0607aac726234756cf31c9c88438508bc2ad7f9
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for Dell 1600n.
@@ -48851,10 +48851,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 42405
+Installed-Size: 42482
 Filename: sane-epjitsu_1.0.30-2_mips64_octeon3.ipk
-Size: 43387
-SHA256sum: 1f477dfdb12b2f302820717998d37be738c45fa68d857795b264eb083c649916
+Size: 43465
+SHA256sum: 0e766bf7d15d584e18d7c7d296503ff42ca88d0e3036c157fee0b9893c984f64
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for Epson-based Fujitsu USB scanners.
@@ -48870,10 +48870,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 66885
+Installed-Size: 67426
 Filename: sane-epson2_1.0.30-2_mips64_octeon3.ipk
-Size: 67698
-SHA256sum: 50177015427013da520f96d30f22e18b70d8b414aabe718184c5133024b15972
+Size: 68213
+SHA256sum: 3925a9df7a413584373509dc77175b31c49a9e05a905d4f31d64f4f1fa9f6d22
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for EPSON scanners.
@@ -48889,10 +48889,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 51225
+Installed-Size: 51468
 Filename: sane-epson_1.0.30-2_mips64_octeon3.ipk
-Size: 52159
-SHA256sum: 6997977ab16e4469ff16e8a3cbcb8ad83a3551ec5d6215cf4efe12b338cb2db4
+Size: 52436
+SHA256sum: ebda59a4be3994f09d2d63ba74465ea1223926a45ffb6d5411ff2251a6ea8c8f
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for EPSON scanners.
@@ -48908,10 +48908,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 48457
+Installed-Size: 48622
 Filename: sane-epsonds_1.0.30-2_mips64_octeon3.ipk
-Size: 49431
-SHA256sum: 900888e41ba79ceccc202d5fe352382ecea403884dbd5e428e4e17c6c94c25a5
+Size: 49600
+SHA256sum: 5647083c0e67a1d8294b8822196c899f71830274086c48fe269d3264ad5d9d18
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for EPSON scanners.
@@ -48945,10 +48945,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 77936
+Installed-Size: 78339
 Filename: sane-fujitsu_1.0.30-2_mips64_octeon3.ipk
-Size: 78860
-SHA256sum: 8b973788d091c319cb36022663bb837910984a7fa9f4b5d94ca7cd52f950a8a8
+Size: 79207
+SHA256sum: 9d7558448b456e186983b74da94aea773b05e4cca2541bbe73d6190caf317e15
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for Fujitsu flatbed and ADF scanners.
@@ -48964,10 +48964,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 341393
+Installed-Size: 341939
 Filename: sane-genesys_1.0.30-2_mips64_octeon3.ipk
-Size: 341578
-SHA256sum: 213faf2b356947cbe5e7530c389b80e97f92cbfb9aab50342d048519d18df3f6
+Size: 342129
+SHA256sum: 4771a56b70faa5e85197975eec1c0ba375d085d3a04668e1233dd52eff202e79
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for GL646 GL841 GL843 GL847 and GL124 based USB flatbed scanners.
@@ -49002,10 +49002,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 60997
+Installed-Size: 61226
 Filename: sane-gt68xx_1.0.30-2_mips64_octeon3.ipk
-Size: 61918
-SHA256sum: 50d8f90baafe988b6796c3d99f1cfb21261ac260c54469ee6cca017c06c32454
+Size: 62157
+SHA256sum: 70cb4485faca3d698537180c150d296c4ec4557a2738637095d6f5295178e6b5
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for GT-68XX based USB flatbed scanners.
@@ -49021,10 +49021,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 35260
+Installed-Size: 35419
 Filename: sane-hp3500_1.0.30-2_mips64_octeon3.ipk
-Size: 36256
-SHA256sum: dbc9d87ef8e36065cd3ae443fe41b2739cbd8adf54f9905b01b314cb6ff114be
+Size: 36405
+SHA256sum: ce00afc639c215d08d1a557828172f78a01b7b67c5b2b688f9dec856d389fd7c
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for Hewlett-Packard ScanJet 3500 series scanners.
@@ -49040,10 +49040,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 120104
+Installed-Size: 120318
 Filename: sane-hp3900_1.0.30-2_mips64_octeon3.ipk
-Size: 119835
-SHA256sum: c2cf91d9b8782e17b91a6503c5569d2dc47cad305cb4504ff9b6081d502ad323
+Size: 120311
+SHA256sum: 7b89519419f7670840d793c0392cb15ad30624058b658b13cfc2f37d3f377e9e
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for RTS8822 chipset based scanners.
@@ -49059,10 +49059,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 28490
+Installed-Size: 28629
 Filename: sane-hp4200_1.0.30-2_mips64_octeon3.ipk
-Size: 29382
-SHA256sum: cbb95957a5672f3ab0880f629782d1d622b44b0b68dc96f49161b9191237d093
+Size: 29541
+SHA256sum: c1fc6c753b82a1a2edf071f2ef5dfc0bf996967b380c489dfce365da75708b95
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for Hewlett-Packard 4200 scanners.
@@ -49078,10 +49078,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 28384
+Installed-Size: 28526
 Filename: sane-hp5400_1.0.30-2_mips64_octeon3.ipk
-Size: 29276
-SHA256sum: 7f6a9c76097789314fc93ddfe3e94e29446430f48f079e53ffe330a811a0b0f5
+Size: 29434
+SHA256sum: 9a93907427bf51755b677d5d005403324b4bf0d45d39247a596be456c0d89c20
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for Hewlett-Packard 54XX scanners.
@@ -49097,10 +49097,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 39421
+Installed-Size: 39623
 Filename: sane-hp5590_1.0.30-2_mips64_octeon3.ipk
-Size: 40417
-SHA256sum: c6641edacd09001ce70aceb6b1fd1a66a6e2859136be9cf26c7accc56751661b
+Size: 40591
+SHA256sum: 41691d30a2c6a86323070f44ae8a82ef2a167a6c8d1e4bae52a58f292e8866fa
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for Hewlett-Packard 4500C/4570C/5500C/5550C/5590/7650 Workgroup/Document scanners.
@@ -49116,10 +49116,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 69424
+Installed-Size: 69570
 Filename: sane-hp_1.0.30-2_mips64_octeon3.ipk
-Size: 70412
-SHA256sum: 843956bb17388726602105849002fcf5b997dce07d6564bd0126eb1be8adc0d7
+Size: 70570
+SHA256sum: 93511e6ed07e2f680d491156c991577a2b462267536b13053aa54caf75c6b23c
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for HP ScanJet scanners.
@@ -49135,10 +49135,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 23879
+Installed-Size: 24027
 Filename: sane-hpljm1005_1.0.30-2_mips64_octeon3.ipk
-Size: 24756
-SHA256sum: 3d9535c1662655a4dc9b832da4cdc68436503c6fe62892277ef58c524daec5f9
+Size: 24902
+SHA256sum: cb1b5efd710734ac38595258640922399c21f06c5e79b2e5495c6eb40f808363
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for Hewlett-Packard LaserJet M1005 MFP Scanner.
@@ -49211,10 +49211,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 46814
+Installed-Size: 47112
 Filename: sane-kodakaio_1.0.30-2_mips64_octeon3.ipk
-Size: 47718
-SHA256sum: 148996017fc84d9574669d39dceeb86e7af83fa8e4d379e550b7ad3a3ed74ded
+Size: 48043
+SHA256sum: a3ec5512dfe277802dadb4c7a2046efd814c961fafb902da35ed6101158e3a5c
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for Kodak aio printer / scanners.
@@ -49230,10 +49230,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 46690
+Installed-Size: 46842
 Filename: sane-kvs1025_1.0.30-2_mips64_octeon3.ipk
-Size: 47652
-SHA256sum: e14bbb744d956826fd4d98920b1a8b175f011754f6ba688066f5e89f819b537d
+Size: 47827
+SHA256sum: 0eb45591c0d299fbc63aed6687face103756b1828e1c7cdb851b6bb1dbb81cd9
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for Panasonic KV-S102xC USB ADF scanners.
@@ -49249,10 +49249,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 36771
+Installed-Size: 36922
 Filename: sane-kvs20xx_1.0.30-2_mips64_octeon3.ipk
-Size: 37668
-SHA256sum: af65b0fc47104062c0f6ad23c84cdc6fc836bacc84c5b42f8e1f0ea37b26f1a4
+Size: 37872
+SHA256sum: efae39d8640eec0216a8a8611aaf9bf965283f2ac7f3480bf9d694a8ed0663cd
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for Panasonic KV-S20xxC USB/SCSI ADF scanners.
@@ -49268,10 +49268,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 41396
+Installed-Size: 41541
 Filename: sane-kvs40xx_1.0.30-2_mips64_octeon3.ipk
-Size: 42314
-SHA256sum: 4ed65a73be45fe9873d3a2e0bcee662764b66062168494a14cd156173c6ddb31
+Size: 42489
+SHA256sum: 9cf0e0df0968898d098148a66ee1857bb0c208977daafd6a7aac8e16673c7907
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for Panasonic KV-S40xxC USB/SCSI ADF scanners.
@@ -49306,10 +49306,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 40232
+Installed-Size: 40410
 Filename: sane-lexmark_1.0.30-2_mips64_octeon3.ipk
-Size: 41191
-SHA256sum: 5b32c45ccdfc3e3a9942bc7f249d3d662165324092b4a95faff45fb6b40014b7
+Size: 41390
+SHA256sum: 4ab8dd9acd3b094949a4b1805e560b0226c78ff0b3456195c09da356da6cbe46
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for Lexmark X1100/X1200 Series scanners.
@@ -49325,10 +49325,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 29722
+Installed-Size: 29870
 Filename: sane-ma1509_1.0.30-2_mips64_octeon3.ipk
-Size: 30691
-SHA256sum: c4ece66a38c1750ef98fbae9cff2b497ad8cb5d559ba5a4d82faa3eb9a505769
+Size: 30839
+SHA256sum: e51323842a1f56df1a1b20191787dd6437e4325b28c790f0ba177227cb4f9bf2
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for Mustek BearPaw 1200F USB scanner.
@@ -49344,10 +49344,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 43221
+Installed-Size: 43366
 Filename: sane-magicolor_1.0.30-2_mips64_octeon3.ipk
-Size: 44191
-SHA256sum: 12f015c5aaef3bf3db31ed17e859b012d2db4596279df94d6f56ee44734689b5
+Size: 44339
+SHA256sum: f3ab1abe8a5d123123f7ced488c7661986c88e256891b3b2f01effd1e26979e8
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for KONICA MINOLTA magicolor scanners.
@@ -49382,10 +49382,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 58674
+Installed-Size: 58813
 Filename: sane-microtek2_1.0.30-2_mips64_octeon3.ipk
-Size: 59664
-SHA256sum: e24fb5c6dada0166b8f803bbe49ecfe832373150cd9ddd330653b8857748a7c7
+Size: 59819
+SHA256sum: a1e0f33339b593f1a8373b59d6437c1da5ad3a1a7fbab6cdbd0d588d593b16b6
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for Microtek scanners with SCSI-2 command set.
@@ -49439,10 +49439,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 62343
+Installed-Size: 62525
 Filename: sane-mustek_usb2_1.0.30-2_mips64_octeon3.ipk
-Size: 63314
-SHA256sum: 4625fc19bf2ab1a454c87ed10e09b44e84f3feb9d6b14dbcba0abe29e032d7ed
+Size: 63461
+SHA256sum: dffe917b9dcb22c55e5ee08cc58ee5f2ad16c0658332e362c0539a385cc12916
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for SQ113 based USB flatbed scanners.
@@ -49458,10 +49458,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 55024
+Installed-Size: 55226
 Filename: sane-mustek_usb_1.0.30-2_mips64_octeon3.ipk
-Size: 55913
-SHA256sum: 8970592060cf653b362f98dbf908a3b3c78d697f769e2d7f6aaa3e37ee5340ef
+Size: 56071
+SHA256sum: 1c3be0ce47398c6ed43f0d57ecadd819749f14de884c68a401dc0690b8f06889
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for Mustek USB flatbed scanners.
@@ -49515,10 +49515,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 30578
+Installed-Size: 30856
 Filename: sane-niash_1.0.30-2_mips64_octeon3.ipk
-Size: 31482
-SHA256sum: aa0530db6a900f5695b7fb9771fd975232d4f21aedd8b695342704aff01b3daf
+Size: 31712
+SHA256sum: 8b88d8c1f6a7bff5479cac8c0a584f8c46f8f46c3521b4587a8ed66eb72cb30d
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for scanners based on the NIASH chipset.
@@ -49572,10 +49572,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 73607
+Installed-Size: 73740
 Filename: sane-pieusb_1.0.30-2_mips64_octeon3.ipk
-Size: 74523
-SHA256sum: 9de0f7973bfff06bb8fe375e65ee7cecccaa16acad2d1547d526f9eb3d43ac16
+Size: 74659
+SHA256sum: e35098efbe6255024ebb038f37938cfe2dcc96177070bf51b6483be41ae2bf7e
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for PIE Devcom and AdLib SCSI flatbed scanners.
@@ -49591,10 +49591,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 79562
+Installed-Size: 80371
 Filename: sane-pixma_1.0.30-2_mips64_octeon3.ipk
-Size: 80369
-SHA256sum: 6eaa5372533705d3642139cf7568cb54afac341f7bbd9664e37977e70ed9201d
+Size: 81062
+SHA256sum: 9699c4af8fc5e556b9fb7965554044f0ed255c0c29f9cfab3ff0d8ff8ba56236
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for Canon Multi-Function Printers and CanoScan Scanners.
@@ -49610,10 +49610,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 91014
+Installed-Size: 91452
 Filename: sane-plustek_1.0.30-2_mips64_octeon3.ipk
-Size: 91864
-SHA256sum: 77cbd1cb49f3f034b69717943ab8599339062b961cd9751314c30e02cc11ca06
+Size: 92297
+SHA256sum: 879888b4e655ea0e2b33c7724bd0b09fd8822e1733f4fc3dff7f3a165cd623d5
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for LM983[1/2/3] based USB flatbed scanners.
@@ -49648,10 +49648,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 24491
+Installed-Size: 24639
 Filename: sane-ricoh2_1.0.30-2_mips64_octeon3.ipk
-Size: 25337
-SHA256sum: e1ea30ae20d41df82a2421332a6da3ea58e38ebf3206712231bfb32961e30336
+Size: 25500
+SHA256sum: 84dc8d0f8f470e3be0b37ff5e2e4dfb26c030d5398b7c85add634dc89cf678e6
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for Ricoh2 flatbed scanners.
@@ -49686,10 +49686,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 61697
+Installed-Size: 61871
 Filename: sane-rts8891_1.0.30-2_mips64_octeon3.ipk
-Size: 62172
-SHA256sum: 675fa7d355fdd6cc1f5e88564bec036eca7df5ead71dc2ad51ebc68ea1dc3cd2
+Size: 62349
+SHA256sum: 018591010ecdd6a6be009688fd5fe022cc8b05d1241cb9bbdee3d38befe43c2e
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for rts8891 based scanners.
@@ -49762,10 +49762,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 29632
+Installed-Size: 29792
 Filename: sane-sm3600_1.0.30-2_mips64_octeon3.ipk
-Size: 30533
-SHA256sum: 17a8a6c10ec8a35ee53bee2d659937a6f06acea208981afe4fc7218b4a658f29
+Size: 30695
+SHA256sum: 2fe410b2b67475965ba1d26340dd5f9c5a395bad683d7c8decbacb27faa836ae
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for Microtek scanners with M011 USB chip.
@@ -49781,10 +49781,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 32496
+Installed-Size: 32633
 Filename: sane-sm3840_1.0.30-2_mips64_octeon3.ipk
-Size: 33467
-SHA256sum: c1c600d3efa2277c5e74e306ee24a6ca794c52204dbe5bfaaa583ce226e05c04
+Size: 33632
+SHA256sum: 7de67b03fa34a039e181355fb585aed767ec3a1a5ae6c7ca319e66ef5346946f
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for Microtek scanners with SCAN08 USB chip.
@@ -49800,10 +49800,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 95637
+Installed-Size: 95898
 Filename: sane-snapscan_1.0.30-2_mips64_octeon3.ipk
-Size: 96361
-SHA256sum: 29fdc3e32b84706e8af7e778be8ef51d94026c1335310c3492daa0e4f84fb825
+Size: 96614
+SHA256sum: 1d68f1cec77b71e58d8cc6453e71245e0c28adf78f85dcae54924a0a5b44fa4a
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for AGFA SnapScan flatbed scanners.
@@ -49857,10 +49857,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 30296
+Installed-Size: 30532
 Filename: sane-stv680_1.0.30-2_mips64_octeon3.ipk
-Size: 31247
-SHA256sum: 2ff3eee405d9c469f40ee6a0c524891c498fc764a928127d85ba4427719f1a3c
+Size: 31456
+SHA256sum: 062c3ffb9d4a58d9d4d334c39d1eee44e7c3882ef1ddcd7ec767b6315fac94d3
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for STV680 cameras.
@@ -49971,10 +49971,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 53294
+Installed-Size: 53447
 Filename: sane-u12_1.0.30-2_mips64_octeon3.ipk
-Size: 54293
-SHA256sum: 403cd6d9df80be167b42c69eefdd2a9468b7c3dc959f1f39e671bcbb72ef4d86
+Size: 54449
+SHA256sum: d4428d5d85d111cb5617492353fbc3f107e005cfe2774e59dd7e3654e1c49d3b
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for Plustek USB flatbed scanners based on older parport designs.
@@ -49990,10 +49990,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 34624
+Installed-Size: 34762
 Filename: sane-umax1220u_1.0.30-2_mips64_octeon3.ipk
-Size: 35623
-SHA256sum: 94a842d39616868381b8d63c1b906cba6d390ff4c46e044bfb67f75e29457da9
+Size: 35761
+SHA256sum: 9611b706a6a27ba233d19cdac04a797ba35310f59969ca10051e502f76eedd56
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for the UMAX Astra 1220U and similar scanners.
@@ -50009,10 +50009,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 68003
+Installed-Size: 68133
 Filename: sane-umax_1.0.30-2_mips64_octeon3.ipk
-Size: 68654
-SHA256sum: ef61baed6a456f303d541814b6c92b58eb72c5211cece011d5a4944c7a66b859
+Size: 68793
+SHA256sum: 79b721d17977667d4366c4c657c5bcc4709f793ca38134c6283daddeaa66165a
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for UMAX scanners.
@@ -50066,10 +50066,10 @@ Section: opt
 CPE-ID: cpe:/a:sane-backends_project:sane-backends
 Maintainer: Luiz Angelo Daros de Luca <luizluca@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 31957
+Installed-Size: 32374
 Filename: sane-xerox_mfp_1.0.30-2_mips64_octeon3.ipk
-Size: 32871
-SHA256sum: 595d949ef8b604b14d67659ba9a6221f1f85a55df124af9a7b222f2755064129
+Size: 33344
+SHA256sum: 412d1f7f5242917ff3561a9de1b9fe478a76f6d5ea508a8fc2600640fbe507a0
 Description:  SANE (Scanner Access Now Easy) is a universal scanner interface.
  .
  This package contains the SANE backend for Xerox Phaser 3200MFP device.
@@ -52193,10 +52193,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jonathan McCrohan <jmccrohan@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 18836
+Installed-Size: 18839
 Filename: sslh_v1.20-3_mips64_octeon3.ipk
-Size: 19514
-SHA256sum: 71f241d5f17838cbb3ca30a55551f99cc5daf033502dc6f9934307923a49e866
+Size: 19507
+SHA256sum: 0c4cad292d936b81dfd0d07143b6dc0eddb4602c9e00242d70a33a15e2a6c6e0
 Description:  SSL/SSH multiplexer
 
 Package: sstp-client
@@ -53814,10 +53814,10 @@ LicenseFiles: COPYING
 Section: utils
 Maintainer: Álvaro Fernández Rojas <noltari@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 7575221
+Installed-Size: 7575278
 Filename: sumo_1.3.1-1_mips64_octeon3.ipk
-Size: 7523735
-SHA256sum: bf7fa385a24b4a57e167e2adf5c09baa0d97b3948354fc6a04a8c307f34e4fa5
+Size: 7524144
+SHA256sum: 1ab9bcda0a0758e861661afc5cf98d65dd9c8c2b76e6a77a6d9bb8db95ce4b1e
 Description:  SUMO is a free and open traffic simulation suite which is available since 2001.
  SUMO allows modelling of intermodal traffic systems including road vehicles,
  public transport and pedestrians. Included with SUMO is a wealth of supporting
@@ -57833,10 +57833,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Stijn Tintel <stijn@linux-ipv6.be>
 Architecture: mips64_octeon3
-Installed-Size: 4189
+Installed-Size: 4194
 Filename: vallumd_0.1.4-1_mips64_octeon3.ipk
-Size: 4992
-SHA256sum: 142f84729252e6da9f43399987e32c590c9dc85d72011c5a95ee984540c12674
+Size: 5003
+SHA256sum: 691d268bc9bcaa2b4175a81bbe2aba152166e6b10789e1fce7b7f7d5be1fadc4
 Description:  Centralized or distributed blacklist
 
 Package: view1090
@@ -58892,10 +58892,10 @@ LicenseFiles: LICENSE
 Section: multimedia
 Maintainer: Adrian Panella <ianchi74@outlook.com>, Josef Schlehofer <pepe.schlehofer@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 1732866
+Installed-Size: 1732872
 Filename: youtube-dl_2020.6.16.1-1_mips64_octeon3.ipk
-Size: 1733669
-SHA256sum: 1c7b268d9b9218a4a74539a5c3652ba8d0d3e73d830d15e751bf22c649f1e428
+Size: 1733681
+SHA256sum: 85aa528b4ed75669e62dfbf765b11c37452aae1f2f1a83b41e26a8a6437c5f6f
 Description:  youtube-dl is a small command-line program to download videos
  from YouTube.com and other video sites.
  It requires the Python3 interpreter.

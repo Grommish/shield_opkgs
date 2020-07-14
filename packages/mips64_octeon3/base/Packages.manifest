@@ -7779,10 +7779,10 @@ License: GPL-2.0
 LicenseFiles: COPYING
 Section: opt
 Architecture: mips64_octeon3
-Installed-Size: 44951
+Installed-Size: 44954
 Filename: wireguard-tools_1.0.20200513-1_mips64_octeon3.ipk
-Size: 45745
-SHA256sum: 370a1485ddd662548fa10cdc06ac2254cf37f85dad8e0fd7407329f75f9081eb
+Size: 45744
+SHA256sum: cef4d359f1b81be0a7ced6408cb156c74865b2842250ba5395fe7b7a4f6d5936
 Description:  
  
  This package provides the userspace control program for WireGuard,

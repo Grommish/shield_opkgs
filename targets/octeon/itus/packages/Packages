@@ -4,10 +4,10 @@ Depends: libc, netifd, procd, jsonfilter, usign, openwrt-keyring, fstools, fwtoo
 License: GPL-2.0
 Section: base
 Architecture: mips64_octeon3
-Installed-Size: 42108
+Installed-Size: 42280
 Filename: base-files_223-r13844-60e73f6818_mips64_octeon3.ipk
-Size: 43131
-SHA256sum: 4f55cfaaf0dc2318130ea4cd0c2e5903fa0979231798fca6a4ca77510427cf82
+Size: 43266
+SHA256sum: 871035228084fc663a974c535dfd3210f108680ed5c963640d3c49c83415ba58
 Description:  This package contains a base filesystem and system scripts for OpenWrt.
 
 Package: block-mount
