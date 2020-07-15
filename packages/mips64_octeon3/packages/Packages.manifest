@@ -2270,6 +2270,21 @@ Description:  This package provides the Boost v1.73.0 libraries.
  There are many more header-only libraries supported by Boost.
  See more at http://www.boost.org/doc/libs/1_72_0/
 
+Package: bottlerocket
+Version: 0.04c-1
+Depends: libc
+Source: feeds/packages/utils/bottlerocket
+SourceName: bottlerocket
+License: LGPL-2.1-only
+Section: utils
+Maintainer: Brian Norris <computersforpeace@gmail.com>
+Architecture: mips64_octeon3
+Installed-Size: 7525
+Filename: bottlerocket_0.04c-1_mips64_octeon3.ipk
+Size: 8316
+SHA256sum: d8bee10592c827b548ecd717292119bdcacf1ec946743d2d6ad04c301ae49ff0
+Description:  BottleRocket is an interface to the X10 FireCracker home automation kit.
+
 Package: bridge
 Version: 1.6-3
 Depends: libc
@@ -2436,32 +2451,32 @@ Description:  Byobu is a GPLv3 open source text-based window manager and termina
  distributions.
 
 Package: cache-domains-mbedtls
-Version: 2.0.0-1
+Version: 2.1.0-1
 Depends: libc, jq, bash, dnsmasq, ca-bundle, libustream-mbedtls20200215
 Source: feeds/packages/utils/cache-domains
 SourceName: cache-domains-mbedtls
 Section: utils
 Maintainer: Gerard Ryan <G.M0N3Y.2503@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 874
-Filename: cache-domains-mbedtls_2.0.0-1_mips64_octeon3.ipk
-Size: 1758
-SHA256sum: 70c36e6b4f7f6f719d49c3e2dbde3123b36d1177680c6a277c6209f0d6b225ae
+Installed-Size: 938
+Filename: cache-domains-mbedtls_2.1.0-1_mips64_octeon3.ipk
+Size: 1817
+SHA256sum: c7b4149348c3fc021b1e3bdbdfe2e6eba4127c9eec6c843ec626db3937391694
 Description:  hotplug script to dynamically configure the local DNS (dnsmasq) to redirect game content servers to a LAN cache.
  Definitive list dynamically obtained from https://github.com/uklans/cache-domains.
 
 Package: cache-domains-openssl
-Version: 2.0.0-1
+Version: 2.1.0-1
 Depends: libc, jq, bash, dnsmasq, ca-bundle, libustream-openssl20200215
 Source: feeds/packages/utils/cache-domains
 SourceName: cache-domains-openssl
 Section: utils
 Maintainer: Gerard Ryan <G.M0N3Y.2503@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 874
-Filename: cache-domains-openssl_2.0.0-1_mips64_octeon3.ipk
-Size: 1755
-SHA256sum: 5410b8bd074c9bf08ea9f9fc6bd9b8db8d316832a5fe0521b8abe1b8f309f4bd
+Installed-Size: 938
+Filename: cache-domains-openssl_2.1.0-1_mips64_octeon3.ipk
+Size: 1814
+SHA256sum: 9d10f7380145042dde9c3ea5eae8952c4fb62ea540ae0f64296917030a854307
 Description:  hotplug script to dynamically configure the local DNS (dnsmasq) to redirect game content servers to a LAN cache.
  Definitive list dynamically obtained from https://github.com/uklans/cache-domains.
 
@@ -6471,6 +6486,22 @@ Description:  Web Distributed Authoring and Versioning (WebDAV), an extension to
  
  davfs2 will work with most WebDAV servers needing little or no configuration.
 
+Package: dawn
+Version: 2020-07-12-32640de3-1
+Depends: libc, libubus20191227, libubox20191228, libblobmsg-json, libuci20130104, libgcrypt, libiwinfo20200105, umdns
+Source: feeds/packages/net/dawn
+SourceName: dawn
+License: GPL-2.0-only
+LicenseFiles: LICENSE
+Section: net
+Maintainer: Nick Hainke <vincent@systemli.org>
+Architecture: mips64_octeon3
+Installed-Size: 36980
+Filename: dawn_2020-07-12-32640de3-1_mips64_octeon3.ipk
+Size: 37706
+SHA256sum: 29911272d2a0707993c9667db4a51fc2879773c5bb451fdc0790db8fedc79886
+Description:  This package implements a decentralized wireless daemon.
+
 Package: dbus-utils
 Version: 1.13.12-1
 Depends: libc, dbus
@@ -9794,7 +9825,7 @@ SHA256sum: 988107289114621f1b493e7ffe92a5fc7b48d30d1e3c947ce8107653386d61e8
 Description:  gdisk is GPT aware disk partitioning tool, with interactive UI.
 
 Package: gerbera
-Version: 1.5.0-8
+Version: 1.5.0-9
 Depends: libc, file, libnpupnp, libsqlite3-0, libexif, libuuid1, libfmt
 Source: feeds/packages/multimedia/gerbera
 SourceName: gerbera
@@ -9803,10 +9834,10 @@ LicenseFiles: LICENSE.md
 Section: multimedia
 Require-User: gerbera:gerbera
 Architecture: mips64_octeon3
-Installed-Size: 2275141
-Filename: gerbera_1.5.0-8_mips64_octeon3.ipk
-Size: 2262199
-SHA256sum: 1562b17e1a638e6c05bda598258d62ccac2a1b07402712c9b13ee661ed930275
+Installed-Size: 2259601
+Filename: gerbera_1.5.0-9_mips64_octeon3.ipk
+Size: 2245600
+SHA256sum: a58bf60e1e066736e1b2003ad3541d781c323bedcca795eff69534b1a07ee0aa
 Description:  Gerbera - UPnP Media Server based on Mediatomb.
 
 Package: getdns
@@ -11111,6 +11142,150 @@ Filename: greyfix_0.4.0-1_mips64_octeon3.ipk
 Size: 11659
 SHA256sum: 098dc3b982695c3a768c5e2417b1d8db3ae7216b376ea20c3a0b55306f42ede9
 Description:  Greyfix is the greylisting policy daemon for Postfix written by Kim Minh Kaplan.
+
+Package: grilo-plugins-dleyna
+Version: 0.3.11-3
+Depends: libc, grilo-plugins
+Source: feeds/packages/multimedia/grilo-plugins
+SourceName: grilo-plugins-dleyna
+License: LGPLv2.1
+LicenseFiles: COPYING
+Section: multimedia
+Maintainer: W. Michael Petullo <mike@flyn.org>
+Architecture: mips64_octeon3
+Installed-Size: 46675
+Filename: grilo-plugins-dleyna_0.3.11-3_mips64_octeon3.ipk
+Size: 47260
+SHA256sum: ff3f2c5432d8e9eeb7d59939e308e8a2e010d4a4127d8c6011134a8c7fa6f64c
+Description:  DLNA sharing plugin
+
+Package: grilo-plugins-dmap
+Version: 0.3.11-3
+Depends: libc, grilo-plugins, libdmapsharing
+Source: feeds/packages/multimedia/grilo-plugins
+SourceName: grilo-plugins-dmap
+License: LGPLv2.1
+LicenseFiles: COPYING
+Section: multimedia
+Maintainer: W. Michael Petullo <mike@flyn.org>
+Architecture: mips64_octeon3
+Installed-Size: 15561
+Filename: grilo-plugins-dmap_0.3.11-3_mips64_octeon3.ipk
+Size: 16322
+SHA256sum: 6449b0296e113d799401acd50174ccb737edcb1891db24fa0e7305d90b0b139c
+Description:  DAAP and DPAP sharing plugin
+
+Package: grilo-plugins-gravatar
+Version: 0.3.11-3
+Depends: libc, grilo-plugins
+Source: feeds/packages/multimedia/grilo-plugins
+SourceName: grilo-plugins-gravatar
+License: LGPLv2.1
+LicenseFiles: COPYING
+Section: multimedia
+Maintainer: W. Michael Petullo <mike@flyn.org>
+Architecture: mips64_octeon3
+Installed-Size: 3583
+Filename: grilo-plugins-gravatar_0.3.11-3_mips64_octeon3.ipk
+Size: 4330
+SHA256sum: 1bea7735e4d7bd26a5d7649166ce10736f236ec28eb95a1da71e821a785bccde
+Description:  Gravatar provider plugin
+
+Package: grilo-plugins-jamendo
+Version: 0.3.11-3
+Depends: libc, grilo-plugins
+Source: feeds/packages/multimedia/grilo-plugins
+SourceName: grilo-plugins-jamendo
+License: LGPLv2.1
+LicenseFiles: COPYING
+Section: multimedia
+Maintainer: W. Michael Petullo <mike@flyn.org>
+Architecture: mips64_octeon3
+Installed-Size: 8338
+Filename: grilo-plugins-jamendo_0.3.11-3_mips64_octeon3.ipk
+Size: 9115
+SHA256sum: def7009d32db3adb7089f96f5665e049c21177ad65b79f1fbf3de30cacec450d
+Description:  Jamendo sharing plugin
+
+Package: grilo-plugins-magnatune
+Version: 0.3.11-3
+Depends: libc, grilo-plugins
+Source: feeds/packages/multimedia/grilo-plugins
+SourceName: grilo-plugins-magnatune
+License: LGPLv2.1
+LicenseFiles: COPYING
+Section: multimedia
+Maintainer: W. Michael Petullo <mike@flyn.org>
+Architecture: mips64_octeon3
+Installed-Size: 7506
+Filename: grilo-plugins-magnatune_0.3.11-3_mips64_octeon3.ipk
+Size: 8302
+SHA256sum: 7a229e7e1d243854a4fe047e81193d3f286a0088de34dff0483f9cc4368ae344
+Description:  Magnatune sharing plugin
+
+Package: grilo-plugins-opensubtitles
+Version: 0.3.11-3
+Depends: libc, grilo-plugins
+Source: feeds/packages/multimedia/grilo-plugins
+SourceName: grilo-plugins-opensubtitles
+License: LGPLv2.1
+LicenseFiles: COPYING
+Section: multimedia
+Maintainer: W. Michael Petullo <mike@flyn.org>
+Architecture: mips64_octeon3
+Installed-Size: 6316
+Filename: grilo-plugins-opensubtitles_0.3.11-3_mips64_octeon3.ipk
+Size: 7096
+SHA256sum: 0b5f851e9b51565bdc16d60fc217f36c0757ba30fd561a2f6977cdc2f755cf62
+Description:  Open subtitles provider plugin
+
+Package: grilo-plugins-raitv
+Version: 0.3.11-3
+Depends: libc, grilo-plugins
+Source: feeds/packages/multimedia/grilo-plugins
+SourceName: grilo-plugins-raitv
+License: LGPLv2.1
+LicenseFiles: COPYING
+Section: multimedia
+Maintainer: W. Michael Petullo <mike@flyn.org>
+Architecture: mips64_octeon3
+Installed-Size: 13314
+Filename: grilo-plugins-raitv_0.3.11-3_mips64_octeon3.ipk
+Size: 13989
+SHA256sum: 1ab0d74f666524f64cfcc34c61215b6b9be634f353adfdb37789684227c16b80
+Description:  Rai.tv sharing plugin
+
+Package: grilo-plugins-shoutcast
+Version: 0.3.11-3
+Depends: libc, grilo-plugins
+Source: feeds/packages/multimedia/grilo-plugins
+SourceName: grilo-plugins-shoutcast
+License: LGPLv2.1
+LicenseFiles: COPYING
+Section: multimedia
+Maintainer: W. Michael Petullo <mike@flyn.org>
+Architecture: mips64_octeon3
+Installed-Size: 6413
+Filename: grilo-plugins-shoutcast_0.3.11-3_mips64_octeon3.ipk
+Size: 7195
+SHA256sum: 7acb322cf4722b983f9b39d4ade27c32c1ad7f7ff1d18438b38486706078bade
+Description:  SHOUTcast sharing plugin
+
+Package: grilo-plugins
+Version: 0.3.11-3
+Depends: libc, grilo
+Source: feeds/packages/multimedia/grilo-plugins
+SourceName: grilo-plugins
+License: LGPLv2.1
+LicenseFiles: COPYING
+Section: multimedia
+Maintainer: W. Michael Petullo <mike@flyn.org>
+Architecture: mips64_octeon3
+Installed-Size: 160
+Filename: grilo-plugins_0.3.11-3_mips64_octeon3.ipk
+Size: 915
+SHA256sum: dfac6db4b6ec272b91f18fa06a311917c8f4f6a14f8b9d4d2e5335bdd8166f90
+Description:  Plugins for the Grilo framework
 
 Package: grilo
 Version: 0.3.12-2
@@ -17187,19 +17362,18 @@ SHA256sum: 70cd2ebc76687c7cc5bdbafca293e89369c7f41685554c76fc7ab1e06a563578
 Description:  SQLite3 database driver for libdbi
 
 Package: libdbi
-Version: 0.9.0-4
+Version: 0.9.0-5
 Depends: libc
 Source: feeds/packages/libs/libdbi
 SourceName: libdbi
-License: LGPL-2.1
+License: LGPL-2.1-or-later
 LicenseFiles: COPYING
 Section: libs
-Maintainer: Nicolas Thill <nico@openwrt.org>
 Architecture: mips64_octeon3
 Installed-Size: 17706
-Filename: libdbi_0.9.0-4_mips64_octeon3.ipk
-Size: 18483
-SHA256sum: 0038fd747db2fa4373bc74884e492f42a5180bd9ea9a0d6bf28ef6c47a394042
+Filename: libdbi_0.9.0-5_mips64_octeon3.ipk
+Size: 18457
+SHA256sum: 42c4457c8a69e2608f0e4b290681acf3e79fac6b93bd46acf1c45405aee38d97
 Description:  This package provides a database-independent abstraction layer library in C.
 
 Package: libdbus
@@ -18405,7 +18579,7 @@ SHA256sum: 178824f3774f24c1497c3a642267e81da0b2aa8b507f6a4d115f043dfaafc84f
 Description:  Free Lossless Audio Codec library
 
 Package: libfmt
-Version: 6.2.1-1
+Version: 7.0.1-1
 Depends: libc, libstdcpp6
 Source: feeds/packages/libs/libfmt
 SourceName: libfmt
@@ -18414,10 +18588,10 @@ LicenseFiles: LICENSE.rst
 Section: libs
 Maintainer: Othmar Truniger <github@truniger.ch>
 Architecture: mips64_octeon3
-Installed-Size: 65463
-Filename: libfmt_6.2.1-1_mips64_octeon3.ipk
-Size: 66093
-SHA256sum: c8606a207e02ff3ccb8e49dc28f9a5c835ebfdef2738e4cca2bcd0906c59f073
+Installed-Size: 39654
+Filename: libfmt_7.0.1-1_mips64_octeon3.ipk
+Size: 40513
+SHA256sum: bb3a05fc1007802aae3122cccdb9cdaad367f837c62d0171834247f721c98286
 Description:  fmt is an open-source formatting library for C++.
  It can be used as a safe alternative to printf or as a fast alternative to IOStreams.
 
@@ -18556,7 +18730,7 @@ Description:  This is a fork of the libbswabe library by John Bethencourt
  and fixing some bugs.
 
 Package: libgcrypt
-Version: 1.8.5-1
+Version: 1.8.6-1
 Depends: libc, libgpg-error
 Source: feeds/packages/libs/libgcrypt
 SourceName: libgcrypt
@@ -18566,10 +18740,10 @@ Section: libs
 CPE-ID: cpe:/a:gnupg:libgcrypt
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 353924
-Filename: libgcrypt_1.8.5-1_mips64_octeon3.ipk
-Size: 352231
-SHA256sum: d70e2f43b7300bff3113bdafcf5f9801249d60426e1df724c53ea112c78b7857
+Installed-Size: 354771
+Filename: libgcrypt_1.8.6-1_mips64_octeon3.ipk
+Size: 353542
+SHA256sum: f5869a916510beee5b0050ccf0fb9b48ca15d170274e3071bc69dfdb116ac6c6
 Description:  This is a general purpose cryptographic library based on the code from
  GnuPG. It provides functions for all cryptograhic building blocks:
  symmetric ciphers (AES, DES, Arcfour, CAST5), hash algorithms (MD5, SHA-1,
@@ -20164,8 +20338,8 @@ Description:  GStreamer open source multimedia framework
  This package contains the GStreamer core library.
 
 Package: libh2o-evloop
-Version: 2.2.6-5
-Depends: libc, libwslay, libopenssl1.1, zlib, libyaml, ruby
+Version: 2.2.6-7
+Depends: libc, libopenssl1.1, zlib, libyaml, ruby
 Source: feeds/packages/libs/h2o
 SourceName: libh2o-evloop
 License: MIT
@@ -20173,15 +20347,15 @@ LicenseFiles: LICENSE
 Section: libs
 Maintainer: James Taylor <james@jtaylor.id.au
 Architecture: mips64_octeon3
-Installed-Size: 471209
-Filename: libh2o-evloop_2.2.6-5_mips64_octeon3.ipk
-Size: 470648
-SHA256sum: 8dd8b0aaa5732a9766dfc71d8e3ebc5c512b41635a90a05ad0710b3a2fed5337
+Installed-Size: 486807
+Filename: libh2o-evloop_2.2.6-7_mips64_octeon3.ipk
+Size: 486096
+SHA256sum: 5d4db67abb2498e42f3deb5a776d7089547890c730ae9d4b875658fa8ec44578
 Description:  H2O Library compiled with its own event loop
 
 Package: libh2o
-Version: 2.2.6-5
-Depends: libc, libuv1, libwslay, libopenssl1.1, zlib, libyaml, ruby
+Version: 2.2.6-7
+Depends: libc, libuv1, libopenssl1.1, zlib, libyaml, ruby
 Source: feeds/packages/libs/h2o
 SourceName: libh2o
 License: MIT
@@ -20189,10 +20363,10 @@ LicenseFiles: LICENSE
 Section: libs
 Maintainer: James Taylor <james@jtaylor.id.au
 Architecture: mips64_octeon3
-Installed-Size: 464691
-Filename: libh2o_2.2.6-5_mips64_octeon3.ipk
-Size: 464315
-SHA256sum: 22b22200717dbf28dedbbf94658c499cf8e48ac9ab6c865270bb68ffebffcd29
+Installed-Size: 481329
+Filename: libh2o_2.2.6-7_mips64_octeon3.ipk
+Size: 480570
+SHA256sum: 9fb11e043b454bed5277a48b48101b69b19cadd4c950b56da36b96bbdc175e8c
 Description:  H2O Library compiled with libuv
 
 Package: libhamlib
@@ -20611,7 +20785,7 @@ Description:  The goal of ldns is to simplify DNS programming, it supports recen
  Drafts.
 
 Package: libleptonica
-Version: 1.78.0-2
+Version: 1.78.0-3
 Depends: libc, giflib, libjpeg, libpng, libtiff5, libwebp, zlib
 Source: feeds/packages/libs/leptonica
 SourceName: libleptonica
@@ -20620,10 +20794,10 @@ LicenseFiles: leptonica-license.txt
 Section: libs
 Maintainer: Valentín Kivachuk <vk18496@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 1097005
-Filename: libleptonica_1.78.0-2_mips64_octeon3.ipk
-Size: 1096249
-SHA256sum: 012a53be0955478c72e76e01c5d86f647f90336846b514296823225583494366
+Installed-Size: 1091839
+Filename: libleptonica_1.78.0-3_mips64_octeon3.ipk
+Size: 1090951
+SHA256sum: 5af5fbc8d361f6c05e97b2df300801a167a588dda8912c6d4b038cf596b39594
 Description:  A library for efficient image processing and image analysis operations
 
 Package: liblo-utils
@@ -21307,7 +21481,7 @@ SHA256sum: 99e2cd522b6e491b4abc771e84861befad5a02e66a5c900973c465b8fbb1549b
 Description:  This package contains the noPoll C WebSocket library.
 
 Package: libnpupnp
-Version: 4.0.7-1
+Version: 4.0.8-1
 Depends: libc, libstdcpp6, libexpat, libcurl4, libmicrohttpd
 Source: feeds/packages/libs/libnpupnp
 SourceName: libnpupnp
@@ -21315,10 +21489,10 @@ License: LGPL-2.1-or-later
 LicenseFiles: COPYING
 Section: libs
 Architecture: mips64_octeon3
-Installed-Size: 166275
-Filename: libnpupnp_4.0.7-1_mips64_octeon3.ipk
-Size: 166743
-SHA256sum: e7793e801e68a2f013b2e210b07a4d6e2487230c3b14805c40bb9c05c6cfe798
+Installed-Size: 165835
+Filename: libnpupnp_4.0.8-1_mips64_octeon3.ipk
+Size: 166250
+SHA256sum: ac9c81204d76ca1c5277c0cb1d0711d473366d080fd8d33b45c3ffa13ed11f13
 Description:  npupnp (new pupnp or not pupnp ?) is an UPnP library derived from the
  venerable pupnp (https://github.com/pupnp/pupnp), based on its 1.6.x
  branch (around 1.6.25).
@@ -22242,7 +22416,7 @@ SHA256sum: 3f9008012cc2b6f3751dcb685e21b041414714f29b600f8166df52e699e5621e
 Description:  Generic PCI access library
 
 Package: libpcre16
-Version: 8.44-1
+Version: 8.44-2
 Depends: libc
 Source: feeds/packages/libs/pcre
 SourceName: libpcre16
@@ -22253,9 +22427,9 @@ CPE-ID: cpe:/a:pcre:pcre
 Maintainer: Thomas Heil <heil@terminal-consulting.de>
 Architecture: mips64_octeon3
 Installed-Size: 77919
-Filename: libpcre16_8.44-1_mips64_octeon3.ipk
+Filename: libpcre16_8.44-2_mips64_octeon3.ipk
 Size: 78583
-SHA256sum: 7a9558c042250659b63c206cba75f033a1a4ee763e5fb624c16f052d5656126a
+SHA256sum: 17b996cb307fdc72fcf809553700fbd0bb13a9f5a8137a805ec68969851cf395
 Description:  A Perl Compatible Regular Expression library (16bit support)
 
 Package: libpcre2-16
@@ -22309,8 +22483,25 @@ Size: 116546
 SHA256sum: 22a949ee19f66909900c0634bbd4a81cb2b7e37a8d302d069828f455fc679575
 Description:  A Perl Compatible Regular Expression library
 
+Package: libpcre32
+Version: 8.44-2
+Depends: libc
+Source: feeds/packages/libs/pcre
+SourceName: libpcre32
+License: BSD-3-Clause
+LicenseFiles: LICENCE
+Section: libs
+CPE-ID: cpe:/a:pcre:pcre
+Maintainer: Thomas Heil <heil@terminal-consulting.de>
+Architecture: mips64_octeon3
+Installed-Size: 72169
+Filename: libpcre32_8.44-2_mips64_octeon3.ipk
+Size: 72869
+SHA256sum: eadbb15d890c68bcb0dbb1984017fe12b26107623babc90d7bfaeea6f6eeb038
+Description:  A Perl Compatible Regular Expression library (32bit support)
+
 Package: libpcre
-Version: 8.44-1
+Version: 8.44-2
 Depends: libc
 Source: feeds/packages/libs/pcre
 SourceName: libpcre
@@ -22321,13 +22512,13 @@ CPE-ID: cpe:/a:pcre:pcre
 Maintainer: Thomas Heil <heil@terminal-consulting.de>
 Architecture: mips64_octeon3
 Installed-Size: 89941
-Filename: libpcre_8.44-1_mips64_octeon3.ipk
-Size: 90611
-SHA256sum: 58c6cb27fcd05ca474cb5f184e48236992a280330ee103cce19643c5c45f7a7a
+Filename: libpcre_8.44-2_mips64_octeon3.ipk
+Size: 90613
+SHA256sum: 68f6c5d3ff0a606b3d6b48e29a92098dec1dd06c94c79be2ef3025e258c778e5
 Description:  A Perl Compatible Regular Expression library
 
 Package: libpcrecpp
-Version: 8.44-1
+Version: 8.44-2
 Depends: libc, libpcre, uclibcxx
 Source: feeds/packages/libs/pcre
 SourceName: libpcrecpp
@@ -22338,9 +22529,9 @@ CPE-ID: cpe:/a:pcre:pcre
 Maintainer: Thomas Heil <heil@terminal-consulting.de>
 Architecture: mips64_octeon3
 Installed-Size: 12921
-Filename: libpcrecpp_8.44-1_mips64_octeon3.ipk
-Size: 13683
-SHA256sum: fd427c2d186baf7539f430f997d1df22d80673b7736efe067a380c7ea56971ef
+Filename: libpcrecpp_8.44-2_mips64_octeon3.ipk
+Size: 13684
+SHA256sum: 09296f1646448b77c00328cb9df31bc2acc241a525de76a5c3e3b5b8e5b2f596
 Description:  C++ wrapper for Perl Compatible Regular Expression library
 
 Package: libpcsclite
@@ -23907,7 +24098,7 @@ SHA256sum: ce6ab81b390e232da4b686c272202281d53fbda7dab7ff0f38e997fc3103b181
 Description:  Web Framework to build REST APIs, Webservices or any HTTP endpoint in C language.
 
 Package: libunbound
-Version: 1.10.1-4
+Version: 1.10.1-5
 Depends: libc, libopenssl1.1, libmnl0, libevent2-7, libpthread
 Source: feeds/packages/net/unbound
 SourceName: libunbound
@@ -23919,9 +24110,9 @@ CPE-ID: cpe:/a:nlnetlabs:unbound
 Maintainer: Eric Luehrsen <ericluehrsen@gmail.com>
 Architecture: mips64_octeon3
 Installed-Size: 385621
-Filename: libunbound_1.10.1-4_mips64_octeon3.ipk
+Filename: libunbound_1.10.1-5_mips64_octeon3.ipk
 Size: 378820
-SHA256sum: 9c93afd59d51776e416fff18825692bd9dd31c0ead9c70644ccd745b7bcd524e
+SHA256sum: 064254621ac98f1a0912bdd98f4a845290c4ea7598d5d45963c89964fcc05411
 Description:  This package contains the Unbound library including 'libevent', 'libmnl', and
  'libpthread' to better handle large networks with heavy query loads. Options
  are available to custom trim Unbound for smaller targets.
@@ -23994,7 +24185,7 @@ SHA256sum: 23a8185c1d821a313ed8ca8d6aad1978a5cb211a6bf3dbc77df01cb084435793
 Description:  Userspace Read-Copy-Update library.
 
 Package: liburing
-Version: 0.6-1
+Version: 0.7-1
 Depends: libc
 Source: feeds/packages/libs/liburing
 SourceName: liburing
@@ -24003,10 +24194,10 @@ LicenseFiles: COPYING
 Section: libs
 Maintainer: Christian Lachner <gladiac@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 3944
-Filename: liburing_0.6-1_mips64_octeon3.ipk
-Size: 4815
-SHA256sum: 439f1c7cb2beb6af34760ea6af538407c0827a5044e172b82026e3cfc6d777f1
+Installed-Size: 4184
+Filename: liburing_0.7-1_mips64_octeon3.ipk
+Size: 5055
+SHA256sum: 3d97b8252e20ff80aade45fb3c31f034299abd7a9475b64cfcb0e8b62220e3e8
 Description:  liburing provides helpers to setup and teardown io_uring instances,
  and also a simplified interface for applications that don't need
  (or want) to deal with the full kernel side implementation.
@@ -24186,7 +24377,7 @@ Description:  libv4l is a collection of libraries which adds a thin abstraction 
  application transparent libv4lconvert conversion where necessary.
 
 Package: libvorbis
-Version: 1.3.6-1
+Version: 1.3.7-1
 Depends: libc, libogg0
 Source: feeds/packages/libs/libvorbis
 SourceName: libvorbis
@@ -24196,10 +24387,10 @@ Section: libs
 CPE-ID: cpe:/a:xiph.org:libvorbis
 Maintainer: Ted Hess <thess@kitschensync.net>
 Architecture: mips64_octeon3
-Installed-Size: 201587
-Filename: libvorbis_1.3.6-1_mips64_octeon3.ipk
-Size: 201548
-SHA256sum: db02235ea02c20ec127b487a3ca6fbe86d75dadc47f1e2916d4ab0152593998c
+Installed-Size: 201701
+Filename: libvorbis_1.3.7-1_mips64_octeon3.ipk
+Size: 201566
+SHA256sum: 3c837891eb3584bddd864fbb3cb54cdb21e676168f208c92a95e3b72c8b364d1
 Description:  Vorbis is a general purpose audio and music encoding format
  contemporary to MPEG-4's AAC and TwinVQ, the next generation beyond
  MPEG audio layer 3. Unlike the MPEG sponsored formats (and other
@@ -24367,7 +24558,7 @@ Description:  Wslay is a WebSocket library written in C. It implements the proto
  handshake in HTTP.
 
 Package: libxerces-c-samples
-Version: 3.2.3-2
+Version: 3.2.3-3
 Depends: libc, libxerces-c
 Source: feeds/packages/libs/libxerces-c
 SourceName: libxerces-c-samples
@@ -24377,13 +24568,13 @@ Section: libs
 Maintainer: Álvaro Fernández Rojas <noltari@gmail.com>
 Architecture: mips64_octeon3
 Installed-Size: 176506
-Filename: libxerces-c-samples_3.2.3-2_mips64_octeon3.ipk
-Size: 176684
-SHA256sum: b91eff7b56bc6870f53b7bb09e02ddf940fb62e140fea521fceaf12f89b8f71d
+Filename: libxerces-c-samples_3.2.3-3_mips64_octeon3.ipk
+Size: 176683
+SHA256sum: 24e6e961656c280108db8efa85aa46ed91c92b29120dc6c5a0a6f5601b1930fe
 Description:  Validating XML parser library for C++ (samples)
 
 Package: libxerces-c
-Version: 3.2.3-2
+Version: 3.2.3-3
 Depends: libc, libstdcpp6
 Source: feeds/packages/libs/libxerces-c
 SourceName: libxerces-c
@@ -24393,9 +24584,9 @@ Section: libs
 Maintainer: Álvaro Fernández Rojas <noltari@gmail.com>
 Architecture: mips64_octeon3
 Installed-Size: 890950
-Filename: libxerces-c_3.2.3-2_mips64_octeon3.ipk
-Size: 885344
-SHA256sum: 778e3a49b2c191718c537a04d53e78e88d087de1cd3a4864dac2f1b2a9106b37
+Filename: libxerces-c_3.2.3-3_mips64_octeon3.ipk
+Size: 885343
+SHA256sum: 6162e5e2691ee4b24c6fdf3a1501d94c9e1454ad7d1972f0894351d4a4e6c736
 Description:  Xerces-C++ is a validating XML parser written in a portable subset of
  C++. Xerces-C++ makes it easy to give your application the ability
  to read and write XML data. A shared library is provided for parsing,
@@ -24692,10 +24883,10 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 2573
+Installed-Size: 2509
 Filename: lighttpd-mod-access_1.4.55-2_mips64_octeon3.ipk
-Size: 3382
-SHA256sum: 2788be0b3c4c32764dbed250c7415cc01a1ad4a01d97ad20b029ddafb62be9b5
+Size: 3318
+SHA256sum: 1aacbcf0b9c61a20a8f4d0aed1a7c7c09cfd04f1de2573c505ffcefcfd7bd414
 Description:  Access restrictions module
 
 Package: lighttpd-mod-accesslog
@@ -24709,10 +24900,10 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 7653
+Installed-Size: 7592
 Filename: lighttpd-mod-accesslog_1.4.55-2_mips64_octeon3.ipk
-Size: 8484
-SHA256sum: a482c63a260bcc430625ae1092fdba21bacf37ac0497f68f613d017259e4c65f
+Size: 8430
+SHA256sum: d37b9aad83f74434bbb27a517b4000a8e49836e808f870d8e63b1c3f9d514b57
 Description:  Access logging module
 
 Package: lighttpd-mod-alias
@@ -24726,10 +24917,10 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 2880
+Installed-Size: 2823
 Filename: lighttpd-mod-alias_1.4.55-2_mips64_octeon3.ipk
-Size: 3694
-SHA256sum: 32cc1433562bf726e1eaeaa341982f8923cf11bf3e68f34a33df020fc67bf053
+Size: 3635
+SHA256sum: 84e764f02bc9503f79310550e9fc940cef4fdebc5fb214a161e4656422578682
 Description:  Directory alias module
 
 Package: lighttpd-mod-auth
@@ -24743,10 +24934,10 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 9118
+Installed-Size: 9086
 Filename: lighttpd-mod-auth_1.4.55-2_mips64_octeon3.ipk
-Size: 9935
-SHA256sum: 2875f8f1e2b137b14f44f2d263dbc1d774f99181870fa5740b0934780e784cee
+Size: 9909
+SHA256sum: a871c6719fc25901103c3061784e3036d8f295908beb0fe840ffa4f2cf969685
 Description:  Authentication module
 
 Package: lighttpd-mod-authn_file
@@ -24760,10 +24951,10 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 6311
+Installed-Size: 6277
 Filename: lighttpd-mod-authn_file_1.4.55-2_mips64_octeon3.ipk
-Size: 7157
-SHA256sum: bfa2a3084be6f4edab695dd948715e42b60707e94024c630813d8d3aa4818c4c
+Size: 7128
+SHA256sum: abe6123e0ee295e40f04db9035ef5d883000d0f2d83bbc301754fe23ee5cebd1
 Description:  File-based authentication module
 
 Package: lighttpd-mod-authn_gssapi
@@ -24777,10 +24968,10 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 7288
+Installed-Size: 7273
 Filename: lighttpd-mod-authn_gssapi_1.4.55-2_mips64_octeon3.ipk
-Size: 8156
-SHA256sum: b11d81732af68352ce89ad17e481ba645faedbd1336ed946649da620de5095a6
+Size: 8132
+SHA256sum: e2c7dc39ceb317fbb232962a3baf66712c4b5e4114508eb161d1168ebce658db
 Description:  Kerberos-based authentication module
 
 Package: lighttpd-mod-authn_ldap
@@ -24794,10 +24985,10 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 5788
+Installed-Size: 5725
 Filename: lighttpd-mod-authn_ldap_1.4.55-2_mips64_octeon3.ipk
-Size: 6628
-SHA256sum: b02541e6c976534cd2a22cd5d99f5d66a362187dfcedfcc771b756587c263f37
+Size: 6560
+SHA256sum: 1a4ad0ebbf4f76460986e563ed51d407351b8d39c0fd08ecb080aedc97d92a35
 Description:  LDAP-based authentication module
 
 Package: lighttpd-mod-authn_mysql
@@ -24811,10 +25002,10 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 4775
+Installed-Size: 4746
 Filename: lighttpd-mod-authn_mysql_1.4.55-2_mips64_octeon3.ipk
-Size: 5597
-SHA256sum: 92517b27fd2e92ce0e3d4e3d3a44006e58361ac614668bff1dc4f1a8e68cb114
+Size: 5586
+SHA256sum: a4de59d92cd8fc1342099c8e9415c2d8d2d3e598355ba8e42eefb1fb592b8b21
 Description:  Mysql-based authentication module
 
 Package: lighttpd-mod-authn_pam
@@ -24828,11 +25019,28 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 2777
+Installed-Size: 2744
 Filename: lighttpd-mod-authn_pam_1.4.55-2_mips64_octeon3.ipk
-Size: 3608
-SHA256sum: ac7709dbb2732f87982a1b153bf965eefdf942e8ae44f33f33e55b803065102f
+Size: 3575
+SHA256sum: eb49df7d9b953bf65fa587a5fab4b916486f1b18a5ee6b955589b63007346004
 Description:  PAM-based authentication module
+
+Package: lighttpd-mod-authn_sasl
+Version: 1.4.55-2
+Depends: libc, lighttpd, lighttpd-mod-auth, libsasl2
+Source: feeds/packages/net/lighttpd
+SourceName: lighttpd-mod-authn_sasl
+License: BSD-3-Clause
+LicenseFiles: COPYING
+Section: net
+CPE-ID: cpe:/a:lighttpd:lighttpd
+Maintainer: W. Michael Petullo <mike@flyn.org>
+Architecture: mips64_octeon3
+Installed-Size: 3314
+Filename: lighttpd-mod-authn_sasl_1.4.55-2_mips64_octeon3.ipk
+Size: 4145
+SHA256sum: e6c67e2c192220db1f1983620e3b477ba4747f5f4956cf9c84ca08a697a1910f
+Description:  SASL-based authentication module
 
 Package: lighttpd-mod-cgi
 Version: 1.4.55-2
@@ -24845,10 +25053,10 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 8634
+Installed-Size: 8566
 Filename: lighttpd-mod-cgi_1.4.55-2_mips64_octeon3.ipk
-Size: 9456
-SHA256sum: 7b0de8e0c5b6246eea4cef20180f78cc0d8e9c02b9bb587249df14786159fd1a
+Size: 9391
+SHA256sum: 256b97fc342bed2369a10020360b30a61b6f9347d9b0be38bc3cb1bcaaa29c42
 Description:  CGI module
 
 Package: lighttpd-mod-cml
@@ -24862,10 +25070,10 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 6733
+Installed-Size: 6648
 Filename: lighttpd-mod-cml_1.4.55-2_mips64_octeon3.ipk
-Size: 7576
-SHA256sum: d23f560b9f8b398104ceec8fcffd69c4dc65e511b251a30d910e1b2bbb97c32e
+Size: 7499
+SHA256sum: b072d729fcaaf782bac47bc2f18d9f9bf1932d39f1abd77cf202bcf00e1cfd55
 Description:  Cache Meta Language module
 
 Package: lighttpd-mod-compress
@@ -24879,10 +25087,10 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 7562
+Installed-Size: 7566
 Filename: lighttpd-mod-compress_1.4.55-2_mips64_octeon3.ipk
-Size: 8406
-SHA256sum: 2555bc4b7c5e689b1afda15272e260512e9f130da8336be305874fd88c086522
+Size: 8404
+SHA256sum: a99351d9da9e42082b4f69d3357cca3287583a6038f009448cde207d2bf931b8
 Description:  Compress output module
 
 Package: lighttpd-mod-deflate
@@ -24896,10 +25104,10 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 6289
+Installed-Size: 6301
 Filename: lighttpd-mod-deflate_1.4.55-2_mips64_octeon3.ipk
-Size: 7142
-SHA256sum: 3df34c2de803c2573ca26f3f7aa3aa394185951846d3e45f96bd94ffe4d7faa0
+Size: 7160
+SHA256sum: fdb3b6ed1ce4ffc77fba52a4177f434c6c5b0794fad33d3b18cb1fbe6607fdef
 Description:  Compress dynamic output module
 
 Package: lighttpd-mod-evasive
@@ -24913,10 +25121,10 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 2529
+Installed-Size: 2462
 Filename: lighttpd-mod-evasive_1.4.55-2_mips64_octeon3.ipk
-Size: 3327
-SHA256sum: 03aab1524309b250b138546c33e1fef0973b1f01c64486f0b24913a5249f1540
+Size: 3252
+SHA256sum: 157f235790d7077c55383f385c63daab69e5c611e7f6680ec8d246d0037c392a
 Description:  Evasive module
 
 Package: lighttpd-mod-evhost
@@ -24930,10 +25138,10 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 3849
+Installed-Size: 3791
 Filename: lighttpd-mod-evhost_1.4.55-2_mips64_octeon3.ipk
-Size: 4669
-SHA256sum: 3cb57f42fe0e48d04904074dc9fef5e147098da3e439c695e51cd18b9bd03adb
+Size: 4610
+SHA256sum: 021d9635c0569ca4bccd68bf98ac2fabaf5990ba363043692a51a60b6796f368
 Description:  Enhanced Virtual-Hosting module
 
 Package: lighttpd-mod-expire
@@ -24947,10 +25155,10 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 4288
+Installed-Size: 4241
 Filename: lighttpd-mod-expire_1.4.55-2_mips64_octeon3.ipk
-Size: 5092
-SHA256sum: 07ee4e04a902a4916dd2fc5841b61977a0101f0ce4b5bc0016035b78c1d198d2
+Size: 5045
+SHA256sum: 07ad560979e2d6ca8fdc4bd9a80cc18f4dbed599d98f858ff335e8612a18dd41
 Description:  Expire module
 
 Package: lighttpd-mod-extforward
@@ -24964,10 +25172,10 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 10266
+Installed-Size: 10202
 Filename: lighttpd-mod-extforward_1.4.55-2_mips64_octeon3.ipk
-Size: 11099
-SHA256sum: d66fc3d85025275cdb34437f3fe8bdab7fd467d360c7dcb53d97216e2af03512
+Size: 11028
+SHA256sum: 262eda0b6859d009e75e4bfd58881401c23b00d51e574d7b93e707e77270f8d7
 Description:  Extract client module
 
 Package: lighttpd-mod-fastcgi
@@ -24981,10 +25189,10 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 6973
+Installed-Size: 6905
 Filename: lighttpd-mod-fastcgi_1.4.55-2_mips64_octeon3.ipk
-Size: 7804
-SHA256sum: c125698327c8855d19a50778e877859fd0e2a23242064f2ae3d1abc9e84c5de1
+Size: 7738
+SHA256sum: c5133fc8c7a52f1a140eb8a15ba58c9a7fce4f06385b87d1d8d1500816858209
 Description:  FastCGI module
 
 Package: lighttpd-mod-flv_streaming
@@ -24998,10 +25206,10 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 2890
+Installed-Size: 2829
 Filename: lighttpd-mod-flv_streaming_1.4.55-2_mips64_octeon3.ipk
-Size: 3711
-SHA256sum: 6e4e0a6f5254e668ab3bd95481e2fb2d6e16179cb8c55f176b7a81f13e88a682
+Size: 3652
+SHA256sum: 7469cb45ee4233c956cbcc71dba304e89dc37f1be002ad949de2ec8921b4afed
 Description:  FLV streaming module
 
 Package: lighttpd-mod-magnet
@@ -25015,11 +25223,28 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 9068
+Installed-Size: 9008
 Filename: lighttpd-mod-magnet_1.4.55-2_mips64_octeon3.ipk
-Size: 9888
-SHA256sum: ad6a5e0794571d655c504249f421e36a3119f2fbae94efbd02dca64b7ff5dc31
+Size: 9819
+SHA256sum: eca7a42a06cd0f1205c81a792ed8dbb45c18c7f96b57a20e6213964320ca7c7c
 Description:  Magnet module
+
+Package: lighttpd-mod-maxminddb
+Version: 1.4.55-2
+Depends: libc, lighttpd, libmaxminddb
+Source: feeds/packages/net/lighttpd
+SourceName: lighttpd-mod-maxminddb
+License: BSD-3-Clause
+LicenseFiles: COPYING
+Section: net
+CPE-ID: cpe:/a:lighttpd:lighttpd
+Maintainer: W. Michael Petullo <mike@flyn.org>
+Architecture: mips64_octeon3
+Installed-Size: 4138
+Filename: lighttpd-mod-maxminddb_1.4.55-2_mips64_octeon3.ipk
+Size: 4959
+SHA256sum: df25fdc3c086cab74379a1fb27fa14fa6dd66a8b20e5191fe5b31746413d196a
+Description:  MaxMind DB module
 
 Package: lighttpd-mod-mysql_vhost
 Version: 1.4.55-2
@@ -25032,10 +25257,10 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 4195
+Installed-Size: 4168
 Filename: lighttpd-mod-mysql_vhost_1.4.55-2_mips64_octeon3.ipk
-Size: 5028
-SHA256sum: fec65b5d9072380802b200bcad9afa1befdd050637ecdb26c8cce32d9cdd6871
+Size: 5006
+SHA256sum: 532e3046d730ac420d888a38d35d5a2a862a33821ff1e8fb5a8aa106c0c10813
 Description:  Mysql virtual hosting module
 
 Package: lighttpd-mod-proxy
@@ -25049,10 +25274,10 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 8881
+Installed-Size: 8838
 Filename: lighttpd-mod-proxy_1.4.55-2_mips64_octeon3.ipk
-Size: 9694
-SHA256sum: a0eb00ea5cae9320a2743cd4fd2e48b1554c3c7d4ae279ac1430785be1775a6c
+Size: 9666
+SHA256sum: cf0bd1505039a7073a5a62d4d0de31841dfff163e90be518dfd7632fb2879667
 Description:  Proxy module
 
 Package: lighttpd-mod-redirect
@@ -25066,10 +25291,10 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 2882
+Installed-Size: 2827
 Filename: lighttpd-mod-redirect_1.4.55-2_mips64_octeon3.ipk
-Size: 3699
-SHA256sum: b0882020228156c9fb653ed428f626fb8b3c72f472394be17366b3b134192556
+Size: 3641
+SHA256sum: 8b7b60d9832e8dbf36a6deb7fdeae602e2d19f2533a3258cc53c08795078287c
 Description:  URL redirection module
 
 Package: lighttpd-mod-rewrite
@@ -25083,10 +25308,10 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 3920
+Installed-Size: 3867
 Filename: lighttpd-mod-rewrite_1.4.55-2_mips64_octeon3.ipk
-Size: 4738
-SHA256sum: c7c208215fa20e69550f9196dfecb61cf8c55140fe17a54a57001a7453ddc96b
+Size: 4680
+SHA256sum: a915cf385aba4942400b1dacf7a050a5086a6bda572de1928a57cff1a767ae96
 Description:  URL rewriting module
 
 Package: lighttpd-mod-rrdtool
@@ -25100,10 +25325,10 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 4661
+Installed-Size: 4663
 Filename: lighttpd-mod-rrdtool_1.4.55-2_mips64_octeon3.ipk
-Size: 5476
-SHA256sum: 04c512a82eafbf35b3514bac75b5f938d06d47c568fa176e1c11a5b524fed65b
+Size: 5481
+SHA256sum: 4b0c3ffa51370da63a56b542bd40047f17875b8eb2ce2e12812339d40dc47d37
 Description:  RRDtool module
 
 Package: lighttpd-mod-scgi
@@ -25117,10 +25342,10 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 4743
+Installed-Size: 4689
 Filename: lighttpd-mod-scgi_1.4.55-2_mips64_octeon3.ipk
-Size: 5544
-SHA256sum: 18e600d75a257d63488574199484764269865984d7beb320cce119358f5d891a
+Size: 5483
+SHA256sum: 3e5921cf569353fdc1168e83419365f866d472be3b03224b77be6a6676fe88ad
 Description:  SCGI module
 
 Package: lighttpd-mod-secdownload
@@ -25134,10 +25359,10 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 4504
+Installed-Size: 4485
 Filename: lighttpd-mod-secdownload_1.4.55-2_mips64_octeon3.ipk
-Size: 5331
-SHA256sum: 0fdce42068df7f6f7089e234de3e372f3880e9eca3cb41f2f1c14b85124980c2
+Size: 5313
+SHA256sum: cdff64c83a3f3ef201185c87ded7b84b3fdfd435ff6b6a998702c8d3f0d400f2
 Description:  Secure and fast download module
 
 Package: lighttpd-mod-setenv
@@ -25151,10 +25376,10 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 3362
+Installed-Size: 3304
 Filename: lighttpd-mod-setenv_1.4.55-2_mips64_octeon3.ipk
-Size: 4184
-SHA256sum: a3114d7189cd182d56ecb4f82a0afa503e2c826b8f34b79db319fdde34bfb78d
+Size: 4125
+SHA256sum: 829a524476faeaacac51ee5fcb60f92a10465006edbbab3ab6f2f76be5c6db89
 Description:  Environment variable setting module
 
 Package: lighttpd-mod-simple_vhost
@@ -25168,11 +25393,28 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 3493
+Installed-Size: 3439
 Filename: lighttpd-mod-simple_vhost_1.4.55-2_mips64_octeon3.ipk
-Size: 4316
-SHA256sum: 088357688bce63f1f0a96775b9ab82214e5d02349394c4d6434a4ed945883f95
+Size: 4266
+SHA256sum: 76f28118b799bac4e4d8064362129e0fb72e23db8851da9c0722209c73ada7bd
 Description:  Simple virtual hosting module
+
+Package: lighttpd-mod-sockproxy
+Version: 1.4.55-2
+Depends: libc, lighttpd
+Source: feeds/packages/net/lighttpd
+SourceName: lighttpd-mod-sockproxy
+License: BSD-3-Clause
+LicenseFiles: COPYING
+Section: net
+CPE-ID: cpe:/a:lighttpd:lighttpd
+Maintainer: W. Michael Petullo <mike@flyn.org>
+Architecture: mips64_octeon3
+Installed-Size: 2784
+Filename: lighttpd-mod-sockproxy_1.4.55-2_mips64_octeon3.ipk
+Size: 3596
+SHA256sum: 33b14bdc7359f8bf2e458032a7abf81aae9f5f2c890a6794365cd17a61f23226
+Description:  sockproxy module
 
 Package: lighttpd-mod-ssi
 Version: 1.4.55-2
@@ -25185,11 +25427,28 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 13455
+Installed-Size: 13386
 Filename: lighttpd-mod-ssi_1.4.55-2_mips64_octeon3.ipk
-Size: 14248
-SHA256sum: 198d33c0c379a22b808cb562c47215c27e5d206f13f19a6efe1efd7ec9be756b
+Size: 14178
+SHA256sum: 370537f5b02396eb763d103672c0e33cf5b365d85776dfdede54ed4a535c285a
 Description:  SSI module
+
+Package: lighttpd-mod-staticfile
+Version: 1.4.55-2
+Depends: libc, lighttpd
+Source: feeds/packages/net/lighttpd
+SourceName: lighttpd-mod-staticfile
+License: BSD-3-Clause
+LicenseFiles: COPYING
+Section: net
+CPE-ID: cpe:/a:lighttpd:lighttpd
+Maintainer: W. Michael Petullo <mike@flyn.org>
+Architecture: mips64_octeon3
+Installed-Size: 2592
+Filename: lighttpd-mod-staticfile_1.4.55-2_mips64_octeon3.ipk
+Size: 3395
+SHA256sum: 596d92d95fe1f69d3155a3e6f425e63be8ad0b44e3abe81cb4dc93ef973a9599
+Description:  staticfile module
 
 Package: lighttpd-mod-status
 Version: 1.4.55-2
@@ -25202,10 +25461,10 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 8229
+Installed-Size: 8227
 Filename: lighttpd-mod-status_1.4.55-2_mips64_octeon3.ipk
-Size: 9078
-SHA256sum: e599f4d6fb0ac23ea2b8270991654fbd70213d154491f4ce9756a274b757d6bc
+Size: 9075
+SHA256sum: cc4a281af63b529e2ba3277707a5ac6b9ec13701d966d049da66295942f02f3b
 Description:  Server status display module
 
 Package: lighttpd-mod-trigger_b4_dl
@@ -25219,11 +25478,28 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 5005
+Installed-Size: 4978
 Filename: lighttpd-mod-trigger_b4_dl_1.4.55-2_mips64_octeon3.ipk
-Size: 5803
-SHA256sum: eabd74b1bc276dd7e88f46fa7e50c3ba71cd170d9f34dec2dd2c138e0d6bdf67
+Size: 5774
+SHA256sum: 7bddd4c4aa51f3ee5f08571d57b2d42289c9c1596dea1d6cbdb6d1698379fe6b
 Description:  Trigger before download module
+
+Package: lighttpd-mod-uploadprogress
+Version: 1.4.55-2
+Depends: libc, lighttpd
+Source: feeds/packages/net/lighttpd
+SourceName: lighttpd-mod-uploadprogress
+License: BSD-3-Clause
+LicenseFiles: COPYING
+Section: net
+CPE-ID: cpe:/a:lighttpd:lighttpd
+Maintainer: W. Michael Petullo <mike@flyn.org>
+Architecture: mips64_octeon3
+Installed-Size: 3377
+Filename: lighttpd-mod-uploadprogress_1.4.55-2_mips64_octeon3.ipk
+Size: 4193
+SHA256sum: a4ff216ea981689212a529c4e424adc7431547a86655e7e8ad7b5e54ef333a6b
+Description:  Upload Progress module
 
 Package: lighttpd-mod-userdir
 Version: 1.4.55-2
@@ -25236,10 +25512,10 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 3772
+Installed-Size: 3727
 Filename: lighttpd-mod-userdir_1.4.55-2_mips64_octeon3.ipk
-Size: 4588
-SHA256sum: f316eb0c7f3d59c3bd9a55a6f7e2822fbffb443537976c583446d49b15eaa93f
+Size: 4544
+SHA256sum: b9a36796fae430628b210bf628ebfa1828478f4556afaecfc195ca34c157b67c
 Description:  User directory module
 
 Package: lighttpd-mod-usertrack
@@ -25253,11 +25529,96 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 3358
+Installed-Size: 3302
 Filename: lighttpd-mod-usertrack_1.4.55-2_mips64_octeon3.ipk
-Size: 4173
-SHA256sum: 4fd7495f9c63206e510098a1d53770fd277edce2e863ebfd73ac34aa7cdf528e
+Size: 4115
+SHA256sum: 066881f4c14358f3d939e2735eb0c4ac182fd9de2d175282e49504ce0ef174f6
 Description:  User tracking module
+
+Package: lighttpd-mod-vhostdb
+Version: 1.4.55-2
+Depends: libc, lighttpd
+Source: feeds/packages/net/lighttpd
+SourceName: lighttpd-mod-vhostdb
+License: BSD-3-Clause
+LicenseFiles: COPYING
+Section: net
+CPE-ID: cpe:/a:lighttpd:lighttpd
+Maintainer: W. Michael Petullo <mike@flyn.org>
+Architecture: mips64_octeon3
+Installed-Size: 2728
+Filename: lighttpd-mod-vhostdb_1.4.55-2_mips64_octeon3.ipk
+Size: 3556
+SHA256sum: df78ef01d939ec0db28531fd8e5c5c2649ca43fbb1600510a81645dd4a7b7953
+Description:  Virtual Host Database module
+
+Package: lighttpd-mod-vhostdb_dbi
+Version: 1.4.55-2
+Depends: libc, lighttpd, libdbi
+Source: feeds/packages/net/lighttpd
+SourceName: lighttpd-mod-vhostdb_dbi
+License: BSD-3-Clause
+LicenseFiles: COPYING
+Section: net
+CPE-ID: cpe:/a:lighttpd:lighttpd
+Maintainer: W. Michael Petullo <mike@flyn.org>
+Architecture: mips64_octeon3
+Installed-Size: 3627
+Filename: lighttpd-mod-vhostdb_dbi_1.4.55-2_mips64_octeon3.ipk
+Size: 4457
+SHA256sum: a0cbca23ea96e0077a684bca9a7514d04762a524dd3894971d514929d34bd076
+Description:  Virtual Host Database (DBI) module
+
+Package: lighttpd-mod-vhostdb_ldap
+Version: 1.4.55-2
+Depends: libc, lighttpd, libopenldap
+Source: feeds/packages/net/lighttpd
+SourceName: lighttpd-mod-vhostdb_ldap
+License: BSD-3-Clause
+LicenseFiles: COPYING
+Section: net
+CPE-ID: cpe:/a:lighttpd:lighttpd
+Maintainer: W. Michael Petullo <mike@flyn.org>
+Architecture: mips64_octeon3
+Installed-Size: 4853
+Filename: lighttpd-mod-vhostdb_ldap_1.4.55-2_mips64_octeon3.ipk
+Size: 5687
+SHA256sum: 976ee125259f4f3ec8b1d13b0410d8901d276c160a31093e02b0351a36e82c44
+Description:  Virtual Host Database (LDAP) module
+
+Package: lighttpd-mod-vhostdb_mysql
+Version: 1.4.55-2
+Depends: libc, lighttpd, libmysqlclient3
+Source: feeds/packages/net/lighttpd
+SourceName: lighttpd-mod-vhostdb_mysql
+License: BSD-3-Clause
+LicenseFiles: COPYING
+Section: net
+CPE-ID: cpe:/a:lighttpd:lighttpd
+Maintainer: W. Michael Petullo <mike@flyn.org>
+Architecture: mips64_octeon3
+Installed-Size: 3529
+Filename: lighttpd-mod-vhostdb_mysql_1.4.55-2_mips64_octeon3.ipk
+Size: 4373
+SHA256sum: 52a533c7c8e884f9563c52c3325411ad03ed65cd21ba02732794840497ddde48
+Description:  Virtual Host Database (MariaDB) module
+
+Package: lighttpd-mod-vhostdb_pgsql
+Version: 1.4.55-2
+Depends: libc, lighttpd, libpq
+Source: feeds/packages/net/lighttpd
+SourceName: lighttpd-mod-vhostdb_pgsql
+License: BSD-3-Clause
+LicenseFiles: COPYING
+Section: net
+CPE-ID: cpe:/a:lighttpd:lighttpd
+Maintainer: W. Michael Petullo <mike@flyn.org>
+Architecture: mips64_octeon3
+Installed-Size: 3335
+Filename: lighttpd-mod-vhostdb_pgsql_1.4.55-2_mips64_octeon3.ipk
+Size: 4173
+SHA256sum: 5f44fd1bc936a3b675cc8ce980709933dd6d133b45068bb8459a982dcf4e13a7
+Description:  Virtual Host Database (PostgreSQL) module
 
 Package: lighttpd-mod-webdav
 Version: 1.4.55-2
@@ -25270,10 +25631,10 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 24345
+Installed-Size: 24347
 Filename: lighttpd-mod-webdav_1.4.55-2_mips64_octeon3.ipk
-Size: 25005
-SHA256sum: 6ba3612d2fb24c11f9bb4a73074bc9b9a93e63160263b5ae41c7e05dfa993490
+Size: 25002
+SHA256sum: 976ad5b45c4a0b1fdfba77478ced65787c2db20c8f14c7e70f1a939424436a91
 Description:  WebDAV module
 
 Package: lighttpd-mod-wstunnel
@@ -25287,10 +25648,10 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 9609
+Installed-Size: 9581
 Filename: lighttpd-mod-wstunnel_1.4.55-2_mips64_octeon3.ipk
-Size: 10447
-SHA256sum: 7cd9240f81fb33a0e65bd5cbf440eef958bf6c980358d40220de376c75312a79
+Size: 10424
+SHA256sum: 7aa8ce449cc4c38e15bf24411fe9821d6ee1205ec523e351faf9eb3bb32656c4
 Description:  Websocket tunneling module
 
 Package: lighttpd
@@ -25304,10 +25665,10 @@ Section: net
 CPE-ID: cpe:/a:lighttpd:lighttpd
 Maintainer: W. Michael Petullo <mike@flyn.org>
 Architecture: mips64_octeon3
-Installed-Size: 154709
+Installed-Size: 154677
 Filename: lighttpd_1.4.55-2_mips64_octeon3.ipk
-Size: 155146
-SHA256sum: e6b034bf543b22bcd6bdcf1beba3d52d9fcee2ee9ddf2c12f857101803bb4139
+Size: 155044
+SHA256sum: 1d9671583934f824a23894f4d6b0c38c8dbb507f32e02d0c91eb3b36f179b79a
 Description:  A flexible and lightweight web server
 
 Package: linknx
@@ -27722,6 +28083,25 @@ Size: 725715
 SHA256sum: c92018a311992a3c8da6685211a6ca2338feb779aa40f6a9f4742d0cd838f41d
 Description:  Meson is an open source build system meant to be both extremely fast, and, even more importantly, as user friendly as possible.
 
+Package: mg
+Version: 6.7-1
+Depends: libc, libncurses6, libpcre
+Source: feeds/packages/utils/mg
+SourceName: mg
+License: PUBLICDOMAIN ISC BSD VARIOUS
+LicenseFiles: README.md
+Section: utils
+Maintainer: Hirokazu MORIKAWA <morikw2@gmail.com>
+Architecture: mips64_octeon3
+Installed-Size: 85446
+Filename: mg_6.7-1_mips64_octeon3.ipk
+Size: 85828
+SHA256sum: 92ebfebe6caca16281a900bb7ebe4e064b979db0b6b82ecc89265128bb6f29ae
+Description:  Mg is intended to be a small, fast, and portable editor for people who
+ can't (or don't want to) run emacs for one reason or another, or are not
+ familiar with the vi editor. It is compatible with emacs because there
+ shouldn't be any reason to learn more editor types than emacs or vi.
+
 Package: micrond
 Version: 1-2
 Depends: libc
@@ -27870,7 +28250,7 @@ SHA256sum: 051b3fcd251f2fd0f2c2fec9b2cadaa986f2b485e90d31c4c3c56194e5e1cb96
 Description:  Lightweight UPnP client
 
 Package: miniupnpd
-Version: 2.1.20200510-3
+Version: 2.1.20200510-4
 Depends: libc, iptables, libip4tc2, libip6tc2, ip6tables, libuuid1, libcap-ng
 Source: feeds/packages/net/miniupnpd
 SourceName: miniupnpd
@@ -27879,10 +28259,10 @@ LicenseFiles: LICENSE
 Section: net
 CPE-ID: cpe:/a:miniupnp_project:miniupnpd
 Architecture: mips64_octeon3
-Installed-Size: 71116
-Filename: miniupnpd_2.1.20200510-3_mips64_octeon3.ipk
-Size: 71796
-SHA256sum: 761c4bc5e9f34da7b991c61104061a718df8639a790c84f7fdbdf07a8b370bf9
+Installed-Size: 71117
+Filename: miniupnpd_2.1.20200510-4_mips64_octeon3.ipk
+Size: 71778
+SHA256sum: fd986ea45d5c32c337ee59667438a7a26083bf5f14a1a858799567d42569d831
 Description:  Lightweight UPnP IGD, NAT-PMP & PCP daemon
 
 Package: minizip
@@ -40019,6 +40399,22 @@ Size: 104336
 SHA256sum: 89b5f136bc05f3a56b909af072bed367ca1cfccf2d152cb0dcdcd69077240470
 Description:  Universal encoding detector for Python 2 and 3
 
+Package: python3-ciso8601
+Version: 2.1.3-1
+Depends: libc, python3-light
+Source: feeds/packages/lang/python/python-ciso8601
+SourceName: python3-ciso8601
+License: MIT
+LicenseFiles: LICENSE.txt
+Section: lang
+Maintainer: Josef Schlehofer <pepe.schlehofer@gmail.com>
+Architecture: mips64_octeon3
+Installed-Size: 9401
+Filename: python3-ciso8601_2.1.3-1_mips64_octeon3.ipk
+Size: 10216
+SHA256sum: 5804c6b5bbe3d2ce7489908e4fcca119ed5d77366770f9a7efe28009afd1a412
+Description:  ciso8601 converts ISO 8601 or RFC 3339 date time strings into Python datetime objects.
+
 Package: python3-click-log-src
 Version: 0.3.2-2
 Depends: libc
@@ -41155,7 +41551,7 @@ Description:  Django Simple Captcha is an extremely simple, yet highly customiza
  application to add captcha images to any Django form.
 
 Package: python3-django-src
-Version: 3.0.7-1
+Version: 3.0.8-1
 Depends: libc
 Source: feeds/packages/lang/python/django
 SourceName: python3-django-src
@@ -41165,10 +41561,10 @@ Section: lang
 CPE-ID: cpe:/a:djangoproject:django
 Maintainer: Alexandru Ardelean <ardeleanalex@gmail.com>, Peter Stadler <peter.stadler@student.uibk.ac.at>
 Architecture: mips64_octeon3
-Installed-Size: 1119821
-Filename: python3-django-src_3.0.7-1_mips64_octeon3.ipk
-Size: 1120476
-SHA256sum: fcef6f96a053c2b1f5a6096a84706f1a817e6107b6eb6665a6b3b71c09c76fe7
+Installed-Size: 1120005
+Filename: python3-django-src_3.0.8-1_mips64_octeon3.ipk
+Size: 1120685
+SHA256sum: efe1a85988da6b2b74c49545e034d4cb3ef1c5a8841afee1e0652369a0407462
 Description:  The web framework for perfectionists with deadlines.
  
  This package contains the Python source files for python3-django.
@@ -41279,7 +41675,7 @@ SHA256sum: 44bb2466dddce7b0fad7d27e5172bd1fca8ef4289a99aac754a87bacf8850e3b
 Description:  The web framework for perfectionists with deadlines (LTS 1.11 series).
 
 Package: python3-django
-Version: 3.0.7-1
+Version: 3.0.8-1
 Depends: libc, python3, python3-pytz, python3-sqlparse, python3-asgiref
 Conflicts: python3-django1
 Provides: django
@@ -41291,10 +41687,10 @@ Section: lang
 CPE-ID: cpe:/a:djangoproject:django
 Maintainer: Alexandru Ardelean <ardeleanalex@gmail.com>, Peter Stadler <peter.stadler@student.uibk.ac.at>
 Architecture: mips64_octeon3
-Installed-Size: 4963244
-Filename: python3-django_3.0.7-1_mips64_octeon3.ipk
-Size: 4944237
-SHA256sum: 18e4ba5f932fc25722339d1e55cc32270ca92588e5c0dfcd2841cee5ae673ab0
+Installed-Size: 4963538
+Filename: python3-django_3.0.8-1_mips64_octeon3.ipk
+Size: 4944313
+SHA256sum: cd0f694955838b69c7c3a730ce43f06b0869c5b4c9fab3e735c8f0a28a866814
 Description:  The web framework for perfectionists with deadlines.
 
 Package: python3-dns-src
@@ -41982,7 +42378,7 @@ Description:  A library to support the Internationalised Domain Names in Applica
  from the earlier standard from 2003.
 
 Package: python3-ifaddr-src
-Version: 0.1.6-2
+Version: 0.1.7-1
 Depends: libc
 Source: feeds/packages/lang/python/python-ifaddr
 SourceName: python3-ifaddr-src
@@ -41991,16 +42387,16 @@ LicenseFiles: LICENSE.txt
 Section: lang
 Maintainer: Josef Schlehofer <pepe.schlehofer@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 4604
-Filename: python3-ifaddr-src_0.1.6-2_mips64_octeon3.ipk
-Size: 5426
-SHA256sum: d514fba13707bcf31bacf0c1ab4db5086885128a80991fd56e92aa396f92af61
+Installed-Size: 4705
+Filename: python3-ifaddr-src_0.1.7-1_mips64_octeon3.ipk
+Size: 5528
+SHA256sum: d842cee986094b7660e4c6126e01596dd2d74e5098e79eb251a632ffe1dc5e63
 Description:  ifaddr is a small Python library that allows you to find all the IPv4 and IPv6 addresses of the computer.
  
  This package contains the Python source files for python3-ifaddr.
 
 Package: python3-ifaddr
-Version: 0.1.6-2
+Version: 0.1.7-1
 Depends: libc, python3-light, python3-ctypes
 Source: feeds/packages/lang/python/python-ifaddr
 SourceName: python3-ifaddr
@@ -42009,10 +42405,10 @@ LicenseFiles: LICENSE.txt
 Section: lang
 Maintainer: Josef Schlehofer <pepe.schlehofer@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 6626
-Filename: python3-ifaddr_0.1.6-2_mips64_octeon3.ipk
-Size: 7472
-SHA256sum: 183fd5b774a923cf0ada21c822e4b349b60854b098adc189f933b94737500321
+Installed-Size: 7389
+Filename: python3-ifaddr_0.1.7-1_mips64_octeon3.ipk
+Size: 8247
+SHA256sum: d3a860b92c7660c719004a6ad5bf8885d9ff455bc01d209310960082ea0c63c9
 Description:  ifaddr is a small Python library that allows you to find all the IPv4 and IPv6 addresses of the computer.
 
 Package: python3-incremental-src
@@ -42963,7 +43359,7 @@ Description:  A generic, spec-compliant, thorough implementation of the OAuth re
  logic for Python
 
 Package: python3-openpyxl-src
-Version: 3.0.3-2
+Version: 3.0.4-1
 Depends: libc
 Source: feeds/packages/lang/python/openpyxl
 SourceName: python3-openpyxl-src
@@ -42972,16 +43368,16 @@ LicenseFiles: LICENCE.rst
 Section: lang
 Maintainer: Alexandru Ardelean <ardeleanalex@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 168518
-Filename: python3-openpyxl-src_3.0.3-2_mips64_octeon3.ipk
-Size: 169393
-SHA256sum: 9f3066353ab8ba91d45df4e00e9ecfd1cec4969e7d91106cf49faffc74f3d821
+Installed-Size: 168600
+Filename: python3-openpyxl-src_3.0.4-1_mips64_octeon3.ipk
+Size: 169490
+SHA256sum: a7d69bf8a18352798436567e76700a5c060a8a3898d12dd2c38f252a7d5e28e1
 Description:  A Python library to read/write Excel 2010 xlsx/xlsm files
  
  This package contains the Python source files for python3-openpyxl.
 
 Package: python3-openpyxl
-Version: 3.0.3-2
+Version: 3.0.4-1
 Depends: libc, python3, python3-defusedxml, python3-et_xmlfile, python3-jdcal
 Source: feeds/packages/lang/python/openpyxl
 SourceName: python3-openpyxl
@@ -42990,10 +43386,10 @@ LicenseFiles: LICENCE.rst
 Section: lang
 Maintainer: Alexandru Ardelean <ardeleanalex@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 266682
-Filename: python3-openpyxl_3.0.3-2_mips64_octeon3.ipk
-Size: 267626
-SHA256sum: 049085b16a49f8a7a28f80e6e5e2a3691716ae5c9d017d7f4d82b68029b53267
+Installed-Size: 266707
+Filename: python3-openpyxl_3.0.4-1_mips64_octeon3.ipk
+Size: 267638
+SHA256sum: 3b3a0aaf023cb6fa2b8b02bc0ba29b20fd8e9a6f5cbbdfc630db79d12a83ad4a
 Description:  A Python library to read/write Excel 2010 xlsx/xlsm files
 
 Package: python3-openssl-src
@@ -43231,7 +43627,7 @@ Description:  Passlib is a password hashing library for Python 2 & 3, which prov
  multi-user applications.
 
 Package: python3-pillow-src
-Version: 7.1.2-1
+Version: 7.2.0-1
 Depends: libc
 Source: feeds/packages/lang/python/pillow
 SourceName: python3-pillow-src
@@ -43241,16 +43637,16 @@ Section: lang
 CPE-ID: cpe:/a:python:pillow
 Maintainer: Alexandru Ardelean <ardeleanalex@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 223330
-Filename: python3-pillow-src_7.1.2-1_mips64_octeon3.ipk
-Size: 224259
-SHA256sum: cc6e6152ce09131069ffcd57254b1650338d67ca081c21e8b69ac6921991b73f
+Installed-Size: 225993
+Filename: python3-pillow-src_7.2.0-1_mips64_octeon3.ipk
+Size: 226901
+SHA256sum: 5900f2729092484b106d344a04346e5f5d872dddefbc7ebe42b7bb31fa7e0a2b
 Description:  The friendly PIL fork
  
  This package contains the Python source files for python3-pillow.
 
 Package: python3-pillow
-Version: 7.1.2-1
+Version: 7.2.0-1
 Depends: libc, libfreetype, libjpeg, libtiff5, zlib, python3
 Source: feeds/packages/lang/python/pillow
 SourceName: python3-pillow
@@ -43260,10 +43656,10 @@ Section: lang
 CPE-ID: cpe:/a:python:pillow
 Maintainer: Alexandru Ardelean <ardeleanalex@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 451976
-Filename: python3-pillow_7.1.2-1_mips64_octeon3.ipk
-Size: 451985
-SHA256sum: 1d71b77130a35558fa94783fd8cb5d8ea74548a4f6fd53e2539b2c8916f38098
+Installed-Size: 457849
+Filename: python3-pillow_7.2.0-1_mips64_octeon3.ipk
+Size: 457672
+SHA256sum: 53f9e56375b2b489f8065529fec8cf9aa5182e3179b6557374a9719f15625a5a
 Description:  The friendly PIL fork
 
 Package: python3-pip-src
@@ -44714,7 +45110,7 @@ SHA256sum: d4abda3967c1f2c8cf0019d46be57b57ef3638b11a950769e2044606d474344b
 Description:  Command line interface for testing internet bandwidth using speedtest.net
 
 Package: python3-sqlalchemy-src
-Version: 1.3.13-2
+Version: 1.3.18-1
 Depends: libc
 Source: feeds/packages/lang/python/python-sqlalchemy
 SourceName: python3-sqlalchemy-src
@@ -44724,10 +45120,10 @@ Section: lang
 CPE-ID: cpe:/a:sqlalchemy:sqlalchemy
 Maintainer: Josef Schlehofer <josef.schlehofer@nic.cz>
 Architecture: mips64_octeon3
-Installed-Size: 1038503
-Filename: python3-sqlalchemy-src_1.3.13-2_mips64_octeon3.ipk
-Size: 1039662
-SHA256sum: 5a1512a09b72a031d9d5aa299753f0ed75ec8d92f025372b36d55e296be996d9
+Installed-Size: 1064111
+Filename: python3-sqlalchemy-src_1.3.18-1_mips64_octeon3.ipk
+Size: 1065305
+SHA256sum: 3e18989f0943ae58588396f8076bb54c3a199527a0fe828ecef81cecf5805343
 Description:  SQLAlchemy is the Python SQL toolkit and Object Relational Mapper
  that gives application developers the full power and flexibility of SQL.
  SQLAlchemy provides a full suite of well known enterprise-level persistence patterns,
@@ -44737,7 +45133,7 @@ Description:  SQLAlchemy is the Python SQL toolkit and Object Relational Mapper
  This package contains the Python source files for python3-sqlalchemy.
 
 Package: python3-sqlalchemy
-Version: 1.3.13-2
+Version: 1.3.18-1
 Depends: libc, python3-light, python3-urllib, python3-decimal, python3-logging
 Source: feeds/packages/lang/python/python-sqlalchemy
 SourceName: python3-sqlalchemy
@@ -44747,10 +45143,10 @@ Section: lang
 CPE-ID: cpe:/a:sqlalchemy:sqlalchemy
 Maintainer: Josef Schlehofer <josef.schlehofer@nic.cz>
 Architecture: mips64_octeon3
-Installed-Size: 1413921
-Filename: python3-sqlalchemy_1.3.13-2_mips64_octeon3.ipk
-Size: 1414919
-SHA256sum: 9b6343d682751f1679d45508dfe02cccefa9f834814f4b64cb947c78ef9ca011
+Installed-Size: 1444295
+Filename: python3-sqlalchemy_1.3.18-1_mips64_octeon3.ipk
+Size: 1445352
+SHA256sum: a7a1fbfae92836bf7ece6f0757095dbcb18024d590034ddf7b56db89b6add0a9
 Description:  SQLAlchemy is the Python SQL toolkit and Object Relational Mapper
  that gives application developers the full power and flexibility of SQL.
  SQLAlchemy provides a full suite of well known enterprise-level persistence patterns,
@@ -45228,7 +45624,7 @@ SHA256sum: 7a2e372cff467728e83ab09f7618b6764a7602e6fc1271293445dff909561b77
 Description:  It is primarily intended for validating data coming into Python as JSON, YAML, etc.
 
 Package: python3-wcwidth-src
-Version: 0.1.9-2
+Version: 0.2.5-1
 Depends: libc
 Source: feeds/packages/lang/python/python-wcwidth
 SourceName: python3-wcwidth-src
@@ -45237,16 +45633,16 @@ LicenseFiles: LICENSE.txt
 Section: lang
 Maintainer: Jan Pavlinec <jan.pavlinec@nic.cz>
 Architecture: mips64_octeon3
-Installed-Size: 13202
-Filename: python3-wcwidth-src_0.1.9-2_mips64_octeon3.ipk
-Size: 14007
-SHA256sum: 16ea839bcdb9fbd2477978153d4926e84cb1ebde9177e9c896977f27ec3cb0ce
+Installed-Size: 22697
+Filename: python3-wcwidth-src_0.2.5-1_mips64_octeon3.ipk
+Size: 22699
+SHA256sum: 3004e501fea4989f070ab8f61d99c42bc4f3d32874121de0e511ee8661679c56
 Description:  Python library that measures the width of unicode strings rendered to a terminal
  
  This package contains the Python source files for python3-wcwidth.
 
 Package: python3-wcwidth
-Version: 0.1.9-2
+Version: 0.2.5-1
 Depends: libc, python3-light
 Source: feeds/packages/lang/python/python-wcwidth
 SourceName: python3-wcwidth
@@ -45255,10 +45651,10 @@ LicenseFiles: LICENSE.txt
 Section: lang
 Maintainer: Jan Pavlinec <jan.pavlinec@nic.cz>
 Architecture: mips64_octeon3
-Installed-Size: 11476
-Filename: python3-wcwidth_0.1.9-2_mips64_octeon3.ipk
-Size: 12286
-SHA256sum: 521a00330556aa4074f5863f613e180e682f3945694d52b5be5932b5a4fc3309
+Installed-Size: 16063
+Filename: python3-wcwidth_0.2.5-1_mips64_octeon3.ipk
+Size: 16838
+SHA256sum: 5e655cc1dadc9bc31bcdb093ffc289a30817cead6e0500c0fcfc5064d9b60c5e
 Description:  Python library that measures the width of unicode strings rendered to a terminal
 
 Package: python3-websocket-client-src
@@ -45476,7 +45872,7 @@ SHA256sum: bf46abd88fab5775148983d8ef61764624381ec6c5972e91aa9601e655a4b223
 Description:  Yet another URL library
 
 Package: python3-zeroconf-src
-Version: 0.24.4-2
+Version: 0.28.0-1
 Depends: libc
 Source: feeds/packages/lang/python/python-zeroconf
 SourceName: python3-zeroconf-src
@@ -45485,16 +45881,16 @@ LicenseFiles: COPYING
 Section: lang
 Maintainer: Josef Schlehofer <pepe.schlehofer@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 30368
-Filename: python3-zeroconf-src_0.24.4-2_mips64_octeon3.ipk
-Size: 31246
-SHA256sum: da575efc58ed3489e8f28f9354f02f99b47b41932b05356d8dcad0cc0b5cd668
+Installed-Size: 33605
+Filename: python3-zeroconf-src_0.28.0-1_mips64_octeon3.ipk
+Size: 34536
+SHA256sum: 8e2ec4c274f713e3cf35e2851920fde82cd96641d8af97c0c97bf5734e030fa4
 Description:  Pure Python Multicast DNS Service Discovery Library (Bonjour/Avahi compatible)
  
  This package contains the Python source files for python3-zeroconf.
 
 Package: python3-zeroconf
-Version: 0.24.4-2
+Version: 0.28.0-1
 Depends: libc, python3-light, python3-logging, python3-ifaddr
 Source: feeds/packages/lang/python/python-zeroconf
 SourceName: python3-zeroconf
@@ -45503,10 +45899,10 @@ LicenseFiles: COPYING
 Section: lang
 Maintainer: Josef Schlehofer <pepe.schlehofer@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 52099
-Filename: python3-zeroconf_0.24.4-2_mips64_octeon3.ipk
-Size: 53027
-SHA256sum: c092800c59e09cec3b3e69f5c14caa1ac324fa8ad9601c1dccbb11b1e5cfd30e
+Installed-Size: 57148
+Filename: python3-zeroconf_0.28.0-1_mips64_octeon3.ipk
+Size: 58067
+SHA256sum: 3e4b8e30c0e648d2d361a653db02d8f82561fa76bdd85a5d0cf43fcc9cb505ee
 Description:  Pure Python Multicast DNS Service Discovery Library (Bonjour/Avahi compatible)
 
 Package: python3-zipp-src
@@ -51249,7 +51645,7 @@ Description:  savonet/shine is a blazing fast mp3 encoding library implemented i
  super fast on architectures with a FPU!
 
 Package: shorewall-core
-Version: 5.2.5.2-2
+Version: 5.2.6.1-2
 Depends: libc
 Source: feeds/packages/net/shorewall-core
 SourceName: shorewall-core
@@ -51258,16 +51654,16 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Willem van den Akker <wvdakker@wilsoft.nl>
 Architecture: mips64_octeon3
-Installed-Size: 35337
-Filename: shorewall-core_5.2.5.2-2_mips64_octeon3.ipk
-Size: 36333
-SHA256sum: 54913978d31f95eba6ea9be1b606df7d134b287c339b9e0c930f78650e0fe96a
+Installed-Size: 35537
+Filename: shorewall-core_5.2.6.1-2_mips64_octeon3.ipk
+Size: 36540
+SHA256sum: 29974a65ed37a83ec4c49a5494fa1d449d184bac7dafea22c8a03e19a324f3fe
 Description:  The Shoreline Firewall, is high-level tool for configuring Netfilter.
  This package provides the core Shorewall libraries installed in /usr/share/shorewall/,
  which are required for the rest of the Shorewall packages to work.
 
 Package: shorewall-lite
-Version: 5.2.5.2-1
+Version: 5.2.6.1-1
 Depends: libc, ip, iptables, shorewall-core
 Source: feeds/packages/net/shorewall-lite
 SourceName: shorewall-lite
@@ -51276,10 +51672,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Willem van den Akker <wvdakker@wilsoft.nl>
 Architecture: mips64_octeon3
-Installed-Size: 3560
-Filename: shorewall-lite_5.2.5.2-1_mips64_octeon3.ipk
-Size: 4587
-SHA256sum: 273b2d04a85d5232632ff6842e25245ea756a5cf88a84bc613bddf1c5489b788
+Installed-Size: 3561
+Filename: shorewall-lite_5.2.6.1-1_mips64_octeon3.ipk
+Size: 4593
+SHA256sum: c1c602d83af0b2c5176d6fed3bf79764b7243708b4d2669d099b0bcbafb7f0d9
 Description:  The Shoreline Firewall, is high-level tool for configuring Netfilter.
  
  Shorewall allows for central administration of multiple IPv4 firewalls
@@ -51291,7 +51687,7 @@ Description:  The Shoreline Firewall, is high-level tool for configuring Netfilt
  Note: This is the IPv4 implementation of Shorewall.
 
 Package: shorewall6-lite
-Version: 5.2.5.2-1
+Version: 5.2.6.1-1
 Depends: libc, ip, ip6tables, shorewall-core
 Source: feeds/packages/net/shorewall6-lite
 SourceName: shorewall6-lite
@@ -51300,10 +51696,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Willem van den Akker <wvdakker@wilsoft.nl>
 Architecture: mips64_octeon3
-Installed-Size: 3587
-Filename: shorewall6-lite_5.2.5.2-1_mips64_octeon3.ipk
-Size: 4633
-SHA256sum: 62f4bf0dc972f4c51d59efe88102dd8cfdf4a5bef896671b5e206a1662536a50
+Installed-Size: 3588
+Filename: shorewall6-lite_5.2.6.1-1_mips64_octeon3.ipk
+Size: 4634
+SHA256sum: 09c0b7bbae29d4e83d30270de3ce32fea3f8ab5b3ade48fcbcc82a18b9655a31
 Description:  The Shoreline Firewall, is high-level tool for configuring Netfilter.
  
  Shorewall6 allows for central administration of multiple IPv6 firewalls
@@ -51315,7 +51711,7 @@ Description:  The Shoreline Firewall, is high-level tool for configuring Netfilt
  Note: This is the IPv6 implementation of Shorewall.
 
 Package: shorewall6
-Version: 5.2.5.2-1
+Version: 5.2.6.1-1
 Depends: libc, ip, ip6tables, kmod-ipt-hashlimit, kmod-ipt-raw6, iptables-mod-hashlimit, shorewall-core, perl, perlbase-autoloader, perlbase-autouse, perlbase-dynaloader, perlbase-digest, perlbase-findbin, perlbase-getopt, perlbase-hash
 Source: feeds/packages/net/shorewall6
 SourceName: shorewall6
@@ -51324,10 +51720,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Willem van den Akker <wvdakker@wilsoft.nl>
 Architecture: mips64_octeon3
-Installed-Size: 93637
-Filename: shorewall6_5.2.5.2-1_mips64_octeon3.ipk
-Size: 95020
-SHA256sum: 95a5e2f8efe42f35ca0e2bae8ada0b1c23dd51917a96c57998b7887a2b959e50
+Installed-Size: 93954
+Filename: shorewall6_5.2.6.1-1_mips64_octeon3.ipk
+Size: 95341
+SHA256sum: 7ed82379d5c9a7d353c92f5380d789e1622e056c9da610449bcdcbf3300ba250
 Description:  The Shoreline Firewall, is high-level tool for configuring Netfilter.
  
  Shorewall allows for central administration of multiple IPv6 firewalls.
@@ -51338,7 +51734,7 @@ Description:  The Shoreline Firewall, is high-level tool for configuring Netfilt
  This full Shorewal packages also installs Perl which can make the image big (about +2M).
 
 Package: shorewall
-Version: 5.2.5.2-1
+Version: 5.2.6.1-1
 Depends: libc, ip, iptables, kmod-ipt-hashlimit, kmod-ipt-raw, iptables-mod-hashlimit, shorewall-core, perl, perlbase-autoloader, perlbase-autouse, perlbase-dynaloader, perlbase-digest, perlbase-findbin, perlbase-getopt, perlbase-hash
 Source: feeds/packages/net/shorewall
 SourceName: shorewall
@@ -51347,10 +51743,10 @@ LicenseFiles: COPYING
 Section: devel
 Maintainer: Willem van den Akker <wvdakker@wilsoft.nl>
 Architecture: mips64_octeon3
-Installed-Size: 419272
-Filename: shorewall_5.2.5.2-1_mips64_octeon3.ipk
-Size: 420519
-SHA256sum: 7c6d282a937993ee82fbf4ea4fcd5111f5d2c6dae63bbca6f3145184db63a4bd
+Installed-Size: 420174
+Filename: shorewall_5.2.6.1-1_mips64_octeon3.ipk
+Size: 421363
+SHA256sum: ab5dc401c32651617d1416433f431e7015c594a09c93d8ce7c627fb2ddb2d6d4
 Description:  The Shoreline Firewall, is high-level tool for configuring Netfilter.
  
  Shorewall allows for central administration of multiple IPv4 firewalls.
@@ -56432,7 +56828,7 @@ SHA256sum: 6e35907c09fd0898d63d9dcd88ee41859d49880de2eb03bce6196f138ba2e418
 Description:  Training data for yor language
 
 Package: tesseract
-Version: 4.0.0-1
+Version: 4.0.0-2
 Depends: libc, libleptonica, libpthread, libstdcpp6
 Source: feeds/packages/utils/tesseract
 SourceName: tesseract
@@ -56441,10 +56837,10 @@ LicenseFiles: LICENSE
 Section: utils
 Maintainer: Valentin Kivachuk <vk18496@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 1554883
-Filename: tesseract_4.0.0-1_mips64_octeon3.ipk
-Size: 1552488
-SHA256sum: ea5fe640bc2befa3a1b19ba9f9809f8acb568486a2c6b878737dd15436fcd846
+Installed-Size: 1537775
+Filename: tesseract_4.0.0-2_mips64_octeon3.ipk
+Size: 1534810
+SHA256sum: 55adf4d220615730dd0dd6ce688280638b84ddabba220a50580ab1b004093a80
 Description:  Tesseract Open Source OCR Engine
 
 Package: tgt
@@ -57428,7 +57824,7 @@ Description:  Minimalistic Mumble server daemon.
  Uses OpenSSL library for SSL and crypto.
 
 Package: unbound-anchor
-Version: 1.10.1-4
+Version: 1.10.1-5
 Depends: libc, libopenssl1.1, unbound-daemon, libexpat
 Source: feeds/packages/net/unbound
 SourceName: unbound-anchor
@@ -57440,13 +57836,13 @@ CPE-ID: cpe:/a:nlnetlabs:unbound
 Maintainer: Eric Luehrsen <ericluehrsen@gmail.com>
 Architecture: mips64_octeon3
 Installed-Size: 22519
-Filename: unbound-anchor_1.10.1-4_mips64_octeon3.ipk
-Size: 23121
-SHA256sum: c9681acffddd1b3d42bb1538ae7abd1e6b5eabae1030f4453914e0022d313632
+Filename: unbound-anchor_1.10.1-5_mips64_octeon3.ipk
+Size: 23120
+SHA256sum: fe3e31bb2500f9070a526141a6c14f844f6636e8dc684a167fd5a8adba4c2d27
 Description:  This package contains the Unbound anchor utility.
 
 Package: unbound-checkconf
-Version: 1.10.1-4
+Version: 1.10.1-5
 Depends: libc, libopenssl1.1, unbound-daemon
 Source: feeds/packages/net/unbound
 SourceName: unbound-checkconf
@@ -57458,13 +57854,13 @@ CPE-ID: cpe:/a:nlnetlabs:unbound
 Maintainer: Eric Luehrsen <ericluehrsen@gmail.com>
 Architecture: mips64_octeon3
 Installed-Size: 48768
-Filename: unbound-checkconf_1.10.1-4_mips64_octeon3.ipk
-Size: 48337
-SHA256sum: f678cdd206f630672a6f56acd73a651904fc191cb82dbe7db10ee1eb39e23e46
+Filename: unbound-checkconf_1.10.1-5_mips64_octeon3.ipk
+Size: 48342
+SHA256sum: 5643cb87ea348218d69261afe3feb96f3920b57a90ca11a6967ce997e5a55435
 Description:  This package contains the Unbound DNS configuration checker utility.
 
 Package: unbound-control-setup
-Version: 1.10.1-4
+Version: 1.10.1-5
 Depends: libc, libopenssl1.1, unbound-control, openssl-util
 Source: feeds/packages/net/unbound
 SourceName: unbound-control-setup
@@ -57476,13 +57872,13 @@ CPE-ID: cpe:/a:nlnetlabs:unbound
 Maintainer: Eric Luehrsen <ericluehrsen@gmail.com>
 Architecture: mips64_octeon3
 Installed-Size: 2368
-Filename: unbound-control-setup_1.10.1-4_mips64_octeon3.ipk
+Filename: unbound-control-setup_1.10.1-5_mips64_octeon3.ipk
 Size: 3205
-SHA256sum: c7d9baab449a9515a5391c5283ee46f6dd88223a7fb2d376f443dff9f6e7f139
+SHA256sum: 915cc36bd8e039d3b95149d43ae28a019d798a3713bee47de1b38c2d4a764313
 Description:  This package contains the Unbound control setup utility.
 
 Package: unbound-control
-Version: 1.10.1-4
+Version: 1.10.1-5
 Depends: libc, libopenssl1.1, unbound-daemon
 Source: feeds/packages/net/unbound
 SourceName: unbound-control
@@ -57494,13 +57890,13 @@ CPE-ID: cpe:/a:nlnetlabs:unbound
 Maintainer: Eric Luehrsen <ericluehrsen@gmail.com>
 Architecture: mips64_octeon3
 Installed-Size: 50513
-Filename: unbound-control_1.10.1-4_mips64_octeon3.ipk
-Size: 50388
-SHA256sum: 09cecb70a10a280bd57a56fb1d1fb1e04f148f1e6daaef5b33029d02716100ce
+Filename: unbound-control_1.10.1-5_mips64_octeon3.ipk
+Size: 50389
+SHA256sum: 5f660605873f28667e4c4c1ce59fedadd00ee08b4306df157a14d93746ddbe0b
 Description:  This package contains the Unbound control utility.
 
 Package: unbound-daemon
-Version: 1.10.1-4
+Version: 1.10.1-5
 Depends: libc, libopenssl1.1, libunbound
 Source: feeds/packages/net/unbound
 SourceName: unbound-daemon
@@ -57511,17 +57907,17 @@ Require-User: unbound:unbound
 CPE-ID: cpe:/a:nlnetlabs:unbound
 Maintainer: Eric Luehrsen <ericluehrsen@gmail.com>
 Architecture: mips64_octeon3
-Installed-Size: 127460
-Filename: unbound-daemon_1.10.1-4_mips64_octeon3.ipk
-Size: 126857
-SHA256sum: 8207d1a36c5f76ebe7cfdb2813ec8de1bf9523182e95c933e2b7680fcfb74121
+Installed-Size: 127818
+Filename: unbound-daemon_1.10.1-5_mips64_octeon3.ipk
+Size: 127292
+SHA256sum: eadcf8d38363261892a763c40b162eae552b3fc1199a20c4d9e576a9edc5c72e
 Description:  This package contains the Unbound daemon including 'libevent', 'libmnl', and
  'libpthread' to better handle large networks with heavy query loads. Options
  are available under libraries/network/libunbound to custom trim Unbound for
  smaller targets.
 
 Package: unbound-host
-Version: 1.10.1-4
+Version: 1.10.1-5
 Depends: libc, libopenssl1.1, libunbound
 Source: feeds/packages/net/unbound
 SourceName: unbound-host
@@ -57533,9 +57929,9 @@ CPE-ID: cpe:/a:nlnetlabs:unbound
 Maintainer: Eric Luehrsen <ericluehrsen@gmail.com>
 Architecture: mips64_octeon3
 Installed-Size: 43828
-Filename: unbound-host_1.10.1-4_mips64_octeon3.ipk
+Filename: unbound-host_1.10.1-5_mips64_octeon3.ipk
 Size: 43993
-SHA256sum: 12020dfb70bfe67b44d4ccdacbacb094da6002a851aa517c231e8e6078043e02
+SHA256sum: 855a7d33cf140fabeb371be8fd75f68a6b6de02e1342415b3736d7f63336390f
 Description:  This package contains the Unbound DNS lookup utility.
 
 Package: unixodbc-tools
@@ -58482,7 +58878,7 @@ SHA256sum: d644b99a68868d0bd3901209c96c9391d2fdab0c61a7104363f07fba142ceaea
 Description:  Utility for creating XFS filesystems
 
 Package: xinetd
-Version: 2.3.15-6
+Version: 2.3.15-7
 Depends: libc
 Source: feeds/packages/net/xinetd
 SourceName: xinetd
@@ -58490,11 +58886,12 @@ License: xinetd
 LicenseFiles: COPYRIGHT
 Section: net
 CPE-ID: cpe:/a:xinetd:xinetd
+Maintainer: Florian Eckert <fe@dev.tdt.de>
 Architecture: mips64_octeon3
-Installed-Size: 69192
-Filename: xinetd_2.3.15-6_mips64_octeon3.ipk
-Size: 70030
-SHA256sum: 9f2c822c1a56e985f877e6f7ae9f52dadc8b6233b0b1999b3c79a1e86bf646b6
+Installed-Size: 69200
+Filename: xinetd_2.3.15-7_mips64_octeon3.ipk
+Size: 70067
+SHA256sum: 072ffbc79ccef62104f4a207e6a3e6d6c7e3f0607146b5cbfe7b6ffbafcb50a2
 Description:  xinetd has access control mechanisms, extensive logging capabilities,
  the ability to make services available based on time, can place limits
  on the number of servers that can be started, and has deployable

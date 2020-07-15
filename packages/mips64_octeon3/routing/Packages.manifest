@@ -533,7 +533,7 @@ Description:  ndppd, or NDP Proxy Daemon, is a daemon that proxies NDP (Neighbor
  that target IP before finally sending a Neighbor Advertisement message.
 
 Package: nodogsplash
-Version: 4.4.0-1
+Version: 5.0.0-1
 Depends: libc, libpthread, iptables-mod-ipopt, libmicrohttpd-no-ssl
 Conflicts: nodogsplash2
 Source: feeds/routing/nodogsplash
@@ -542,10 +542,10 @@ License: GPL-2.0+
 Section: net
 Maintainer: Moritz Warning <moritzwarning@web.de>
 Architecture: mips64_octeon3
-Installed-Size: 67463
-Filename: nodogsplash_4.4.0-1_mips64_octeon3.ipk
-Size: 68280
-SHA256sum: 98b1dccfc986cd835e17865baa4eb8b85d92ab09c06b269bffb494757a40fee3
+Installed-Size: 50314
+Filename: nodogsplash_5.0.0-1_mips64_octeon3.ipk
+Size: 51137
+SHA256sum: cfaffaa5af9dbc8c4a61d6a7e2fb6a9308980bb0c956eb40391af95ee9af3708
 Description:  Nodogsplash is a Captive Portal that offers a simple way to
  provide restricted access to the Internet by showing a splash
  page to the user before Internet access is granted.
