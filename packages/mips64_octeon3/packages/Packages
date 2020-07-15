@@ -979,6 +979,18 @@ SHA256sum: 82aa65aafb1e175cb7db4eb01e1ebc3d0469e3a80529716c2bb28ac8743eb76d
 Description:  A bandwidthd tracking utility.
  With the ability to store in a sqlite database.
 
+Package: bandwidthd
+Version: 2.0.1-35-3
+Depends: libc, libgd, libpcap1
+License: GPL-2.0-or-later
+Section: utils
+Architecture: mips64_octeon3
+Installed-Size: 35814
+Filename: bandwidthd_2.0.1-35-3_mips64_octeon3.ipk
+Size: 36606
+SHA256sum: 0d7997ac920023dff16bfbf350f83f5ec63cd20b6b8ead2549167b455756893e
+Description:  A bandwidthd tracking utility.
+
 Package: banhostlist
 Version: 1-1
 Depends: libc
