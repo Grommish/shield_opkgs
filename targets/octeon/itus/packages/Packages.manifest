@@ -6,10 +6,10 @@ SourceName: base-files
 License: GPL-2.0
 Section: base
 Architecture: mips64_octeon3
-Installed-Size: 42261
+Installed-Size: 42251
 Filename: base-files_223-r13863+81-9f3415d30b_mips64_octeon3.ipk
-Size: 43233
-SHA256sum: 21c82aeaee150407702968f1384c5cbd6e758242970199eaa2b9b1bf94db5e28
+Size: 43228
+SHA256sum: 09ac5051571aabc5d171f2a64a028704a14caeb686cdc9d1dcad5427cde25be7
 Description:  This package contains a base filesystem and system scripts for OpenWrt.
 
 Package: block-mount

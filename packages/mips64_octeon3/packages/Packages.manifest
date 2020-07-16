@@ -29496,8 +29496,8 @@ Maintainer: Darryl Sokoloski <darryl@egloo.ca>
 Architecture: mips64_octeon3
 Installed-Size: 390898
 Filename: netifyd_2020-04-29-v3.00-1_mips64_octeon3.ipk
-Size: 391161
-SHA256sum: 3e8ebdb5911d850693c8add7793f0712c85ce77ffc92b352847d6e52b287b862
+Size: 391164
+SHA256sum: 4506db3afc021855cdb2280b35fc863c3d31aae8c92e5e582de36ad4d0316d22
 Description:  The Netify Agent is a deep-packet inspection server which detects network
  protocols and applications.  These detections can be saved locally, served over
  a UNIX or TCP socket, and/or "pushed" (via HTTP POSTs) to a remote third-party
