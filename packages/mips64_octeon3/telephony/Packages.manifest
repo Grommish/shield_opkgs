@@ -8,10 +8,10 @@ LicenseFiles: docs/COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 3732
+Installed-Size: 3731
 Filename: baresip-mod-alsa_0.6.4-2_mips64_octeon3.ipk
-Size: 4491
-SHA256sum: 9b1482da61abffadceca96e87f8dede740510175224f786a439236b63fd4ac1c
+Size: 4494
+SHA256sum: 32b841727ae27d565bd0963d6ef4d421dd8f8ec4e3bcaa4162c5b3ceca50bb0a
 Description:  ALSA audio driver
 
 Package: baresip-mod-aubridge
@@ -24,10 +24,10 @@ LicenseFiles: docs/COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 2875
+Installed-Size: 2874
 Filename: baresip-mod-aubridge_0.6.4-2_mips64_octeon3.ipk
-Size: 3616
-SHA256sum: 4e270741896dd86f74988bceddcaa2811bc1d157beb895d93053c580597681be
+Size: 3620
+SHA256sum: 8a30e65bf2b32a49d01248547002a8bb0c170da5501f1970e9c11c9d6954e4d8
 Description:  Audio bridge module
 
 Package: baresip-mod-aufile
@@ -40,10 +40,10 @@ LicenseFiles: docs/COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 2780
+Installed-Size: 2779
 Filename: baresip-mod-aufile_0.6.4-2_mips64_octeon3.ipk
-Size: 3551
-SHA256sum: f931b24ae7b0e283944d8f5607ee1ac598f06a323af6c258fdbe35d8d381dce1
+Size: 3550
+SHA256sum: afb96aa75835e6831d66af29dfe498a351848bd65c6c1a8ff6d6e9582697bb95
 Description:  Audio module for using a WAV-file as audio input
 
 Package: baresip-mod-b2bua
@@ -56,10 +56,10 @@ LicenseFiles: docs/COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 3232
+Installed-Size: 3231
 Filename: baresip-mod-b2bua_0.6.4-2_mips64_octeon3.ipk
-Size: 3984
-SHA256sum: 23e34c73e83cb7e6bfcb3921b004901229c6c0423c7f38a3e2e1036b966c295e
+Size: 3986
+SHA256sum: b1c24fdb5e675859dcbc0992b0452b78a6fb09b399e456110c9d1859ebb6aec5
 Description:  Back-to-Back User-Agent module
 
 Package: baresip-mod-cons
@@ -72,10 +72,10 @@ LicenseFiles: docs/COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 2644
+Installed-Size: 2642
 Filename: baresip-mod-cons_0.6.4-2_mips64_octeon3.ipk
-Size: 3389
-SHA256sum: c9f07b82955a67670f716cec31520d40b4908ca5574aac9ce29349f054c69dff
+Size: 3397
+SHA256sum: e1670c1d9a3f67a5b04c3c1f0f072b0a732cf5c3eb509928b3dee8a4f8ba4e95
 Description:  UDP/TCP console UI driver
 
 Package: baresip-mod-ctrl-tcp
@@ -88,10 +88,10 @@ LicenseFiles: docs/COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 5007
+Installed-Size: 5006
 Filename: baresip-mod-ctrl-tcp_0.6.4-2_mips64_octeon3.ipk
-Size: 5751
-SHA256sum: 1f57005451f8912bfe1ff51e4e2dfc62db5ad1c224da80987514cd864a4b8aca
+Size: 5753
+SHA256sum: b05c8c8423f763fa9e1558ec3194ad329e2346a6321b1303f42731c37882115c
 Description:  TCP control interface
 
 Package: baresip-mod-debug-cmd
@@ -104,10 +104,10 @@ LicenseFiles: docs/COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 2997
+Installed-Size: 2995
 Filename: baresip-mod-debug-cmd_0.6.4-2_mips64_octeon3.ipk
-Size: 3741
-SHA256sum: 51e4525061a4113f1b4e215e93bc796716c25d3d8ee61c679163dea541e6ee7e
+Size: 3740
+SHA256sum: e78021b36f2651030d3a930c29a4d5ca754df4e7060eebf6920439a50bdbd9e8
 Description:  Debug commands
 
 Package: baresip-mod-dtls-srtp
@@ -120,10 +120,10 @@ LicenseFiles: docs/COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 5128
+Installed-Size: 5126
 Filename: baresip-mod-dtls-srtp_0.6.4-2_mips64_octeon3.ipk
-Size: 5882
-SHA256sum: b085e05050000b1fdb9422d49ff01888935050f6a8231da510b5a6993973a070
+Size: 5875
+SHA256sum: 7bafc0cb143a7732431ba521102776c0592496adaaea9b4ea9f3b843ab0231e1
 Description:  DTLS-SRTP end-to-end encryption
 
 Package: baresip-mod-dtmfio
@@ -136,10 +136,10 @@ LicenseFiles: docs/COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 1634
+Installed-Size: 1633
 Filename: baresip-mod-dtmfio_0.6.4-2_mips64_octeon3.ipk
-Size: 2410
-SHA256sum: e463b15620fd69ceafbd4a42098e68499c391773d72c97f3e3ddc12ded930307
+Size: 2406
+SHA256sum: 6bcce8437c704f1673fe8f6385f2fe58c0733924cb65a5d4f2f025e71911b149
 Description:  DTMF input/output
 
 Package: baresip-mod-echo
@@ -154,8 +154,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 2296
 Filename: baresip-mod-echo_0.6.4-2_mips64_octeon3.ipk
-Size: 3038
-SHA256sum: 53ff52801b754c2da3b4c9dab56988e4fc21c61f500c2b947d68de79d6c0d4ae
+Size: 3040
+SHA256sum: a3aa3324b7168628c3b7132bb72ace3c95d78a953ac1fb436fdd3e97fa62abf0
 Description:  Echo server module
 
 Package: baresip-mod-evdev
@@ -168,10 +168,10 @@ LicenseFiles: docs/COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 7238
+Installed-Size: 7233
 Filename: baresip-mod-evdev_0.6.4-2_mips64_octeon3.ipk
-Size: 7800
-SHA256sum: 5b94daf99b07f6d65d3d2a24b467d98ae409781dc0d752ab6918797805c1e7b4
+Size: 7790
+SHA256sum: e58879e25b5651ae190ff1f114ac7d38555f200c095576296e5476e7915c22d8
 Description:  Linux input driver
 
 Package: baresip-mod-fakevideo
@@ -184,10 +184,10 @@ LicenseFiles: docs/COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 2183
+Installed-Size: 2181
 Filename: baresip-mod-fakevideo_0.6.4-2_mips64_octeon3.ipk
-Size: 2932
-SHA256sum: 02bfdd091d003e17480b8c66bed3f7549aa70af4285c9a1b98d921780dc7f8ce
+Size: 2920
+SHA256sum: 22740360554eb55ee8e9cf4db3d1bfbd754f2b82966dbc2564a1c7b9045c9a31
 Description:  Fake video input/output driver
 
 Package: baresip-mod-g711
@@ -200,10 +200,10 @@ LicenseFiles: docs/COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 1619
+Installed-Size: 1618
 Filename: baresip-mod-g711_0.6.4-2_mips64_octeon3.ipk
 Size: 2403
-SHA256sum: e85f58a52cc11cbdd031b91acd4568053f1bb02884d65be7835d8e3c5a1f1f7f
+SHA256sum: bb279c5a3a8c9489e36a837d64f5cc0f39c05d6266f3c36b7ce7fde474ef63d1
 Description:  G.711 audio codec
 
 Package: baresip-mod-g722
@@ -216,10 +216,10 @@ LicenseFiles: docs/COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 1613
+Installed-Size: 1612
 Filename: baresip-mod-g722_0.6.4-2_mips64_octeon3.ipk
-Size: 2392
-SHA256sum: e4917fb29b4a04aa156201ae9a2acd98a25b9eb15e6fb3f43cfd825475cf0474
+Size: 2396
+SHA256sum: 5b45c072f1d8c63800a6c2a59de4fbc186bc0ce4981e694432bc008cba242026
 Description:  G.722 audio codec
 
 Package: baresip-mod-g726
@@ -232,10 +232,10 @@ LicenseFiles: docs/COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 1831
+Installed-Size: 1830
 Filename: baresip-mod-g726_0.6.4-2_mips64_octeon3.ipk
-Size: 2575
-SHA256sum: 83636cb357b1749713ec3d05647835297a324de0303dc8cad35b8f81d9fb940b
+Size: 2577
+SHA256sum: 968a0a6981c50eb42d3a72268630cba48ff21dcd8d9c612491aed45c3516da4c
 Description:  G.726 audio codec
 
 Package: baresip-mod-httpd
@@ -248,10 +248,10 @@ LicenseFiles: docs/COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 2514
+Installed-Size: 2513
 Filename: baresip-mod-httpd_0.6.4-2_mips64_octeon3.ipk
-Size: 3261
-SHA256sum: 15b163313de42e9fade9581f7e643d3ce6ced52bde62b1d3f695599f64c27bdb
+Size: 3260
+SHA256sum: 7b8a24be4921902d3e413133ffab660d848d7155a19626f5fadf418681201b40
 Description:  HTTP webserver UI-module
 
 Package: baresip-mod-mwi
@@ -264,10 +264,10 @@ LicenseFiles: docs/COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 2667
+Installed-Size: 2665
 Filename: baresip-mod-mwi_0.6.4-2_mips64_octeon3.ipk
-Size: 3416
-SHA256sum: c192fc87cb7bd0d28ddd07b15d2400ba31b35666631786b59518e570cb4f8d3f
+Size: 3419
+SHA256sum: 35fb3759b6bfb9907e6925b45f3e63e05c9fe1e8d47ede049742dd492f557751
 Description:  Message Waiting Indication
 
 Package: baresip-mod-natpmp
@@ -280,10 +280,10 @@ LicenseFiles: docs/COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 4605
+Installed-Size: 4603
 Filename: baresip-mod-natpmp_0.6.4-2_mips64_octeon3.ipk
-Size: 5365
-SHA256sum: f3f764168eef6a674121b21be1c192c759610a989f631bcdde9372b69f68a0a6
+Size: 5359
+SHA256sum: e97deafd3df585444332ac7f0d5b00fcb1658bddf800407b55545a7e4228bb60
 Description:  NAT Port Mapping Protocol module
 
 Package: baresip-mod-opus
@@ -296,10 +296,10 @@ LicenseFiles: docs/COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 4344
+Installed-Size: 4342
 Filename: baresip-mod-opus_0.6.4-2_mips64_octeon3.ipk
-Size: 5111
-SHA256sum: 0ff5e327f4a24d416e38f3358ba2d8c6af9f17d6bb76cdd1111e9af85a27dd1d
+Size: 5096
+SHA256sum: f4665897138d13699f640a6cda1729cd72d1784bc86ec1dd99046be944b9a2c7
 Description:  OPUS Interactive audio codec
 
 Package: baresip-mod-oss
@@ -314,8 +314,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 2630
 Filename: baresip-mod-oss_0.6.4-2_mips64_octeon3.ipk
-Size: 3369
-SHA256sum: ea377c828f44375ffe492b351de03e9054d29e695b286ddb8bf76808adc98134
+Size: 3365
+SHA256sum: 2efdcdfa1f376e454f61c23e70386802fe52f04763a34f33273d8a16933d782e
 Description:  OSS audio driver
 
 Package: baresip-mod-plc
@@ -330,8 +330,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 1705
 Filename: baresip-mod-plc_0.6.4-2_mips64_octeon3.ipk
-Size: 2490
-SHA256sum: e8ba79c2f60607f96f3fa1d73d46e97adbd83f3044a18466de783ed35be61789
+Size: 2486
+SHA256sum: 99cf934eecf45bbc1ba1253b15aaff06566ee7706cc38ac54824edc36d166441
 Description:  Packet Loss Concealment
 
 Package: baresip-mod-portaudio
@@ -344,10 +344,10 @@ LicenseFiles: docs/COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 2467
+Installed-Size: 2466
 Filename: baresip-mod-portaudio_0.6.4-2_mips64_octeon3.ipk
 Size: 3211
-SHA256sum: 43926de0eab788fe16a716899551229c746b265858de5ec28404b8b55f787e1f
+SHA256sum: d1f7fc7e763db2cff4acbf30cbc49b7862f421dee55a2b5a7bd67e1b31d9d421
 Description:  Portaudio audio driver
 
 Package: baresip-mod-presence
@@ -360,10 +360,10 @@ LicenseFiles: docs/COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 6756
+Installed-Size: 6755
 Filename: baresip-mod-presence_0.6.4-2_mips64_octeon3.ipk
-Size: 7539
-SHA256sum: 7757658e3a2f3b05fb3ecba4205128717bbd6c9ec608b2fd6de113643c883ac7
+Size: 7530
+SHA256sum: 53737372a1fe3bf83a0d6c95359e95c8ea2c5ab36bac171a251f6a8ce6e403a6
 Description:  Presence module
 
 Package: baresip-mod-pulse
@@ -378,8 +378,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 3943
 Filename: baresip-mod-pulse_0.6.4-2_mips64_octeon3.ipk
-Size: 4712
-SHA256sum: 4e4c896950eff6c0fb773d3af1547f57955fd80e35922d924b53455e8a6f67d2
+Size: 4704
+SHA256sum: 2bf799b12628e131341b8197aff9fb2e312147afbdf41cf2a80480d67e367856
 Description:  Pulseaudio audio driver
 
 Package: baresip-mod-rtcpsummary
@@ -392,10 +392,10 @@ LicenseFiles: docs/COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 2130
+Installed-Size: 2129
 Filename: baresip-mod-rtcpsummary_0.6.4-2_mips64_octeon3.ipk
-Size: 2874
-SHA256sum: 692ae3af51ff282bc5313e38aa5069dcc1d4e871ad0e4330a05d3ce2346097ae
+Size: 2872
+SHA256sum: b1d033bd8aff5e74714ac1e5b6d0b84949269bdcc5501d641a7f93c5bb948028
 Description:  RTCP summary module
 
 Package: baresip-mod-selfview
@@ -408,10 +408,10 @@ LicenseFiles: docs/COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 2537
+Installed-Size: 2535
 Filename: baresip-mod-selfview_0.6.4-2_mips64_octeon3.ipk
-Size: 3277
-SHA256sum: 2c67644a492549a975a4d5047ac0524faece11548ba21907703e7e8145099635
+Size: 3284
+SHA256sum: fa1c2b3a4cbdee5028301406091a6a0fe967791d215dc7c90dfc075fdf40f36a
 Description:  Video selfview module
 
 Package: baresip-mod-sndfile
@@ -424,10 +424,10 @@ LicenseFiles: docs/COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 2488
+Installed-Size: 2486
 Filename: baresip-mod-sndfile_0.6.4-2_mips64_octeon3.ipk
-Size: 3237
-SHA256sum: 98df6d67cd8b9a095930416f822aae494de60b3d327ddae7a677b155fc4fbccd
+Size: 3233
+SHA256sum: 271426bc80e1006f8a11b08213f35fac46a6750d5868585a0f8b923997f25cb7
 Description:  Audio dumper using libsndfile
 
 Package: baresip-mod-srtp
@@ -440,10 +440,10 @@ LicenseFiles: docs/COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 4217
+Installed-Size: 4218
 Filename: baresip-mod-srtp_0.6.4-2_mips64_octeon3.ipk
-Size: 4970
-SHA256sum: 05230d1723747ed38a1a35e3d0f9b0c19efa7993ea352a9656bfe90e102319ba
+Size: 4974
+SHA256sum: 81bd67edc26ff1fc2fe4ed95a84cd57dc8dd6ef3fcb24b3d158fdb8b97b27ca9
 Description:  Secure RTP module using libre
 
 Package: baresip-mod-stdio
@@ -456,10 +456,10 @@ LicenseFiles: docs/COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 2165
+Installed-Size: 2163
 Filename: baresip-mod-stdio_0.6.4-2_mips64_octeon3.ipk
-Size: 2908
-SHA256sum: b8f2aea5c97b00d0e2f48af84e96e3de647bacbfcefd1b5b469028d4aef7e74e
+Size: 2901
+SHA256sum: 30c9a34fb178130f30d68893f7431b3ffab16056377074db58fe0dcdd1dce232
 Description:  Standard input/output UI driver
 
 Package: baresip-mod-uuid
@@ -472,10 +472,10 @@ LicenseFiles: docs/COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 1936
+Installed-Size: 1926
 Filename: baresip-mod-uuid_0.6.4-2_mips64_octeon3.ipk
-Size: 2673
-SHA256sum: ef355005b36ca573f84fe2f62115f6975fe7acfa85c6050d0b546a76af63bb9f
+Size: 2670
+SHA256sum: 79a788f111cd38f5df6475c3f05a0aa1457bd1cb67b284c00ca9a9034fdbbbfa
 Description:  UUID generator and loader
 
 Package: baresip-mod-v4l2-codec
@@ -488,10 +488,10 @@ LicenseFiles: docs/COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 4450
+Installed-Size: 4449
 Filename: baresip-mod-v4l2-codec_0.6.4-2_mips64_octeon3.ipk
 Size: 5203
-SHA256sum: 246efaed5c45e6cbf248031e031e98e6ea99d0c32fc079b84785cf43fc0182b2
+SHA256sum: cc497933ad7492c40146980e8f7a79d9456a1e4eb449159394894cf42ca2fda5
 Description:  Video4Linux2 video codec module
 
 Package: baresip-mod-v4l2
@@ -504,10 +504,10 @@ LicenseFiles: docs/COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 4395
+Installed-Size: 4392
 Filename: baresip-mod-v4l2_0.6.4-2_mips64_octeon3.ipk
-Size: 5145
-SHA256sum: 7ace66c3fbfe55881884d92ba0d8c13694cbb9a545c45c94b54e2a9ce47f46b2
+Size: 5137
+SHA256sum: 7e67947def281810d8eb12846e1deaaac026288f3a8a2f38fd750e1475858ee2
 Description:  Video4Linux2 video source
 
 Package: baresip-mod-vidbridge
@@ -520,10 +520,10 @@ LicenseFiles: docs/COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 2347
+Installed-Size: 2345
 Filename: baresip-mod-vidbridge_0.6.4-2_mips64_octeon3.ipk
-Size: 3096
-SHA256sum: 6333e4cb7e650819e9345309c5bea2f834cd9083949d8594039db1b620789e83
+Size: 3088
+SHA256sum: 92a9fa119f286470638535655aa73e68ab5a47bbf59c8b1c4cfb77ebeb99efc3
 Description:  Video bridge module
 
 Package: baresip-mod-vidloop
@@ -536,10 +536,10 @@ LicenseFiles: docs/COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 6129
+Installed-Size: 6125
 Filename: baresip-mod-vidloop_0.6.4-2_mips64_octeon3.ipk
-Size: 6867
-SHA256sum: 5afc567fbfc80524c87e5e21deb60d1be57f0adbe475b99bfb6415ee5d4f1d3a
+Size: 6869
+SHA256sum: 2447b5799a2af963b579bccf79e23b59219f8e1ca7ef31638a9f83ce27110a2c
 Description:  Video-loop test module
 
 Package: baresip-mod-vp8
@@ -552,10 +552,10 @@ LicenseFiles: docs/COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 4123
+Installed-Size: 4122
 Filename: baresip-mod-vp8_0.6.4-2_mips64_octeon3.ipk
-Size: 4868
-SHA256sum: 3ff746f917397ce90d321ab43b2b61ef021089ecf2409fc330306b784bf2bfd5
+Size: 4871
+SHA256sum: 509d59226ffb0c87639886cb06c5985f15076114e309754e35cf9ed05b92bafb
 Description:  VP8 video codec
 
 Package: baresip-mod-vp9
@@ -570,8 +570,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 4521
 Filename: baresip-mod-vp9_0.6.4-2_mips64_octeon3.ipk
-Size: 5277
-SHA256sum: bd9de49ad604171aea763cacc184729de712ca22259f3e63b5e699e321e58bbe
+Size: 5272
+SHA256sum: 4f3d3aaa45dde00ee0194efadc529b307f47e066048f448640cf117ef755f613
 Description:  VP9 video codec
 
 Package: baresip-mod-vumeter
@@ -586,8 +586,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 2456
 Filename: baresip-mod-vumeter_0.6.4-2_mips64_octeon3.ipk
-Size: 3209
-SHA256sum: 55b393b96614e2995bbfab9db248b18da497ef1b707d204e33dba9c2c87d1c77
+Size: 3213
+SHA256sum: 93595f266f56cfd7a1ada066116d247002eb2ba6e02850c8c732bb112449e024
 Description:  Display audio levels in console
 
 Package: baresip
@@ -601,10 +601,10 @@ Section: net
 Require-User: baresip=374:baresip=374
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 290398
+Installed-Size: 290390
 Filename: baresip_0.6.4-2_mips64_octeon3.ipk
-Size: 291098
-SHA256sum: cf85d499423848f6996162785d0de84b5f03ea52c53807b16363fd3826ca5cf1
+Size: 291109
+SHA256sum: d40581fc99dd83331e2c1bbab9bccbf682797f11cdadc688aaeee3c0df35ab45
 Description:  Portable and modular SIP User-Agent with A/V support
 
 Package: bcg729
@@ -617,10 +617,10 @@ LicenseFiles: COPYING
 Section: libs
 Maintainer: Alex Samorukov <samm@os2.kiev.ua>
 Architecture: mips64_octeon3
-Installed-Size: 30896
+Installed-Size: 30895
 Filename: bcg729_1.0.4-4_mips64_octeon3.ipk
 Size: 31763
-SHA256sum: 978e6742d414f464a502b3ed278173462814ada76097af16d3b9990e795b2f3b
+SHA256sum: 956b8dc586db1c1229679cb4208753f745ba9828f3ec4f5c0f64b57e1fef5f0a
 Description:  Bcg729 is a software G729A encoder and decoder library written in C, developed
  by Belledonne Communications, the company supporting the Linphone project.
  It was written from scratch and is NOT a derivative work of ITU reference
@@ -636,10 +636,10 @@ LicenseFiles: COPYING
 Section: utils
 Maintainer: Sebastian Kemper <sebastian_ml@gmx.net>
 Architecture: mips64_octeon3
-Installed-Size: 48125
+Installed-Size: 48119
 Filename: gsm-utils_1.10-20140304-2_mips64_octeon3.ipk
-Size: 48959
-SHA256sum: e384448e638f7ff1b3393f864c0078d6775fd4ae2b3ffe4cd5a6b0e3cfedbea7
+Size: 48956
+SHA256sum: 541348a9952de1be383f50ecfa174d892e9bade18d6d2d740c18ae9a95658016
 Description:  Some simple command line programs to access GSM mobile phones via GSM modems.
 
 Package: gsmlib
@@ -652,10 +652,10 @@ LicenseFiles: COPYING
 Section: libs
 Maintainer: Sebastian Kemper <sebastian_ml@gmx.net>
 Architecture: mips64_octeon3
-Installed-Size: 113803
+Installed-Size: 113802
 Filename: gsmlib_1.10-20140304-2_mips64_octeon3.ipk
-Size: 114516
-SHA256sum: dd1049584bcabf5da7b6fe76fc0960df7e580a8f4cd9870a4d6b14438fc1d908
+Size: 114522
+SHA256sum: bfea52d022e730b655987aa76f9d624b5a76bdb31c27ff2eef4f0bb8a1b56fd3
 Description:  A library to access GSM mobile phones via GSM modems.
 
 Package: iptables-mod-rtpengine
@@ -668,10 +668,10 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: Sebastian Kemper <sebastian_ml@gmx.net>
 Architecture: mips64_octeon3
-Installed-Size: 1534
+Installed-Size: 1533
 Filename: iptables-mod-rtpengine_mr8.3.1.4-3_mips64_octeon3.ipk
-Size: 2321
-SHA256sum: 16969025aabd3e96b9fec1e275d35d061663ac124b4642b65a211b43a1ab5f56
+Size: 2318
+SHA256sum: f5e75bb04a9892598a3ef09feaaf2ad96e7f7a42cbe4c6def1253251b7c7202e
 Description:  Sipwise rtpengine iptables extension
 
 Package: kamailio5-lib-libkamailio-ims
@@ -686,8 +686,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 21377
 Filename: kamailio5-lib-libkamailio-ims_5.3.3-3_mips64_octeon3.ipk
-Size: 22107
-SHA256sum: 3d875acbaace98feb5bd95a6496e62f9476c9e4f83b8c30cd1dbfac05752ada3
+Size: 22108
+SHA256sum: 427b4deb1cd5aafc06ad588aeaca859db93671a44762f3ed5eba2be83c8e9aff
 Description:  Kamailio5 IMS library
 
 Package: kamailio5-lib-libtrie
@@ -700,10 +700,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 5426
+Installed-Size: 5424
 Filename: kamailio5-lib-libtrie_5.3.3-3_mips64_octeon3.ipk
-Size: 6147
-SHA256sum: d24acf72b07d557bd07b39bb0dcb93aedfbad254203efdf67c9a289e7999535b
+Size: 6146
+SHA256sum: c4f5a3798168d1366e2427c55a84cd5c7476745168e6f82bb59c84ed05916271
 Description:  Kamailio5 digital tree library
 
 Package: kamailio5-mod-acc-diameter
@@ -716,10 +716,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 23072
+Installed-Size: 23068
 Filename: kamailio5-mod-acc-diameter_5.3.3-3_mips64_octeon3.ipk
-Size: 23828
-SHA256sum: 5590c35a818c9165c59fdb3cb1caea685be649dbb639b2f9b5c0011cac9d89a1
+Size: 23823
+SHA256sum: 9e96f9f8715ba5fae06ab82266a6891d367c073bfcd2fa691b7052a70d63c9da
 Description:  Accounting for DIAMETER backend for Kamailio5
 
 Package: kamailio5-mod-acc-json
@@ -734,8 +734,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 7844
 Filename: kamailio5-mod-acc-json_5.3.3-3_mips64_octeon3.ipk
-Size: 8672
-SHA256sum: 932eed6ed4f4ddf80b00306d63955bfce2f050a98b89f01c198f7958ffc5e97d
+Size: 8664
+SHA256sum: 8c3c60e862b0a578ed1f7fe95a99fbe1e8acf5189cfcbb1148981a83e129e6b8
 Description:  Accounting with records exported in JSON format for Kamailio5
 
 Package: kamailio5-mod-acc
@@ -748,10 +748,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 41460
+Installed-Size: 41459
 Filename: kamailio5-mod-acc_5.3.3-3_mips64_octeon3.ipk
-Size: 42256
-SHA256sum: 270c8a8c9bede0ac64f4183feb73eaadc89dac31b8ae3a531e3601de8988b2e5
+Size: 42271
+SHA256sum: 7a219fe4fafffd907e0515e096ff92629da8ffe224de75d40324be116b9c444d
 Description:  Accounting for Kamailio5
 
 Package: kamailio5-mod-alias-db
@@ -764,10 +764,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 9209
+Installed-Size: 9206
 Filename: kamailio5-mod-alias-db_5.3.3-3_mips64_octeon3.ipk
-Size: 9949
-SHA256sum: 1c463bafec8dc0fce2df04fe4a042e61046af0bfde2155c3302f4b2fb39b927b
+Size: 9945
+SHA256sum: c6d51240110ce43b1ebd962c9d60fcf90d3221c365024b99b3243bf7060b958d
 Description:  Database-backend aliases for Kamailio5
 
 Package: kamailio5-mod-app-jsdt
@@ -780,10 +780,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 181254
+Installed-Size: 181252
 Filename: kamailio5-mod-app-jsdt_5.3.3-3_mips64_octeon3.ipk
-Size: 177274
-SHA256sum: 349093cf1f941855c1eef19fd1f8247da4e3b5860a9d2bb1cecb2572ce681678
+Size: 177258
+SHA256sum: 3d730c7efce95a84919f79b5c752e26296350324635af2814a372cdbf2f733ec
 Description:  Execute JavaScript scripts for Kamailio5
 
 Package: kamailio5-mod-app-lua-sr
@@ -796,10 +796,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 47522
+Installed-Size: 47520
 Filename: kamailio5-mod-app-lua-sr_5.3.3-3_mips64_octeon3.ipk
-Size: 47967
-SHA256sum: 8bc0f1f5970a936b832e6a2d9479a58256a8e9843ff25b5fe8fbdc4872925e1a
+Size: 47948
+SHA256sum: 6c4bb4176efc1feaaf4c307ba91520c205ce101a956b75c2b9948a4071ca7ae5
 Description:  Old Lua API for Kamailio5
 
 Package: kamailio5-mod-app-lua
@@ -812,10 +812,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 46455
+Installed-Size: 45836
 Filename: kamailio5-mod-app-lua_5.3.3-3_mips64_octeon3.ipk
-Size: 41779
-SHA256sum: 7567da6a44ca33307ed3faaa70a6a3690c945be152270ce95512beb18453dd49
+Size: 41412
+SHA256sum: 9b34c96eb470814585556730661acc63ce63ca684d17a276afd3f8c27d2f2bab
 Description:  Execute embedded Lua scripts for Kamailio5
 
 Package: kamailio5-mod-app-python3
@@ -828,10 +828,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 56377
+Installed-Size: 56374
 Filename: kamailio5-mod-app-python3_5.3.3-3_mips64_octeon3.ipk
-Size: 52098
-SHA256sum: a64fe2e396a57dadf94f7536de87b0ae9e842782a776157526e594cf6177497b
+Size: 52097
+SHA256sum: e0a40beaa0e28a7eba8f219e0c78ba19ca78cea0d60ad7a53122fdba960daf07
 Description:  Python3 scripting interpreter for Kamailio5
 
 Package: kamailio5-mod-app-ruby
@@ -844,10 +844,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 41206
+Installed-Size: 41208
 Filename: kamailio5-mod-app-ruby_5.3.3-3_mips64_octeon3.ipk
-Size: 37202
-SHA256sum: b8be63effc6861a48a3d1c14582eed1fe5984b355ef7f9f5b8a02d5ad555e2b3
+Size: 37181
+SHA256sum: 7ccb12357d62160acd4310bb75c761e79ec0dc2d084a8e679675ba7daee0b89d
 Description:  Ruby scripting interpreter for Kamailio5
 
 Package: kamailio5-mod-app-sqlang
@@ -860,10 +860,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 160602
+Installed-Size: 160601
 Filename: kamailio5-mod-app-sqlang_5.3.3-3_mips64_octeon3.ipk
-Size: 156004
-SHA256sum: 22d880a437ca3012a3b1462fada32f8ff0a97fe21259cf8d25713be5034b698b
+Size: 156011
+SHA256sum: cdd2226d49c18f95babe7a9bb488333523f60925e0bc1ac577bfd0e56f33181f
 Description:  Execute Squirrel language scripts for Kamailio5
 
 Package: kamailio5-mod-async
@@ -876,10 +876,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 13048
+Installed-Size: 13043
 Filename: kamailio5-mod-async_5.3.3-3_mips64_octeon3.ipk
-Size: 13797
-SHA256sum: db696d88389d57ee4f65446ac0cd8d08aac11609077d2a07e97f323ab5f56678
+Size: 13796
+SHA256sum: 5e464dfd30a9b52ed16aee598201d1216194689065d6fa1c025121a37f01c093
 Description:  Asynchronous SIP handling functions for Kamailio5
 
 Package: kamailio5-mod-auth-db
@@ -892,10 +892,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 16083
+Installed-Size: 16081
 Filename: kamailio5-mod-auth-db_5.3.3-3_mips64_octeon3.ipk
-Size: 16821
-SHA256sum: c00f0158f8371fcae934703a69b737ab41b27d05f77e16325e546baefcb1b445
+Size: 16820
+SHA256sum: 8313c930ee039042a701da1e4fab055d5f719ada4c7f9fa1812c38f8211b56b5
 Description:  Database-backend authentication for Kamailio5
 
 Package: kamailio5-mod-auth-diameter
@@ -908,10 +908,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 28533
+Installed-Size: 28534
 Filename: kamailio5-mod-auth-diameter_5.3.3-3_mips64_octeon3.ipk
-Size: 29274
-SHA256sum: 29e0983ef13907acaad69ed9b503ae268f1f786f093945c5d0aab42ba24c9134
+Size: 29288
+SHA256sum: f2a66ff2e4c37b043142ffab417cc41854c24218e78678e5425078d2d812e443
 Description:  Diameter authentication for Kamailio5
 
 Package: kamailio5-mod-auth-ephemeral
@@ -924,10 +924,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 18402
+Installed-Size: 18401
 Filename: kamailio5-mod-auth-ephemeral_5.3.3-3_mips64_octeon3.ipk
-Size: 19172
-SHA256sum: 09702212631d78c5f8dae49bfee05cf76a1124b92fa5f8d3c346e099aa5f403c
+Size: 19176
+SHA256sum: 9b6693530f51619021d94cc8b2697fb756bc79089619c25c7549939db27e1e81
 Description:  Ephemeral credentials for Kamailio5
 
 Package: kamailio5-mod-auth-identity
@@ -940,10 +940,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 33797
+Installed-Size: 33798
 Filename: kamailio5-mod-auth-identity_5.3.3-3_mips64_octeon3.ipk
-Size: 34606
-SHA256sum: 1d42ec5c231d0364a1f8334cc35b60f9a840cae6f53a00fce2623c1d09797fdc
+Size: 34618
+SHA256sum: bb179bbf8e608ad2d4255bcf6c811167b4706744296fd014c1e10294bd3f8c1a
 Description:  Identity authentication for Kamailio5
 
 Package: kamailio5-mod-auth-xkeys
@@ -958,8 +958,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 11407
 Filename: kamailio5-mod-auth-xkeys_5.3.3-3_mips64_octeon3.ipk
-Size: 12154
-SHA256sum: 5d554ef4338b9f8bff95ab99e2747d275e61158712d8d7d5738d8c6ccdac5c75
+Size: 12162
+SHA256sum: 123ecc95ae0ed6b235841e914a57be9f1da2da5267c0ab4f82793fcfc82d78ea
 Description:  Shared-key authentication for Kamailio5
 
 Package: kamailio5-mod-auth
@@ -972,10 +972,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 32519
+Installed-Size: 32518
 Filename: kamailio5-mod-auth_5.3.3-3_mips64_octeon3.ipk
-Size: 33324
-SHA256sum: af08ca2b8e043731d84f6193505ff41f6d4f06f90d5dfeef8885533cb2d37e33
+Size: 33320
+SHA256sum: 255bf0e866e5f6a9e0b168c55844daa819983b5097573491e5b3575525a00696
 Description:  Authentication Framework for Kamailio5
 
 Package: kamailio5-mod-avp
@@ -988,10 +988,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 22915
+Installed-Size: 22912
 Filename: kamailio5-mod-avp_5.3.3-3_mips64_octeon3.ipk
-Size: 23647
-SHA256sum: 7e45946a2ddd2b1e48b70050a2688c046df840b94be286606bc1d53865713015
+Size: 23638
+SHA256sum: 9e827992cb64914254669d80e4efee807ce8d1ab045de3f90996ed3995838360
 Description:  Functions for handling AVPs for Kamailio5
 
 Package: kamailio5-mod-avpops
@@ -1004,10 +1004,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 49293
+Installed-Size: 49291
 Filename: kamailio5-mod-avpops_5.3.3-3_mips64_octeon3.ipk
-Size: 50065
-SHA256sum: d51373153f57eaf8252f4db348c6479e057360607bf23895a8821ad44ee66491
+Size: 50070
+SHA256sum: 2464c54dd72ed26af8c1e154344d0f9d00bfb49b9a19c8d6b70530404403dd0b
 Description:  AVP operation for Kamailio5
 
 Package: kamailio5-mod-benchmark
@@ -1022,8 +1022,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 10279
 Filename: kamailio5-mod-benchmark_5.3.3-3_mips64_octeon3.ipk
-Size: 11056
-SHA256sum: 56148547be0e98a52fdc53d183708be6dad7526e2ab47a7dd62e5a555b711198
+Size: 11052
+SHA256sum: ed88c66921a1a93bb935e56fc7bfe370906d90476dcd4653a3427b9dbbc6e5f6
 Description:  Config benchmark for Kamailio5
 
 Package: kamailio5-mod-blst
@@ -1036,10 +1036,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 3976
+Installed-Size: 3975
 Filename: kamailio5-mod-blst_5.3.3-3_mips64_octeon3.ipk
-Size: 4739
-SHA256sum: c022c38bb6913978d6da5d07ad214735d6aa303c010063cf7e803f191a912494
+Size: 4735
+SHA256sum: 2f13ba05b8b9e946c9b790683803b69ff5b67a29b97ef6256c62422bdf0618c8
 Description:  Blacklisting API for config for Kamailio5
 
 Package: kamailio5-mod-call-control
@@ -1052,10 +1052,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 16370
+Installed-Size: 16368
 Filename: kamailio5-mod-call-control_5.3.3-3_mips64_octeon3.ipk
-Size: 17072
-SHA256sum: 3d43134302a1d3ecec40a32979609ddf2b7281eb81923ff46810650dd98d65ce
+Size: 17082
+SHA256sum: c2469b275e0cbc041a5729baa3f3cd6519ec29adf6f840ac3eaff5c7211a3760
 Description:  Call Control for Kamailio5
 
 Package: kamailio5-mod-call-obj
@@ -1070,8 +1070,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 16209
 Filename: kamailio5-mod-call-obj_5.3.3-3_mips64_octeon3.ipk
-Size: 16948
-SHA256sum: 25aece2a4226ffe8c5ef46ee1fdcbda375fd071891e4fb7904c43f17e8671b24
+Size: 16946
+SHA256sum: 8e05ff82e8ff38a20b7f393c5de4236bd2bb6efbc8073f7c9b69fb7ac90c8d55
 Description:  Call identification support for Kamailio5
 
 Package: kamailio5-mod-carrierroute
@@ -1084,10 +1084,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 75285
+Installed-Size: 75280
 Filename: kamailio5-mod-carrierroute_5.3.3-3_mips64_octeon3.ipk
-Size: 76094
-SHA256sum: 81eab244982d18b27a495ae7b02b154ff809c6b788de8fc6b7471348ec95752b
+Size: 76080
+SHA256sum: 4e4c0f2fbfdaaff0ad266e6ae4f98f12faa5c7c4aeb0d2f07bce0d1119b14711
 Description:  Carrier Route for Kamailio5
 
 Package: kamailio5-mod-cdp-avp
@@ -1100,10 +1100,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 44104
+Installed-Size: 44103
 Filename: kamailio5-mod-cdp-avp_5.3.3-3_mips64_octeon3.ipk
-Size: 43797
-SHA256sum: f087b7f3e346bfe454ddaa02abc5ca6eaf7865d7dc6fe7c27c1f9a158448ea09
+Size: 43789
+SHA256sum: 9b309fd5520684f4ee68f146770e9ce395655a42b6cc22343dc0160bc450931e
 Description:  CDP AVP helper module for Kamailio5
 
 Package: kamailio5-mod-cdp
@@ -1116,10 +1116,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 123980
+Installed-Size: 123978
 Filename: kamailio5-mod-cdp_5.3.3-3_mips64_octeon3.ipk
 Size: 124592
-SHA256sum: d745bd7c9f5201c27bb53af52e4a79cef8d9d70f197cbac8562d2d87a0dbca14
+SHA256sum: 79e4a714235c27c6ecd700c234e47e7f7ae32314136e03b926d0857ba51e1a8f
 Description:  C Diameter Peer for Kamailio5
 
 Package: kamailio5-mod-cfg-db
@@ -1132,10 +1132,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 8972
+Installed-Size: 8973
 Filename: kamailio5-mod-cfg-db_5.3.3-3_mips64_octeon3.ipk
-Size: 9716
-SHA256sum: ed9100237695d07c6d2f98c610664c12264d0ed9eae57da0e71684d6a40650fa
+Size: 9721
+SHA256sum: d4cde6bae840aa94552d4a9e71a5ce00d55340d553b32275968f6a3ddf618eaf
 Description:  Load parameters from database for Kamailio5
 
 Package: kamailio5-mod-cfg-rpc
@@ -1148,10 +1148,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 7408
+Installed-Size: 7407
 Filename: kamailio5-mod-cfg-rpc_5.3.3-3_mips64_octeon3.ipk
-Size: 8177
-SHA256sum: 2b6f6b34e5c2a577ac199862c32dd99def15e6dcba25906c3a3abbd9fdaf544d
+Size: 8174
+SHA256sum: 277ec0ebc6ef76a0f1a5c7e46e57601d0506e7ea72f88d32cde112ebe794bf9e
 Description:  Update parameters via RPC for Kamailio5
 
 Package: kamailio5-mod-cfgt
@@ -1164,10 +1164,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 26979
+Installed-Size: 26978
 Filename: kamailio5-mod-cfgt_5.3.3-3_mips64_octeon3.ipk
-Size: 27750
-SHA256sum: c4f336436f245a08138bcda95b76520d764df8d29db1b347d848cc3258bafa42
+Size: 27741
+SHA256sum: e737bac03b10bc9fc3c7432ea1ff6341ebce188c91b9b065588fac0d11969838
 Description:  Unit test reporting for Kamailio5
 
 Package: kamailio5-mod-cfgutils
@@ -1180,10 +1180,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 14676
+Installed-Size: 14673
 Filename: kamailio5-mod-cfgutils_5.3.3-3_mips64_octeon3.ipk
-Size: 15388
-SHA256sum: 74250057f44ed1886a7623606cff55b5d18c124b9c18ef97ff90144dcd644272
+Size: 15387
+SHA256sum: 93d2b774d757c65e5815ce93df5a295ce0449d07225af42517b450511e6989ca
 Description:  Config utilities for Kamailio5
 
 Package: kamailio5-mod-cnxcc
@@ -1196,10 +1196,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 49221
+Installed-Size: 49220
 Filename: kamailio5-mod-cnxcc_5.3.3-3_mips64_octeon3.ipk
 Size: 49994
-SHA256sum: b68495c6b7cacbb0e036b86f61610f9b5322fe70dacbd18c7da50514ca1a332c
+SHA256sum: a712212e89dac2ef334bdb78df024b9b4b813bce574bbf5016aade772606d8e0
 Description:  Limit call duration for Kamailio5
 
 Package: kamailio5-mod-corex
@@ -1212,10 +1212,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 23664
+Installed-Size: 23660
 Filename: kamailio5-mod-corex_5.3.3-3_mips64_octeon3.ipk
-Size: 24356
-SHA256sum: c0f1da6e71e3b0e1a2ac58c2d8237089e521f69b560dd9b6ee0bf13742e8be5e
+Size: 24342
+SHA256sum: 3a04ad90de35c453e09bef7e32e2a51f79b305ab068197d0e38c43f54d70e0de
 Description:  Legacy functions for Kamailio5
 
 Package: kamailio5-mod-counters
@@ -1228,10 +1228,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 5324
+Installed-Size: 5323
 Filename: kamailio5-mod-counters_5.3.3-3_mips64_octeon3.ipk
-Size: 6035
-SHA256sum: 586d0999553cf07c26bd134e2c9fe9e9ab5b624e5b1028dda28979c5790229ba
+Size: 6046
+SHA256sum: ca71d802e0266c592eee96259c31eb7d0054e05a9c99a025c5cd84c72fe2987c
 Description:  Functions for counter manipulation for Kamailio5
 
 Package: kamailio5-mod-cplc
@@ -1244,10 +1244,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 107613
+Installed-Size: 107614
 Filename: kamailio5-mod-cplc_5.3.3-3_mips64_octeon3.ipk
-Size: 108319
-SHA256sum: 4a9a5eec738878122a2aeaaf87c8a6d59ef464718bdaf03795ea3a0672b57752
+Size: 108329
+SHA256sum: 0ca671b0cbb22ba5dc1a6057a539c3d40c557d76ae088349e5668a3a964db29f
 Description:  Call Processing Language interpreter for Kamailio5
 
 Package: kamailio5-mod-crypto
@@ -1260,10 +1260,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 12588
+Installed-Size: 12586
 Filename: kamailio5-mod-crypto_5.3.3-3_mips64_octeon3.ipk
-Size: 13344
-SHA256sum: 9a035685f6566bb449c21cb04431ea1d8e0f18343c86e501e96c93513cc1b900
+Size: 13353
+SHA256sum: 29cc89d12630fea80aceacc006a21440da28e16e36a3966290b613533153974d
 Description:  Various cryptography tools for Kamailio5
 
 Package: kamailio5-mod-ctl
@@ -1276,10 +1276,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 60424
+Installed-Size: 60421
 Filename: kamailio5-mod-ctl_5.3.3-3_mips64_octeon3.ipk
-Size: 61212
-SHA256sum: 0f08de90ffb7ff64e7f6744effda4f531fff70626fd3fd20e4205f4922d722da
+Size: 61216
+SHA256sum: ceb8dd48fe33339c181fbd7e04583d2e6c1967e21b6afa101960d808fbc85ae8
 Description:  BINRPC transport interface for Kamailio5
 
 Package: kamailio5-mod-db-berkeley
@@ -1292,10 +1292,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 64296
+Installed-Size: 64295
 Filename: kamailio5-mod-db-berkeley_5.3.3-3_mips64_octeon3.ipk
-Size: 64988
-SHA256sum: 9dd14d36cf2f0eefeb6a754474145204368485cb758b8f625bfc53cf3fcfa8cd
+Size: 64985
+SHA256sum: 14e3aea9af311dee89934ec699479d9698b37101400e94cc5d6187aaf56f295b
 Description:  Berkeley DB backend for Kamailio5
 
 Package: kamailio5-mod-db-cluster
@@ -1308,10 +1308,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 20859
+Installed-Size: 20858
 Filename: kamailio5-mod-db-cluster_5.3.3-3_mips64_octeon3.ipk
-Size: 21602
-SHA256sum: ca569768deeb6078a8dd10a00e0266b903c9bebf52b20ab5562da8e54f95205d
+Size: 21582
+SHA256sum: 540f80fb57a51d17fa0451ba905f41e47bc44877c4a5b058060cd0b4ac822ce4
 Description:  Database clustering system for Kamailio5
 
 Package: kamailio5-mod-db-flatstore
@@ -1326,8 +1326,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 18506
 Filename: kamailio5-mod-db-flatstore_5.3.3-3_mips64_octeon3.ipk
-Size: 19264
-SHA256sum: 08c18b3c0a027863926f0b1ed04bb081e45b91ba2074f7d2fa613ecee0f23633
+Size: 19272
+SHA256sum: 9d102bfdac1318d4168865a5660cea6d412a23dbe522d0da50bea58b83162384
 Description:  fast write-only text DB-backend for Kamailio5
 
 Package: kamailio5-mod-db-mysql
@@ -1340,10 +1340,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 47463
+Installed-Size: 47454
 Filename: kamailio5-mod-db-mysql_5.3.3-3_mips64_octeon3.ipk
-Size: 48259
-SHA256sum: 41e3fd4ffd623ed27d5c10976650a133546bbb6af50d4fd7612a96808c57c364
+Size: 48256
+SHA256sum: c96b2f5dcac4ddd81c18ff21daf324905301eddad2b5b83f6489e55bb997975c
 Description:  MySQL DB-backend for Kamailio5
 
 Package: kamailio5-mod-db-postgres
@@ -1356,10 +1356,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 62764
+Installed-Size: 62758
 Filename: kamailio5-mod-db-postgres_5.3.3-3_mips64_octeon3.ipk
-Size: 63540
-SHA256sum: 97bd09222e7e31ac03d0f616530fb015e005f81a38ac68b1c51e89b037304903
+Size: 63543
+SHA256sum: 7d1de6a3e36ea1731db85802e4773940c3aca4c8c9e3a3bb61aea662da56a0cf
 Description:  PostgreSQL DB-backend for Kamailio5
 
 Package: kamailio5-mod-db-redis
@@ -1372,10 +1372,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 73677
+Installed-Size: 73669
 Filename: kamailio5-mod-db-redis_5.3.3-3_mips64_octeon3.ipk
-Size: 74434
-SHA256sum: 3a102d87adce00e329d81d76f53a8e15b38cb1daed39e60b262e3b6c894dc1d5
+Size: 74420
+SHA256sum: a410b3c39e51c2749a0e34cf7d0a0a4a74ff73375a7e9644cc3e13fb64778ec9
 Description:  Database backend with Redis server for Kamailio5
 
 Package: kamailio5-mod-db-sqlite
@@ -1388,10 +1388,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 18908
+Installed-Size: 18905
 Filename: kamailio5-mod-db-sqlite_5.3.3-3_mips64_octeon3.ipk
-Size: 19653
-SHA256sum: f6e33b42c8e65f298882d8911e0236e695425e2ac364606d8716fc5d64874d53
+Size: 19658
+SHA256sum: d027296bc52a7451d5471f118f2a5160d5873aa6868060160a4a41cd989fb959
 Description:  SQLite DB-backend for Kamailio5
 
 Package: kamailio5-mod-db-text
@@ -1404,10 +1404,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 54146
+Installed-Size: 54152
 Filename: kamailio5-mod-db-text_5.3.3-3_mips64_octeon3.ipk
-Size: 54876
-SHA256sum: bb6d79776954d0793cc9d4a26e1cf6508ceca8aba7998f8d10ba73fc75aaa6b9
+Size: 54879
+SHA256sum: b95cd11ab098e59e19394e41938ad498d77deec3ebc95fd913edb23bf331b3b5
 Description:  Text DB-backend for Kamailio5
 
 Package: kamailio5-mod-db-unixodbc
@@ -1422,8 +1422,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 24269
 Filename: kamailio5-mod-db-unixodbc_5.3.3-3_mips64_octeon3.ipk
-Size: 24997
-SHA256sum: f4961fb43145a3cdd35ff62431ef39880ab33813e9b861435b39053646d61ccc
+Size: 24990
+SHA256sum: 13b247035cd81846e70dd360cdfd77cc1222b80e6364d663645a399e77297a9c
 Description:  UnixODBC DB-backend for Kamailio5
 
 Package: kamailio5-mod-db2-ldap
@@ -1436,10 +1436,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 30699
+Installed-Size: 30698
 Filename: kamailio5-mod-db2-ldap_5.3.3-3_mips64_octeon3.ipk
-Size: 31447
-SHA256sum: 9445fc92f31e71348d4f6810f6ea5d482f03f6fc633927fb5ff39cafc27df682
+Size: 31456
+SHA256sum: 6fbde49bca0dba77a21cb4db8bb7cf9f5aae1c517f63a7752d83a7b3b239fce1
 Description:  DBv2 LDAP module for Kamailio5
 
 Package: kamailio5-mod-db2-ops
@@ -1452,10 +1452,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 21106
+Installed-Size: 21102
 Filename: kamailio5-mod-db2-ops_5.3.3-3_mips64_octeon3.ipk
-Size: 21847
-SHA256sum: 4932670b59f952215506aa337bab5c0af4e8ab256d3482a10e34cbd9859c3f15
+Size: 21844
+SHA256sum: d5d5e915e6fff70c56de64aab864a08edc2f8f76c0a49baf81adb4b48b2a030c
 Description:  Run SQL queries from script for Kamailio5
 
 Package: kamailio5-mod-debugger
@@ -1468,10 +1468,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 29479
+Installed-Size: 29478
 Filename: kamailio5-mod-debugger_5.3.3-3_mips64_octeon3.ipk
-Size: 30230
-SHA256sum: 70183508d1d12eee153ee0776090d0cd658a7fc721fddd7b018445b8c80ff009
+Size: 30213
+SHA256sum: d48bc5f6892755ce5d8fcf5b149d2bc1b61786fa192f22dab7a82c2bc6b5682c
 Description:  Interactive config file debugger for Kamailio5
 
 Package: kamailio5-mod-dialog
@@ -1484,10 +1484,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 139789
+Installed-Size: 139783
 Filename: kamailio5-mod-dialog_5.3.3-3_mips64_octeon3.ipk
-Size: 140449
-SHA256sum: 96d38f3da7cf0cb3bf711386d17f675d592362825cd20e103585731b9b0765c5
+Size: 140431
+SHA256sum: 240f26de7d448a7c25141484eef4050332ee939566ed830530e5f62c8820f2c8
 Description:  Dialog support for Kamailio5
 
 Package: kamailio5-mod-dialplan
@@ -1502,8 +1502,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 40364
 Filename: kamailio5-mod-dialplan_5.3.3-3_mips64_octeon3.ipk
-Size: 41220
-SHA256sum: c8e5f403a426c99277355601dd3a6a901524a083ae4969004c92f3a97d29c744
+Size: 41217
+SHA256sum: d8813d48118be9ec5be8f839f440e7e576791480cf7a6ead5fe9e787c645f4ca
 Description:  Dialplan management for Kamailio5
 
 Package: kamailio5-mod-dispatcher
@@ -1519,7 +1519,7 @@ Architecture: mips64_octeon3
 Installed-Size: 70464
 Filename: kamailio5-mod-dispatcher_5.3.3-3_mips64_octeon3.ipk
 Size: 71265
-SHA256sum: 4cf849ee6afdc33ce89be35eec5f2e8bfc0db571fc34e6e2ff7da97bf73b917c
+SHA256sum: 5dbde9629debdcf8bb032a29c9fac3246aa84142275da22638fd0ffa75d40fec
 Description:  Dispatcher for Kamailio5
 
 Package: kamailio5-mod-diversion
@@ -1534,8 +1534,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 4350
 Filename: kamailio5-mod-diversion_5.3.3-3_mips64_octeon3.ipk
-Size: 5113
-SHA256sum: 20a8bc7c686c24f1cf75860b243146bb95a358ea189ee691d72ca381188bb403
+Size: 5109
+SHA256sum: c50e8a5955bd66003d0c86b9e373633d69cc1300cd5f2b383c6927abff7ca038
 Description:  Diversion header insertion for Kamailio5
 
 Package: kamailio5-mod-dmq-usrloc
@@ -1548,10 +1548,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 19676
+Installed-Size: 19672
 Filename: kamailio5-mod-dmq-usrloc_5.3.3-3_mips64_octeon3.ipk
-Size: 20468
-SHA256sum: 8da13222364387581be5987b441adbb2c41253a61d034017a259dc78e489ba62
+Size: 20475
+SHA256sum: ccb550271223e5f706884efb0a630f3b778d91db12e9f5d125a3e9fffc266104
 Description:  DMQ USRLOC replication for Kamailio5
 
 Package: kamailio5-mod-dmq
@@ -1564,10 +1564,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 38747
+Installed-Size: 38741
 Filename: kamailio5-mod-dmq_5.3.3-3_mips64_octeon3.ipk
-Size: 39570
-SHA256sum: cd99bdadd4bccd34136c188c28c488fb4fe2874db47b1fc6614f07259ff982b5
+Size: 39581
+SHA256sum: 0cb87c683029b4259b88209d365682cd64f94c06b361951ca8eb41a0afba45bc
 Description:  Distributed Message Queue for Kamailio5
 
 Package: kamailio5-mod-domain
@@ -1580,10 +1580,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 17121
+Installed-Size: 17118
 Filename: kamailio5-mod-domain_5.3.3-3_mips64_octeon3.ipk
-Size: 17887
-SHA256sum: 80115af48223449998babfe29174ab234468ca9aa4cf254959fa24b4920cd1f2
+Size: 17884
+SHA256sum: b61306bd89a80831883bab773c7226e0a514c2bc6e7bf1c8c1962627b4234f9b
 Description:  Multi-domain support for Kamailio5
 
 Package: kamailio5-mod-domainpolicy
@@ -1596,10 +1596,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 22133
+Installed-Size: 22132
 Filename: kamailio5-mod-domainpolicy_5.3.3-3_mips64_octeon3.ipk
-Size: 22896
-SHA256sum: d0baf68eba3273b3027f0a0af9c2f5f75f29381ec8aa1c4d9f4f3cf96b434c30
+Size: 22903
+SHA256sum: ed12e99b63966019565fa2c6e2af33decf4a0f6d8950322f97fdefaf660b83d6
 Description:  Domain policy for Kamailio5
 
 Package: kamailio5-mod-drouting
@@ -1612,10 +1612,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 42000
+Installed-Size: 41998
 Filename: kamailio5-mod-drouting_5.3.3-3_mips64_octeon3.ipk
-Size: 42804
-SHA256sum: 4f0eb0fb2281a5ea76442783555ad4f8055b62ab6eecff9c09ed0b3993f5dbad
+Size: 42789
+SHA256sum: 506fd3529f3ecf62ae78694380284a0e2c5ed23da59033518234821070ccd265
 Description:  Dynamic routing module for Kamailio5
 
 Package: kamailio5-mod-enum
@@ -1628,10 +1628,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 17739
+Installed-Size: 17737
 Filename: kamailio5-mod-enum_5.3.3-3_mips64_octeon3.ipk
-Size: 18479
-SHA256sum: 491a27939eb47c78f15f6942ec84026265f0f54855c3ef2bbe1ad1e7430b752e
+Size: 18487
+SHA256sum: 98386ace2949f5efc985f10ed3e36ad4e0a9e4610be7f2b79bba4a001b446a67
 Description:  ENUM lookup for Kamailio5
 
 Package: kamailio5-mod-evapi
@@ -1644,10 +1644,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 25984
+Installed-Size: 25983
 Filename: kamailio5-mod-evapi_5.3.3-3_mips64_octeon3.ipk
-Size: 26720
-SHA256sum: 3a9c0b3de7067716c5942dd46dfce96e12b7899ee3755bdac530418d00bc2f95
+Size: 26704
+SHA256sum: 1af7a2d091013e2d0b314b420bbad176eb82fa3a89ec263b650e1843454e0bb8
 Description:  push event details via tcp for Kamailio5
 
 Package: kamailio5-mod-evrexec
@@ -1660,10 +1660,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 6927
+Installed-Size: 6923
 Filename: kamailio5-mod-evrexec_5.3.3-3_mips64_octeon3.ipk
-Size: 7725
-SHA256sum: d1362c9ea9ad5f68c2b7ab72c6b212ac9e48c567cb5b6314d30973f7f7220216
+Size: 7720
+SHA256sum: f9238ff4fba868354eaa85652bee3e14cac6eac6ade22eeab9f6fe352381ba61
 Description:  Execut event routes at startup for Kamailio5
 
 Package: kamailio5-mod-exec
@@ -1676,10 +1676,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 20208
+Installed-Size: 20207
 Filename: kamailio5-mod-exec_5.3.3-3_mips64_octeon3.ipk
-Size: 20989
-SHA256sum: e23994e40b5c32e3db41a7989d9ab3f98eb7d48e42358b50f0211daa91b5f2c8
+Size: 20988
+SHA256sum: 4a429f5b0e437bbc2631c59bb3f159295e395282f75621a5aeea1286b3f95217
 Description:  External exec for Kamailio5
 
 Package: kamailio5-mod-group
@@ -1692,10 +1692,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 12853
+Installed-Size: 12849
 Filename: kamailio5-mod-group_5.3.3-3_mips64_octeon3.ipk
-Size: 13605
-SHA256sum: 7e70136f427efb83e49c7a7bd735f54b1354c5ca4552adbf73ae11198128befb
+Size: 13604
+SHA256sum: 01c9d72831e9a5e2afd7706221f85fae3c96990a912715de3b29c2b70e98113e
 Description:  Database-backend user-groups for Kamailio5
 
 Package: kamailio5-mod-gzcompress
@@ -1708,10 +1708,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 7446
+Installed-Size: 7445
 Filename: kamailio5-mod-gzcompress_5.3.3-3_mips64_octeon3.ipk
-Size: 8246
-SHA256sum: 7991c2c9b4ebc28cc7a3aaa296df6fb239c19b230ab8fcc458c0592ccbce2d20
+Size: 8255
+SHA256sum: 323182061ce2a9e480fde3cc5ffa6cd68b0d3de4baab5a0af618e047493e3823
 Description:  Compress SIP messages for Kamailio5
 
 Package: kamailio5-mod-h350
@@ -1724,10 +1724,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 10837
+Installed-Size: 10835
 Filename: kamailio5-mod-h350_5.3.3-3_mips64_octeon3.ipk
-Size: 11579
-SHA256sum: 687d18e277577a8d67496735bc64e6942ab3f52e1e79a11cd37ff83e6d0345ff
+Size: 11572
+SHA256sum: 84ec16ae845f9f208660f1cdb43e90f216c9dec7962f8f4209460684762c20cc
 Description:  H.350 for Kamailio5
 
 Package: kamailio5-mod-htable
@@ -1740,10 +1740,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 63370
+Installed-Size: 63368
 Filename: kamailio5-mod-htable_5.3.3-3_mips64_octeon3.ipk
-Size: 64109
-SHA256sum: 7df3725271b80971f5a91187c4846ba03d8abce0ef3f23fe01970d831258db7f
+Size: 64104
+SHA256sum: 0b8a02197731a598598ffaa1acec2015bf4e40997f008773ea9361abcd587b31
 Description:  Hash Table for Kamailio5
 
 Package: kamailio5-mod-http-client
@@ -1756,10 +1756,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 39638
+Installed-Size: 39636
 Filename: kamailio5-mod-http-client_5.3.3-3_mips64_octeon3.ipk
-Size: 40471
-SHA256sum: f07e21af44f8208a89314159a61621c72ae813772302ab4858b3a1ab9a039487
+Size: 40462
+SHA256sum: 7b853040a88de138859639d64e49908834615f9b4058974b5f0bdfde5e1a471b
 Description:  HTTP client using CURL for Kamailio5
 
 Package: kamailio5-mod-imc
@@ -1772,10 +1772,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 40779
+Installed-Size: 40777
 Filename: kamailio5-mod-imc_5.3.3-3_mips64_octeon3.ipk
-Size: 41550
-SHA256sum: 2746c2f86863ee78d8aab107784f4f7f9c1fbd38cde0a99b9275772830b26b0a
+Size: 41543
+SHA256sum: fccd2fa5b52c575010b12f884f8307428447121ec2fab3607cd44130e2d1d806
 Description:  IM conferencing for Kamailio5
 
 Package: kamailio5-mod-ims-auth
@@ -1788,10 +1788,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 51503
+Installed-Size: 51502
 Filename: kamailio5-mod-ims-auth_5.3.3-3_mips64_octeon3.ipk
-Size: 52362
-SHA256sum: 02c4ed9cd37975061dcb962c9da33a964b05c0f2b31536b2d27175cf57f44086
+Size: 52349
+SHA256sum: 090374968bc2e50404483d238049e4d02bb5499f89955b96e44fabaa1a426dc3
 Description:  IMS authentication module for Kamailio5
 
 Package: kamailio5-mod-ims-charging
@@ -1804,10 +1804,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 80678
+Installed-Size: 80676
 Filename: kamailio5-mod-ims-charging_5.3.3-3_mips64_octeon3.ipk
-Size: 81479
-SHA256sum: 33164500855ad5780b76f941222d3622105be450e72af117bf48191519631d6c
+Size: 81497
+SHA256sum: e5f6161c4a6c6ea276b75dba07d17d21317a637c08264f0d677f717642dbf819
 Description:  IMS charging component module for Kamailio5
 
 Package: kamailio5-mod-ims-dialog
@@ -1820,10 +1820,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 105345
+Installed-Size: 105347
 Filename: kamailio5-mod-ims-dialog_5.3.3-3_mips64_octeon3.ipk
-Size: 106052
-SHA256sum: 6d3ba40b819d71e01a3b0f6e7bcc82dd63f6e82b5fe464378cc1687198faeb8b
+Size: 106072
+SHA256sum: 438353af76de4c4032f1839c7747ba464853c994ed7ef176f288587e11464e4d
 Description:  IMS dialog tracking module for Kamailio5
 
 Package: kamailio5-mod-ims-diameter-server
@@ -1836,10 +1836,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 24048
+Installed-Size: 24047
 Filename: kamailio5-mod-ims-diameter-server_5.3.3-3_mips64_octeon3.ipk
-Size: 24828
-SHA256sum: 5c1a95d446fd39c5836879368a2eb47e596edcf97d55ed706e6b0400f8ffd325
+Size: 24820
+SHA256sum: 1e15c46d37fb37eb93c3868cf28450b3534a6ab01b76cf10c3c78041e8a0691f
 Description:  IMS DIAMETER server module for Kamailio5
 
 Package: kamailio5-mod-ims-icscf
@@ -1852,10 +1852,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 43807
+Installed-Size: 43805
 Filename: kamailio5-mod-ims-icscf_5.3.3-3_mips64_octeon3.ipk
-Size: 44627
-SHA256sum: 4077b890ce795c61371865429416bb4cc911cf02185300a59fcc7518f508e1ac
+Size: 44630
+SHA256sum: 865a52a0cdcb9e58b612a137e4a6bfbcfa9edde6b7ec3f47c1c1a601cc0597ed
 Description:  IMS ICSCF component module for Kamailio5
 
 Package: kamailio5-mod-ims-ipsec-pcscf
@@ -1868,10 +1868,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 34806
+Installed-Size: 34804
 Filename: kamailio5-mod-ims-ipsec-pcscf_5.3.3-3_mips64_octeon3.ipk
-Size: 35664
-SHA256sum: 331b90ff8ab925a5195e90e9b95a576f65b8c52d5505c00e5a766a719dc43bdd
+Size: 35671
+SHA256sum: 07607a04583113d8ddb581e2c732d54479b154b5d0a3ab9f8b6611e3ee2077bc
 Description:  Diameter server implementation for Kamailio5
 
 Package: kamailio5-mod-ims-isc
@@ -1884,10 +1884,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 35647
+Installed-Size: 35646
 Filename: kamailio5-mod-ims-isc_5.3.3-3_mips64_octeon3.ipk
-Size: 36478
-SHA256sum: edb69d49042e7871286d62299a58973c31e660a64ace713463eb08ae51d8873d
+Size: 36477
+SHA256sum: 07c6579b8616a4f43ffd094fd02357ba9bef61261c14dda557ed070ff0eb2476
 Description:  IMS ISC component module for Kamailio5
 
 Package: kamailio5-mod-ims-ocs
@@ -1900,10 +1900,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 13085
+Installed-Size: 13084
 Filename: kamailio5-mod-ims-ocs_5.3.3-3_mips64_octeon3.ipk
-Size: 13887
-SHA256sum: 9623f68df823eb651d143f3eeaebc9f41857c89745a35719ba26de995872fc08
+Size: 13883
+SHA256sum: 3fb69dcf0472ccac74319d284ebc9ae6d80cfd7ae74b16cb55a3864710c3ab1d
 Description:  MS OCS component module for Kamailio5
 
 Package: kamailio5-mod-ims-qos
@@ -1916,10 +1916,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 78260
+Installed-Size: 78257
 Filename: kamailio5-mod-ims-qos_5.3.3-3_mips64_octeon3.ipk
-Size: 79114
-SHA256sum: d273626e7e6cba87fb934b89094a92d96434dc51bfc995a05204a88db207e100
+Size: 79101
+SHA256sum: 7f66bf225999d5dd90c39b213c9f932b0c052ab5b12ebb2b99cfbd09c130e729
 Description:  IMS Diameter Rx interface between PCSCF and PCRF functions for Kamailio5
 
 Package: kamailio5-mod-ims-registrar-pcscf
@@ -1932,10 +1932,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 59451
+Installed-Size: 59450
 Filename: kamailio5-mod-ims-registrar-pcscf_5.3.3-3_mips64_octeon3.ipk
-Size: 60290
-SHA256sum: 1cb5f7a413c616964ecd6f0db52366b394c69c96f3ee9a2293bf8562bf400392
+Size: 60283
+SHA256sum: 28b6d37d604fc41702e154de7ab55ecea9382c94035c98d880850a9ded856115
 Description:  MS PCSCF registrar module for Kamailio5
 
 Package: kamailio5-mod-ims-registrar-scscf
@@ -1948,10 +1948,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 135956
+Installed-Size: 135955
 Filename: kamailio5-mod-ims-registrar-scscf_5.3.3-3_mips64_octeon3.ipk
-Size: 136691
-SHA256sum: a5180b4c81655750a607a98c66cb20109aef25065922b22a250618022ac5ee0f
+Size: 136697
+SHA256sum: 5c162a067f5807490b0ee3fe58a58cff8ba097ce866e42cab27f9ee52d1d5a4f
 Description:  IMS SCSCF registrar module for Kamailio5
 
 Package: kamailio5-mod-ims-usrloc-pcscf
@@ -1964,10 +1964,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 47448
+Installed-Size: 47449
 Filename: kamailio5-mod-ims-usrloc-pcscf_5.3.3-3_mips64_octeon3.ipk
-Size: 48298
-SHA256sum: d073ab409eb25530d97a121b0f5d6203e8aad7edd2e73638944c559edcc66193
+Size: 48312
+SHA256sum: f07b9f08be8e99926282c13469080fc2cf9b23f8e85c116ef92070932800eb7f
 Description:  IMS PCSCF usrloc module for Kamailio5
 
 Package: kamailio5-mod-ims-usrloc-scscf
@@ -1980,10 +1980,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 102420
+Installed-Size: 102421
 Filename: kamailio5-mod-ims-usrloc-scscf_5.3.3-3_mips64_octeon3.ipk
-Size: 103205
-SHA256sum: d7c8bc6645ef1930c26e0a5525d6c2cd7a9d03734071ebbc5db43a90cd3e23a6
+Size: 103202
+SHA256sum: 32e710284f0c5ec48c0bca4e8d34c7349263fc001723396f3e5fb3d418e8048e
 Description:  IMS SCSCF usrloc module for Kamailio5
 
 Package: kamailio5-mod-ipops
@@ -1996,10 +1996,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 38661
+Installed-Size: 38660
 Filename: kamailio5-mod-ipops_5.3.3-3_mips64_octeon3.ipk
-Size: 39398
-SHA256sum: 7882cea2584b066ef13194b830c8d407014bc75acc6f433b15fd5204257fc1d5
+Size: 39415
+SHA256sum: 8e8cc4086f3dd8c5428a1b59b6ef53d620295d54690f4ba5c14fee3c5e1933a3
 Description:  IP and IPv6 operations for Kamailio5
 
 Package: kamailio5-mod-jansson
@@ -2014,8 +2014,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 11790
 Filename: kamailio5-mod-jansson_5.3.3-3_mips64_octeon3.ipk
-Size: 12544
-SHA256sum: 02d8e35f57d637c831e68424959aee780928654809da0f2128f4175aa5e29369
+Size: 12530
+SHA256sum: 1fb978bf5a8c9b67dff1c7a529f9c1322582fd368fd3b417ddc05044db20c3d6
 Description:  Access to JSON attributes for Kamailio5
 
 Package: kamailio5-mod-janssonrpcc
@@ -2028,10 +2028,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 50982
+Installed-Size: 50981
 Filename: kamailio5-mod-janssonrpcc_5.3.3-3_mips64_octeon3.ipk
-Size: 51841
-SHA256sum: 95279b68e5199c579a0b536e250539f00b4cef06015e78c6d92ea668fab2457b
+Size: 51838
+SHA256sum: b9d322241f193fd7f03f7a3cd0d80c9510be8884b971fb7029c0955ab66952b8
 Description:  Alternative JSONRPC server for Kamailio5
 
 Package: kamailio5-mod-json
@@ -2044,10 +2044,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 14403
+Installed-Size: 14401
 Filename: kamailio5-mod-json_5.3.3-3_mips64_octeon3.ipk
-Size: 15183
-SHA256sum: 86577ca63f11421c6584fad4d052a8d4fb2940885344c25817eecdbefdca2c82
+Size: 15185
+SHA256sum: 185d60a90ee82debbcd50189715dfd85efa3f943ccdbf2715a6f3f91c6ef1452
 Description:  Access to JSON document attributes for Kamailio5
 
 Package: kamailio5-mod-jsonrpcs
@@ -2060,10 +2060,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 43873
+Installed-Size: 43874
 Filename: kamailio5-mod-jsonrpcs_5.3.3-3_mips64_octeon3.ipk
-Size: 44714
-SHA256sum: c107bab14af90be8a696663e6151e6bfe41c80fa260df9077d930e1a5d6c57c5
+Size: 44724
+SHA256sum: 92caa9b426cbb99394fab272effe09c247408934133b769004631ec11e55c117
 Description:  JSONRPC server over HTTP for Kamailio5
 
 Package: kamailio5-mod-keepalive
@@ -2076,10 +2076,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 8422
+Installed-Size: 8420
 Filename: kamailio5-mod-keepalive_5.3.3-3_mips64_octeon3.ipk
-Size: 9233
-SHA256sum: 1a20a3b70149289f4db5e04e4a629fa554966d4519b8fb5e1577eb78b1941d72
+Size: 9234
+SHA256sum: 55fe4411e16dc3a6b2e44ca1ebfa3af24a9b4e64c91601d20fdff12495f1f693
 Description:  SIP keepalive monitoring for Kamailio5
 
 Package: kamailio5-mod-kemix
@@ -2092,10 +2092,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 6747
+Installed-Size: 6746
 Filename: kamailio5-mod-kemix_5.3.3-3_mips64_octeon3.ipk
-Size: 7532
-SHA256sum: 0a410f06d339be540b11d05ab546e6d06220b00b5184c51f59c527c7423ebb94
+Size: 7518
+SHA256sum: 4a82e73c35ffd60f47101698df35403a888b0da1c9780eb7f375bfeb032fec42
 Description:  KEMI extensions for Kamailio5
 
 Package: kamailio5-mod-kex
@@ -2108,10 +2108,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 15985
+Installed-Size: 15982
 Filename: kamailio5-mod-kex_5.3.3-3_mips64_octeon3.ipk
-Size: 16608
-SHA256sum: 0767eef85d11921d58828d29b5755af6a82d154d5a1fa5694273567609241075
+Size: 16605
+SHA256sum: b4f89156ef84010d4059d5d985d3d4662673eb2e11538b4386296697405e2264
 Description:  Core extensions for Kamailio5
 
 Package: kamailio5-mod-lcr
@@ -2124,10 +2124,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 53258
+Installed-Size: 53257
 Filename: kamailio5-mod-lcr_5.3.3-3_mips64_octeon3.ipk
-Size: 53942
-SHA256sum: 7c5ed9d082264fddeb8972318149a2e7b8a0ae2dbd59f141275664ec350e230e
+Size: 53926
+SHA256sum: 98153918b8d14c906348067746f9501d01d04d7340ac9746b34fe343a452f5d8
 Description:  Least Cost Routing for Kamailio5
 
 Package: kamailio5-mod-ldap
@@ -2140,10 +2140,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 23495
+Installed-Size: 23492
 Filename: kamailio5-mod-ldap_5.3.3-3_mips64_octeon3.ipk
-Size: 24266
-SHA256sum: 2b66085704270af65f68adc7f71b1085fea07118c4c1ec381538c3edea9559b6
+Size: 24252
+SHA256sum: 9cb91a3a058854640f02e8cd9efaafbda10ed970492cc11c8d925e1ca56830dd
 Description:  LDAP connector for Kamailio5
 
 Package: kamailio5-mod-log-custom
@@ -2156,10 +2156,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 3848
+Installed-Size: 3846
 Filename: kamailio5-mod-log-custom_5.3.3-3_mips64_octeon3.ipk
-Size: 4607
-SHA256sum: 48bd459e21770d5ee8edcf3bcb4ca311a268fded9a7407836885817de9ae942f
+Size: 4611
+SHA256sum: 74c1e1ca9c88c3c8f26d05115032363a5caf31ab1f218b5ca59f07f9c28efa8a
 Description:  Logging to custom backends for Kamailio5
 
 Package: kamailio5-mod-lost
@@ -2172,10 +2172,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 24007
+Installed-Size: 24006
 Filename: kamailio5-mod-lost_5.3.3-3_mips64_octeon3.ipk
-Size: 24740
-SHA256sum: 473e73994150ed0f989b550127c65a91140bca2e1028ac7be3c45eb8b5ed0e3e
+Size: 24739
+SHA256sum: 0273427fec69d68a8cc153b5e6d5ad83b689f0e16a17b1b0a0e07812476a75b0
 Description:  HELD and LOST routing for Kamailio5
 
 Package: kamailio5-mod-mangler
@@ -2188,10 +2188,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 20651
+Installed-Size: 20649
 Filename: kamailio5-mod-mangler_5.3.3-3_mips64_octeon3.ipk
-Size: 21402
-SHA256sum: 071a50221f994e0966b7023af0fed27e1727135c755bc8754f0d7af355d886ed
+Size: 21407
+SHA256sum: 9f73ddfb01ebf0dc2b083230c56c75308e45b9c7f44109ae819a9810cc25c638
 Description:  SDP mangling for Kamailio5
 
 Package: kamailio5-mod-matrix
@@ -2204,10 +2204,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 10598
+Installed-Size: 10596
 Filename: kamailio5-mod-matrix_5.3.3-3_mips64_octeon3.ipk
-Size: 11388
-SHA256sum: 23a86246cdadccbc3b662a70d45d2b64687e3636a2591d0df6e829594df99ba5
+Size: 11367
+SHA256sum: 5888abc5ee7d894a9ef8d1aac297299c1f9721e577ba529f9cc0ae91328c5cb2
 Description:  Matrix operations for Kamailio5
 
 Package: kamailio5-mod-maxfwd
@@ -2220,10 +2220,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 6407
+Installed-Size: 6406
 Filename: kamailio5-mod-maxfwd_5.3.3-3_mips64_octeon3.ipk
-Size: 7195
-SHA256sum: fcb7cb28366d283512507410b5ae1487f3023593bd91f33b05902aed908b71ee
+Size: 7194
+SHA256sum: 9b21ff2cf595a4f8f825cdad14d2b038feda833689ba7804fc79097a61045c52
 Description:  Max-Forward processor for Kamailio5
 
 Package: kamailio5-mod-mediaproxy
@@ -2236,10 +2236,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 26886
+Installed-Size: 26883
 Filename: kamailio5-mod-mediaproxy_5.3.3-3_mips64_octeon3.ipk
 Size: 27651
-SHA256sum: 75904cefa04ada3bc8f2faae137bc4a30c397ed32a79f61002a2c19bd4d67870
+SHA256sum: 5b7e945c63e6b3798524d7f4d3e3c04272b32824bd0470b25a38e5ee49099035
 Description:  Automatic NAT traversal for Kamailio5
 
 Package: kamailio5-mod-mohqueue
@@ -2252,10 +2252,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 45267
+Installed-Size: 45265
 Filename: kamailio5-mod-mohqueue_5.3.3-3_mips64_octeon3.ipk
-Size: 46098
-SHA256sum: d4761c828825df43091ec6a04e4b54d3f776f89f05c846729fd1d7c7c2bd5093
+Size: 46082
+SHA256sum: f05719dbf4b7b58aa93152718da1f87ef645d8e12ca80d5e605f1a209828a4f5
 Description:  Music on hold queuing system for Kamailio5
 
 Package: kamailio5-mod-mqueue
@@ -2268,10 +2268,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 11538
+Installed-Size: 11541
 Filename: kamailio5-mod-mqueue_5.3.3-3_mips64_octeon3.ipk
-Size: 12259
-SHA256sum: 99579febde22ad7e6f120dbbf6a3efa1f8afded43341577f6e211941941e11b3
+Size: 12262
+SHA256sum: 6fac7425e271b16fe331d0789d232745662ad59702dfd19434981810560d4373
 Description:  Generic message queue system for Kamailio5
 
 Package: kamailio5-mod-msilo
@@ -2284,10 +2284,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 32472
+Installed-Size: 32471
 Filename: kamailio5-mod-msilo_5.3.3-3_mips64_octeon3.ipk
-Size: 33264
-SHA256sum: 54d7e9d5e730432b1bc6fe2f1ec49e85a843daece3a024c0a8f11191aa20c423
+Size: 33263
+SHA256sum: abffd75ff8c48cb71fd11a4188bf9dd97cbf5307e1ab6dfc922074c25a47c4d8
 Description:  SIP message silo for Kamailio5
 
 Package: kamailio5-mod-msrp
@@ -2300,10 +2300,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 35556
+Installed-Size: 35554
 Filename: kamailio5-mod-msrp_5.3.3-3_mips64_octeon3.ipk
-Size: 36349
-SHA256sum: 6a8653932f2bdf574c1e6677176a8f70602c3dbd2e2e45983dee87f10ef8d1df
+Size: 36343
+SHA256sum: 57bc0d3b030d69c2ca09cab81c0ea1c74a96824d6c16847aea248a68e9e11b2d
 Description:  MSRP routing engine for Kamailio5
 
 Package: kamailio5-mod-mtree
@@ -2316,10 +2316,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 31493
+Installed-Size: 31492
 Filename: kamailio5-mod-mtree_5.3.3-3_mips64_octeon3.ipk
-Size: 32227
-SHA256sum: d7a55763b35403d1fe7d543cf5347957c7e3a4d372c3ef86fe2c0ea8434fa020
+Size: 32212
+SHA256sum: 9d22434173c3dfea6f79a725340aa63ace1579a5c17242e035dabde123276582
 Description:  Memory caching system for Kamailio5
 
 Package: kamailio5-mod-nat-traversal
@@ -2332,10 +2332,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 25238
+Installed-Size: 25240
 Filename: kamailio5-mod-nat-traversal_5.3.3-3_mips64_octeon3.ipk
-Size: 25962
-SHA256sum: 0e0780ab2be9ece604413dc585e5b97a7fc6ca339307ab3f3480a20d1578f64a
+Size: 25957
+SHA256sum: 2b26a78cb96adc9aa015fc3dc10f8ac2b9d3cd0a75863c29af618c8a83aaa7c6
 Description:  NAT traversal for Kamailio5
 
 Package: kamailio5-mod-nathelper
@@ -2348,10 +2348,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 41119
+Installed-Size: 41118
 Filename: kamailio5-mod-nathelper_5.3.3-3_mips64_octeon3.ipk
-Size: 41915
-SHA256sum: 4d13f393ffee7cc4dcea6cd9a9d4f347a976e6f4cba1dcfff5ca35015021259f
+Size: 41922
+SHA256sum: afee8dd35efaf70e6c242ed2131743902fcd6d04cc40eac03675c603aa3d5126
 Description:  NAT helper for Kamailio5
 
 Package: kamailio5-mod-ndb-redis
@@ -2364,10 +2364,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 33694
+Installed-Size: 33692
 Filename: kamailio5-mod-ndb-redis_5.3.3-3_mips64_octeon3.ipk
-Size: 34510
-SHA256sum: ed6c97cf36c4316a9d58db35248578cf1eb37d0baa71a15da50a04db7ad2b942
+Size: 34512
+SHA256sum: 7a8f338eb5d85fbda3cf885f0e0ab8e1d42efd75b69a205d0834988b63803960
 Description:  Connect to REDIS NoSQL for Kamailio5
 
 Package: kamailio5-mod-nosip
@@ -2380,10 +2380,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 3608
+Installed-Size: 3607
 Filename: kamailio5-mod-nosip_5.3.3-3_mips64_octeon3.ipk
 Size: 4362
-SHA256sum: e57f42ea5a2e46ed045faf32ac90ab900f78c93771efd815d472732968350701
+SHA256sum: 1842f15450f688f400e06881c17a301883d6a15fdfafd68993238b4629c99837
 Description:  non-sip package handling for Kamailio5
 
 Package: kamailio5-mod-outbound
@@ -2396,10 +2396,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 10080
+Installed-Size: 10078
 Filename: kamailio5-mod-outbound_5.3.3-3_mips64_octeon3.ipk
-Size: 10875
-SHA256sum: 8ce9085866548aee7d3d2fbeda0da81d8596c14195e4a6d44ad891ea4c541aad
+Size: 10870
+SHA256sum: 862793dbb722daf323acbfabafe1d42ba5d5a5252aa08b77899c3c28b985b4e0
 Description:  SIP Outbound implementation for Kamailio5
 
 Package: kamailio5-mod-p-usrloc
@@ -2412,10 +2412,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 76155
+Installed-Size: 76148
 Filename: kamailio5-mod-p-usrloc_5.3.3-3_mips64_octeon3.ipk
-Size: 76842
-SHA256sum: 587fe424652cdcadebe08a8e7f1259b4b347889cede5a582c9ae36893cb25fa5
+Size: 76836
+SHA256sum: f967eb4e5010cdf4314428e2cc3e4e4d2fc783b3c742c5f3ee50e58289534155
 Description:  Partitioned USRLOC services for Kamailio5
 
 Package: kamailio5-mod-path
@@ -2428,10 +2428,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 9508
+Installed-Size: 9507
 Filename: kamailio5-mod-path_5.3.3-3_mips64_octeon3.ipk
-Size: 10272
-SHA256sum: ab5f3d39a90b18799f7bcb3f62bffcb22eb5aee207a0a6a47fefcef6cf7cc7b3
+Size: 10271
+SHA256sum: a700e833a214cb1ce499559279c6f19058bc26264989d82129c5a33f3c109484
 Description:  SIP path insertion for Kamailio5
 
 Package: kamailio5-mod-pdb
@@ -2444,10 +2444,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 13977
+Installed-Size: 13975
 Filename: kamailio5-mod-pdb_5.3.3-3_mips64_octeon3.ipk
-Size: 14737
-SHA256sum: 65db8c30f5e4e403d3baeae348985d90501aa7c7af61c709eb2d961dd39b25a3
+Size: 14730
+SHA256sum: 8991ea51cd34f17e4beaf8b036229b8027860f79f90913d2a48826374b4e5196
 Description:  Number portability module for Kamailio5
 
 Package: kamailio5-mod-pdt
@@ -2460,10 +2460,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 19203
+Installed-Size: 19202
 Filename: kamailio5-mod-pdt_5.3.3-3_mips64_octeon3.ipk
-Size: 20003
-SHA256sum: 27ae7390bb8332d1025409f6f5c6b15a98a8d9c1059a3de7ed1e146bbc8a25b0
+Size: 20000
+SHA256sum: dfb5ee37c118bb0203d21ae8a2f21d83208d406da8babd0aa1cf4d5f14a7ee7f
 Description:  Prefix-to-Domain translator for Kamailio5
 
 Package: kamailio5-mod-permissions
@@ -2476,10 +2476,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 49013
+Installed-Size: 49012
 Filename: kamailio5-mod-permissions_5.3.3-3_mips64_octeon3.ipk
-Size: 49798
-SHA256sum: e27fc26069c852e8194f0eb081d884f6c18272b4cfd197d83184995aef24aa0f
+Size: 49778
+SHA256sum: bfc9d641eabf1d4507ed0f795271d8dabbe8844990789455dec68049e10d911f
 Description:  Permissions control for Kamailio5
 
 Package: kamailio5-mod-pike
@@ -2492,10 +2492,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 17955
+Installed-Size: 17951
 Filename: kamailio5-mod-pike_5.3.3-3_mips64_octeon3.ipk
-Size: 18717
-SHA256sum: b27727032c1ba2677e84bef2fe2c81f451671ff9b734f166715d4859ee2c8fcf
+Size: 18709
+SHA256sum: a5826b196137d226ddf2e00b04313f48e91cfee3a868792ca04dadef55c422db
 Description:  Flood detector for Kamailio5
 
 Package: kamailio5-mod-pipelimit
@@ -2508,10 +2508,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 23696
+Installed-Size: 23693
 Filename: kamailio5-mod-pipelimit_5.3.3-3_mips64_octeon3.ipk
-Size: 24431
-SHA256sum: 27fa05d0e97ffeb470a327c8182d1857e20df6ed075da10748f23969c63c9f01
+Size: 24440
+SHA256sum: 8db97e6b22823c452e9336fe121ada82aa3cfedc765937634ae2deb979c31d5e
 Description:  Traffic shaping policies for Kamailio5
 
 Package: kamailio5-mod-prefix-route
@@ -2526,8 +2526,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 10638
 Filename: kamailio5-mod-prefix-route_5.3.3-3_mips64_octeon3.ipk
-Size: 11402
-SHA256sum: eb23737b46473029180e6bd8a75014080cb0603eba6e9365608921f64653574f
+Size: 11404
+SHA256sum: f572534ef5c6afc61428cfe7b2159d00f41f50ed2b6d862968ad90a2e7faf4b1
 Description:  Execute based on prefix for Kamailio5
 
 Package: kamailio5-mod-presence-conference
@@ -2540,10 +2540,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 7890
+Installed-Size: 7887
 Filename: kamailio5-mod-presence-conference_5.3.3-3_mips64_octeon3.ipk
-Size: 8700
-SHA256sum: b9bb20b9b9a7871a51470c6ab4f2d0e488b38761581bf731aad9091525a5c928
+Size: 8698
+SHA256sum: 604c869aaa14fe1ca55329d8302c980380f6ddc74b9c92bacc43644e5513391c
 Description:  Conference events for Kamailio5
 
 Package: kamailio5-mod-presence-dialoginfo
@@ -2556,10 +2556,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 14644
+Installed-Size: 14643
 Filename: kamailio5-mod-presence-dialoginfo_5.3.3-3_mips64_octeon3.ipk
-Size: 15402
-SHA256sum: 09e2d05e70b3e0caff55ffffa2ad88f17d9c0c1606f5c9aa69501166bb3eaabc
+Size: 15395
+SHA256sum: 70790995c553be1577bdca56a2e820ed4dea3761897e3607a952b624e52904af
 Description:  Dialog Event presence for Kamailio5
 
 Package: kamailio5-mod-presence-mwi
@@ -2572,10 +2572,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 3934
+Installed-Size: 3931
 Filename: kamailio5-mod-presence-mwi_5.3.3-3_mips64_octeon3.ipk
-Size: 4692
-SHA256sum: e02860e7790bff8b19e2a3e09c8c5b309ce5ab668ab13ee79848f294ffe36e7a
+Size: 4691
+SHA256sum: 843111715ddd9aa8223650fe8871781c585168fdfb02fec935b018cf9a41255e
 Description:  MWI presence for Kamailio5
 
 Package: kamailio5-mod-presence-profile
@@ -2588,10 +2588,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 2863
+Installed-Size: 2862
 Filename: kamailio5-mod-presence-profile_5.3.3-3_mips64_octeon3.ipk
-Size: 3629
-SHA256sum: e430337c7b804df0cee39bdbf8e6129d73930b9edb22e178c09c6a78453835b6
+Size: 3630
+SHA256sum: 795fb9203283cdabd1fa5098f2fba0e3f25b11ec5717929fac28a31b97926cf5
 Description:  User profile extensions for Kamailio5
 
 Package: kamailio5-mod-presence-reginfo
@@ -2604,10 +2604,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 2875
+Installed-Size: 2874
 Filename: kamailio5-mod-presence-reginfo_5.3.3-3_mips64_octeon3.ipk
-Size: 3635
-SHA256sum: e1064fbafd92ec9f250ebc62f1a940245295d368b2c110959da6992d17d98333
+Size: 3639
+SHA256sum: 2aeccbe73c5b47a032c4f52bbc8e1f71c2c73111511edebc2fcbf30687370bce
 Description:  Registration info for Kamailio5
 
 Package: kamailio5-mod-presence-xml
@@ -2620,10 +2620,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 35312
+Installed-Size: 35306
 Filename: kamailio5-mod-presence-xml_5.3.3-3_mips64_octeon3.ipk
-Size: 36142
-SHA256sum: f7308119c0dd9f9913a24cf7894c2e0b19517ee93f8237bb3dd4dc2d1b41e3ff
+Size: 36131
+SHA256sum: 7b7efb469d46f529b6d396d3a73cdf76440cc02c948720c3ce740d4dbaccc351
 Description:  XCAP presence for Kamailio5
 
 Package: kamailio5-mod-presence
@@ -2636,10 +2636,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 160428
+Installed-Size: 160429
 Filename: kamailio5-mod-presence_5.3.3-3_mips64_octeon3.ipk
-Size: 161109
-SHA256sum: 370f4755a2315d21623bcf5ad1ed181dd8996ada46faf01b3d1ced21a22c9629
+Size: 161108
+SHA256sum: f1501f2b8515d6a149215db795b73f1c4b77fe4c6925254b8ed0be2cb26ae8cb
 Description:  Presence server for Kamailio5
 
 Package: kamailio5-mod-pua-bla
@@ -2652,10 +2652,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 10433
+Installed-Size: 10430
 Filename: kamailio5-mod-pua-bla_5.3.3-3_mips64_octeon3.ipk
-Size: 11188
-SHA256sum: f61b2a7a3cf377688a11b97ed63b4e96d1a26ca9e27025496d08e7c64600f96c
+Size: 11193
+SHA256sum: 6734d78fe25a2e9d5a1f7efec8d032944b616832a675281841efc0f20ab7bebf
 Description:  Bridged Line Appearence PUA for Kamailio5
 
 Package: kamailio5-mod-pua-dialoginfo
@@ -2670,8 +2670,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 17307
 Filename: kamailio5-mod-pua-dialoginfo_5.3.3-3_mips64_octeon3.ipk
-Size: 18056
-SHA256sum: 987c7f9f55acb87f7493ca6057e7d7a53c8a51288d0b15bc26608c2c4dd0b6ef
+Size: 18068
+SHA256sum: 1448c58e21b7a72d2dc12d34b83d5fd57ec61d62808ca72ce9a264803251852c
 Description:  Dialog Event PUA for Kamailio5
 
 Package: kamailio5-mod-pua-json
@@ -2684,10 +2684,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 8028
+Installed-Size: 8027
 Filename: kamailio5-mod-pua-json_5.3.3-3_mips64_octeon3.ipk
-Size: 8830
-SHA256sum: cf8670930d026fc55dea0291477d7ecdf19eb7da3a6d6831e08eb75c2b66628c
+Size: 8827
+SHA256sum: acebd55d195e339f56d4fb1d30508e2468d9fee8c727faf58115a112f25e4220
 Description:  Presence user agent implementation with JSON messages for Kamailio5
 
 Package: kamailio5-mod-pua-reginfo
@@ -2700,10 +2700,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 18902
+Installed-Size: 18901
 Filename: kamailio5-mod-pua-reginfo_5.3.3-3_mips64_octeon3.ipk
-Size: 19675
-SHA256sum: 27245cc1f461277a74bf40b7691a027b7ae4b3c1de78f8063bf0b1b1ddb0f605
+Size: 19687
+SHA256sum: f51d3d6dd7a149647c3b4f34799d667d40c3934b420ab859e4cd9a32025313c4
 Description:  PUA registration info for Kamailio5
 
 Package: kamailio5-mod-pua-rpc
@@ -2716,10 +2716,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 8818
+Installed-Size: 8816
 Filename: kamailio5-mod-pua-rpc_5.3.3-3_mips64_octeon3.ipk
-Size: 9585
-SHA256sum: f8f357d1d276ce5131534ce40934de57c16b882e78800eb13dedd91abfe7a736
+Size: 9588
+SHA256sum: a80fe7c3f6dd2716198fdd244d64e2c6a13693f6c79a20a2f828ee00f94b5e97
 Description:  RPC extensions for PUA for Kamailio5
 
 Package: kamailio5-mod-pua-usrloc
@@ -2734,8 +2734,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 9806
 Filename: kamailio5-mod-pua-usrloc_5.3.3-3_mips64_octeon3.ipk
-Size: 10569
-SHA256sum: 4c1a9e86d215db237904cd6d4b35d894f6357ba62e9893a36e805260c14492a0
+Size: 10570
+SHA256sum: 083bc62a8529a5c639ff3248829c71d64a6a7c17cf4e9a23081f298dd37b6421
 Description:  PUA User Location for Kamailio5
 
 Package: kamailio5-mod-pua-xmpp
@@ -2748,10 +2748,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 28029
+Installed-Size: 28027
 Filename: kamailio5-mod-pua-xmpp_5.3.3-3_mips64_octeon3.ipk
-Size: 28833
-SHA256sum: 855500eb810e2b7344cdb3c79c98222b6d7a38dc6db606df00dc8d04cafb650f
+Size: 28835
+SHA256sum: e8dd24d8f63f06525983ecf90a6d8c8730431cb680a0cfca77028d473631ab6b
 Description:  PUA XMPP for Kamailio5
 
 Package: kamailio5-mod-pua
@@ -2764,10 +2764,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 76281
+Installed-Size: 76278
 Filename: kamailio5-mod-pua_5.3.3-3_mips64_octeon3.ipk
-Size: 77024
-SHA256sum: 506bea4192e1e316541684010fcd295bf6bd57071ecc5438904954fab9308d07
+Size: 77014
+SHA256sum: e17a804d8b7212b0b56e5cfa25d0f26fd5b67786c82492438dcdea5b5c88cc1d
 Description:  Presence User Agent for Kamailio5
 
 Package: kamailio5-mod-pv
@@ -2782,8 +2782,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 114871
 Filename: kamailio5-mod-pv_5.3.3-3_mips64_octeon3.ipk
-Size: 115435
-SHA256sum: 87bd3c03fb1e105c328d7b94585300e2c8a9e7f9e9dda730729e291130236f0a
+Size: 115447
+SHA256sum: 888cc2fd444ec5a2c342559744d437ffc6eec40501f57ec53aec291998ebba6d
 Description:  Pseudo-Variables for Kamailio5
 
 Package: kamailio5-mod-qos
@@ -2796,10 +2796,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 21307
+Installed-Size: 21306
 Filename: kamailio5-mod-qos_5.3.3-3_mips64_octeon3.ipk
-Size: 22089
-SHA256sum: 9a0d5c4e78c484129238884a792b2b48f53b4590b8a27d4318c7c0204b70d716
+Size: 22074
+SHA256sum: 6de37603fb6b89b2e243f9250e746bc7625146d90c0c7ae52cb028d2d25b3885
 Description:  QoS control for Kamailio5
 
 Package: kamailio5-mod-ratelimit
@@ -2812,10 +2812,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 20906
+Installed-Size: 20905
 Filename: kamailio5-mod-ratelimit_5.3.3-3_mips64_octeon3.ipk
-Size: 21666
-SHA256sum: 6733815404eeb581c004a734aebdcd5f03ede0b6f894b750246feb73b868d3be
+Size: 21658
+SHA256sum: 8da2d7eedbd2a55c29b19a36ed39c558d499e6172d9e8b3078b2c7f582be9f56
 Description:  Traffic shapping for Kamailio5
 
 Package: kamailio5-mod-regex
@@ -2828,10 +2828,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 12956
+Installed-Size: 12955
 Filename: kamailio5-mod-regex_5.3.3-3_mips64_octeon3.ipk
-Size: 13726
-SHA256sum: adfd569147643ba78d3dd9bf55e36581488cf4b84d6fcbaadaab86b27e5e3ec0
+Size: 13731
+SHA256sum: 7f575c986711f0c0e9ec6b482cbe769662481cbc7c12bb419b57aa2153ce7904
 Description:  Regular Expression for Kamailio5
 
 Package: kamailio5-mod-registrar
@@ -2846,8 +2846,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 58438
 Filename: kamailio5-mod-registrar_5.3.3-3_mips64_octeon3.ipk
-Size: 59275
-SHA256sum: be9f351c0438391d14e9ec3d7385f664d9b9d649130acd1e314e75dfc54970d5
+Size: 59259
+SHA256sum: 2bb16a96d4b09c07af79831f7b5bd76f544caee367ccec63226ddbb1c2cc80a0
 Description:  SIP Registrar for Kamailio5
 
 Package: kamailio5-mod-rls
@@ -2860,10 +2860,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 91347
+Installed-Size: 91346
 Filename: kamailio5-mod-rls_5.3.3-3_mips64_octeon3.ipk
-Size: 92115
-SHA256sum: 8f89aa795a74e432eec1622d7a75721f0da7e0b477e764ffa7d9fd570c31ce0e
+Size: 92128
+SHA256sum: d85c1e83c447e30d6a0b4db9e6151d92074cd0e7a4e900deb43ab03c7f4cdada
 Description:  Resource List Server for Kamailio5
 
 Package: kamailio5-mod-rr
@@ -2876,10 +2876,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 36302
+Installed-Size: 36301
 Filename: kamailio5-mod-rr_5.3.3-3_mips64_octeon3.ipk
-Size: 37095
-SHA256sum: f5041c46c2b73feb05365e517569b998b7aac1ac9b0f9e80ac710f51a6387330
+Size: 37081
+SHA256sum: 0c0269d94a07117a983ce4c93f3e0163d6f6be76d7e413884ba695cc62ae856d
 Description:  Record-Route and Route for Kamailio5
 
 Package: kamailio5-mod-rtimer
@@ -2892,10 +2892,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 6975
+Installed-Size: 6971
 Filename: kamailio5-mod-rtimer_5.3.3-3_mips64_octeon3.ipk
-Size: 7761
-SHA256sum: 367b20a04d0b4a9d2a5c602df8822a7f6b6ce357dbd8edef2c8528aa7bbbeaf8
+Size: 7751
+SHA256sum: 0374d883149fe50d4bb131a57d3f5a3b10b879eaacc07c675a9c94af7a0249c9
 Description:  Routing Timer for Kamailio5
 
 Package: kamailio5-mod-rtjson
@@ -2908,10 +2908,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 12086
+Installed-Size: 12084
 Filename: kamailio5-mod-rtjson_5.3.3-3_mips64_octeon3.ipk
-Size: 12858
-SHA256sum: a50f236726e32728de47c6d457b63019ebfce621fb00c3e2fb5e1de39ae433fc
+Size: 12862
+SHA256sum: 19d5061fc8ae5f4ddc753aea3fe3b0e02d34f3ff236488d5fa3752b71e7276a3
 Description:  SIP routing based on JSON API for Kamailio5
 
 Package: kamailio5-mod-rtpengine
@@ -2924,10 +2924,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 68233
+Installed-Size: 68231
 Filename: kamailio5-mod-rtpengine_5.3.3-3_mips64_octeon3.ipk
-Size: 69021
-SHA256sum: 0b8b08ee4f013e585f6201dd79d74607f81d32f6d20851610facb577a504294a
+Size: 69030
+SHA256sum: 9684c9c05a0109df22fbf95cdc989695ce065e4e9012dbd8ee778504699ee09f
 Description:  RTP engine for Kamailio5
 
 Package: kamailio5-mod-rtpproxy
@@ -2940,10 +2940,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 43447
+Installed-Size: 43445
 Filename: kamailio5-mod-rtpproxy_5.3.3-3_mips64_octeon3.ipk
-Size: 44254
-SHA256sum: 680e8e80e2e1b445a72551c0a688d6ab19de5296e34b61e09f791d59781b239d
+Size: 44251
+SHA256sum: 61032ed9bc63d91d22b748f741f1f9e59077cb5c0ac0bcbc9dbee2a37a02a219
 Description:  RTP proxy for Kamailio5
 
 Package: kamailio5-mod-sanity
@@ -2958,8 +2958,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 22617
 Filename: kamailio5-mod-sanity_5.3.3-3_mips64_octeon3.ipk
-Size: 23355
-SHA256sum: 6111c912108e83123b0a6d867fd3d3c8d41b55311a798e7b0869b2906655c93c
+Size: 23351
+SHA256sum: 73232c5f69aecc87fd9080471fa2f190c25b635756484df5f4beffb7d848eb18
 Description:  SIP sanity checks for Kamailio5
 
 Package: kamailio5-mod-sca
@@ -2972,10 +2972,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 100332
+Installed-Size: 100330
 Filename: kamailio5-mod-sca_5.3.3-3_mips64_octeon3.ipk
-Size: 101097
-SHA256sum: 81a1eff69462348a023a43e1b5da8ec01b2a54b0b5aaecfd089abf6d0a9ef082
+Size: 101101
+SHA256sum: 574516417993e61b4840dbf0f48e9fa509b3daa0f739107bdd46a336beffc703
 Description:  Shared Call Appearances for Kamailio5
 
 Package: kamailio5-mod-sctp
@@ -2988,10 +2988,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 34113
+Installed-Size: 34112
 Filename: kamailio5-mod-sctp_5.3.3-3_mips64_octeon3.ipk
-Size: 34947
-SHA256sum: 096cc66eac1a273bb089f3b7eb6818f5d5eb51cecdad92d6b82defbd57d2af32
+Size: 34952
+SHA256sum: 58ea49e55d2b9198225c1e115ef4bad0955ad3f70b7d37602e5945968881be63
 Description:  SCTP support for Kamailio5
 
 Package: kamailio5-mod-sdpops
@@ -3006,8 +3006,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 29337
 Filename: kamailio5-mod-sdpops_5.3.3-3_mips64_octeon3.ipk
-Size: 30051
-SHA256sum: b14137558f7c740abd7f87d9eb70ba78b66aa56ca08de9e74e84f865a7fbd8e6
+Size: 30043
+SHA256sum: f05d6f82abac9d56bd0652c2d688875ca8c6a2522ef7712e7801cd939efad393
 Description:  Managing SDP payloads for Kamailio5
 
 Package: kamailio5-mod-seas
@@ -3020,10 +3020,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 101139
+Installed-Size: 101138
 Filename: kamailio5-mod-seas_5.3.3-3_mips64_octeon3.ipk
-Size: 101933
-SHA256sum: 99b2542d17ee4324e589622cf731bd9d269f04b073eb464abd5caf721b5e50d9
+Size: 101935
+SHA256sum: ca7b399d09f2cee5d8380298a2aed8c89f2da0fb1940697c09bcf5733486e9d6
 Description:  Sip Express Application Server for Kamailio5
 
 Package: kamailio5-mod-secfilter
@@ -3038,8 +3038,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 20171
 Filename: kamailio5-mod-secfilter_5.3.3-3_mips64_octeon3.ipk
-Size: 20908
-SHA256sum: c3c04d30a0f68a1de358bd419ef85afad04dc5d54c9932ad50ff24ef8d088297
+Size: 20912
+SHA256sum: a15536e2945be35b93bc6b929cc94d2608e9fab17b5504099970e00c317e7acc
 Description:  Allow/block filters for Kamailio5
 
 Package: kamailio5-mod-sipcapture
@@ -3052,10 +3052,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 51402
+Installed-Size: 51404
 Filename: kamailio5-mod-sipcapture_5.3.3-3_mips64_octeon3.ipk
-Size: 52065
-SHA256sum: 77065f2677385aa374d8c8e3925b3739b5464750337ab7e27b1790a64d10d738
+Size: 52053
+SHA256sum: 0513e0e194fd45963758c3e2252dc86b6d2c1b2211c16d1bdfce2d3d47aebd6c
 Description:  SIP capture for Kamailio5
 
 Package: kamailio5-mod-sipdump
@@ -3070,8 +3070,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 10614
 Filename: kamailio5-mod-sipdump_5.3.3-3_mips64_octeon3.ipk
-Size: 11371
-SHA256sum: e701d127bb079c91537df304bb651de9fe149491e739d76e8538ca40df65cf9c
+Size: 11378
+SHA256sum: ccb7b70a63accaadc2d0d7f681ca44896ebef0e646cdfae2b4cfd95f47e988e3
 Description:  Save SIP traffic for Kamailio5
 
 Package: kamailio5-mod-sipt
@@ -3084,10 +3084,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 13101
+Installed-Size: 13098
 Filename: kamailio5-mod-sipt_5.3.3-3_mips64_octeon3.ipk
-Size: 13852
-SHA256sum: 2c912655369df22a2f47b72d15a1243cd702cdd4ff25a7735e2384a1420ba893
+Size: 13851
+SHA256sum: cd3ac8498dd907968cdf32139d92e76e12e440cd502e80576d35357b6a6a4ad3
 Description:  SIP-T and SIP-I operations for Kamailio5
 
 Package: kamailio5-mod-siptrace
@@ -3100,10 +3100,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 52927
+Installed-Size: 52925
 Filename: kamailio5-mod-siptrace_5.3.3-3_mips64_octeon3.ipk
-Size: 53746
-SHA256sum: d5038e42194a486d5bf4df252fe606791d7af2ee3305dc90c2e73bfbeb5b1875
+Size: 53724
+SHA256sum: 5bb879682211cd67bd8fa16cca3319df981df7780d29619f40591b01cca98c77
 Description:  SIP trace for Kamailio5
 
 Package: kamailio5-mod-siputils
@@ -3116,10 +3116,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 46776
+Installed-Size: 46775
 Filename: kamailio5-mod-siputils_5.3.3-3_mips64_octeon3.ipk
-Size: 47550
-SHA256sum: 87156c12a984843b306af3677a7fb12b5b5b1c906fef478783bdfcc6ade20bfa
+Size: 47545
+SHA256sum: 85e15e2f5930e5b6aeaad8fcf13e1e7c6f29b1d6bf77f9d589999f97dc2287e3
 Description:  SIP utilities for Kamailio5
 
 Package: kamailio5-mod-sl
@@ -3132,10 +3132,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 22988
+Installed-Size: 22985
 Filename: kamailio5-mod-sl_5.3.3-3_mips64_octeon3.ipk
-Size: 23692
-SHA256sum: a5b99247df860ca063425d2a98588ea70e896bfa3665f93c2188f7bf33fa57c8
+Size: 23700
+SHA256sum: 295af1026810422ce6883f4a5f0bfc20f287c3305fba96883a16ef002abfb7ec
 Description:  Stateless replier for Kamailio5
 
 Package: kamailio5-mod-sms
@@ -3148,10 +3148,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 41105
+Installed-Size: 41103
 Filename: kamailio5-mod-sms_5.3.3-3_mips64_octeon3.ipk
-Size: 41920
-SHA256sum: d1d4d7f9c62c9a2d54f2878b2083fdd3d13fd9cdc62ee1be0094659ce0b663c0
+Size: 41915
+SHA256sum: 983265fb765885a1f0eaf8376261b750f9d3404e4b7bb0354b336b55e7d4e47b
 Description:  SIP-to-SMS IM gateway for Kamailio5
 
 Package: kamailio5-mod-smsops
@@ -3167,7 +3167,7 @@ Architecture: mips64_octeon3
 Installed-Size: 13864
 Filename: kamailio5-mod-smsops_5.3.3-3_mips64_octeon3.ipk
 Size: 14590
-SHA256sum: ba713e79e38690421d7faf15c54c753d373c40bdaa89b35864822961ebbe67dc
+SHA256sum: 7f4e733f86855245139c3b5ac24e745b6bc1f771411102d5acceb485435b4976
 Description:  Handle SMS packets in SIP for Kamailio5
 
 Package: kamailio5-mod-snmpstats
@@ -3180,10 +3180,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 65417
+Installed-Size: 65416
 Filename: kamailio5-mod-snmpstats_5.3.3-3_mips64_octeon3.ipk
-Size: 65723
-SHA256sum: 519051a2a1d661545f7e99dc63fd6be0ed6a7cdc981ba9f09985a9fa93b37d55
+Size: 65737
+SHA256sum: 86d70555c5b893671dcd02c8c7356f85dcf561606416059105a9379a24b3bf17
 Description:  SNMP interface for statistics for Kamailio5
 
 Package: kamailio5-mod-speeddial
@@ -3196,10 +3196,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 6658
+Installed-Size: 6655
 Filename: kamailio5-mod-speeddial_5.3.3-3_mips64_octeon3.ipk
-Size: 7458
-SHA256sum: f6e44423c4c2b5fce795089bbd8f2088a10759a813f558f58c415baa388d2690
+Size: 7454
+SHA256sum: 88219544547cb7fc555c4637601044d398a59ae8785068834b734ba5ba6fc436
 Description:  Per-user speed-dial controller for Kamailio5
 
 Package: kamailio5-mod-sqlops
@@ -3212,10 +3212,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 24954
+Installed-Size: 24953
 Filename: kamailio5-mod-sqlops_5.3.3-3_mips64_octeon3.ipk
-Size: 25650
-SHA256sum: 0db4d65dcbf9322974002f7b854082ad5ad1b299c80773f54b47b9cc2b98c326
+Size: 25633
+SHA256sum: 0c79229ad34b316596afbfd32762dfaba55add63933fd37d0c3d320886b90bb1
 Description:  SQL operations for Kamailio5
 
 Package: kamailio5-mod-ss7ops
@@ -3228,10 +3228,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 21469
+Installed-Size: 21466
 Filename: kamailio5-mod-ss7ops_5.3.3-3_mips64_octeon3.ipk
-Size: 22037
-SHA256sum: e3e8fb1c8804df6952e0d2771eae7dbfac1289e4916d6385dc9de7a52a947e30
+Size: 22016
+SHA256sum: 93e83a973b7adc552eb345d9f970d86e9022885fe73b5d2d9f2be2b978b264c1
 Description:  JSON Operations for SS7 over HEP for Kamailio5
 
 Package: kamailio5-mod-sst
@@ -3244,10 +3244,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 16049
+Installed-Size: 16048
 Filename: kamailio5-mod-sst_5.3.3-3_mips64_octeon3.ipk
-Size: 16801
-SHA256sum: 1a2c8c048bbcaba98affbd7b74fef996e3138c451308faed6147f899ce422176
+Size: 16795
+SHA256sum: 66f7930fa95a4e17fce307b915cef2bedb249297573d74b7e921ad80de2d4cd6
 Description:  SIP Session Timer for Kamailio5
 
 Package: kamailio5-mod-statistics
@@ -3262,8 +3262,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 6416
 Filename: kamailio5-mod-statistics_5.3.3-3_mips64_octeon3.ipk
-Size: 7202
-SHA256sum: 8b0d2572bdf847229be7ada9a6470afb90e32805839421d8150b41094c2823aa
+Size: 7211
+SHA256sum: 43a93ea659a9e6c4c7740a447e631007a02b1a5ba2807af0c7891880f3f30d9b
 Description:  Script statistics for Kamailio5
 
 Package: kamailio5-mod-statsc
@@ -3276,10 +3276,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 6957
+Installed-Size: 6954
 Filename: kamailio5-mod-statsc_5.3.3-3_mips64_octeon3.ipk
-Size: 7734
-SHA256sum: df5da8a66a891c712ce1d38084795725c1b7dcfc362242ba50649b0517580129
+Size: 7735
+SHA256sum: 9786bebeecfe5177a30793698655bae9ff5161d6a0d9c08afbfe81e959b68ebb
 Description:  Statistics collector for Kamailio5
 
 Package: kamailio5-mod-statsd
@@ -3292,10 +3292,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 7210
+Installed-Size: 7208
 Filename: kamailio5-mod-statsd_5.3.3-3_mips64_octeon3.ipk
-Size: 7997
-SHA256sum: 8468d5a1cae9246ffc6fd6e0716205bd5ebb11774be708cc6a117010dfa81e17
+Size: 7987
+SHA256sum: 86e67924ce2cdc5540709a2f89dca72c1405bec43a12374d08c7875ed4d5feb9
 Description:  Connector for statsd application for Kamailio5
 
 Package: kamailio5-mod-stun
@@ -3308,10 +3308,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 11351
+Installed-Size: 11348
 Filename: kamailio5-mod-stun_5.3.3-3_mips64_octeon3.ipk
-Size: 12124
-SHA256sum: 582834ddc489f53fe4790307d6b09d8c86408d80d148bc21d0998a0356468cb0
+Size: 12127
+SHA256sum: e421c9c724b9c475aae8f91910e81ea304e5faa7e4bd5a8c334240e58bf3dcfa
 Description:  STUN server support for Kamailio5
 
 Package: kamailio5-mod-tcpops
@@ -3324,10 +3324,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 14225
+Installed-Size: 14224
 Filename: kamailio5-mod-tcpops_5.3.3-3_mips64_octeon3.ipk
-Size: 14959
-SHA256sum: 5152814ad074c02f18bf29874492cefc5d4fcf001a72254210648d1f1198b223
+Size: 14953
+SHA256sum: 35ca64b8304e2cd3bc087d152be72050392aee393957a83c4e1a30bf0ec554eb
 Description:  TCP options tweaking operations for Kamailio5
 
 Package: kamailio5-mod-textops
@@ -3340,10 +3340,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 61125
+Installed-Size: 61124
 Filename: kamailio5-mod-textops_5.3.3-3_mips64_octeon3.ipk
-Size: 61783
-SHA256sum: cdd3beff64a93ce26f264bac1d8e7e04f62a88845b2ef89d70854fe263daca3d
+Size: 61786
+SHA256sum: 0beaad37413946aaeae7e2cfd59997ab895dda4b1e44846534f4cc15ceb8512e
 Description:  Text operations for Kamailio5
 
 Package: kamailio5-mod-textopsx
@@ -3356,10 +3356,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 20742
+Installed-Size: 20743
 Filename: kamailio5-mod-textopsx_5.3.3-3_mips64_octeon3.ipk
-Size: 21497
-SHA256sum: e64e15203fb6615bb3fd22fc8d8fc82d75ebd240e31a38649cdab38ea92ec8a8
+Size: 21484
+SHA256sum: b761d2704aac665bf5c83cb11d6907b39e6027e48f71b7de3a6be275a34585fb
 Description:  Extra text operations for Kamailio5
 
 Package: kamailio5-mod-timer
@@ -3372,10 +3372,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 8253
+Installed-Size: 8252
 Filename: kamailio5-mod-timer_5.3.3-3_mips64_octeon3.ipk
-Size: 9052
-SHA256sum: 2090e23a4b022660d7d053fe7a9ec3bc24f5e7298620d00a49f342edbe5b14e4
+Size: 9046
+SHA256sum: d5711e7c57bb9f8c9aaa54e606bb8df76d8018f99e967b1206973bae23fac499
 Description:  Execute routing blocks on core timers for Kamailio5
 
 Package: kamailio5-mod-tls
@@ -3388,10 +3388,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 112628
+Installed-Size: 112626
 Filename: kamailio5-mod-tls_5.3.3-3_mips64_octeon3.ipk
-Size: 111979
-SHA256sum: ef1aa0ec512175a71ac8b453fc790514037bf0552343fbbcf827a80fc793fe45
+Size: 112010
+SHA256sum: 6cc389b9c925e67011e06f365da567f086de4c1957f16a8866e1a24fd05c7929
 Description:  TLS operations for Kamailio5
 
 Package: kamailio5-mod-tm
@@ -3404,10 +3404,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 242321
+Installed-Size: 242306
 Filename: kamailio5-mod-tm_5.3.3-3_mips64_octeon3.ipk
-Size: 242730
-SHA256sum: 051c2fc6819cbce4cdca30cf22870db19bd855dfe08b359bd2b38474610e131c
+Size: 242698
+SHA256sum: e48be4a0e3c68b83556d24fa7fbc3c8e548b5070a32e3dc3a67faa0d77d0cd0e
 Description:  Transaction for Kamailio5
 
 Package: kamailio5-mod-tmrec
@@ -3420,10 +3420,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 6198
+Installed-Size: 6197
 Filename: kamailio5-mod-tmrec_5.3.3-3_mips64_octeon3.ipk
-Size: 6994
-SHA256sum: b4061169709e2eec66ac5d1505cd2ea5a6582468ec585a9a9445bdbba59664d6
+Size: 6989
+SHA256sum: f23900a322bbf9fad467e5ca76afbf95d4cd5e6c066292c835c580b6b4459b84
 Description:  Match time recurrences for Kamailio5
 
 Package: kamailio5-mod-tmx
@@ -3436,10 +3436,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 23729
+Installed-Size: 23725
 Filename: kamailio5-mod-tmx_5.3.3-3_mips64_octeon3.ipk
-Size: 24427
-SHA256sum: 223759fd86c0c22bef3a8cc63ca173f4aec0d8eeb78fdf554755153a9fde2f5e
+Size: 24418
+SHA256sum: 0f04f1b964e8890991ffe542a423229db91b991589016963c14bbafe18400e91
 Description:  Transaction module extensions for Kamailio5
 
 Package: kamailio5-mod-topoh
@@ -3452,10 +3452,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 30502
+Installed-Size: 30499
 Filename: kamailio5-mod-topoh_5.3.3-3_mips64_octeon3.ipk
-Size: 31238
-SHA256sum: 5716876d2fc13ee3315aaf5b6fa93ba798e9ce59de4fe91be695581589ca7d71
+Size: 31236
+SHA256sum: c803b81dba4384f65e4bf84416774afb48b90c65e8447b986aa33596d74f3beb
 Description:  Topology hiding for Kamailio5
 
 Package: kamailio5-mod-topos-redis
@@ -3470,8 +3470,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 25481
 Filename: kamailio5-mod-topos-redis_5.3.3-3_mips64_octeon3.ipk
-Size: 26180
-SHA256sum: e5f40b496cb0e43f646c28ecb5e03d664f176c7667384801a7b6d4818f2ee98d
+Size: 26175
+SHA256sum: 0ebef26bef07f243ff0d24aca4dfe746d14d376f0a02210a9ceb6eee4882e01c
 Description:  Redis backend for topos module for Kamailio5
 
 Package: kamailio5-mod-topos
@@ -3484,10 +3484,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 38109
+Installed-Size: 38107
 Filename: kamailio5-mod-topos_5.3.3-3_mips64_octeon3.ipk
-Size: 38847
-SHA256sum: 040aaca90409272a0ea44f1edcc002299344cc03c0f1836c77572b0c1405ca01
+Size: 38828
+SHA256sum: b4b142c403c614994c702563ac21bf36d5af2e3ab4574a063aa5b862d2f8372c
 Description:  Topology stripping module for Kamailio5
 
 Package: kamailio5-mod-tsilo
@@ -3500,10 +3500,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 18569
+Installed-Size: 18567
 Filename: kamailio5-mod-tsilo_5.3.3-3_mips64_octeon3.ipk
-Size: 19312
-SHA256sum: cc94504eb4842c4e6a3970bfd907583115f3ad54bee73513d3d27d427a2ac4c2
+Size: 19305
+SHA256sum: a88f9a48a473e7efb7ecb09ae85f7cf45dd1a7615703332655ba82608fcdba89
 Description:  Transaction storage for Kamailio5
 
 Package: kamailio5-mod-uac-redirect
@@ -3516,10 +3516,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 12174
+Installed-Size: 12170
 Filename: kamailio5-mod-uac-redirect_5.3.3-3_mips64_octeon3.ipk
-Size: 12971
-SHA256sum: bf07819eb2bbbf529717e08962a468d58550d2a307449bebb061f57052f02428
+Size: 12964
+SHA256sum: d0ac33b153d0e028d65424778e0ae04a5c23ed01397b181506a735a0842334d7
 Description:  User Agent Client redirection for Kamailio5
 
 Package: kamailio5-mod-uac
@@ -3532,10 +3532,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 75266
+Installed-Size: 75263
 Filename: kamailio5-mod-uac_5.3.3-3_mips64_octeon3.ipk
-Size: 76042
-SHA256sum: 8ad1c642b77d71e09d770c46b7e74888aff37164a3d375a442926a3a5b3e84e0
+Size: 76007
+SHA256sum: 571914e4a440c2b8c7cf7766a4d1d1d0a0f446aa84c9f1fc3681d4c9ada43de6
 Description:  User Agent Client for Kamailio5
 
 Package: kamailio5-mod-uid-auth-db
@@ -3548,10 +3548,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 12283
+Installed-Size: 12282
 Filename: kamailio5-mod-uid-auth-db_5.3.3-3_mips64_octeon3.ipk
-Size: 13053
-SHA256sum: 37a07f83744331a1397f5956bab332cf5edcf8d800b5bcfd20d47755416549d0
+Size: 13065
+SHA256sum: 09784ad3f4f08921bf8659db4ffbf9757700f90b64e028362e8ba79de5d8eb40
 Description:  Authentication module for Kamailio5
 
 Package: kamailio5-mod-uid-avp-db
@@ -3564,10 +3564,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 13328
+Installed-Size: 13327
 Filename: kamailio5-mod-uid-avp-db_5.3.3-3_mips64_octeon3.ipk
-Size: 14072
-SHA256sum: 71aea60eb54dc04395de747d8f670dca9d800b11db0787afebadd08bba944b10
+Size: 14070
+SHA256sum: 2f985853463bb4465aecee4e45d35200830c0b27ede753cbdf2c22e1844e2a66
 Description:  AVP database operations for Kamailio5
 
 Package: kamailio5-mod-uid-domain
@@ -3580,10 +3580,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 13841
+Installed-Size: 13840
 Filename: kamailio5-mod-uid-domain_5.3.3-3_mips64_octeon3.ipk
-Size: 14551
-SHA256sum: c44bdcbbfdd9fe4e20d74b477de9b775460eadde5c0a79ba8b6c3e0ee5f93d61
+Size: 14557
+SHA256sum: 6b5e92b13f7a2f458d4cec49d0e4e3f129b32d43f2189a15b148a36c7fd9ba19
 Description:  Domains management for Kamailio5
 
 Package: kamailio5-mod-uid-gflags
@@ -3596,10 +3596,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 7400
+Installed-Size: 7397
 Filename: kamailio5-mod-uid-gflags_5.3.3-3_mips64_octeon3.ipk
-Size: 8196
-SHA256sum: 74bd58c50e2d291651a02fc56a06e7da0c649c1df4adb23d95475020739f5a97
+Size: 8190
+SHA256sum: e4b2a34d795f9692ae70671c3ce03b2fe9384724c8d90636b0537817a04990e6
 Description:  Global attributes and flags for Kamailio5
 
 Package: kamailio5-mod-uid-uri-db
@@ -3612,10 +3612,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 7784
+Installed-Size: 7781
 Filename: kamailio5-mod-uid-uri-db_5.3.3-3_mips64_octeon3.ipk
-Size: 8583
-SHA256sum: 492b7e426d8199768b3a75aca738261738a810d324f469741c8ab2ef50f1c09b
+Size: 8582
+SHA256sum: f39a39e14fa7bb34ecce040ea66f294f4b9516deab1a6a1b081ac8825077f58f
 Description:  Database URI operations for Kamailio5
 
 Package: kamailio5-mod-uri-db
@@ -3628,10 +3628,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 9281
+Installed-Size: 9280
 Filename: kamailio5-mod-uri-db_5.3.3-3_mips64_octeon3.ipk
-Size: 10060
-SHA256sum: 97bd3261e966560afd078a90120668790fdfac35eb52cf649ae83bf2f9ab33eb
+Size: 10056
+SHA256sum: 37b77c819cc2a79ecef854888a16d5304e4cd1501fdfa919cb49d40784196a84
 Description:  Database-backend SIP URI checking for Kamailio5
 
 Package: kamailio5-mod-userblacklist
@@ -3644,10 +3644,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 14236
+Installed-Size: 14234
 Filename: kamailio5-mod-userblacklist_5.3.3-3_mips64_octeon3.ipk
 Size: 14984
-SHA256sum: ccf91b50658bba4976f6552e57225df4a48e72d9c8d3a56add43b00b90fbcb76
+SHA256sum: a726c982b73edf02b201506d3d31882f915092925ee74eee0885cceb365dba95
 Description:  User blacklists for Kamailio5
 
 Package: kamailio5-mod-usrloc
@@ -3660,10 +3660,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 65186
+Installed-Size: 65185
 Filename: kamailio5-mod-usrloc_5.3.3-3_mips64_octeon3.ipk
-Size: 65914
-SHA256sum: 593a9983d8ca3fb012b50b0b02b7af96b3c3376c59acd9b255fb1382e3741be3
+Size: 65894
+SHA256sum: 3fcd5eea9d6f9f43e0cf71cc48fda8a5e333bf026df9562fb37c44ad2413cf03
 Description:  User location for Kamailio5
 
 Package: kamailio5-mod-utils
@@ -3676,10 +3676,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 21900
+Installed-Size: 21899
 Filename: kamailio5-mod-utils_5.3.3-3_mips64_octeon3.ipk
-Size: 22644
-SHA256sum: f73b71a3b5b0d9dbfc16fd7e4956dec3aa70d42937d1c947799beaafdf297b80
+Size: 22653
+SHA256sum: 169dcb40f78ddc1132b6c0a9671fe61350ea08808a4ad4be6784849029314996
 Description:  Misc utilities for Kamailio5
 
 Package: kamailio5-mod-uuid
@@ -3692,10 +3692,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 2796
+Installed-Size: 2794
 Filename: kamailio5-mod-uuid_5.3.3-3_mips64_octeon3.ipk
-Size: 3556
-SHA256sum: 058dad88f58677460e93aabe704fcc35f34efc77aad57738cf0a979eee2b5172
+Size: 3554
+SHA256sum: 9fd3c425982e3d22910d64e9cb3c415b2253a5773b9812b7eb562448340c51cc
 Description:  UUID utilities for Kamailio5
 
 Package: kamailio5-mod-websocket
@@ -3708,10 +3708,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 37543
+Installed-Size: 37545
 Filename: kamailio5-mod-websocket_5.3.3-3_mips64_octeon3.ipk
-Size: 38378
-SHA256sum: 0bfc9e16ce3593186824527769e342e3ff0ad53c267296f69e9682a546d9e796
+Size: 38401
+SHA256sum: 7430609c27ed9b13b370897d00cc38368973dcb32b31ce466bc91224df32f2fe
 Description:  WebSocket transport layer for Kamailio5
 
 Package: kamailio5-mod-xcap-client
@@ -3726,8 +3726,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 14164
 Filename: kamailio5-mod-xcap-client_5.3.3-3_mips64_octeon3.ipk
-Size: 14919
-SHA256sum: 1a741be41abd7e071050e16bc980a9343e8d01652920021bbb1d5907e9bceab0
+Size: 14923
+SHA256sum: f227bf60884581bd0d8fd97aec37c3d74fdb283efbc4720081ea567c16f7aa25
 Description:  XCAP Client for Kamailio5
 
 Package: kamailio5-mod-xcap-server
@@ -3742,8 +3742,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 31314
 Filename: kamailio5-mod-xcap-server_5.3.3-3_mips64_octeon3.ipk
-Size: 32040
-SHA256sum: 8f4c517cdb27eaa1607594ee75e2c4bd091608955e937b0da2a7633418127dee
+Size: 32045
+SHA256sum: fb72f3cd4c2872f69057afb0dde38ec7e06cedf2ec7e813a7ce12360af7f2d40
 Description:  XCAP server implementation for Kamailio5
 
 Package: kamailio5-mod-xhttp-pi
@@ -3756,10 +3756,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 83110
+Installed-Size: 83097
 Filename: kamailio5-mod-xhttp-pi_5.3.3-3_mips64_octeon3.ipk
-Size: 83877
-SHA256sum: bc76d378d33c7a5f6e796a1dd993ac644d65c743ac5f3dacfde8d6986711cf4f
+Size: 83854
+SHA256sum: f9c8dbf5791901043a45908c574f8352a5bb959c0aeefb85b104c21192172561
 Description:  HTTP provisioning interface for Kamailio5
 
 Package: kamailio5-mod-xhttp-prom
@@ -3772,10 +3772,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 47014
+Installed-Size: 47016
 Filename: kamailio5-mod-xhttp-prom_5.3.3-3_mips64_octeon3.ipk
-Size: 47706
-SHA256sum: 9ce5df2edeb008e2a90697b330068292c4793d8dd2fe348811e52dff1858b4f0
+Size: 47718
+SHA256sum: c9fea9986208aca2ba450b780bb5bbc6144a9909ec81700205c6073f43522e31
 Description:  Prometheus metrics for Kamailio5
 
 Package: kamailio5-mod-xhttp-rpc
@@ -3788,10 +3788,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 20298
+Installed-Size: 20296
 Filename: kamailio5-mod-xhttp-rpc_5.3.3-3_mips64_octeon3.ipk
-Size: 21063
-SHA256sum: 9cc7a392465f0cf5cbf3ee315dddade2b8a01e9da5d5637d20e6fc6320bdfc0b
+Size: 21062
+SHA256sum: a83d69bb97124745cc3cdf4890bbacb7b7b5efb40813971b61282ed90759cdff
 Description:  RPC commands handling over HTTP for Kamailio5
 
 Package: kamailio5-mod-xhttp
@@ -3804,10 +3804,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 13705
+Installed-Size: 13706
 Filename: kamailio5-mod-xhttp_5.3.3-3_mips64_octeon3.ipk
-Size: 14469
-SHA256sum: 62fea73e24227abdf2d726836c0d9641696daffe31d8ae7320a29b69b82af2b9
+Size: 14468
+SHA256sum: 79ab90d37f4a73ef006940bb78f0ff7113f37674af61ab1b8f6f4294d73c1ffe
 Description:  Basic HTTP request handling server for Kamailio5
 
 Package: kamailio5-mod-xlog
@@ -3820,10 +3820,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 11308
+Installed-Size: 11306
 Filename: kamailio5-mod-xlog_5.3.3-3_mips64_octeon3.ipk
-Size: 12047
-SHA256sum: 965410c60625f53bb0037d88661369a9aae25c4dd39aed4e4c03cb3920094138
+Size: 12037
+SHA256sum: 591d59a5e799a93216c2c93e986f7291195a20182e0235445a272319e7f4f09a
 Description:  Advanced logger for Kamailio5
 
 Package: kamailio5-mod-xmlops
@@ -3839,7 +3839,7 @@ Architecture: mips64_octeon3
 Installed-Size: 8056
 Filename: kamailio5-mod-xmlops_5.3.3-3_mips64_octeon3.ipk
 Size: 8839
-SHA256sum: 8c908850d7f744272bc9ef8801e8c3a9e6834afc80cc8acdbed73bd5b3e733c5
+SHA256sum: 86fa9d8531cce131efad62e0724bc293e20176102e4a276ea0166860b15db9cf
 Description:  XML operations for Kamailio5
 
 Package: kamailio5-mod-xmlrpc
@@ -3852,10 +3852,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 24677
+Installed-Size: 24674
 Filename: kamailio5-mod-xmlrpc_5.3.3-3_mips64_octeon3.ipk
-Size: 25398
-SHA256sum: 1747cc27ae1a50dd6548987910a88cf572909340969220db5b549b8506e5ea95
+Size: 25392
+SHA256sum: 03df46adc41fddf95d46c7767521885a3117986d77dbd5ee241807cc8ec0103f
 Description:  XML RPC module for Kamailio5
 
 Package: kamailio5-mod-xmpp
@@ -3868,10 +3868,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 37507
+Installed-Size: 37504
 Filename: kamailio5-mod-xmpp_5.3.3-3_mips64_octeon3.ipk
-Size: 38336
-SHA256sum: 8b656ab560871ee9da1860340467edfcb5de43129afb1ff4a0d579ddb441cf61
+Size: 38321
+SHA256sum: 78bb95438fee1ec01ba5e7e2798fcc9d532a756d5da9e447454cfd8f05de6b07
 Description:  SIP-to-XMPP Gateway for Kamailio5
 
 Package: kamailio5-mod-xprint
@@ -3886,8 +3886,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 23978
 Filename: kamailio5-mod-xprint_5.3.3-3_mips64_octeon3.ipk
-Size: 24721
-SHA256sum: d5eb4f056b5d0f2b68abe6e7b710fafc0215b9f64bee8910bfb07a75bff312d6
+Size: 24709
+SHA256sum: 6148ea7e28418a4566115e07a504e5b3f4f9e97b5b45f2eeeb2a8358b9d06b5d
 Description:  Print messages with specifiers for Kamailio5
 
 Package: kamailio5-util-kambdb-recover
@@ -3900,10 +3900,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 7391
+Installed-Size: 7390
 Filename: kamailio5-util-kambdb-recover_5.3.3-3_mips64_octeon3.ipk
 Size: 8190
-SHA256sum: d450c6a75fd730c1f8af2acbf6a253120de1dded9d92c501a2ab048dec4e5320
+SHA256sum: 4dd8e9c17fc2235d03607abcf1c755e809a80a43f316c52a0a2719e52c1ccad3
 Description:  Kamailio5 Berkeley DB recovery utility
 
 Package: kamailio5
@@ -3917,10 +3917,10 @@ Section: net
 Require-User: kamailio=380:kamailio=380
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 1097177
+Installed-Size: 1097170
 Filename: kamailio5_5.3.3-3_mips64_octeon3.ipk
-Size: 1095905
-SHA256sum: 0e5e3f78d0165a4da2eeabc27ba2298ba31ffd556c2aa65fd5e9e3fb884e68f3
+Size: 1095848
+SHA256sum: 2bd8d97ed965e2950eb54664e396f69d178112e0feab55cb02f366ab81efe151
 Description:  Mature and flexible open source SIP server, v5.3.3
 
 Package: libctb
@@ -3933,10 +3933,10 @@ LicenseFiles: build/COPYING
 Section: libs
 Maintainer: Sebastian Kemper <sebastian_ml@gmx.net>
 Architecture: mips64_octeon3
-Installed-Size: 9866
+Installed-Size: 9865
 Filename: libctb_0.16-2_mips64_octeon3.ipk
-Size: 10628
-SHA256sum: 192787e930b9bec9724d3e66f492881fe16f91d94825f2166739486d2300bbf0
+Size: 10621
+SHA256sum: 9f24e544c1c4dec10bad206f7bfdf7dc487b66cfa188ba4b4332f86b05839c41
 Description:  Multiplatform library for different interfaces.
 
 Package: libiksemel
@@ -3949,10 +3949,10 @@ LicenseFiles: COPYING
 Section: libs
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 20607
+Installed-Size: 20604
 Filename: libiksemel_1.4-2_mips64_octeon3.ipk
-Size: 21460
-SHA256sum: 2fc6e9c633f917279c9a6038451a8d83b6a7f719064f80dc285bb1db29a33f4f
+Size: 21456
+SHA256sum: 9174d6b14688af0eccead6e1b2d46381596f27d29f9ea8f796c63625c86a9d37
 Description:  Iksemel is an XML parser library mainly designed for Jabber applications.
  It provides SAX, DOM, and special Jabber stream APIs. Library is coded
  in ANSI C except the network code (which is POSIX compatible), thus
@@ -3969,10 +3969,10 @@ LicenseFiles: copyright
 Section: libs
 Maintainer: Sebastian Kemper <sebastian_ml@gmx.net>
 Architecture: mips64_octeon3
-Installed-Size: 87152
+Installed-Size: 87153
 Filename: libks1_1.6.0-1_mips64_octeon3.ipk
-Size: 87843
-SHA256sum: 55a9f2e5b84eaf8ab7aefe8d4a83af9897a66750802e2a92b963f19cfbd42af6
+Size: 87853
+SHA256sum: 831019bfbfd1910b1fda49398ef84cd5ec2757e860ad9805d6d2e985fcdcd7a8
 Description:  Foundational support for SignalWire C products
 
 Package: libosip2-12
@@ -3987,8 +3987,8 @@ Section: libs
 Architecture: mips64_octeon3
 Installed-Size: 65116
 Filename: libosip2-12_5.1.0-1_mips64_octeon3.ipk
-Size: 65695
-SHA256sum: 9e814750867b1d8bcb0a95f9a16673be0daad33b4d0eba2d128c70b8ea0452f8
+Size: 65698
+SHA256sum: 531e6e7b2f692db90ec2389b20ff3200e08c1e779709277e6a68d7012de89d66
 Description:  GNU oSIP library, a Session Initiation Protocol (SIP) implementation.
 
 Package: libpj
@@ -4001,10 +4001,10 @@ LicenseFiles: COPYING
 Section: lib
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 65128
+Installed-Size: 65127
 Filename: libpj_2.9-4_mips64_octeon3.ipk
-Size: 65809
-SHA256sum: 4dc47722493e3ca007f189b747ba5e2ae44e68a7938739e60a1109f447c6c944
+Size: 65798
+SHA256sum: 46c6f181013ee636ab97f7c278be5939d8e2fcf3acbf4271c4bc1ad2f72b5d2a
 Description:  libpj library
 
 Package: libpjlib-util
@@ -4017,10 +4017,10 @@ LicenseFiles: COPYING
 Section: lib
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 65236
+Installed-Size: 65232
 Filename: libpjlib-util_2.9-4_mips64_octeon3.ipk
-Size: 65891
-SHA256sum: f52974ffb8775f3bc233fdd8ecc0ba6070b209957633955c0b7eb80a487daf73
+Size: 65911
+SHA256sum: 81ac52e66d47ae319c2e327a276b49df729828caa8e03a7b379253e28f364baf
 Description:  libpjlib-util library
 
 Package: libpjnath
@@ -4033,10 +4033,10 @@ LicenseFiles: COPYING
 Section: lib
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 62384
+Installed-Size: 62385
 Filename: libpjnath_2.9-4_mips64_octeon3.ipk
-Size: 63087
-SHA256sum: 21c044767694c055efe160cd04caaff8b4e89251b51b225440227ddba0343bc0
+Size: 63090
+SHA256sum: 1e71120ceba756b4a2c47c5d1bad952e66aefb8fb8d278837eb7fa482588fd17
 Description:  libpjnath library
 
 Package: libre
@@ -4049,10 +4049,10 @@ LicenseFiles: docs/COPYING
 Section: libs
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 171177
+Installed-Size: 171174
 Filename: libre_0.6.1-1_mips64_octeon3.ipk
-Size: 171812
-SHA256sum: 667d65e688ac936770bc464f690b3645b9c65cc00059748468f60017d9af6593
+Size: 171819
+SHA256sum: 895a27e2e66c203a1eea726b2237891deb3863bd4cdebe2e864a9389fac3e4f9
 Description:  Generic library for real-time communications with async IO support
 
 Package: librem
@@ -4065,10 +4065,10 @@ LicenseFiles: docs/COPYING
 Section: libs
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 26640
+Installed-Size: 26638
 Filename: librem_0.6.0-2_mips64_octeon3.ipk
-Size: 27402
-SHA256sum: e529185257652c1dad249455553d527f9d36e2acd49a6c34afbbf84fbe2a02af
+Size: 27401
+SHA256sum: 3a03f8aa0d47a0f83b71612c82464c3bb08c459fb847bea999ea69bbece2ebe3
 Description:  Audio and video processing media library
 
 Package: libspandsp
@@ -4081,10 +4081,10 @@ LicenseFiles: COPYING
 Section: libs
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 289658
+Installed-Size: 289659
 Filename: libspandsp_0.0.6-4_mips64_octeon3.ipk
-Size: 288589
-SHA256sum: 0056b1b54e60bfb7fcb0c90ba139a5aee6f7e27ddc00bd8ef83ac8ec71befcec
+Size: 288594
+SHA256sum: 4c9b9a80b769059a669240af21cc79b93b3fa22170050bb6f6b416c6338e3aa4
 Description:  spandsp library
 
 Package: libsrtp
@@ -4097,10 +4097,10 @@ LicenseFiles: LICENSE
 Section: libs
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 39627
+Installed-Size: 39626
 Filename: libsrtp_1.6.0-2_mips64_octeon3.ipk
-Size: 39845
-SHA256sum: 1735b4fa5fbcbbc35f1af62a0e371aec19b5fd742589d7174a611d9ac0db05d0
+Size: 39827
+SHA256sum: 36ac9bacb05e1a1b39cb0045ba011d62ff999508d644829282463462752c6905
 Description:  Open-source implementation of the Secure Real-time Transport
  Protocol (SRTP) originally authored by Cisco Systems, Inc.
  It is available under a BSD-style license.
@@ -4116,8 +4116,8 @@ Section: net
 Architecture: mips64_octeon3
 Installed-Size: 39446
 Filename: miax_1.4-2_mips64_octeon3.ipk
-Size: 40264
-SHA256sum: b512346127d94edce18388f91adf211a6d0bedbeae9ce9beba84b2528a4c59f2
+Size: 40272
+SHA256sum: 2e50916325d0caeb469cda1fb8b467391469a7dbc920b45cc7f76d8f9a83501d
 Description:  miax is a console iax (asterisk) client, it can work with 
  a soundcard as a normal voip phone, taking input/output from 
  keyboard or analog/gsm/isdn modem.
@@ -4133,8 +4133,8 @@ Section: net
 Architecture: mips64_octeon3
 Installed-Size: 22833
 Filename: pcapsipdump_2019-10-07-151-2_mips64_octeon3.ipk
-Size: 23589
-SHA256sum: dc0217e3d6911932ef522d153219e220e0d3a4a09e7da6d49c9cad83db1f0bc4
+Size: 23590
+SHA256sum: 31bb45ad25fdda6f8badd80ab58eb1cc3f051e988790c14e71fe0bb7dcabc7c8
 Description:  pcapsipdump is a tool for dumping SIP sessions (+RTP traffic, if available) to disk in a
  fashion similar to "tcpdump -w" (format is exactly the same), but one file per sip session
  (even if there is thousands of concurrect SIP sessions).
@@ -4151,8 +4151,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 2622
 Filename: restund-mod-mysql_0.4.12-7_mips64_octeon3.ipk
-Size: 3386
-SHA256sum: b4c940d30f86d7b3cf70d8e5b88ebb532ebd722a13b8a4240487e515f5a4c117
+Size: 3387
+SHA256sum: f49fd0dad76512612ec1e583ebe517f7c07891b864aaa3ce526cb5a49f86e354
 Description:  restund MySQL database backend module
 
 Package: restund
@@ -4166,10 +4166,10 @@ Section: net
 Require-User: restund=373:restund=373
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 29335
+Installed-Size: 29332
 Filename: restund_0.4.12-7_mips64_octeon3.ipk
-Size: 30180
-SHA256sum: 540c06fcf55b8016072d3ce6a2e33b74de616eebf567d55d702bbec3ddfaa9dd
+Size: 30169
+SHA256sum: 9b8b8f5248efe48b7f3496dcf9690b51397d684fa5c19b5706b48f306a5be6e3
 Description:  Modular STUN/TURN server
 
 Package: rtpengine-no-transcode
@@ -4184,10 +4184,10 @@ Section: net
 Require-User: rtpengine=378:rtpengine=378
 Maintainer: Sebastian Kemper <sebastian_ml@gmx.net>
 Architecture: mips64_octeon3
-Installed-Size: 187902
+Installed-Size: 187898
 Filename: rtpengine-no-transcode_mr8.3.1.4-3_mips64_octeon3.ipk
-Size: 188123
-SHA256sum: 4cae169353a87fff5759b8318f140f3d9a08c97d5c258e3a0e0075317a737324
+Size: 188146
+SHA256sum: 9dc522c72cb1163c6c02fe945824c102c153cd93b6994f2aba0ca5b1ce5633b1
 Description:  The Sipwise NGCP rtpengine is a proxy for RTP traffic and other UDP
  based media traffic. It's meant to be used with the Kamailio SIP proxy
  and forms a drop-in replacement for any of the other available RTP and
@@ -4209,10 +4209,10 @@ Section: net
 Require-User: rtpengine=378:rtpengine=378
 Maintainer: Sebastian Kemper <sebastian_ml@gmx.net>
 Architecture: mips64_octeon3
-Installed-Size: 51107
+Installed-Size: 51106
 Filename: rtpengine-recording_mr8.3.1.4-3_mips64_octeon3.ipk
-Size: 51854
-SHA256sum: dc32e18225d037b110a2d1e9d2789af94a1daa88c0cc9b34c6396c13e3d5bde8
+Size: 51876
+SHA256sum: 30b5ad1900b1a4eba7ca68cc48a7509e952a8377176f876f5108bd124149e4d5
 Description:  Sipwise RTP Recording Daemon
 
 Package: rtpengine
@@ -4226,10 +4226,10 @@ Section: net
 Require-User: rtpengine=378:rtpengine=378
 Maintainer: Sebastian Kemper <sebastian_ml@gmx.net>
 Architecture: mips64_octeon3
-Installed-Size: 215600
+Installed-Size: 215601
 Filename: rtpengine_mr8.3.1.4-3_mips64_octeon3.ipk
-Size: 215406
-SHA256sum: 1cf0ebfed2cdb968fe42cf27bf072192e179690405bd2890e97eb5b79d296f04
+Size: 215403
+SHA256sum: 8e4b9906a86226583ead7b3b558765f25c0a41a1739c6aaa78326336affcf25d
 Description:  The Sipwise NGCP rtpengine is a proxy for RTP traffic and other UDP
  based media traffic. It's meant to be used with the Kamailio SIP proxy
  and forms a drop-in replacement for any of the other available RTP and
@@ -4248,10 +4248,10 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 3660
+Installed-Size: 3657
 Filename: rtpproxy-mod-acct-csv_2019-10-02-aa1f179e-2_mips64_octeon3.ipk
-Size: 4416
-SHA256sum: 7b787799ce3701cbd2fd37e7cb748143112692774305378732161a90f27d1940
+Size: 4399
+SHA256sum: 1920876f71c90b47dd005efd7de20cf57eb0156cac9c75467d1b133201760312
 Description:  RTPproxy CSV accounting module
 
 Package: rtpproxy-mod-acct-rtcp-hep
@@ -4264,10 +4264,10 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 7020
+Installed-Size: 7015
 Filename: rtpproxy-mod-acct-rtcp-hep_2019-10-02-aa1f179e-2_mips64_octeon3.ipk
-Size: 7815
-SHA256sum: 189ade74b5fe5f08a7af2b8b60947448f4bb01f32ddfc5e63afa96c911a438d3
+Size: 7808
+SHA256sum: 26f9b274c65371d9657b7939fe698fab8cb0540215562da435aa54093d330a2d
 Description:  RTPproxy RTCP HEP accounting module
 
 Package: rtpproxy
@@ -4280,10 +4280,10 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 113880
+Installed-Size: 113878
 Filename: rtpproxy_2019-10-02-aa1f179e-2_mips64_octeon3.ipk
-Size: 114551
-SHA256sum: 604e668bab122c6384e8e727b7a84aadc52bd396cf7491010096231802c7c518
+Size: 114556
+SHA256sum: d60f3773ba9dd248896ac06242bc63ba50cbe793c9a8845437200b193c379292
 Description:  RTP (Realtime Transport Protocol) proxy
 
 Package: signalwire-client-c1
@@ -4297,10 +4297,10 @@ LicenseFiles: copyright
 Section: libs
 Maintainer: Sebastian Kemper <sebastian_ml@gmx.net>
 Architecture: mips64_octeon3
-Installed-Size: 50880
+Installed-Size: 50879
 Filename: signalwire-client-c1_1.3.0-1_mips64_octeon3.ipk
 Size: 51514
-SHA256sum: d9dbb27f96387e8842e47658da7fc751d31e0d7394d9e9d11d79868df44169ff
+SHA256sum: 078556a98972d5bee3666d02dee8d9b6101153b911a71b276f0c49b69c7f920d
 Description:  SignalWire C client library
 
 Package: sipgrep
@@ -4315,8 +4315,8 @@ Maintainer: Sebastian Kemper <sebastian_ml@gmx.net>
 Architecture: mips64_octeon3
 Installed-Size: 26505
 Filename: sipgrep_2019-06-27-1cc00079-1_mips64_octeon3.ipk
-Size: 27277
-SHA256sum: cf03cb3247e672214ea2d16372e6a2355e8c9d2c380653285ca2f1a34232c74f
+Size: 27279
+SHA256sum: 655cc98f78ce2d1e1663e55a784ac36afac165812b19cf7db8e2991b8a6f7392
 Description:  Powerful pcap-aware command line tool to sniff, capture, display and
  troubleshoot SIP signaling over IP networks, allowing the user to
  specify extended regular expressions matching against SIP headers.
@@ -4330,10 +4330,10 @@ License: GPL-2.0+ BSD-3-Clause Zlib
 LicenseFiles: LICENSE.txt
 Section: net
 Architecture: mips64_octeon3
-Installed-Size: 181101
+Installed-Size: 181100
 Filename: sipp_3.6.0-1_mips64_octeon3.ipk
-Size: 181424
-SHA256sum: 59e1716b614c82d3d1cb39c58600543eb7c6a3057dd8e6092886bbb192335bb0
+Size: 181447
+SHA256sum: 61db2482d562b52b507a623bb07c12b6fb243bab42d1b409e9fa49d75ad7b3a1
 Description:  SIPp is a free Open Source test tool / traffic generator for the SIP
  protocol. It includes a few basic SipStone user agent scenarios (UAC and
  UAS) and establishes and releases multiple calls with the INVITE and BYE
@@ -4351,8 +4351,8 @@ Maintainer: Sebastian Kemper <sebastian_ml@gmx.net>
 Architecture: mips64_octeon3
 Installed-Size: 80490
 Filename: sngrep_2019-12-02-564ad926-1_mips64_octeon3.ipk
-Size: 81011
-SHA256sum: 8135ec5f0bd7036a484665016da4b8f272cef3c766714c8c453a20cc387f106b
+Size: 80968
+SHA256sum: 56d271e2d532b937112d1aec3861fef179c898555d9300076f9c27225040fd8c
 Description:  sngrep is a tool for displaying SIP calls message flows from terminal.
  
  It supports live capture to display realtime SIP packets and can also be
@@ -4368,10 +4368,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 7822
+Installed-Size: 7821
 Filename: yate-mod-accfile_6.1.0-1-2_mips64_octeon3.ipk
-Size: 8661
-SHA256sum: 8fdd2f5060b084e38b4e044acea3f62fd80f7aa92bfb4998a7961ddf2a57848f
+Size: 8662
+SHA256sum: 846a60831037201e561e8870c71e3a30b7701b35ca96144bf738f447f6819685
 Description:  SIP or H.323 client (from file) module for yate
 
 Package: yate-mod-alsachan
@@ -4384,10 +4384,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 11907
+Installed-Size: 11906
 Filename: yate-mod-alsachan_6.1.0-1-2_mips64_octeon3.ipk
-Size: 12622
-SHA256sum: a5291f585e528c5e570bc6ba6d8a8123389ab227ce175721740655dac5cd695b
+Size: 12623
+SHA256sum: 78fd3e630a551820436e84f5e8dd565ce20515ee4b270c9b8c0ef7a1aa86578d
 Description:  ALSA Sound Channel module for yate
 
 Package: yate-mod-analog
@@ -4400,10 +4400,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 31797
+Installed-Size: 31795
 Filename: yate-mod-analog_6.1.0-1-2_mips64_octeon3.ipk
-Size: 32603
-SHA256sum: fee8671e817f1847ba42cee4addfc00d9d76a8cd1620cf54db93d85702f16087
+Size: 32597
+SHA256sum: f2edb9427f0bae5ee653f765eb96b6d294a31ee51a3f1c72bdfe507e0bb8f6ee
 Description:  Analog (e.g. POTS) Channel module for yate
 
 Package: yate-mod-analogdetect
@@ -4416,10 +4416,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 18481
+Installed-Size: 18479
 Filename: yate-mod-analogdetect_6.1.0-1-2_mips64_octeon3.ipk
-Size: 19231
-SHA256sum: 1e8609f54de3855b6de647ea8ce64cfd0cfb867f85a37e50379ea7c961f61c21
+Size: 19232
+SHA256sum: 2dc4e6f56d8a99df56a388af73632a57de9dfc9ecda58c29db5b31f3be8f4726
 Description:  Analog Data Detector module for yate
 
 Package: yate-mod-analyzer
@@ -4432,10 +4432,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 12416
+Installed-Size: 12414
 Filename: yate-mod-analyzer_6.1.0-1-2_mips64_octeon3.ipk
-Size: 13175
-SHA256sum: 1d42d32901bc3b7b29d11b2c848fc4bc665bfd02ac01a6be312995b071b2650c
+Size: 13173
+SHA256sum: 50b3610c924dc486b3a8a6c2f2a471c92dc0adee863243270581c6a3ec022875
 Description:  Test Call Generator and AQ Analyzer module for yate
 
 Package: yate-mod-cache
@@ -4450,8 +4450,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 21406
 Filename: yate-mod-cache_6.1.0-1-2_mips64_octeon3.ipk
-Size: 22192
-SHA256sum: cd3f350c79b760f654df847b3b0fc844febc3a9d5fb4223d815c3b6ae18e1876
+Size: 22190
+SHA256sum: 9cee332cf690507c250f05645e724f3abbc7897f7c3cff1bf2c92721322e2f32
 Description:  CNAM and LNP memory caches module for yate
 
 Package: yate-mod-callcounters
@@ -4464,10 +4464,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 6166
+Installed-Size: 6169
 Filename: yate-mod-callcounters_6.1.0-1-2_mips64_octeon3.ipk
-Size: 7009
-SHA256sum: 002e6992f2e2dc5a65d374d43a8c1eb2ebd978c47628468f7dfe4bb66e7e6580
+Size: 7016
+SHA256sum: 5ae9a1d05a8fc334a65b59aadcb7d833aed2aacf44be47a405d74070a173f891
 Description:  Count Active Call Legs module for yate
 
 Package: yate-mod-callfork
@@ -4480,10 +4480,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 13732
+Installed-Size: 13730
 Filename: yate-mod-callfork_6.1.0-1-2_mips64_octeon3.ipk
-Size: 14515
-SHA256sum: bb423fd7c98f45be7cbdcc1e0ce7aca76d3ba0ac8b73b14da3faf9e685f8d9b0
+Size: 14513
+SHA256sum: 4e3508d6e265be30e4ef1f27af9e8df70222129d1e583f148fe8fb7dd7b68f2f
 Description:  Call Forker module for yate
 
 Package: yate-mod-callgen
@@ -4496,10 +4496,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 12353
+Installed-Size: 12352
 Filename: yate-mod-callgen_6.1.0-1-2_mips64_octeon3.ipk
-Size: 13114
-SHA256sum: 21d21bf75a665c7d8b4021f6ca51ada9d336e3524ef368810fbfd068524e6e88
+Size: 13116
+SHA256sum: e39405f1fec28ac48338457860e5b0375028c18970917fbc8ad8f6912aeb8386
 Description:  Call Generator module for yate
 
 Package: yate-mod-camel-map
@@ -4514,8 +4514,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 102339
 Filename: yate-mod-camel-map_6.1.0-1-2_mips64_octeon3.ipk
-Size: 102145
-SHA256sum: d627c440b4db822ee86e6aeb0028ed922e925e03b2c67c1bea6142048a797b7c
+Size: 102144
+SHA256sum: bccf92c360f04fa5de12fa6a7ff75f3b486ae0f38df4677c44c73ee5c786ba8d
 Description:  MAP/CAMEL TCAP <-> XML translators module for yate
 
 Package: yate-mod-ccongestion
@@ -4530,8 +4530,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 5725
 Filename: yate-mod-ccongestion_6.1.0-1-2_mips64_octeon3.ipk
-Size: 6543
-SHA256sum: f3dbe1841ba94de2e91da0f7704cf4f4095a5156b8eb512ae5c777fd9aa73fe8
+Size: 6540
+SHA256sum: c82e6537016f1db7a1723dc552e8804db694d1d632486d23daea676ce40a2a61
 Description:  Accept Status from Installed Engine Monitors module for yate
 
 Package: yate-mod-cdrbuild
@@ -4544,10 +4544,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 14996
+Installed-Size: 14995
 Filename: yate-mod-cdrbuild_6.1.0-1-2_mips64_octeon3.ipk
-Size: 15762
-SHA256sum: c16343be6a36c03ead7a961b42c9dd806428f96bfc6d067d90b4f107258376fc
+Size: 15761
+SHA256sum: 1ee94de3df1e83a4d9772c0143eb80a4949ea10f39bc3d5cc5d6b113c75d9c22
 Description:  Call Detail Record Builder module for yate
 
 Package: yate-mod-cdrcombine
@@ -4560,10 +4560,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 6251
+Installed-Size: 6249
 Filename: yate-mod-cdrcombine_6.1.0-1-2_mips64_octeon3.ipk
-Size: 7065
-SHA256sum: cbf59616db05af2f54ea3912c21922e21f3045a692a97f09970e09e9c078f3ec
+Size: 7066
+SHA256sum: 9ab078d3d86b42b8736b0c5d0f568d2cd3b6e316748f3bf5c94f83dfc5704c4d
 Description:  Call Detail Records per call instead of per call leg module for yate
 
 Package: yate-mod-cdrfile
@@ -4576,10 +4576,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 5405
+Installed-Size: 5402
 Filename: yate-mod-cdrfile_6.1.0-1-2_mips64_octeon3.ipk
-Size: 6186
-SHA256sum: a5d39fb5555599402bba0f2322dac5fa98dd954edab9f315284fb5eed9648d6f
+Size: 6179
+SHA256sum: e6331b7e6dc76a08de5595abeedcd72f495be6284529f2e97a82af0a06ed9dd2
 Description:  Call Detail Record to File module for yate
 
 Package: yate-mod-ciscosm
@@ -4592,10 +4592,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 21557
+Installed-Size: 21555
 Filename: yate-mod-ciscosm_6.1.0-1-2_mips64_octeon3.ipk
-Size: 22206
-SHA256sum: 9b5adda96cd304e31e99fae67e7c577dc75bd4028f784bee01ff96cc7ba2446a
+Size: 22214
+SHA256sum: 622aeda3785abc877c7f064b43ecd7e0b8fe786ca108709b7897ec92ac398f45
 Description:  SS7 Support module for yate
 
 Package: yate-mod-clustering
@@ -4608,10 +4608,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 6870
+Installed-Size: 6868
 Filename: yate-mod-clustering_6.1.0-1-2_mips64_octeon3.ipk
-Size: 7707
-SHA256sum: 9c6001df145a97e62db059de9b24c670fb13a592b04470d5822b6c2965c2eb52
+Size: 7706
+SHA256sum: 356742d2d25b7c44312a85f95c19a83511fe6c3cccfc385b4a1211a59fa2f433
 Description:  Clustering Server Support module for yate
 
 Package: yate-mod-conference
@@ -4624,10 +4624,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 18056
+Installed-Size: 18054
 Filename: yate-mod-conference_6.1.0-1-2_mips64_octeon3.ipk
-Size: 18815
-SHA256sum: 4b62eb0bf223617bd27208ef2f54e081b96e2270a9fba7cd8594a5f4b1b3a6d9
+Size: 18814
+SHA256sum: a14ad67a6023fc72d293356cd3ce215b99422e3937f60db9fff7a0bfcb7a4ddb
 Description:  Conference Room Mixer module for yate
 
 Package: yate-mod-cpuload
@@ -4640,10 +4640,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 11817
+Installed-Size: 11819
 Filename: yate-mod-cpuload_6.1.0-1-2_mips64_octeon3.ipk
-Size: 12625
-SHA256sum: 7b35d2361516234e215beff63766d65fb75fda8eecb4876cf536728d37a852c4
+Size: 12626
+SHA256sum: 39baee066fa73a4d5bc2b7574dbfed4b99276dbfdb0ffc01552fdc167d512345
 Description:  Monitor CPU load and Inform Yate module for yate
 
 Package: yate-mod-dbpbx
@@ -4656,10 +4656,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 9329
+Installed-Size: 9326
 Filename: yate-mod-dbpbx_6.1.0-1-2_mips64_octeon3.ipk
-Size: 10146
-SHA256sum: c940a34f2ff649b638e6cd88449cad9b76c38852988082daca1e0da2caabc900
+Size: 10142
+SHA256sum: 81013dbc41225013e269d282ceb49370f085b59368521af213bedb8124e08f97
 Description:  PBX IVR and Multi-routing from Database module for yate
 
 Package: yate-mod-dbwave
@@ -4672,10 +4672,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 5575
+Installed-Size: 5573
 Filename: yate-mod-dbwave_6.1.0-1-2_mips64_octeon3.ipk
 Size: 6312
-SHA256sum: 4b1ba6d411d78fabe0b1f8d5c394abb0ba765d80db89af94623126010468b8fd
+SHA256sum: 30b8180989e6110a124271056f43133af4bda1911f26162ec9a459c4651b92ac
 Description:  Wav Media for DB Storage module for yate
 
 Package: yate-mod-dumbchan
@@ -4688,10 +4688,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 5631
+Installed-Size: 5629
 Filename: yate-mod-dumbchan_6.1.0-1-2_mips64_octeon3.ipk
-Size: 6351
-SHA256sum: efd5bcf95b1d876698ae8b1b49ecde8ab09fddc908cc0d94c15629d6426d473a
+Size: 6349
+SHA256sum: 77ee0944870f83623e615fb77962bbe53ab18509b4e17b928ab692cbea8a1eaa
 Description:  Dummy Channel module for yate
 
 Package: yate-mod-enumroute
@@ -4704,10 +4704,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 7659
+Installed-Size: 7656
 Filename: yate-mod-enumroute_6.1.0-1-2_mips64_octeon3.ipk
 Size: 8487
-SHA256sum: 5d4040d019ff4f9e9ba121a1e463e89957d238359e74837f111cc1a90f887bda
+SHA256sum: b7d87c69da0b8b5285ab17a84ce9f34c97b7855ea3825c7df181d22b0db71903
 Description:  ENUM Routing module for yate
 
 Package: yate-mod-eventlogs
@@ -4720,10 +4720,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 5532
+Installed-Size: 5530
 Filename: yate-mod-eventlogs_6.1.0-1-2_mips64_octeon3.ipk
-Size: 6309
-SHA256sum: e67326748388ba2bcaf8995836331ebae577f069ed8eb9828c264ced7063259a
+Size: 6303
+SHA256sum: 56bf9c8c1b943cc16214f67f95893c81bd7a680cc7ab8c1d8c95f0ca55ac04f9
 Description:  Write events and alarms to log files module for yate
 
 Package: yate-mod-extmodule
@@ -4738,8 +4738,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 26186
 Filename: yate-mod-extmodule_6.1.0-1-2_mips64_octeon3.ipk
-Size: 26933
-SHA256sum: ebda6e13f16ac64d1e3847c0d4cf087b4b05791bbc8e2105914d8e49a3eaf2c4
+Size: 26932
+SHA256sum: aae1995d80997ccd45ca5e965341e2eac2c0523dcf5a3e1a53c3e0a863dc2bd8
 Description:  External Module Handler module for yate
 
 Package: yate-mod-faxchan
@@ -4754,8 +4754,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 14802
 Filename: yate-mod-faxchan_6.1.0-1-2_mips64_octeon3.ipk
-Size: 15484
-SHA256sum: 1a60f35708b990de5be9216a54cdcc4833755042ff5a93d9e910bdfa70b899fa
+Size: 15483
+SHA256sum: 4204ca6e73872cbd57ab212f8755d2f5ef5332ccb50a80be6af725dcc3cd50e2
 Description:  Spandsp Fax Channel module for yate
 
 Package: yate-mod-fileinfo
@@ -4768,10 +4768,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 12486
+Installed-Size: 12484
 Filename: yate-mod-fileinfo_6.1.0-1-2_mips64_octeon3.ipk
-Size: 13272
-SHA256sum: 6ff723019e229c58bb2cb2cb9589761317bbd6107b36dc52dcc6ab5bc30c4cc8
+Size: 13266
+SHA256sum: eb2c4b904dbae6cef3025d6e7b8f6b6051665edae79a3fd5f734fbbfe7901116
 Description:  File Info Holder module for yate
 
 Package: yate-mod-filetransfer
@@ -4786,8 +4786,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 19372
 Filename: yate-mod-filetransfer_6.1.0-1-2_mips64_octeon3.ipk
-Size: 20131
-SHA256sum: afedbe97cd6acb85b89b46e9a20f70514f920beb1df4746a291fc0b171a82962
+Size: 20135
+SHA256sum: 95cd2deb79112a1f7610aed9922d5cebd93029db16c059565012c826fbd2000f
 Description:  File Transfer Driver module for yate
 
 Package: yate-mod-gvoice
@@ -4800,10 +4800,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 6565
+Installed-Size: 6566
 Filename: yate-mod-gvoice_6.1.0-1-2_mips64_octeon3.ipk
-Size: 7398
-SHA256sum: e2cfdb724083f457c100b7494eb1848f2c05646fbe9ac741189f9eceee6d7ff4
+Size: 7394
+SHA256sum: 09dba5b0bd57fba0976c6460015bd8ef3a121ae86a3bbbb0eef2cdc3e9c79c17
 Description:  Google Voice support module for yate
 
 Package: yate-mod-heartbeat
@@ -4816,10 +4816,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 7986
+Installed-Size: 7984
 Filename: yate-mod-heartbeat_6.1.0-1-2_mips64_octeon3.ipk
-Size: 8830
-SHA256sum: f6120ed839461f7c45de7bfcc0abb27aa1b4e8a028be55df026abb80342b2c89
+Size: 8832
+SHA256sum: 222a2be2ebd7458210e9bd8aa09a93625d364379e358081997b8bbe45dd6cdd0
 Description:  Linux-HA compatible heartbeat module for yate
 
 Package: yate-mod-ilbccodec
@@ -4832,10 +4832,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 33559
+Installed-Size: 33557
 Filename: yate-mod-ilbccodec_6.1.0-1-2_mips64_octeon3.ipk
-Size: 34325
-SHA256sum: 764d0df1e4652112ef51521136134796a5b0f8ec7b6226f715558ac7fd594c6a
+Size: 34329
+SHA256sum: b6624d0933bb9a752f5fabaa6a5e4bc4ff9bd6c8cf149f3b3f38879e671bd8d7
 Description:  iLBC Codec module for yate
 
 Package: yate-mod-ilbcwebrtc
@@ -4848,10 +4848,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 39332
+Installed-Size: 39330
 Filename: yate-mod-ilbcwebrtc_6.1.0-1-2_mips64_octeon3.ipk
-Size: 40114
-SHA256sum: b06c057651441f2f3b93753ef2649def2826106634553e819a88b5f105c577cd
+Size: 40110
+SHA256sum: 4f758a7ffbde281e2724d75b8c0bdfa5221e8c474a81291eab39b4b20f2eae66
 Description:  iLBC Codec from the WebRTC project module for yate
 
 Package: yate-mod-isaccodec
@@ -4866,8 +4866,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 76864
 Filename: yate-mod-isaccodec_6.1.0-1-2_mips64_octeon3.ipk
-Size: 77057
-SHA256sum: e3d8ec834add61cef2e786e34a7c8761f157068e7cb30874123e3e022017a864
+Size: 77056
+SHA256sum: c20aec8a67643238c4df679901b527d868c3fa1a94384ed41bf87b6efb2c8bcb
 Description:  internet Speech Audio Codec module for yate
 
 Package: yate-mod-isupmangler
@@ -4880,10 +4880,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 12092
+Installed-Size: 12093
 Filename: yate-mod-isupmangler_6.1.0-1-2_mips64_octeon3.ipk
-Size: 12905
-SHA256sum: 4a43287850eb1066f5ec65ae6375765e347c851e6bd65eb3e77a5261146cabbb
+Size: 12907
+SHA256sum: 297a81f94011fdb51678ed1052b44bc381c39f06c2f474a6acfc086ae3d50705
 Description:  ISUP parameter mangling in a STP module for yate
 
 Package: yate-mod-jabberclient
@@ -4898,8 +4898,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 42354
 Filename: yate-mod-jabberclient_6.1.0-1-2_mips64_octeon3.ipk
-Size: 43139
-SHA256sum: dfa4bbf140b5f96fea14747d124b7464caa0ed822f7b687df6a0f5d4b5f930f7
+Size: 43124
+SHA256sum: d749d3a13fb7572d24724ebcfddef984f0c817cc48b0c468d6a818c6ef633675
 Description:  Jabber Client module for yate
 
 Package: yate-mod-jabberserver
@@ -4912,10 +4912,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 52221
+Installed-Size: 52219
 Filename: yate-mod-jabberserver_6.1.0-1-2_mips64_octeon3.ipk
-Size: 53001
-SHA256sum: 3099188514809914729a48a1a2d7a6e061f338431042b6f8440054a6a541399d
+Size: 52990
+SHA256sum: a78dc11e19f8852b771d5a4620e21ddbae1cf542537dce018f17107a3e161bbd
 Description:  Jabber Server module for yate
 
 Package: yate-mod-javascript
@@ -4928,10 +4928,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 62945
+Installed-Size: 62942
 Filename: yate-mod-javascript_6.1.0-1-2_mips64_octeon3.ipk
-Size: 63707
-SHA256sum: f732b654cceeff6cf4ee84c516d3dc090bd40980f36368863b963608e6bdffcd
+Size: 63709
+SHA256sum: f4ff68418eb403f7c6c62670ee183b1281775afd36e4ef6bc29f0517b413138b
 Description:  Routing using the embedded Javascript language module for yate
 
 Package: yate-mod-jbfeatures
@@ -4946,8 +4946,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 14926
 Filename: yate-mod-jbfeatures_6.1.0-1-2_mips64_octeon3.ipk
-Size: 15682
-SHA256sum: d4efb4ecfd5f50686e2fb6ce409c1f87bc5a15da188a2253af30fdd7a3ced569
+Size: 15683
+SHA256sum: 49d50173f492c89415afe8fda8994eb0a807c0614c493063e7672fb59a9c1387
 Description:  Jabber Server Features module for yate
 
 Package: yate-mod-lateroute
@@ -4960,10 +4960,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 5723
+Installed-Size: 5722
 Filename: yate-mod-lateroute_6.1.0-1-2_mips64_octeon3.ipk
-Size: 6488
-SHA256sum: 09995f4f95c741edf204bd755993021629375d861601d5dc84508179ed411c33
+Size: 6486
+SHA256sum: 32d0afc3eb3744d4e7930f9854c612fe7798df4d4f2f0269d1b46e9281540817
 Description:  Last Chance Routing module for yate
 
 Package: yate-mod-mgcpca
@@ -4976,10 +4976,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 51102
+Installed-Size: 51101
 Filename: yate-mod-mgcpca_6.1.0-1-2_mips64_octeon3.ipk
-Size: 51923
-SHA256sum: 5b676144dc898bb1cff2990201257045f2b6af7b15c3c338b732b96e2ee99dda
+Size: 51922
+SHA256sum: b657f580fcf5e140ca1315290f9677de4e005669685b2a9359eb93c8f5244b9b
 Description:  Media Gateway Control Protocol Agent module for yate
 
 Package: yate-mod-mgcpgw
@@ -4992,10 +4992,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 35628
+Installed-Size: 35627
 Filename: yate-mod-mgcpgw_6.1.0-1-2_mips64_octeon3.ipk
-Size: 36450
-SHA256sum: d0700f23763d94d839c83f3d6e49f9854be261104950608b053b11c08b02f0b4
+Size: 36452
+SHA256sum: 2b4fa215b9f599466a7af5f7178a377df82fc0740aa089d655e749567c3760ed
 Description:  Media Gateway Control Protocol Gateway module for yate
 
 Package: yate-mod-moh
@@ -5008,10 +5008,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 10091
+Installed-Size: 10090
 Filename: yate-mod-moh_6.1.0-1-2_mips64_octeon3.ipk
-Size: 10888
-SHA256sum: 25faa003d01598879cdf85f063c84414915291bc428b961d3f42191f8c23f7c2
+Size: 10886
+SHA256sum: 48d0990b284b7711d3a867a67f8e7859c77be243b53fcfb7de615c9b7172f13f
 Description:  On Hold (music) Generator module for yate
 
 Package: yate-mod-monitoring
@@ -5024,10 +5024,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 32354
+Installed-Size: 32351
 Filename: yate-mod-monitoring_6.1.0-1-2_mips64_octeon3.ipk
-Size: 32674
-SHA256sum: 43c4ede09ff945c533f93d51a1f4ef265dd8004a8293fc5a4b3eec77c30676b5
+Size: 32646
+SHA256sum: d53836f0280a81dedc523b93f4c2eca156d4ee36ace3dded5545ac9bb51be16e
 Description:  Monitoring/gathering Information module for yate
 
 Package: yate-mod-mrcpspeech
@@ -5040,10 +5040,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 8365
+Installed-Size: 8363
 Filename: yate-mod-mrcpspeech_6.1.0-1-2_mips64_octeon3.ipk
-Size: 9147
-SHA256sum: cb273ca90b8a314cc9a6b0b7c83717107175d754dcbcee89f8d5948b4f377223
+Size: 9144
+SHA256sum: 0790361292f7dfc198421988f51cd76846dbdbabfd8de3433a12a9375736ca3f
 Description:  MRCP v2 Voice/Tone Detector and Synthesizer module for yate
 
 Package: yate-mod-msgsniff
@@ -5056,10 +5056,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 6330
+Installed-Size: 6328
 Filename: yate-mod-msgsniff_6.1.0-1-2_mips64_octeon3.ipk
-Size: 7125
-SHA256sum: e70816dffd110ff83de359978e0995c19b6d721571bcbf8247ba9a3e17f1e613
+Size: 7130
+SHA256sum: 3b9615eea3e156959edb72351dc7409d69dc4c2c1585ea6fabd410103943b560
 Description:  Sample Message Sniffer module for yate
 
 Package: yate-mod-mux
@@ -5072,10 +5072,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 12567
+Installed-Size: 12564
 Filename: yate-mod-mux_6.1.0-1-2_mips64_octeon3.ipk
-Size: 13344
-SHA256sum: d108ae3239eea71fd7e70f7e1874b161e6f6c8b7fcafc7afabd64ca74e39be97
+Size: 13349
+SHA256sum: efa5e7cf72d357429596f84abbab386e03ac9f9e4e891e6464ade0dc0798982e
 Description:  Data Multiplexor module for yate
 
 Package: yate-mod-mysqldb
@@ -5090,8 +5090,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 12015
 Filename: yate-mod-mysqldb_6.1.0-1-2_mips64_octeon3.ipk
-Size: 12828
-SHA256sum: 180363afb3df4dc8775ced606b39ad50c3c8027d652b1f20c221dc34d8739b0f
+Size: 12830
+SHA256sum: 4361865072f6c5d03e4d01a6d5b2c2552be7bcf14d881407575283f02a530052
 Description:  MySQL Backend DB module for yate
 
 Package: yate-mod-openssl
@@ -5106,8 +5106,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 12729
 Filename: yate-mod-openssl_6.1.0-1-2_mips64_octeon3.ipk
-Size: 13506
-SHA256sum: 9d0fdfa6b08d32379da183412a7f9d79c1ad1e5cb533f2bd0f65efa802cbe76b
+Size: 13511
+SHA256sum: 1474ce4d04129cdff90f7bf07e12d848c83109ff45251aef83818a430d0fdef9
 Description:  Encrypted transport (OpenSSL) module for yate
 
 Package: yate-mod-osschan
@@ -5120,10 +5120,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 10475
+Installed-Size: 10474
 Filename: yate-mod-osschan_6.1.0-1-2_mips64_octeon3.ipk
-Size: 11239
-SHA256sum: 47b327598e335d7ed2af340dc561eab2603999175b3b794877002c61c946506d
+Size: 11235
+SHA256sum: 5c3eadc001310d7771a3b641f12d4dbe0bf6b60030cdee2811edd4f4dbb5c4e7
 Description:  OSS Sound Channel module for yate
 
 Package: yate-mod-park
@@ -5136,10 +5136,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 6131
+Installed-Size: 6129
 Filename: yate-mod-park_6.1.0-1-2_mips64_octeon3.ipk
-Size: 6871
-SHA256sum: 03cccce267a40e6c56aa7d79f713ac5e60d3fd7785f709562927a8b56b8e52eb
+Size: 6874
+SHA256sum: 765b95d3f0743beb4343d3a7f84b0af67b694195afc618d4ec5382c478bf66bb
 Description:  Call Parking module for yate
 
 Package: yate-mod-pbx
@@ -5152,10 +5152,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 6773
+Installed-Size: 6771
 Filename: yate-mod-pbx_6.1.0-1-2_mips64_octeon3.ipk
-Size: 7563
-SHA256sum: d6157019660c78a276330b62059e5ec29239106bf077215a1484f81aff30d470
+Size: 7564
+SHA256sum: 29830eda9df5026f9666035f1920989e0616013ad8ea50d9f8d95837fef3cf3c
 Description:  PBX Message Handlers module for yate
 
 Package: yate-mod-pbxassist
@@ -5168,10 +5168,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 21207
+Installed-Size: 21206
 Filename: yate-mod-pbxassist_6.1.0-1-2_mips64_octeon3.ipk
-Size: 21979
-SHA256sum: cd63f24cb96cf31c634972b8eed14279583c0b31493e2325060ad80fec784418
+Size: 21980
+SHA256sum: 92779b48ec1839e26f9fe9c55d6de57e355f26f4386df30dc1ce04d8cfc52374
 Description:  Full featured PBX and IVR module for yate
 
 Package: yate-mod-pgsqldb
@@ -5184,10 +5184,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 11101
+Installed-Size: 11100
 Filename: yate-mod-pgsqldb_6.1.0-1-2_mips64_octeon3.ipk
-Size: 11837
-SHA256sum: c5fa569c1a94d9d307f3c2dfbe24bd3670d00679ed5f58ccaadd4c26f6680294
+Size: 11838
+SHA256sum: 28e2a726d34338dc481c017f9b4d48c01be9ceee3888647bcb995091937a793e
 Description:  PostgrestSQL Backend DB module for yate
 
 Package: yate-mod-presence
@@ -5200,10 +5200,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 11297
+Installed-Size: 11294
 Filename: yate-mod-presence_6.1.0-1-2_mips64_octeon3.ipk
-Size: 12066
-SHA256sum: 89e8211e576d1981454f863c6e7b42fc174d9cf8ef21f604925488590c1e3b01
+Size: 12060
+SHA256sum: 6f2a950288040bbe4b5dbeaf910a60d9698e1ca628c64d1f879967f6e09051ff
 Description:  Presence module for yate
 
 Package: yate-mod-queues
@@ -5218,8 +5218,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 11912
 Filename: yate-mod-queues_6.1.0-1-2_mips64_octeon3.ipk
-Size: 12687
-SHA256sum: 6ac36de34e91d106cb3c69a9d054d67decb1c302b5aca33a3a6fb43539927095
+Size: 12685
+SHA256sum: 9f5463301930d267234a13f796e20c4b5376dba0717fd0f73fdbe49ccbcfdbbb
 Description:  Call Distribution and Queues from Database module for yate
 
 Package: yate-mod-queuesnotify
@@ -5232,10 +5232,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 11505
+Installed-Size: 11504
 Filename: yate-mod-queuesnotify_6.1.0-1-2_mips64_octeon3.ipk
-Size: 12283
-SHA256sum: 4804494d79f6f57e9d6931d350dfcc991d909efc4b4cbe39b42afd96a0ac2257
+Size: 12292
+SHA256sum: 8eb238c362a7486a889d920d3dd2be0e433385abe8100fbe5d318912f0e1532e
 Description:  Notify when queued call status changes module for yate
 
 Package: yate-mod-regexroute
@@ -5248,10 +5248,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 19645
+Installed-Size: 19644
 Filename: yate-mod-regexroute_6.1.0-1-2_mips64_octeon3.ipk
-Size: 20478
-SHA256sum: c9843eb790ee6f2da15259a0a5933e6e9cfc91025d0a737fafa5562cd33de757
+Size: 20470
+SHA256sum: 5b9705d6096d9cb1523e7e19ed1105d91c80c85768684b2f411f205208f36675
 Description:  Regular Expression Based Routing module for yate
 
 Package: yate-mod-regfile
@@ -5264,10 +5264,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 9980
+Installed-Size: 9979
 Filename: yate-mod-regfile_6.1.0-1-2_mips64_octeon3.ipk
-Size: 10786
-SHA256sum: ec7cd265a0510d44d6eff54cf87190b0685a931572177aba347a0591f08bd9e2
+Size: 10791
+SHA256sum: 242ba8de15cf563acd118546310e2d8d8fde61098b6c5ecd4b1065f37cd2139e
 Description:  Registration based on users in file module for yate
 
 Package: yate-mod-register
@@ -5283,7 +5283,7 @@ Architecture: mips64_octeon3
 Installed-Size: 18061
 Filename: yate-mod-register_6.1.0-1-2_mips64_octeon3.ipk
 Size: 18757
-SHA256sum: f9cb471f53db57a3637f5159b8f5b71d7668680f7743018149b3e8b583e8d24b
+SHA256sum: 866b2117e8932df4cf020c7074978a0faa2499ec2da56c21e162e6e63ea011e9
 Description:  Call Detail Record to a database module for yate
 
 Package: yate-mod-rmanager
@@ -5296,10 +5296,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 23717
+Installed-Size: 23714
 Filename: yate-mod-rmanager_6.1.0-1-2_mips64_octeon3.ipk
-Size: 24455
-SHA256sum: be595368dcc2d8570594ac0d3dc22378c860fd495a0d3db8d0ce8a8cbaffe492
+Size: 24451
+SHA256sum: 924dd4b6a0d44684f7c84a53f81814353c79706b40348eef79554b3c8eca7207
 Description:  Yate Remote Management module for yate
 
 Package: yate-mod-sigtransport
@@ -5312,10 +5312,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 20532
+Installed-Size: 20529
 Filename: yate-mod-sigtransport_6.1.0-1-2_mips64_octeon3.ipk
-Size: 21303
-SHA256sum: b87acc960c43bdb7048e1824344cf50f82183ea5280afe72aad12f93cd2ffafe
+Size: 21290
+SHA256sum: 163faddb00f61a4500cdc22d624a5f747d1c7e0345c129adf6d62df16e15dabd
 Description:  SIGTRAN (SS7 over IP) connection provider module for yate
 
 Package: yate-mod-sip-cnam-lnp
@@ -5328,10 +5328,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 9717
+Installed-Size: 9715
 Filename: yate-mod-sip-cnam-lnp_6.1.0-1-2_mips64_octeon3.ipk
-Size: 10551
-SHA256sum: 106db8e7ad52047abd310462581cb7a15259b219b1fdd26fb51b1428fff4bd47
+Size: 10556
+SHA256sum: 63bad783b825892fd699f747f8a23bd2958da81beef8afc392dd4dc5d7b78d77
 Description:  Query CNAM and LNP databases using SIP INVITE module for yate
 
 Package: yate-mod-sipfeatures
@@ -5346,8 +5346,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 10185
 Filename: yate-mod-sipfeatures_6.1.0-1-2_mips64_octeon3.ipk
-Size: 10970
-SHA256sum: 63db7535ccca7425b52e783a6a63d2c368d2155f9a34abd6245231228709c585
+Size: 10972
+SHA256sum: 47430f873a9006c7dea368f9b0f3f04a71de36e3b445a393e13d17612476874b
 Description:  SIP Features (SUBSCRIBE/NOTIFY) module for yate
 
 Package: yate-mod-sqlitedb
@@ -5360,10 +5360,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 11099
+Installed-Size: 11097
 Filename: yate-mod-sqlitedb_6.1.0-1-2_mips64_octeon3.ipk
-Size: 11917
-SHA256sum: 354fad5bbdf14a38891cb73cb0446199d21bd0dfc631d56b18dd9e4d837f131d
+Size: 11920
+SHA256sum: 322243a2c446e9e849ad65e8ab924dc161e4ac96464ff8f1f2e8572499d2e8ca
 Description:  SQLite Support module for yate
 
 Package: yate-mod-ss7-lnp-ansi
@@ -5376,10 +5376,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 23071
+Installed-Size: 23072
 Filename: yate-mod-ss7-lnp-ansi_6.1.0-1-2_mips64_octeon3.ipk
-Size: 23775
-SHA256sum: 5ca3d6cc5488a45d1c1c25463d9b39b699ff4796ab0666ef0b25772cb975c614
+Size: 23770
+SHA256sum: 4df8aa61894d7a82566711a55d99b06771f6469d60cf3df113cd2016502dbcdd
 Description:  Query LNP Databases module for yate
 
 Package: yate-mod-subscription
@@ -5392,10 +5392,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 25965
+Installed-Size: 25966
 Filename: yate-mod-subscription_6.1.0-1-2_mips64_octeon3.ipk
-Size: 26710
-SHA256sum: c7ce1c694fe73bdfb11efc7b5a28f3d7477d74ddae5947a76a8b03c90aa083b5
+Size: 26715
+SHA256sum: 3448604610aa08ae0cd0e042f50620c2f190875100c53221f5096b111cfc690c
 Description:  Subcription handler and presence notifier module for yate
 
 Package: yate-mod-tonedetect
@@ -5408,10 +5408,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 9621
+Installed-Size: 9617
 Filename: yate-mod-tonedetect_6.1.0-1-2_mips64_octeon3.ipk
-Size: 10375
-SHA256sum: 4179745984f16d51167ae98142f3fa73b60ac7d621371ca84b26fb1c7384bea6
+Size: 10374
+SHA256sum: 55fd27409d8b65cae6995b1a783f41b83a7d243876cdfdd36d430edc3309c3ee
 Description:  Detectors for Various Tones module for yate
 
 Package: yate-mod-tonegen
@@ -5424,10 +5424,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 20774
+Installed-Size: 20773
 Filename: yate-mod-tonegen_6.1.0-1-2_mips64_octeon3.ipk
-Size: 21512
-SHA256sum: 9a4b8989b548d5557ced48bf1ca24ee29188c1fc24bcaf80bcc4f13700b3195c
+Size: 21521
+SHA256sum: 60d19ca8c595e76c120e6a0bdf003067053f2ae4f9bd878d9dc80de7c3e93219
 Description:  Tones Generator module for yate
 
 Package: yate-mod-users
@@ -5440,10 +5440,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 8637
+Installed-Size: 8638
 Filename: yate-mod-users_6.1.0-1-2_mips64_octeon3.ipk
-Size: 9432
-SHA256sum: 5a5ce55e03cb5124b2fb17ad1a80b416884afb06e2bd82672a5f858b2b30c9e1
+Size: 9430
+SHA256sum: 33b347a55f61f206e4a254f5b37727c165db6061a0ffce6ba9561e534f6bedc4
 Description:  Users module for yate
 
 Package: yate-mod-wavefile
@@ -5456,10 +5456,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 17983
+Installed-Size: 17981
 Filename: yate-mod-wavefile_6.1.0-1-2_mips64_octeon3.ipk
-Size: 18711
-SHA256sum: a5f4277fa63acdc4ed36a4a13a7d995470e13b83a1b1cd33322ac237543be08a
+Size: 18717
+SHA256sum: f35bedaa4718df74d7772c1d697a27d871447df6df818fd480499f147c98f644
 Description:  Wav file Record and Playback module for yate
 
 Package: yate-mod-yiaxchan
@@ -5472,10 +5472,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 78361
+Installed-Size: 78360
 Filename: yate-mod-yiaxchan_6.1.0-1-2_mips64_octeon3.ipk
-Size: 79016
-SHA256sum: 506755244e7384f180e153f2604aa4ba455bceb548c83739a057b91448a26d49
+Size: 79013
+SHA256sum: 1dbe47869c19baf4bd7e9c0c665344044b2ae3fe36f18c664a02e097dcda799c
 Description:  IAX Channel module for yate
 
 Package: yate-mod-yjinglechan
@@ -5488,10 +5488,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 50437
+Installed-Size: 50435
 Filename: yate-mod-yjinglechan_6.1.0-1-2_mips64_octeon3.ipk
-Size: 51254
-SHA256sum: 6350eace9b5eee89446daecc964518e87a68dfe774e1d750a597156a41d5582a
+Size: 51249
+SHA256sum: 021945a5809acd29167bbbc7e8fe719207282f381a514e526f944621a9a3fbf4
 Description:  Jingle Channel module for yate
 
 Package: yate-mod-yradius
@@ -5504,10 +5504,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 21667
+Installed-Size: 21664
 Filename: yate-mod-yradius_6.1.0-1-2_mips64_octeon3.ipk
-Size: 22011
-SHA256sum: 5541f496c42d3fc8af81cd96f37a8556029bf8f2abe950cadc471b44ac248654
+Size: 22002
+SHA256sum: 146175aa3f55656cc134a06cec3f28bde2c244ae820e60741a0785c676124229
 Description:  RADIUS Client module for yate
 
 Package: yate-mod-yrtpchan
@@ -5520,10 +5520,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 46725
+Installed-Size: 46720
 Filename: yate-mod-yrtpchan_6.1.0-1-2_mips64_octeon3.ipk
-Size: 47501
-SHA256sum: 9d29969c1a1796d147330cc7e895ac5969118988604f7ecda27db82bb53e58c0
+Size: 47483
+SHA256sum: cb8cd316f494ce421ab6d6997c3dd91af60e386fb26ed669a451403c38de6992
 Description:  RTP Channel and Other Data Helper module for yate
 
 Package: yate-mod-ysigchan
@@ -5536,10 +5536,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 61490
+Installed-Size: 61486
 Filename: yate-mod-ysigchan_6.1.0-1-2_mips64_octeon3.ipk
-Size: 62145
-SHA256sum: 285d5489ac0747a5e21fe8bf34b3318c8295262456560dc2d274de4f2e4adcc7
+Size: 62110
+SHA256sum: 21feca5601c0fb5904b42976cff3d20c25d3ce462187f56eb2beff20c50717a2
 Description:  SS7/ISDN Protocols - Yate Signalling Library module for yate
 
 Package: yate-mod-ysipchan
@@ -5554,8 +5554,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 138698
 Filename: yate-mod-ysipchan_6.1.0-1-2_mips64_octeon3.ipk
-Size: 139071
-SHA256sum: 9c6b5a6cf06f747e6d930423addafa3c6019fdf9a546d2160779b76d6fd4d994
+Size: 139053
+SHA256sum: 34c8d0a60785b6a204aef6f82b25b92bf167ee095ff982842f650848f1625748
 Description:  SIP Channel module for yate
 
 Package: yate-mod-ysnmpagent
@@ -5568,10 +5568,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 65254
+Installed-Size: 65251
 Filename: yate-mod-ysnmpagent_6.1.0-1-2_mips64_octeon3.ipk
-Size: 65723
-SHA256sum: c4c717d4de72592cc04c80c3c95e481983dcf491edec6425e35f5794dae8d567
+Size: 65807
+SHA256sum: d54d915453b1973bdaa17152f75567c4afd83ab98facc76403bf07f03be16548
 Description:  SNMP Protocol Agent module for yate
 
 Package: yate-mod-ysockschan
@@ -5584,10 +5584,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 28846
+Installed-Size: 28845
 Filename: yate-mod-ysockschan_6.1.0-1-2_mips64_octeon3.ipk
-Size: 29605
-SHA256sum: 00eb595af20eeee236cf489b87e7ad7952ad402a30e9c78d602d1335b0a168aa
+Size: 29611
+SHA256sum: 427a111ab9477b9b1c6481fa8544fddf5a5fc657e744f939391e193cbe5ae795
 Description:  SOCKS Channel module for yate
 
 Package: yate-mod-ystunchan
@@ -5602,8 +5602,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 11040
 Filename: yate-mod-ystunchan_6.1.0-1-2_mips64_octeon3.ipk
-Size: 11852
-SHA256sum: 7eb4503f18da0e3cfd51b88dbcf8a293c2fb55c563032a71ae2226993b6870f1
+Size: 11850
+SHA256sum: e1129b803a6ba554d04842d7160e16c35691c41d32b7fec4260753eb5fdfecbf
 Description:  STUN Support module for yate
 
 Package: yate-mod-zapcard
@@ -5618,8 +5618,8 @@ Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
 Installed-Size: 30635
 Filename: yate-mod-zapcard_6.1.0-1-2_mips64_octeon3.ipk
-Size: 31383
-SHA256sum: 8c8eac45b970b07f638d6db28430eca5cebda197b4f564ddfb57900c521c11f2
+Size: 31372
+SHA256sum: cff2239f5171523ec350325c5bdf18d5a2e5249b95f9424d2e1f0d463228a93a
 Description:  Zaptel PRI/TDM/FXS/FXO cards module for yate
 
 Package: yate-mod-zlibcompress
@@ -5632,10 +5632,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 7386
+Installed-Size: 7384
 Filename: yate-mod-zlibcompress_6.1.0-1-2_mips64_octeon3.ipk
-Size: 8223
-SHA256sum: 67601486d15d33f224f5dfd0912629f6d4692203f4d480659ffced223c33c228
+Size: 8224
+SHA256sum: d01424b5fb65e056d298f8961a6ee55f4b803941250cece0e221f6f8ea08656e
 Description:  Zlib Compression module for yate
 
 Package: yate-scripts-perl
@@ -5648,10 +5648,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 9220
+Installed-Size: 9219
 Filename: yate-scripts-perl_6.1.0-1-2_mips64_octeon3.ipk
-Size: 10009
-SHA256sum: 8715911c28ce3b7f27c548d15189d97cc38cdd6609b48ff7b1a6dde47abcb6f9
+Size: 10014
+SHA256sum: a2f9288f9e780d314a832d78c93197e938d3879855090bce009ab5b30d6dec93
 Description:  Perl module for Yate
 
 Package: yate-sounds
@@ -5664,10 +5664,10 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 141402
+Installed-Size: 141393
 Filename: yate-sounds_6.1.0-1-2_mips64_octeon3.ipk
-Size: 139907
-SHA256sum: 18d44e4d95d2b0c40b97aade3638df296585874590a3778988aa12307a0a7863
+Size: 139885
+SHA256sum: c7931bace98a2821a7dad34cc83a8b5be69a726351df6e244ff9e74c3ce17e17
 Description:  Sounds for Yate
 
 Package: yate
@@ -5680,9 +5680,9 @@ LicenseFiles: COPYING
 Section: net
 Maintainer: Jiri Slachta <jiri@slachta.eu>
 Architecture: mips64_octeon3
-Installed-Size: 970399
+Installed-Size: 970391
 Filename: yate_6.1.0-1-2_mips64_octeon3.ipk
-Size: 967670
-SHA256sum: bef773e43202e169d5f559ebfaad9e53082b1bede039470b227f0cda61a0beb0
+Size: 967591
+SHA256sum: 0bafbcefdc2bf648487a21af61ac380829bc0a441e7bb698bbaab9e659c1f45f
 Description:  Yet Another Telephony Engine
 
