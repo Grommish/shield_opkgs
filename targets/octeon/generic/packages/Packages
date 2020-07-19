@@ -1,0 +1,490 @@
+Package: base-files
+Version: 223-r13871-546e140382
+Depends: libc, netifd, procd, jsonfilter, usign, openwrt-keyring, fstools, fwtool
+License: GPL-2.0
+Section: base
+Architecture: mips64_octeonplus
+Installed-Size: 41834
+Filename: base-files_223-r13871-546e140382_mips64_octeonplus.ipk
+Size: 42865
+SHA256sum: d8076053323ac78333f2ea24873f9c3a346390d6279dd5d8c4cda3d95bdfb9a1
+Description:  This package contains a base filesystem and system scripts for OpenWrt.
+
+Package: fstools
+Version: 2020-06-17-d34ea8eb-1
+Depends: libc, ubox
+License: GPL-2.0
+Section: base
+Architecture: mips64_octeonplus
+Installed-Size: 17025
+Filename: fstools_2020-06-17-d34ea8eb-1_mips64_octeonplus.ipk
+Size: 17748
+SHA256sum: f50d8ac0196114f0442a02bbe488b5c7ddd248f22e91a1843a4d361fbbc62b37
+Description:  OpenWrt filesystem tools
+
+Package: fwtool
+Version: 2019-11-12-8f7fe925-1
+Depends: libc
+License: GPL-2.0
+Section: utils
+Architecture: mips64_octeonplus
+Installed-Size: 4541
+Filename: fwtool_2019-11-12-8f7fe925-1_mips64_octeonplus.ipk
+Size: 5293
+SHA256sum: d11a13eda6a0a8bcc50ab79f396d398f833f66d468e4de46cb2d77666f1e45c4
+Description:  Utility for appending and extracting firmware metadata and signatures
+
+Package: ip6tables
+Version: 1.8.4-1
+Depends: libc, kmod-ip6tables, iptables
+License: GPL-2.0
+Section: net
+CPE-ID: cpe:/a:netfilter_core_team:iptables
+Architecture: mips64_octeonplus
+Installed-Size: 215
+Filename: ip6tables_1.8.4-1_mips64_octeonplus.ipk
+Size: 959
+SHA256sum: 97e4d76289d2138737a6f3937ec4a99e1507baf32f3a1138f9eac9ea7ad2df15
+Description:  IPv6 firewall administration tool
+
+Package: iptables
+Version: 1.8.4-1
+Depends: libc, kmod-ipt-core, libip4tc2, libip6tc2, libxtables12
+License: GPL-2.0
+Section: net
+CPE-ID: cpe:/a:netfilter_core_team:iptables
+Architecture: mips64_octeonplus
+Installed-Size: 27833
+Filename: iptables_1.8.4-1_mips64_octeonplus.ipk
+Size: 28698
+SHA256sum: f62a2640d44e64c064adc978f063fc95a2d2749cd70df6bc52299d79178568f1
+Description:  IP firewall administration tool.
+ 
+ Matches:
+ - icmp
+ - tcp
+ - udp
+ - comment
+ - conntrack
+ - limit
+ - mac
+ - mark
+ - multiport
+ - set
+ - state
+ - time
+ 
+ Targets:
+ - ACCEPT
+ - CT
+ - DNAT
+ - DROP
+ - REJECT
+ - FLOWOFFLOAD
+ - LOG
+ - MARK
+ - MASQUERADE
+ - REDIRECT
+ - SET
+ - SNAT
+ - TCPMSS
+ 
+ Tables:
+ - filter
+ - mangle
+ - nat
+ - raw
+ 
+
+Package: kmod-ip6tables
+Version: 5.4.51-1
+Depends: kernel (=5.4.51-1-f3635d23774daf06ecb9b5d611ccf420), kmod-nf-reject6, kmod-nf-ipt6, kmod-ipt-core
+License: GPL-2.0
+Section: kernel
+Architecture: mips64_octeonplus
+Installed-Size: 7755
+Filename: kmod-ip6tables_5.4.51-1_mips64_octeonplus.ipk
+Size: 8468
+SHA256sum: 317bd25493ec79e7604bd1a51526911c1a2c70516607c2c5bd2aa02a6b151ba6
+Description:  Netfilter IPv6 firewalling support
+
+Package: kmod-ipt-conntrack
+Version: 5.4.51-1
+Depends: kernel (=5.4.51-1-f3635d23774daf06ecb9b5d611ccf420), kmod-ipt-core, kmod-nf-conntrack
+License: GPL-2.0
+Section: kernel
+Architecture: mips64_octeonplus
+Installed-Size: 2905
+Filename: kmod-ipt-conntrack_5.4.51-1_mips64_octeonplus.ipk
+Size: 3710
+SHA256sum: 6c016d96dad412429208600b987f5b541fc2fd653af9235358208aaf3e879d54
+Description:  Netfilter (IPv4) kernel modules for connection tracking
+ Includes:
+ - conntrack
+ - defrag
+ - iptables_raw
+ - NOTRACK
+ - state
+
+Package: kmod-ipt-core
+Version: 5.4.51-1
+Depends: kernel (=5.4.51-1-f3635d23774daf06ecb9b5d611ccf420), kmod-nf-reject, kmod-nf-ipt
+License: GPL-2.0
+Section: kernel
+Architecture: mips64_octeonplus
+Installed-Size: 18407
+Filename: kmod-ipt-core_5.4.51-1_mips64_octeonplus.ipk
+Size: 19175
+SHA256sum: 7055c3f56dd6ee060e07dffb24b48b4ed0a8eec4e86b640301fda15b376f38d0
+Description:  Netfilter core kernel modules
+ Includes:
+ - comment
+ - limit
+ - LOG
+ - mac
+ - multiport
+ - REJECT
+ - TCPMSS
+
+Package: kmod-ipt-nat
+Version: 5.4.51-1
+Depends: kernel (=5.4.51-1-f3635d23774daf06ecb9b5d611ccf420), kmod-ipt-core, kmod-nf-nat
+License: GPL-2.0
+Section: kernel
+Architecture: mips64_octeonplus
+Installed-Size: 4735
+Filename: kmod-ipt-nat_5.4.51-1_mips64_octeonplus.ipk
+Size: 5473
+SHA256sum: 27aa160b6ada9136cd2ecef76c898dd8047f219b30c90957081249ab1e65cd40
+Description:  Netfilter (IPv4) kernel modules for basic NAT targets
+ Includes:
+ - MASQUERADE
+
+Package: kmod-ipt-offload
+Version: 5.4.51-1
+Depends: kernel (=5.4.51-1-f3635d23774daf06ecb9b5d611ccf420), kmod-ipt-core, kmod-nf-flow
+License: GPL-2.0
+Section: kernel
+Architecture: mips64_octeonplus
+Installed-Size: 4001
+Filename: kmod-ipt-offload_5.4.51-1_mips64_octeonplus.ipk
+Size: 4758
+SHA256sum: b5896c494f9a7f211028e313535a4788f37984a9b0529fbd09e4a3c086d2bfb6
+Description:  Netfilter routing/NAT offload support
+
+Package: kmod-ledtrig-default-on
+Version: 5.4.51-1
+Depends: kernel (=5.4.51-1-f3635d23774daf06ecb9b5d611ccf420)
+License: GPL-2.0
+Section: kernel
+Architecture: mips64_octeonplus
+Installed-Size: 240
+Filename: kmod-ledtrig-default-on_5.4.51-1_mips64_octeonplus.ipk
+Size: 991
+SHA256sum: 3f3733851581908a969fd215fc6072302f037476eb45115982464aed988062e9
+Description:  Kernel module that allows LEDs to be initialised in the ON state
+
+Package: kmod-ledtrig-heartbeat
+Version: 5.4.51-1
+Depends: kernel (=5.4.51-1-f3635d23774daf06ecb9b5d611ccf420)
+License: GPL-2.0
+Section: kernel
+Architecture: mips64_octeonplus
+Installed-Size: 2302
+Filename: kmod-ledtrig-heartbeat_5.4.51-1_mips64_octeonplus.ipk
+Size: 3039
+SHA256sum: 9e31b12b9195bca98b758bbf0e1c0b441a6966f7c0699088485f1ec4ae1182e9
+Description:  Kernel module that allows LEDs to blink like heart beat
+
+Package: kmod-ledtrig-netdev
+Version: 5.4.51-1
+Depends: kernel (=5.4.51-1-f3635d23774daf06ecb9b5d611ccf420)
+License: GPL-2.0
+Section: kernel
+Architecture: mips64_octeonplus
+Installed-Size: 193
+Filename: kmod-ledtrig-netdev_5.4.51-1_mips64_octeonplus.ipk
+Size: 946
+SHA256sum: 6c97482267056c8f4655ce75a8fd3cee3696de345600b6d06c834ee106a99f4a
+Description:  Kernel module to drive LEDs based on network activity
+
+Package: kmod-ledtrig-timer
+Version: 5.4.51-1
+Depends: kernel (=5.4.51-1-f3635d23774daf06ecb9b5d611ccf420)
+License: GPL-2.0
+Section: kernel
+Architecture: mips64_octeonplus
+Installed-Size: 236
+Filename: kmod-ledtrig-timer_5.4.51-1_mips64_octeonplus.ipk
+Size: 995
+SHA256sum: 7f2b2103116a0c2da427d8b4640e10d9758f82a4bcdb6386d98a92bb894a39b7
+Description:  Kernel module that allows LEDs to be controlled by a programmable timer
+ via sysfs
+
+Package: kmod-lib-crc-ccitt
+Version: 5.4.51-1
+Depends: kernel (=5.4.51-1-f3635d23774daf06ecb9b5d611ccf420)
+License: GPL-2.0
+Section: kernel
+Architecture: mips64_octeonplus
+Installed-Size: 2144
+Filename: kmod-lib-crc-ccitt_5.4.51-1_mips64_octeonplus.ipk
+Size: 2904
+SHA256sum: 3cee42ea1117467782f3579a6904f54efb3ca3811fe6c28037f4c8ac336fedab
+Description:  Kernel module for CRC-CCITT support
+
+Package: kmod-nf-conntrack6
+Version: 5.4.51-1
+Depends: kernel (=5.4.51-1-f3635d23774daf06ecb9b5d611ccf420), kmod-nf-conntrack
+License: GPL-2.0
+Section: kernel
+Architecture: mips64_octeonplus
+Installed-Size: 105
+Filename: kmod-nf-conntrack6_5.4.51-1_mips64_octeonplus.ipk
+Size: 833
+SHA256sum: ea4f836d71b7bbf64793f4227fe253385f8876cd4a25b2111df61b7d609e60be
+Description:  Netfilter IPv6 connection tracking
+
+Package: kmod-nf-conntrack
+Version: 5.4.51-1
+Depends: kernel (=5.4.51-1-f3635d23774daf06ecb9b5d611ccf420)
+License: GPL-2.0
+Section: kernel
+Architecture: mips64_octeonplus
+Installed-Size: 54886
+Filename: kmod-nf-conntrack_5.4.51-1_mips64_octeonplus.ipk
+Size: 55341
+SHA256sum: e87a94cf43f045bcac2a177a222bb75f2d7f20a085b5ea22687d7edee0dea514
+Description:  Netfilter connection tracking
+
+Package: kmod-nf-flow
+Version: 5.4.51-1
+Depends: kernel (=5.4.51-1-f3635d23774daf06ecb9b5d611ccf420), kmod-nf-conntrack
+License: GPL-2.0
+Section: kernel
+Architecture: mips64_octeonplus
+Installed-Size: 12988
+Filename: kmod-nf-flow_5.4.51-1_mips64_octeonplus.ipk
+Size: 13726
+SHA256sum: d2cb08d6fc51b3d61b9b401f8bcc610eee30b51d1e8a60a4fbd582d06e23dff9
+Description:  Netfilter flowtable support
+
+Package: kmod-nf-ipt6
+Version: 5.4.51-1
+Depends: kernel (=5.4.51-1-f3635d23774daf06ecb9b5d611ccf420), kmod-nf-ipt
+License: GPL-2.0
+Section: kernel
+Architecture: mips64_octeonplus
+Installed-Size: 13700
+Filename: kmod-nf-ipt6_5.4.51-1_mips64_octeonplus.ipk
+Size: 14377
+SHA256sum: 47801bcf4ae950671c054910f8c3c3a403809ca35fe1a44a2330cc1798d1e5d9
+Description:  Ip6tables core
+
+Package: kmod-nf-ipt
+Version: 5.4.51-1
+Depends: kernel (=5.4.51-1-f3635d23774daf06ecb9b5d611ccf420)
+License: GPL-2.0
+Section: kernel
+Architecture: mips64_octeonplus
+Installed-Size: 28378
+Filename: kmod-nf-ipt_5.4.51-1_mips64_octeonplus.ipk
+Size: 29041
+SHA256sum: aac809fbeb6f087b32bb7697777db5d2f2972f591a8ebb64e332e621849327ab
+Description:  Iptables core
+
+Package: kmod-nf-nat
+Version: 5.4.51-1
+Depends: kernel (=5.4.51-1-f3635d23774daf06ecb9b5d611ccf420), kmod-nf-conntrack
+License: GPL-2.0
+Section: kernel
+Architecture: mips64_octeonplus
+Installed-Size: 15707
+Filename: kmod-nf-nat_5.4.51-1_mips64_octeonplus.ipk
+Size: 16356
+SHA256sum: 8070adb462b4d18bac8c00989c0d518a33bcde7965803a5cd09b47541745f108
+Description:  Netfilter NAT
+
+Package: kmod-nf-reject6
+Version: 5.4.51-1
+Depends: kernel (=5.4.51-1-f3635d23774daf06ecb9b5d611ccf420)
+License: GPL-2.0
+Section: kernel
+Architecture: mips64_octeonplus
+Installed-Size: 2709
+Filename: kmod-nf-reject6_5.4.51-1_mips64_octeonplus.ipk
+Size: 3440
+SHA256sum: c17037daefa8cb2309618a7b90a1e7c090452907f883f945df689f48e2c8c785
+Description:  Netfilter IPv6 reject support
+
+Package: kmod-nf-reject
+Version: 5.4.51-1
+Depends: kernel (=5.4.51-1-f3635d23774daf06ecb9b5d611ccf420)
+License: GPL-2.0
+Section: kernel
+Architecture: mips64_octeonplus
+Installed-Size: 2366
+Filename: kmod-nf-reject_5.4.51-1_mips64_octeonplus.ipk
+Size: 3088
+SHA256sum: c7c047b94752c8df80050213e24fddd38271978a2bfd5aa6c0fd4fa46e4f45cb
+Description:  Netfilter IPv4 reject support
+
+Package: kmod-ppp
+Version: 5.4.51-1
+Depends: kernel (=5.4.51-1-f3635d23774daf06ecb9b5d611ccf420), kmod-lib-crc-ccitt, kmod-slhc
+License: GPL-2.0
+Section: kernel
+Architecture: mips64_octeonplus
+Installed-Size: 27524
+Filename: kmod-ppp_5.4.51-1_mips64_octeonplus.ipk
+Size: 28234
+SHA256sum: 64c2f1bfa7dfcccd850610cb34be339362227eb791f06fe9734433da628d1dbe
+Description:  Kernel modules for PPP support
+
+Package: kmod-pppoe
+Version: 5.4.51-1
+Depends: kernel (=5.4.51-1-f3635d23774daf06ecb9b5d611ccf420), kmod-ppp, kmod-pppox
+License: GPL-2.0
+Section: kernel
+Architecture: mips64_octeonplus
+Installed-Size: 8223
+Filename: kmod-pppoe_5.4.51-1_mips64_octeonplus.ipk
+Size: 9014
+SHA256sum: 152e05fba666ae5591128cccd337b9bcf1a5cdb356da043e5b3f9e71aa3cbc2f
+Description:  Kernel module for PPPoE (PPP over Ethernet) support
+
+Package: kmod-pppox
+Version: 5.4.51-1
+Depends: kernel (=5.4.51-1-f3635d23774daf06ecb9b5d611ccf420), kmod-ppp
+License: GPL-2.0
+Section: kernel
+Architecture: mips64_octeonplus
+Installed-Size: 1934
+Filename: kmod-pppox_5.4.51-1_mips64_octeonplus.ipk
+Size: 2699
+SHA256sum: 6bacd5fe5332e9af5432412997406c723fa4737e5a15bf7a38d98eb7fbafc795
+Description:  Kernel helper module for PPPoE and PPTP support
+
+Package: kmod-slhc
+Version: 5.4.51-1
+Depends: kernel (=5.4.51-1-f3635d23774daf06ecb9b5d611ccf420), kmod-lib-crc-ccitt
+License: GPL-2.0
+Section: kernel
+Architecture: mips64_octeonplus
+Installed-Size: 4279
+Filename: kmod-slhc_5.4.51-1_mips64_octeonplus.ipk
+Size: 4994
+SHA256sum: 661d0fe015f78bad2521781f7670c525e4d9b7e33954c57cfd98f77dad544f5c
+Description:  Serial Line Header Compression
+
+Package: libgcc1
+Version: 8.4.0-2
+Provides: libgcc
+License: GPL-3.0-with-GCC-exception
+Section: libs
+Status: unknown hold not-installed
+Essential: yes
+Architecture: mips64_octeonplus
+Installed-Size: 47929
+Filename: libgcc1_8.4.0-2_mips64_octeonplus.ipk
+Size: 48684
+SHA256sum: 999c21b7efea6ca6a4740f270c304a9c54618d90a18aa0a5d74ecb40308c1f54
+Description:  GCC support library
+
+Package: libip4tc2
+Version: 1.8.4-1
+Depends: libc, libxtables12
+Provides: libip4tc
+License: GPL-2.0
+Section: libs
+CPE-ID: cpe:/a:netfilter_core_team:iptables
+Architecture: mips64_octeonplus
+Installed-Size: 22237
+Filename: libip4tc2_1.8.4-1_mips64_octeonplus.ipk
+Size: 22941
+SHA256sum: 01c19d3f2ce91e45ad174961719d774726068abc35ead8cbf4054ce9c41790f6
+Description:  IPv4 firewall - shared libiptc library
+
+Package: libip6tc2
+Version: 1.8.4-1
+Depends: libc, libxtables12
+Provides: libip6tc
+License: GPL-2.0
+Section: libs
+CPE-ID: cpe:/a:netfilter_core_team:iptables
+Architecture: mips64_octeonplus
+Installed-Size: 21939
+Filename: libip6tc2_1.8.4-1_mips64_octeonplus.ipk
+Size: 22664
+SHA256sum: 1be3e7809e36a468bc946641b8c5b937979a668b7434b580bbca574237ad169e
+Description:  IPv6 firewall - shared libiptc library
+
+Package: libiwinfo-lua
+Version: 2020-06-03-2faa20e5-1
+Depends: libc, libiwinfo20200105, liblua5.1.5
+License: GPL-2.0
+Section: lang
+Architecture: mips64_octeonplus
+Installed-Size: 6498
+Filename: libiwinfo-lua_2020-06-03-2faa20e5-1_mips64_octeonplus.ipk
+Size: 7323
+SHA256sum: cbc543f3326f50972ff65bf848166070e3671d0262a285b3bcdaf55c3905f876
+Description:  This is the Lua binding for the iwinfo library. It provides access to all enabled
+ backends.
+
+Package: libiwinfo20200105
+Version: 2020-06-03-2faa20e5-1
+Depends: libc, libuci20130104, libubus20191227
+Provides: libiwinfo
+License: GPL-2.0
+Section: libs
+Architecture: mips64_octeonplus
+Installed-Size: 16390
+Filename: libiwinfo20200105_2020-06-03-2faa20e5-1_mips64_octeonplus.ipk
+Size: 17241
+SHA256sum: e9325086a64d86a9bbf7d285eab8738a10177c814f5ce6fa11df4356147ee255
+Description:  Wireless information library with consistent interface for proprietary Broadcom,
+ nl80211 and wext driver interfaces.
+
+Package: libpthread
+Version: 1.1.24-2
+Depends: libgcc1
+License: GPL-3.0-with-GCC-exception
+Section: libs
+Status: unknown hold not-installed
+Essential: yes
+Architecture: mips64_octeonplus
+Installed-Size: 125
+Filename: libpthread_1.1.24-2_mips64_octeonplus.ipk
+Size: 884
+SHA256sum: 392a99246dc2b3d199c1e86a5003cd0d5581b02bcefd1d3b88c76b36a7eb3651
+Description:  POSIX thread library
+
+Package: librt
+Version: 1.1.24-2
+Depends: libpthread
+License: GPL-3.0-with-GCC-exception
+Section: libs
+Status: unknown hold not-installed
+Essential: yes
+Architecture: mips64_octeonplus
+Installed-Size: 125
+Filename: librt_1.1.24-2_mips64_octeonplus.ipk
+Size: 895
+SHA256sum: 54de14fb748cdce47742b9da4d229e5cf5cc1f1ab8b235e0ff9c0460aec56ebb
+Description:  POSIX.1b RealTime extension library
+
+Package: libxtables12
+Version: 1.8.4-1
+Depends: libc
+Provides: libxtables
+License: GPL-2.0
+Section: libs
+CPE-ID: cpe:/a:netfilter_core_team:iptables
+Architecture: mips64_octeonplus
+Installed-Size: 46984
+Filename: libxtables12_1.8.4-1_mips64_octeonplus.ipk
+Size: 47677
+SHA256sum: 031f9cb65746812b37d7b079e0961a528ecca34eacb9d95da592ad084d434a9d
+Description:  IPv4/IPv6 firewall - shared xtables library
+

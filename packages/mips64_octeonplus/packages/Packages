@@ -1,0 +1,12 @@
+Package: cgi-io
+Version: 19
+Depends: libc, libubox20191228, libubus20191227
+License: GPL-2.0-or-later
+Section: net
+Architecture: mips64_octeonplus
+Installed-Size: 9368
+Filename: cgi-io_19_mips64_octeonplus.ipk
+Size: 10123
+SHA256sum: 7115e9584a5010d989789d3bdbcbdd1ac2b97f0a4a96b08b647842bf67192a64
+Description:  This package contains an cgi utility that is useful for up/downloading files
+

@@ -1,0 +1,227 @@
+Package: liblucihttp-lua
+Version: 2019-07-05-a34a17d5-1
+Depends: libc, liblucihttp0, liblua5.1.5
+License: ISC
+Section: libs
+Architecture: mips64_octeonplus
+Installed-Size: 3515
+Filename: liblucihttp-lua_2019-07-05-a34a17d5-1_mips64_octeonplus.ipk
+Size: 4297
+SHA256sum: e092da963dc0d73c9422a724a1b4a738b72680da4249f9ffade1669c7158e3b6
+Description:  Lua binding for the LuCI HTTP utility library
+
+Package: liblucihttp0
+Version: 2019-07-05-a34a17d5-1
+Depends: libc
+Provides: liblucihttp
+License: ISC
+Section: libs
+Architecture: mips64_octeonplus
+Installed-Size: 7610
+Filename: liblucihttp0_2019-07-05-a34a17d5-1_mips64_octeonplus.ipk
+Size: 8395
+SHA256sum: 691bf82a9cebcec084fac2228baa8576d39be37f2a8723ae9a53f1c3a032776d
+Description:  LuCI HTTP utility library
+
+Package: luci-app-firewall
+Version: git-20.186.82319-0abcb39
+Depends: libc, firewall
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 13821
+Filename: luci-app-firewall_git-20.186.82319-0abcb39_all.ipk
+Size: 14625
+SHA256sum: ed878a902eb9bf77716c6519f3c8e514924c75da3e807bbfee651fa98c6c3b91
+Description:  Firewall and Portforwarding application
+
+Package: luci-app-opkg
+Version: git-20.184.73759-da42423
+Depends: libc, opkg
+Section: luci
+Architecture: all
+Installed-Size: 8419
+Filename: luci-app-opkg_git-20.184.73759-da42423_all.ipk
+Size: 9246
+SHA256sum: 2a1d001b17371727fdd016e3afba4641f777eba7ba0c86e171e0e70a6239c473
+Description:  OPKG package management application
+
+Package: luci-base
+Version: git-20.186.79919-0c47989
+Depends: libc, lua, luci-lib-nixio, luci-lib-ip, rpcd, libubus-lua, luci-lib-jsonc, liblucihttp-lua, rpcd-mod-file, rpcd-mod-luci, cgi-io
+License: MIT
+Section: luci
+Architecture: mips64_octeonplus
+Installed-Size: 140998
+Filename: luci-base_git-20.186.79919-0c47989_mips64_octeonplus.ipk
+Size: 142048
+SHA256sum: 6fbb6646152349d10af05f917ca1d53421b9bc652c075f0c73da83d778ef373b
+Description:  LuCI core libraries
+
+Package: luci-lib-ip
+Version: git-20.184.73759-da42423
+Depends: libc, liblua5.1.5, libnl-tiny
+License: Apache-2.0
+Section: luci
+Architecture: mips64_octeonplus
+Installed-Size: 12302
+Filename: luci-lib-ip_git-20.184.73759-da42423_mips64_octeonplus.ipk
+Size: 13080
+SHA256sum: 25fdd676c12ec42103d95bf5efde6ebfc239ae4df16ccb18c171d3460526ae51
+Description:  Lua library for IP calculation and routing information
+
+Package: luci-lib-jsonc
+Version: git-20.184.73759-da42423
+Depends: libc, liblua5.1.5, libjson-c5
+Section: luci
+Architecture: mips64_octeonplus
+Installed-Size: 4516
+Filename: luci-lib-jsonc_git-20.184.73759-da42423_mips64_octeonplus.ipk
+Size: 5314
+SHA256sum: 47b3656e7f04169ae008ed3e74931ffae48fd988a77afb94bb29ef03613b4a1f
+Description:  Lua binding for JSON-C
+
+Package: luci-lib-nixio
+Version: git-20.184.73759-da42423
+Depends: libc, liblua5.1.5
+License: Apache-2.0
+Section: luci
+Architecture: mips64_octeonplus
+Installed-Size: 31794
+Filename: luci-lib-nixio_git-20.184.73759-da42423_mips64_octeonplus.ipk
+Size: 32529
+SHA256sum: 847566aeb938d810d598bdd1c863451592ff36450683370250f4cd5b50ec30ae
+Description:  NIXIO POSIX library
+
+Package: luci-mod-admin-full
+Version: git-20.184.73759-da42423
+Depends: libc, luci-base, luci-mod-status, luci-mod-system, luci-mod-network
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 105
+Filename: luci-mod-admin-full_git-20.184.73759-da42423_all.ipk
+Size: 944
+SHA256sum: 2250876480515ab204e57facb3ae640ec85cb80ed9cf1e3259d59f30b0abd3c1
+Description:  LuCI Administration - full-featured for full control
+
+Package: luci-mod-network
+Version: git-20.184.73759-da42423
+Depends: libc, luci-base, libiwinfo-lua, rpcd-mod-iwinfo
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 33384
+Filename: luci-mod-network_git-20.184.73759-da42423_all.ipk
+Size: 34341
+SHA256sum: 1dbdd36a74afc3b6c4d7c919ed5361971b2ae7fb6e9574518c3722b7f92b91e5
+Description:  LuCI Network Administration
+
+Package: luci-mod-status
+Version: git-20.184.73759-da42423
+Depends: libc, luci-base, libiwinfo20200105, libiwinfo-lua
+License: Apache-2.0
+Section: luci
+Architecture: mips64_octeonplus
+Installed-Size: 24772
+Filename: luci-mod-status_git-20.184.73759-da42423_mips64_octeonplus.ipk
+Size: 25554
+SHA256sum: 1f7095f0978679750a2fb985666517faf8ce4c77470097d2589ebe0690ee4f94
+Description:  LuCI Status Pages
+
+Package: luci-mod-system
+Version: git-20.184.73759-da42423
+Depends: libc, luci-base, kmod-ledtrig-default-on, kmod-ledtrig-heartbeat, kmod-ledtrig-netdev, kmod-ledtrig-timer
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 16995
+Filename: luci-mod-system_git-20.184.73759-da42423_all.ipk
+Size: 17882
+SHA256sum: 9c9f65a74d40d55a87efd083766d2025cdb121a214cfe79bf81e508e5b482967
+Description:  LuCI Administration - Global System Settings
+
+Package: luci-proto-ipv6
+Version: git-20.184.73759-da42423
+Depends: libc
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 2839
+Filename: luci-proto-ipv6_git-20.184.73759-da42423_all.ipk
+Size: 3650
+SHA256sum: 8651501223eb5e42b632e428a96fea09ab9ebfdce2c566e2037e1a63e1329315
+Description:  Support for DHCPv6/6in4/6to4/6rd/DS-Lite
+
+Package: luci-proto-ppp
+Version: git-20.184.73759-da42423
+Depends: libc
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 2375
+Filename: luci-proto-ppp_git-20.184.73759-da42423_all.ipk
+Size: 3160
+SHA256sum: f8917487cbe95b19a73258975fc34382537e52282b8c45d4cff9aef8a322d832
+Description:  Support for PPP/PPPoE/PPPoA/PPtP
+
+Package: luci-ssl
+Version: git-20.184.73759-da42423
+Depends: libc, luci, libustream-mbedtls20200215, px5g
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 105
+Filename: luci-ssl_git-20.184.73759-da42423_all.ipk
+Size: 949
+SHA256sum: 0f96b2b279118168a5cac2d01d653e657214ac5982b5620fdbadb648867092fd
+Description:  LuCI with HTTPS support (mbedTLS as SSL backend)
+
+Package: luci-theme-bootstrap
+Version: git-20.184.73759-da42423
+Depends: libc
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 13168
+Filename: luci-theme-bootstrap_git-20.184.73759-da42423_all.ipk
+Size: 14020
+SHA256sum: e0a9f4675927dd9c282f3867e5ef2b14fcb97a810477827060ac12ea6d14a88e
+Description:  Bootstrap Theme (default)
+
+Package: luci
+Version: git-20.184.73759-da42423
+Depends: libc, uhttpd, uhttpd-mod-ubus, luci-mod-admin-full, luci-theme-bootstrap, luci-app-firewall, luci-app-opkg, luci-proto-ppp, libiwinfo-lua, luci-proto-ipv6, rpcd-mod-rrdns
+License: Apache-2.0
+Section: luci
+Architecture: all
+Installed-Size: 105
+Filename: luci_git-20.184.73759-da42423_all.ipk
+Size: 1025
+SHA256sum: 57f40dd22dec9d41cc47c980f70d1419d038b7009dfc143205499b486933095c
+Description:  Standard OpenWrt set including full admin with ppp support and the default Bootstrap theme
+
+Package: rpcd-mod-luci
+Version: 20191114
+Depends: libc, rpcd, libubox20191228, libubus20191227, libnl-tiny
+License: Apache-2.0
+Section: libs
+Architecture: mips64_octeonplus
+Installed-Size: 13047
+Filename: rpcd-mod-luci_20191114_mips64_octeonplus.ipk
+Size: 13859
+SHA256sum: 59c2d8690578c1baf03426831b0686de95adb65e3294dca52e0d111a99523723
+Description:  Provides LuCI backend ubus RPC operations.
+
+Package: rpcd-mod-rrdns
+Version: 20170710
+Depends: libc, rpcd, libubox20191228, libubus20191227
+License: Apache-2.0
+Section: libs
+Architecture: mips64_octeonplus
+Installed-Size: 3991
+Filename: rpcd-mod-rrdns_20170710_mips64_octeonplus.ipk
+Size: 4808
+SHA256sum: 2b9ffbe91212aecbf278fb8d5ddb2930a482eae65a6b4149c6589d52b6dd7640
+Description:  Provides rapid mass reverse DNS lookup functionality.
+
