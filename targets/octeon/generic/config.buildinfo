@@ -8,6 +8,7 @@ CONFIG_DEVEL=y
 CONFIG_IMAGEOPT=y
 CONFIG_INITOPT=y
 CONFIG_PACKAGE_cgi-io=y
+CONFIG_PACKAGE_dosfstools=y
 CONFIG_PACKAGE_kmod-ledtrig-default-on=y
 CONFIG_PACKAGE_kmod-ledtrig-heartbeat=y
 CONFIG_PACKAGE_kmod-ledtrig-netdev=y

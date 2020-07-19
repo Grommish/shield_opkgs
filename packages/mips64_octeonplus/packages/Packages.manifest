@@ -13,3 +13,20 @@ Size: 10123
 SHA256sum: 7115e9584a5010d989789d3bdbcbdd1ac2b97f0a4a96b08b647842bf67192a64
 Description:  This package contains an cgi utility that is useful for up/downloading files
 
+Package: dosfstools
+Version: 4.1-4
+Depends: libc
+Source: feeds/packages/utils/dosfstools
+SourceName: dosfstools
+License: GPL-3.0-or-later
+LicenseFiles: COPYING
+Section: utils
+CPE-ID: cpe:/a:dosfstools_project:dosfstools
+Maintainer: Álvaro Fernández Rojas <noltari@gmail.com>
+Architecture: mips64_octeonplus
+Installed-Size: 75704
+Filename: dosfstools_4.1-4_mips64_octeonplus.ipk
+Size: 76380
+SHA256sum: 2675113f29325edb4b90c988ba38ef19a575f392003cef7adf9f1876d36a85da
+Description:  The dosfstools package includes the mkfs.fat and fsck.fat utilities, which respectively make and check MS-DOS FAT filesystems.
+

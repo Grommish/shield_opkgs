@@ -2,6 +2,7 @@ base-files - 223-r13871-546e140382
 busybox - 1.31.1-1
 cgi-io - 19
 dnsmasq - 2.81-3
+dosfstools - 4.1-4
 dropbear - 2020.80-1
 e2fsprogs - 1.45.6-1
 firewall - 2019-11-22-8174814a-1
