@@ -10,8 +10,8 @@ Maintainer: Gabriel Kerneis <gabriel@kerneis.info>
 Architecture: mips64_octeonplus
 Installed-Size: 27676
 Filename: ahcpd_0.53-3_mips64_octeonplus.ipk
-Size: 28520
-SHA256sum: 63b3496a2985ffdad7e4eb89cbbbebcaf1b809d8700f6b439655a1ff532c2fa8
+Size: 28519
+SHA256sum: 24d721ef2326ec15d460f616c1a5f1363b7e17a92a3a9ca4c6fc4a2ad579a495
 Description:  Ahcpd is a daemon for configuring an IPv6 network using the Ad-Hoc
  Configuration Protocol (AHCP).  AHCP is designed for wireless mesh
  networks, where IPv6 autoconfiguration and DHCPv6 do not work, but may
@@ -27,10 +27,10 @@ LicenseFiles: LICENSES/preferred/GPL-2.0 LICENSES/preferred/MIT
 Section: net
 Maintainer: Simon Wunderlich <sw@simonwunderlich.de>
 Architecture: mips64_octeonplus
-Installed-Size: 30895
+Installed-Size: 30900
 Filename: alfred_2020.2-2_mips64_octeonplus.ipk
-Size: 31987
-SHA256sum: 2d6cf6f4382615c1143837650d86b5477d0ae7fc22e10b995d529178cff8293e
+Size: 31995
+SHA256sum: 8ff4a29b5286e440503448711cf9d204a2e0219849c99e258a62e3dd7da0aa0b
 Description:  alfred is a user space daemon for distributing arbitrary local information
  over the mesh/network in a decentralized fashion. This data can be anything
  which appears to be useful - originally designed to replace the batman-adv
@@ -55,8 +55,8 @@ Maintainer: Gabriel Kerneis <gabriel@kerneis.info>
 Architecture: mips64_octeonplus
 Installed-Size: 4713
 Filename: babel-pinger_0.1-1_mips64_octeonplus.ipk
-Size: 5496
-SHA256sum: 91ba30427f4dad9abb7d60fad622e575a969ae542ae7e7cfd815dfc63023fdca
+Size: 5494
+SHA256sum: f85f22f684bc99990dea9ec9e959758b74193d95578f94464ec1cda2614679df
 Description:  Babel-pinger is a hack to export a default route into Babel for people
  using DHCP to configure their routers rather than speaking to their
  upstream provider with a proper routing protocol.
@@ -71,10 +71,10 @@ LicenseFiles: LICENCE
 Section: net
 Maintainer: Gabriel Kerneis <gabriel@kerneis.info>, Baptiste Jonglez <openwrt-pkg@bitsofnetworks.org>
 Architecture: mips64_octeonplus
-Installed-Size: 74983
+Installed-Size: 74982
 Filename: babeld_1.9.2-1_mips64_octeonplus.ipk
-Size: 76004
-SHA256sum: 57242cb03c494100a94d4e150111464cf4c4544d324c2227cf6771fa6d0fec00
+Size: 75999
+SHA256sum: 9b226bdd55276da66dd832d5827fc6a708091d27f83fb52cf2b024f4340e3156
 Description:  Babel is a loop-avoiding distance-vector routing protocol for IPv6 and IPv4
  with fast convergence properties. It is based on the ideas in DSDV, AODV and
  Cisco's EIGRP, but is designed to work well not only in wired networks but
@@ -95,8 +95,8 @@ Maintainer: Simon Wunderlich <sw@simonwunderlich.de>
 Architecture: mips64_octeonplus
 Installed-Size: 48236
 Filename: batctl-default_2020.2-1_mips64_octeonplus.ipk
-Size: 49203
-SHA256sum: 43a2a89f423984084bc492dc703addd9a7b6f2fa92fa1f36ff3585dea0f0d692
+Size: 49200
+SHA256sum: e68dc42ae17d7fbb20d9a66cf55467a8d4382bd3a80d80d3dd6f1f8023c40d7a
 Description:  batctl is a more intuitive managment utility for B.A.T.M.A.N.-Advanced.
  It is an easier method for configuring batman-adv and provides some
  additional tools for debugging as well. This package builds
@@ -117,8 +117,8 @@ Maintainer: Simon Wunderlich <sw@simonwunderlich.de>
 Architecture: mips64_octeonplus
 Installed-Size: 57088
 Filename: batctl-full_2020.2-1_mips64_octeonplus.ipk
-Size: 58024
-SHA256sum: b7bc97ea6129ce095d9f3fa653f9ab30fbb2213648faff6cedc5258801776c4b
+Size: 58033
+SHA256sum: b82a0d8d6004c341f4f580f5b1e1f7cea1d649ec937fd85a6cc5188b0662bc7e
 Description:  batctl is a more intuitive managment utility for B.A.T.M.A.N.-Advanced.
  It is an easier method for configuring batman-adv and provides some
  additional tools for debugging as well. This package builds
@@ -137,10 +137,10 @@ LicenseFiles: LICENSES/preferred/GPL-2.0 LICENSES/preferred/MIT LICENSES/depreca
 Section: net
 Maintainer: Simon Wunderlich <sw@simonwunderlich.de>
 Architecture: mips64_octeonplus
-Installed-Size: 17883
+Installed-Size: 17884
 Filename: batctl-tiny_2020.2-1_mips64_octeonplus.ipk
-Size: 18827
-SHA256sum: 1c0bea56e023ba8c978840a991a91739de6ad63fce1420b589491393e73fb8b8
+Size: 18831
+SHA256sum: 8b2c3c63080b536b937200ef3cb7f46bf99462d7adbe84cf40796b6e6005e596
 Description:  batctl is a more intuitive managment utility for B.A.T.M.A.N.-Advanced.
  It is an easier method for configuring batman-adv and provides some
  additional tools for debugging as well. This package builds
@@ -156,10 +156,10 @@ License: GPL-2.0
 Section: net
 Maintainer: Corinna "Elektra" Aichele <onelektra@gmx.net>
 Architecture: mips64_octeonplus
-Installed-Size: 43587
+Installed-Size: 43588
 Filename: batmand_1440-1_mips64_octeonplus.ipk
-Size: 44375
-SHA256sum: 63b541e69e62dfd03710c476181f75440fa5cbc6089d08b9e08f697295c045a5
+Size: 44365
+SHA256sum: 55e0a893c71fdafbe6ec6789f73b6a550886687090f828c0c344d4d2f531bc98
 Description:  B.A.T.M.A.N. layer 3 routing daemon
 
 Package: bird1-ipv4-uci
@@ -171,10 +171,10 @@ License: GPL-3.0+
 Section: net
 Maintainer: Eloi Carbo <eloicaso@openmailbox.org>
 Architecture: mips64_octeonplus
-Installed-Size: 6743
+Installed-Size: 6740
 Filename: bird1-ipv4-uci_0.3-1_mips64_octeonplus.ipk
-Size: 7741
-SHA256sum: 5b4530d9d7fe9ce89e98973d6774c6ad61aac029961ec8f921a4d8b19c671c19
+Size: 7737
+SHA256sum: 90e309246a9d3b347fdb4160f3b050f11b4180901f26da00e436aeb95066d8de
 Description:  bird1-ipv4 UCI integration module
 
 Package: bird1-ipv4
@@ -187,10 +187,10 @@ License: GPL-2.0
 Section: net
 Maintainer: Álvaro Fernández Rojas <noltari@gmail.com>
 Architecture: mips64_octeonplus
-Installed-Size: 267437
+Installed-Size: 267438
 Filename: bird1-ipv4_1.6.8-1_mips64_octeonplus.ipk
-Size: 268244
-SHA256sum: cb6c22df4d9cfbfc5d881f2f5a55f838b30e2a81234f860556f9e37af07c7eea
+Size: 268306
+SHA256sum: e349d1fbb79f70327fd4952137e1a601ae28ba75cf6d5223f49ced59efbf5d31
 Description:  BIRD is an internet routing daemon which manages TCP/IP routing tables
  with support of modern routing protocols, easy to use configuration
  interface and powerful route filtering language. It is lightweight and
@@ -219,10 +219,10 @@ License: GPL-3.0+
 Section: net
 Maintainer: Eloi Carbo <eloicaso@openmailbox.org>
 Architecture: mips64_octeonplus
-Installed-Size: 5901
+Installed-Size: 5902
 Filename: bird1-ipv6-uci_0.3-1_mips64_octeonplus.ipk
-Size: 6834
-SHA256sum: 7b84bed9e32a19e921c8f403d8f24306a662871f6b12a268f6a1b55867774ae7
+Size: 6830
+SHA256sum: fee2c88b52133335326b6fc77d8acb72c9c88f591f7991e5e23bf349266c5a21
 Description:  bird1-ipv6 UCI integration module
 
 Package: bird1-ipv6
@@ -237,8 +237,8 @@ Maintainer: Álvaro Fernández Rojas <noltari@gmail.com>
 Architecture: mips64_octeonplus
 Installed-Size: 303382
 Filename: bird1-ipv6_1.6.8-1_mips64_octeonplus.ipk
-Size: 304147
-SHA256sum: 40e070b9a7dcc37699b47be70af7e164a69b417d249146b85944500cd15dd717
+Size: 304196
+SHA256sum: 3de18b4277c84b82807d6a3382e3363bf393ce4d7669070aa6edfe4e54041234
 Description:  BIRD is an internet routing daemon which manages TCP/IP routing tables
  with support of modern routing protocols, easy to use configuration
  interface and powerful route filtering language. It is lightweight and
@@ -270,8 +270,8 @@ Maintainer: Álvaro Fernández Rojas <noltari@gmail.com>
 Architecture: mips64_octeonplus
 Installed-Size: 10607
 Filename: bird1c-ipv4_1.6.8-1_mips64_octeonplus.ipk
-Size: 11774
-SHA256sum: f526c247b3e972197898582bc4a9abb5a1aaf863165e13b80afb5d8bd62aacda
+Size: 11780
+SHA256sum: 4256ed1884ebc91e2abac45d573756314234be2d8ddc27b34904b7d6113463c0
 Description:  BIRD is an internet routing daemon which manages TCP/IP routing tables
  with support of modern routing protocols, easy to use configuration
  interface and powerful route filtering language. It is lightweight and
@@ -303,7 +303,7 @@ Architecture: mips64_octeonplus
 Installed-Size: 10687
 Filename: bird1c-ipv6_1.6.8-1_mips64_octeonplus.ipk
 Size: 11879
-SHA256sum: 3f7a93940454c5be4a7c4f687e7543911cf30aee9e9a63835707fdb7d161700c
+SHA256sum: 3e39b39dca6773bbdb9ef041512113d0f98b5ccdbee5c5df3183c6c848013daa
 Description:  BIRD is an internet routing daemon which manages TCP/IP routing tables
  with support of modern routing protocols, easy to use configuration
  interface and powerful route filtering language. It is lightweight and
@@ -332,10 +332,10 @@ License: GPL-2.0
 Section: net
 Maintainer: Álvaro Fernández Rojas <noltari@gmail.com>
 Architecture: mips64_octeonplus
-Installed-Size: 10078
+Installed-Size: 10077
 Filename: bird1cl-ipv4_1.6.8-1_mips64_octeonplus.ipk
-Size: 11202
-SHA256sum: 06ae8ccdd5509a0cdf5188b131675897b1b62adaeff4c0129b06597f9433381f
+Size: 11201
+SHA256sum: 769e52ace63826ae22d1cecfd8eaf615cc8c1ca8c5ad60318f3d685d9ec078d5
 Description:  BIRD is an internet routing daemon which manages TCP/IP routing tables
  with support of modern routing protocols, easy to use configuration
  interface and powerful route filtering language. It is lightweight and
@@ -363,8 +363,8 @@ Maintainer: Álvaro Fernández Rojas <noltari@gmail.com>
 Architecture: mips64_octeonplus
 Installed-Size: 10158
 Filename: bird1cl-ipv6_1.6.8-1_mips64_octeonplus.ipk
-Size: 11277
-SHA256sum: 95d965de30800ddf2c2b7712738985e45d0558658d021efe01ce47805a3a6b6b
+Size: 11280
+SHA256sum: a22f2d66bc26f0e2ed5feeeb399f7038534df6a254267687e7d5dd853c1cfad5
 Description:  BIRD is an internet routing daemon which manages TCP/IP routing tables
  with support of modern routing protocols, easy to use configuration
  interface and powerful route filtering language. It is lightweight and
@@ -390,10 +390,10 @@ License: GPL-2.0
 Section: net
 Maintainer: Toke Høiland-Jørgensen <toke@toke.dk>
 Architecture: mips64_octeonplus
-Installed-Size: 402451
+Installed-Size: 402450
 Filename: bird2_2.0.7-2_mips64_octeonplus.ipk
-Size: 402506
-SHA256sum: 466ede6033c8e18b7c7705fdd53766ab26156910ba1c8cef95124aa3a0b50aa4
+Size: 402533
+SHA256sum: ac88441ef15659afeb02eaad531606d17add5bbc1e38e4a4091e42bf5b24e078
 Description:  BIRD is an internet routing daemon which manages TCP/IP routing tables
  with support of modern routing protocols, easy to use configuration
  interface and powerful route filtering language. It is lightweight and
@@ -424,8 +424,8 @@ Maintainer: Toke Høiland-Jørgensen <toke@toke.dk>
 Architecture: mips64_octeonplus
 Installed-Size: 10843
 Filename: bird2c_2.0.7-2_mips64_octeonplus.ipk
-Size: 11924
-SHA256sum: 54bf1cdf7d73aab12ce975824817436ca42b1dcb8769a4a800c927dda34ee645
+Size: 11934
+SHA256sum: a8cc8b9db0cb13f8646a148ddbdd54f981e3ef170e1766baeedffdaff31c1f97
 Description:  BIRD is an internet routing daemon which manages TCP/IP routing tables
  with support of modern routing protocols, easy to use configuration
  interface and powerful route filtering language. It is lightweight and
@@ -450,10 +450,10 @@ License: GPL-2.0
 Section: net
 Maintainer: Toke Høiland-Jørgensen <toke@toke.dk>
 Architecture: mips64_octeonplus
-Installed-Size: 10044
+Installed-Size: 10045
 Filename: bird2cl_2.0.7-2_mips64_octeonplus.ipk
-Size: 11073
-SHA256sum: 34102d1b4714ad76722bae33632d06ad4b905a1e7bbedaa0e97bf8c7ddcdb792
+Size: 11072
+SHA256sum: 29106f0ae7c6562c698436a345a8147f59f7ff303cfa5e4d040b830440512ee8
 Description:  BIRD is an internet routing daemon which manages TCP/IP routing tables
  with support of modern routing protocols, easy to use configuration
  interface and powerful route filtering language. It is lightweight and
@@ -474,10 +474,10 @@ License: GPL-2.0
 Section: net
 Maintainer: Axel Neumann <neumann@cgws.de>
 Architecture: mips64_octeonplus
-Installed-Size: 6841
+Installed-Size: 6842
 Filename: bmx6-json_r2018051214-1_mips64_octeonplus.ipk
-Size: 7608
-SHA256sum: 7693fcdd920a84ca00380ec373559a444055d878477b89bbc943b9e96edcf55d
+Size: 7603
+SHA256sum: 9b7d0a162223afe3aecad03fd40e48bbade490559fb9f0dde2a7db5733b44035
 Description:  json plugin based on json-c
 
 Package: bmx6-sms
@@ -491,8 +491,8 @@ Maintainer: Axel Neumann <neumann@cgws.de>
 Architecture: mips64_octeonplus
 Installed-Size: 5466
 Filename: bmx6-sms_r2018051214-1_mips64_octeonplus.ipk
-Size: 6199
-SHA256sum: 57b3884b0316c6e590f0d1a1b5a214a2dcbba6ea283668e1556a3a8990b8ccd1
+Size: 6198
+SHA256sum: 2d892ac9b26e3ea66e4b6dcd666c09ee572021e8b86d05916024b01079f69e3c
 Description:  sms plugin
 
 Package: bmx6-table
@@ -506,8 +506,8 @@ Maintainer: Axel Neumann <neumann@cgws.de>
 Architecture: mips64_octeonplus
 Installed-Size: 9478
 Filename: bmx6-table_r2018051214-1_mips64_octeonplus.ipk
-Size: 10240
-SHA256sum: 634b5723824a9e2693551321a93c44540d59bf30df44b103415ead77110dfc77
+Size: 10236
+SHA256sum: a5536df8a19dc67687b3412e2c83a8f1b25666fc4d5abe6f4ff0cba6ebba3be9
 Description:  bmx6 table plugin to automatic announce routing-table routes via ip6ip tunnels
 
 Package: bmx6-uci-config
@@ -519,10 +519,10 @@ License: GPL-2.0
 Section: net
 Maintainer: Axel Neumann <neumann@cgws.de>
 Architecture: mips64_octeonplus
-Installed-Size: 8876
+Installed-Size: 8875
 Filename: bmx6-uci-config_r2018051214-1_mips64_octeonplus.ipk
 Size: 9691
-SHA256sum: 7c48116985d5a4bac6870073be8d95bd99ceb09915b0ef73e40392f78697c760
+SHA256sum: f02a004454213ce6bf04d7e99da99e3284870bcad147e3caeae1dd86dfe64ed4
 Description:  configuration plugin based on uci (recommended!)
 
 Package: bmx6
@@ -536,8 +536,8 @@ Maintainer: Axel Neumann <neumann@cgws.de>
 Architecture: mips64_octeonplus
 Installed-Size: 153438
 Filename: bmx6_r2018051214-1_mips64_octeonplus.ipk
-Size: 154117
-SHA256sum: 9d0ce8dfeadf790c9872a4b6f6062e27ac963d3fee990eae4e25f3c9d592070c
+Size: 154114
+SHA256sum: a24f7097c076df3a0904fe4594b3805146239cb8b27a7420e71ec2a47ced64cd
 Description:  BMX6 layer 3 routing daemon supporting IPv4, IPv6, and IPv4 over IPv6
 
 Package: bmx7-iwinfo
@@ -550,10 +550,10 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: Axel Neumann <neumann@cgws.de>
 Architecture: mips64_octeonplus
-Installed-Size: 4249
+Installed-Size: 4250
 Filename: bmx7-iwinfo_7.1.1-2_mips64_octeonplus.ipk
-Size: 5023
-SHA256sum: 93b4de5fe166910fc145619449c29371e5c50ccfdd0d3a00e027c8c4956d08b7
+Size: 5029
+SHA256sum: 120aa8f074b0a0ed088e519a62498d6feaaa5bd2f2d31fb680bbd6ab3da48e3c
 Description:  link characteristics plugin via libiwinfo (recommended!)
 
 Package: bmx7-json
@@ -566,10 +566,10 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: Axel Neumann <neumann@cgws.de>
 Architecture: mips64_octeonplus
-Installed-Size: 8327
+Installed-Size: 8328
 Filename: bmx7-json_7.1.1-2_mips64_octeonplus.ipk
-Size: 9097
-SHA256sum: b68c1a600d8b970c14f014d79c71e247c637459b4c0ccf9c1b73b7c0c4b25cde
+Size: 9098
+SHA256sum: 6f78a626a1e20ed5e62c8ec5054d7ceeb084aac708f8dbc12532ebb9357ecec2
 Description:  json plugin based on json-c
 
 Package: bmx7-sms
@@ -582,10 +582,10 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: Axel Neumann <neumann@cgws.de>
 Architecture: mips64_octeonplus
-Installed-Size: 5968
+Installed-Size: 5969
 Filename: bmx7-sms_7.1.1-2_mips64_octeonplus.ipk
-Size: 6687
-SHA256sum: c64f38f15f8f8db494fa5c5926cab8617c92b58f746dd4c6b49e150360025049
+Size: 6692
+SHA256sum: aa71706e0feb95d5675b79b3704eb1de87ec5348a74c11206186963df60730e3
 Description:  sms plugin
 
 Package: bmx7-table
@@ -598,10 +598,10 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: Axel Neumann <neumann@cgws.de>
 Architecture: mips64_octeonplus
-Installed-Size: 10698
+Installed-Size: 10695
 Filename: bmx7-table_7.1.1-2_mips64_octeonplus.ipk
-Size: 11453
-SHA256sum: e27f2dfec5b44bc4ea24c85435d922739966913c0cc704c8873b665f07fa3a9a
+Size: 11451
+SHA256sum: 1a163430e6d15ae0f11b1ebb4c0cfe407a3ab1e53ae2e04c60e412448baa0269
 Description:  plugin to announce routes from tables via tunnels
 
 Package: bmx7-topology
@@ -614,10 +614,10 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: Axel Neumann <neumann@cgws.de>
 Architecture: mips64_octeonplus
-Installed-Size: 5417
+Installed-Size: 5418
 Filename: bmx7-topology_7.1.1-2_mips64_octeonplus.ipk
-Size: 6170
-SHA256sum: 06e0dc8f03474cd1695536f1160704d509fcd4b53bebbe05a401e7549711c1eb
+Size: 6167
+SHA256sum: 776fc86e813089038b1795e4f130bc83662aeb320d2517628613054097d6867d
 Description:  topology plugin
 
 Package: bmx7-tun
@@ -632,8 +632,8 @@ Maintainer: Axel Neumann <neumann@cgws.de>
 Architecture: mips64_octeonplus
 Installed-Size: 29094
 Filename: bmx7-tun_7.1.1-2_mips64_octeonplus.ipk
-Size: 29773
-SHA256sum: 4fcb796f8755a88eea7da543b10d69b57daa69fd00775c17e92c4a4ae7f99a3a
+Size: 29767
+SHA256sum: df7e44502cdb7301dffe4344ccf0bcae87351a4f5b19ffd26c70b50093283288
 Description:  ipip-based tunnel plugin (recommended!)
 
 Package: bmx7-uci-config
@@ -646,10 +646,10 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: Axel Neumann <neumann@cgws.de>
 Architecture: mips64_octeonplus
-Installed-Size: 8661
+Installed-Size: 8658
 Filename: bmx7-uci-config_7.1.1-2_mips64_octeonplus.ipk
-Size: 9465
-SHA256sum: 15fe61ed3b9acb6eaeca7f5730709472e95e2ba9204b7a87213af0ac5d41dd18
+Size: 9472
+SHA256sum: d799c38a3790686ed3bb8abcbe6ef70206d9ef1804c2f52349b8b6fe3ecc771b
 Description:  configuration plugin based on uci (recommended!)
 
 Package: bmx7
@@ -662,10 +662,10 @@ LicenseFiles: LICENSE
 Section: net
 Maintainer: Axel Neumann <neumann@cgws.de>
 Architecture: mips64_octeonplus
-Installed-Size: 188472
+Installed-Size: 188470
 Filename: bmx7_7.1.1-2_mips64_octeonplus.ipk
-Size: 188972
-SHA256sum: 6f9b07105ff355acea19a7d4ebc5f079a8ca8ebc6f694995b723750ba4f697ba
+Size: 188982
+SHA256sum: 740bd34c1ef1211a32c15c2cf2e0de0b55dc58eb699fd9f7d3d430fdf2ceff10
 Description:  BMX7 routing daemon supporting securely-entrusted IPv6 (and IPv4in6) routing
 
 Package: hnet-full-l2tp
@@ -677,10 +677,10 @@ License: GPL-2.0
 Section: net
 Maintainer: Steven Barth <cyrus@openwrt.org>
 Architecture: mips64_octeonplus
-Installed-Size: 550
+Installed-Size: 552
 Filename: hnet-full-l2tp_2016-06-28-606d7e904603ad8792ac1a7ba825618df97b5a4e-2_mips64_octeonplus.ipk
-Size: 1416
-SHA256sum: 8160d470f761e45420d1db0fe4c73663aadd981255d971a7c5e4488399fb003f
+Size: 1412
+SHA256sum: f2c3e96cc2c3cc8ba935c9043dc34f0b0e81370f482a39dfc8f502e16c71059e
 Description:  HNCP Homenet metapackage (w/ L2TP)
 
 Package: hnet-full-secure
@@ -694,8 +694,8 @@ Maintainer: Steven Barth <cyrus@openwrt.org>
 Architecture: mips64_octeonplus
 Installed-Size: 105
 Filename: hnet-full-secure_2016-06-28-606d7e904603ad8792ac1a7ba825618df97b5a4e-2_mips64_octeonplus.ipk
-Size: 948
-SHA256sum: b59717c2a6485dc863d863163846ed25ff26012881950578567adb4d7b795a23
+Size: 944
+SHA256sum: 96a7293ac444e6dc3971e63af19019aff48bea7104b2b5fd2e988bb7d28c0696
 Description:  HNCP Homenet metapackage (w/ SSL)
 
 Package: hnet-full
@@ -709,8 +709,8 @@ Maintainer: Steven Barth <cyrus@openwrt.org>
 Architecture: mips64_octeonplus
 Installed-Size: 105
 Filename: hnet-full_2016-06-28-606d7e904603ad8792ac1a7ba825618df97b5a4e-2_mips64_octeonplus.ipk
-Size: 925
-SHA256sum: d9ba9df8067cbd2b80f8d270155257d955abfa7f68a6637696a29797a155601d
+Size: 923
+SHA256sum: 95991d666f6ef9760e718eb12299c5f578f8f40b2b6987bc96a0db767bad0196
 Description:  HNCP Homenet metapackage
 
 Package: hnetd-nossl
@@ -722,10 +722,10 @@ License: GPL-2.0
 Section: net
 Maintainer: Steven Barth <cyrus@openwrt.org>
 Architecture: mips64_octeonplus
-Installed-Size: 122978
+Installed-Size: 122977
 Filename: hnetd-nossl_2016-06-28-606d7e904603ad8792ac1a7ba825618df97b5a4e-2_mips64_octeonplus.ipk
-Size: 123875
-SHA256sum: f61b617d20d3408db45b3cc13cbb74f107653e47ac574c2e9c27aa7fdd1821d7
+Size: 123857
+SHA256sum: 6226a1ba6394f0c87be57f3236503004fbcc4f2e2a783cc8201214f387258238
 Description:  This package provides a daemon which implementats distributed prefix assignment
  and service discovery for a home network consisting of multiple routers
  connected to multiple service providers. It provides a netifd protocol "hnet"
@@ -740,10 +740,10 @@ License: GPL-2.0
 Section: net
 Maintainer: Steven Barth <cyrus@openwrt.org>
 Architecture: mips64_octeonplus
-Installed-Size: 136098
+Installed-Size: 136097
 Filename: hnetd-openssl_2016-06-28-606d7e904603ad8792ac1a7ba825618df97b5a4e-2_mips64_octeonplus.ipk
-Size: 136915
-SHA256sum: 656e705df656f21b115bfa750c6b89c92a9675df151a94900bc9cdd0d05c702a
+Size: 136947
+SHA256sum: 3e9be36f375c1013e37061b55e269e7d7d638a3fd4c7a2d4dc879fe3473de1b1
 Description:  This package provides a daemon which implementats distributed prefix assignment
  and service discovery for a home network consisting of multiple routers
  connected to multiple service providers. It provides a netifd protocol "hnet"
@@ -760,8 +760,8 @@ Maintainer: Eloi Carbo <eloicaso@openmailbox.org>
 Architecture: mips64_octeonplus
 Installed-Size: 7429
 Filename: luci-app-bird1-ipv4_0.3-1_mips64_octeonplus.ipk
-Size: 8230
-SHA256sum: bfde093165c83cd689e223dfcfd05f043aa27b8def7ccfd6d3b8c29ea7d4a659
+Size: 8229
+SHA256sum: 32785fe95c5d9b60f627903c61b43ea835de1a1235be74643523c3c7b54e2db3
 Description:  bird4 application for LuCI
 
 Package: luci-app-bird1-ipv6
@@ -773,10 +773,10 @@ License: GPL-3.0+
 Section: luci
 Maintainer: Eloi Carbo <eloicaso@openmailbox.org>
 Architecture: mips64_octeonplus
-Installed-Size: 7476
+Installed-Size: 7475
 Filename: luci-app-bird1-ipv6_0.3-1_mips64_octeonplus.ipk
-Size: 8273
-SHA256sum: 49ccdcd5b2770f38b28498641b97c08f22696adf6e947ee77cb131aad2d82d8a
+Size: 8267
+SHA256sum: 4b2d55faf149d83a46464f5cbe013cfad0f1eab294b1e55c16532230b479a736
 Description:  bird6 application for LuCI
 
 Package: luci-app-bmx6
@@ -788,10 +788,10 @@ License: GPL-2.0+
 Section: luci
 Maintainer: Pau Escrich <p4u@dabax.net>
 Architecture: mips64_octeonplus
-Installed-Size: 30315
+Installed-Size: 30314
 Filename: luci-app-bmx6_6_mips64_octeonplus.ipk
-Size: 31129
-SHA256sum: c346b791d65304807bae4ca6b162c243ff83a1d36bafa8b11dfb9052732d2668
+Size: 31130
+SHA256sum: 65a63af64fdae18f790f8ff71df7db23aebac97bf86b2e82e999a913686ce7d8
 Description:  bmx6 web application (status and configuration) for LuCi web interface
 
 Package: luci-app-cjdns
@@ -803,10 +803,10 @@ License: GPL-3.0-or-later
 Section: luci
 Maintainer: William Fleurant <meshnet@protonmail.com>
 Architecture: mips64_octeonplus
-Installed-Size: 5616
+Installed-Size: 5615
 Filename: luci-app-cjdns_1.3-8_mips64_octeonplus.ipk
-Size: 6508
-SHA256sum: ffbbab220503075939168fa4ca0e880488d800c800778dd8a1ea6aa60d81f02f
+Size: 6503
+SHA256sum: 0b8a3e38188f1747537e3d73365921477559034f9e1732aed29bceef0f13065a
 Description:  Cjdns implements an encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing. This provides near-zero-configuration networking, and prevents many of the security and scalability issues that plague existing networks.
 
 Package: luci-app-hnet
@@ -818,10 +818,10 @@ License: GPL-2.0
 Section: luci
 Maintainer: Steven Barth <cyrus@openwrt.org>
 Architecture: mips64_octeonplus
-Installed-Size: 56784
+Installed-Size: 56786
 Filename: luci-app-hnet_2016-06-28-606d7e904603ad8792ac1a7ba825618df97b5a4e-2_mips64_octeonplus.ipk
-Size: 57646
-SHA256sum: e49e0b5b441d8b21f57c9581a40fb46d802aed60c4b266507714bed724d4cd6a
+Size: 57643
+SHA256sum: eb6683dfd673b6fc3a08413e3f9bf9eb87ffa90e3b6cc98f2ce4d7cf0946c3e8
 Description:  HNCP Homenet configuration and visualization
 
 Package: luci-lib-dracula
@@ -833,10 +833,10 @@ License: GPL-2.0+
 Section: luci
 Maintainer: Pau Escrich <p4u@dabax.net>
 Architecture: mips64_octeonplus
-Installed-Size: 23290
+Installed-Size: 23288
 Filename: luci-lib-dracula_6_mips64_octeonplus.ipk
-Size: 23997
-SHA256sum: cbb7c2ec12ba855cbc5ed09bf5031c25b4b1b27b24c92907198d5285e1417d80
+Size: 24002
+SHA256sum: 30d5259104971d027d3a1a228c63ee749d898dd1a20a3d84fd7070fb6d6d867d
 Description:  dracula graph javascript library
 
 Package: luci-lib-jquery-1-4
@@ -848,10 +848,10 @@ License: GPL-2.0+
 Section: luci
 Maintainer: Gui Iribarren <gui@altermundi.net>
 Architecture: mips64_octeonplus
-Installed-Size: 24824
+Installed-Size: 24823
 Filename: luci-lib-jquery-1-4_6_mips64_octeonplus.ipk
-Size: 25554
-SHA256sum: 1cbeb9a8a32e5dc57be994a61ced1fa7a6885c14c93b3f41a6912580c464aadf
+Size: 25557
+SHA256sum: fa3e10f78b8cde9ea4db8fb26fe04fa327ecb6505afaf4b60a156faa0b7efdaf
 Description:  minified javascript jQuery 1.4 library
 
 Package: mcproxy
@@ -863,10 +863,10 @@ License: GPL-2.0+
 Section: net
 Maintainer: Steven Barth <cyrus@openwrt.org>
 Architecture: mips64_octeonplus
-Installed-Size: 183404
+Installed-Size: 183407
 Filename: mcproxy_2017-08-24-93b5ace42268160ebbfff4c61818fb15fa2d9b99-2_mips64_octeonplus.ipk
-Size: 184139
-SHA256sum: 2ffc326c8215b69060740d09219a4805be0915afbf95c6ad56f5fe55c1d60164
+Size: 184150
+SHA256sum: 30338c936f2eb1f733b6b4addd170fcee6c6baad6604e084ce2a09f3f83fa624
 Description:  mcproxy is a free & open source implementation of the IGMP/MLD proxy function (see  RFC 4605) for Linux systems.
  It operates on the kernel tables for multicast routing and allows for multiple instantiations,
  as well as dynamically changing downstream interfaces.
@@ -880,10 +880,10 @@ License: GPL-2.0
 Section: net
 Maintainer: Markus Stenberg <fingon@iki.fi>
 Architecture: mips64_octeonplus
-Installed-Size: 7989
+Installed-Size: 7990
 Filename: minimalist-pcproxy_2015-01-12-2d6d1b0b0a3b79a9b4a9b0a7606a84600a967bcb-1_mips64_octeonplus.ipk
-Size: 9036
-SHA256sum: 009c6ae74da667359ab2885784305bf2e601e12f13152d167242dc0ce924f8fc
+Size: 9032
+SHA256sum: 4e6e0dc60cee1aad5b3d0d469675e6686465489f38f2a342cfaa0270c2725f73
 Description:  This package contains a daemon which can be used to forward
  PCP (Port Control Protocol - RFC6887) requests requests to PCP remote servers.
  
@@ -900,10 +900,10 @@ License: GPL-2.0+
 Section: net
 Maintainer: Steven Barth <cyrus@openwrt.org>
 Architecture: mips64_octeonplus
-Installed-Size: 262466
+Installed-Size: 262464
 Filename: mrd6_2013-11-30-c805eb33255dbc0b6647d463c6c67d1c9d3105a0-2_mips64_octeonplus.ipk
-Size: 263279
-SHA256sum: 7bcb3d50f2c2f4d42c44705b42c90394da2223561571e6a7b0acc13151121e3d
+Size: 263245
+SHA256sum: 51090c37cade19d80bca03ab8e3d9365390fe479ee46dcb0bc8d2f6a4d10bab7
 Description:  Multicast is becoming a major component in next generation networks, used 
  in several scenarios, from video broadcasting to multimedia conferencing. 
  In order to be implemented, new technology needs supporting hardware and 
@@ -920,10 +920,10 @@ License: GPL-3.0+
 Section: net
 Maintainer: Gabriel Kerneis <gabriel@kerneis.info>
 Architecture: mips64_octeonplus
-Installed-Size: 65072
+Installed-Size: 65073
 Filename: ndppd_0.2.5-1_mips64_octeonplus.ipk
-Size: 66100
-SHA256sum: 08f7e7d5e2e625118cb0222ac4e78ff92fb62d8b8a459992f48441a66d1e4992
+Size: 66103
+SHA256sum: e89ede18887e9a7204b913bf9b6264c8b6cd23683ce65b112df7d43fc1e44820
 Description:  ndppd, or NDP Proxy Daemon, is a daemon that proxies NDP (Neighbor Discovery
  Protocol) messages between interfaces.  ndppd currently only supports Neighbor
  Solicitation Messages and Neighbor Advertisement Messages.
@@ -943,10 +943,10 @@ License: GPL-2.0+
 Section: net
 Maintainer: Moritz Warning <moritzwarning@web.de>
 Architecture: mips64_octeonplus
-Installed-Size: 51458
+Installed-Size: 51462
 Filename: nodogsplash_5.0.0-1_mips64_octeonplus.ipk
-Size: 52510
-SHA256sum: aacace01f14510e7a6ae8bfe8b8db6b0f57f0f68f953d383a05901f9ff0f7798
+Size: 52516
+SHA256sum: c94ba3f55cb782508628231d3b87c6b9c09ec5074fb094a13376395363b780d6
 Description:  Nodogsplash is a Captive Portal that offers a simple way to
  provide restricted access to the Internet by showing a splash
  page to the user before Internet access is granted.
@@ -962,10 +962,10 @@ License: GPL-2.0
 Section: net
 Maintainer: Steven Barth <cyrus@openwrt.org>
 Architecture: mips64_octeonplus
-Installed-Size: 17540
+Installed-Size: 17541
 Filename: ohybridproxy_2020-05-22-0dfef1eb5f067250a5f24a899536879ea4fdc4c5-1_mips64_octeonplus.ipk
-Size: 18351
-SHA256sum: 5ed93194c16aa7b8525fd1fc5143c1e0d3d59d8bb36f178d2366a8646356e4ca
+Size: 18332
+SHA256sum: c5e36e77b6176a48676e1047de8d5f5db23b56f4c3cfd86df8eb45a109b57f3e
 Description:  This package provides a statically configured daemon for translating DNS
  requests to Multicast DNS and back again.
 
@@ -980,8 +980,8 @@ Maintainer: Saverio Proto <zioproto@gmail.com>
 Architecture: mips64_octeonplus
 Installed-Size: 2241
 Filename: olsrd-mod-arprefresh_2020-06-18-84400e5c-1_mips64_octeonplus.ipk
-Size: 2981
-SHA256sum: b152dce88a79299ececb8dbc5b1ee36b9406720040c37fa9099f11e85119d21d
+Size: 2980
+SHA256sum: a9eece776d5b452bba8dc6ef93f3b7d4a055e345a68e9201700dbe7c8166b352
 Description:  Kernel ARP cache refresh plugin
 
 Package: olsrd-mod-bmf
@@ -995,8 +995,8 @@ Maintainer: Saverio Proto <zioproto@gmail.com>
 Architecture: mips64_octeonplus
 Installed-Size: 12748
 Filename: olsrd-mod-bmf_2020-06-18-84400e5c-1_mips64_octeonplus.ipk
-Size: 13509
-SHA256sum: 236bc91b2af5c4fe4ab65f469083c67d227eb1cb32f6fc98d97527a68b2ccf9c
+Size: 13506
+SHA256sum: 11070f5c0c4c78c9a14e8025b28b1829aafaad713e1079949c023db3e54de498
 Description:  Basic multicast forwarding plugin
 
 Package: olsrd-mod-dot-draw
@@ -1010,8 +1010,8 @@ Maintainer: Saverio Proto <zioproto@gmail.com>
 Architecture: mips64_octeonplus
 Installed-Size: 3984
 Filename: olsrd-mod-dot-draw_2020-06-18-84400e5c-1_mips64_octeonplus.ipk
-Size: 4738
-SHA256sum: 261559048916fafae532dfbca6654e179f2826ca81599627f2073fa84356481c
+Size: 4732
+SHA256sum: 251b5de521a0f74ee3dd24096c92868d2eb1ad86d3467ff45f527aec847b8aa8
 Description:  Dot topology information plugin
 
 Package: olsrd-mod-dyn-gw-plain
@@ -1023,10 +1023,10 @@ License: BSD-3-Clause
 Section: net
 Maintainer: Saverio Proto <zioproto@gmail.com>
 Architecture: mips64_octeonplus
-Installed-Size: 2489
+Installed-Size: 2490
 Filename: olsrd-mod-dyn-gw-plain_2020-06-18-84400e5c-1_mips64_octeonplus.ipk
-Size: 3230
-SHA256sum: a224f12f0ef06b60d0a749243d52709b9205c407978500a226a3f7bc6fa7c461
+Size: 3232
+SHA256sum: 0c1b3e1e8d87a6c48766d531daeb493e16aefccb289f010c17b02ddc7042ca03
 Description:  Dynamic internet gateway plain plugin
 
 Package: olsrd-mod-dyn-gw
@@ -1038,10 +1038,10 @@ License: BSD-3-Clause
 Section: net
 Maintainer: Saverio Proto <zioproto@gmail.com>
 Architecture: mips64_octeonplus
-Installed-Size: 4426
+Installed-Size: 4427
 Filename: olsrd-mod-dyn-gw_2020-06-18-84400e5c-1_mips64_octeonplus.ipk
 Size: 5174
-SHA256sum: 3aa9e8372ca5a52bc86d2d1f32f5407eadc6e0bf199a25b1eca9ac8a0bc04406
+SHA256sum: 1a346e609e08aeb52c5cc78a79791c9803fdab73ccfa7720e93734e07a4a2c98
 Description:  Dynamic internet gateway plugin
 
 Package: olsrd-mod-httpinfo
@@ -1055,8 +1055,8 @@ Maintainer: Saverio Proto <zioproto@gmail.com>
 Architecture: mips64_octeonplus
 Installed-Size: 31741
 Filename: olsrd-mod-httpinfo_2020-06-18-84400e5c-1_mips64_octeonplus.ipk
-Size: 32497
-SHA256sum: a3ec72fda0941e344921fd8ecc24115e5d2f4572df7204c7fe74ba0b93a8fb51
+Size: 32499
+SHA256sum: 1e9fca477f775e44b6d520d88ba73a217ed274face0a4621d86db22992cc80e1
 Description:  Small informative web server plugin
 
 Package: olsrd-mod-jsoninfo
@@ -1068,10 +1068,10 @@ License: BSD-3-Clause
 Section: net
 Maintainer: Saverio Proto <zioproto@gmail.com>
 Architecture: mips64_octeonplus
-Installed-Size: 22953
+Installed-Size: 22954
 Filename: olsrd-mod-jsoninfo_2020-06-18-84400e5c-1_mips64_octeonplus.ipk
 Size: 23667
-SHA256sum: 08fe6877c243b2ede463d00cdf1efedf060a101a503f3a6befdb47d631505b6a
+SHA256sum: 3b7f046dc006b1f7bdb990155e145438bd71ed5e10b1f9bc7792f6897e20672e
 Description:  Small informative plugin with JSON output
 
 Package: olsrd-mod-mdns
@@ -1085,8 +1085,8 @@ Maintainer: Saverio Proto <zioproto@gmail.com>
 Architecture: mips64_octeonplus
 Installed-Size: 9781
 Filename: olsrd-mod-mdns_2020-06-18-84400e5c-1_mips64_octeonplus.ipk
-Size: 10562
-SHA256sum: c2355662f6603e8d9a3ee28e2a198b70ad11f4dbead3d4d718965a6d8a314873
+Size: 10566
+SHA256sum: 7194c78d03d33b73a9019d6f6eb5a45250db9c66699c8bfa9a06da4a09b7f344
 Description:  MDNS/Zeroconf/Bonjour packet distribution 
 
 Package: olsrd-mod-nameservice
@@ -1100,8 +1100,8 @@ Maintainer: Saverio Proto <zioproto@gmail.com>
 Architecture: mips64_octeonplus
 Installed-Size: 11966
 Filename: olsrd-mod-nameservice_2020-06-18-84400e5c-1_mips64_octeonplus.ipk
-Size: 12712
-SHA256sum: 3ba56871fc91bd9f9a5118162af9de4d724cbe8df45eb7fb1701bdaa18d7cdb2
+Size: 12707
+SHA256sum: cbf455bdef8261b7a188b9cd5a68346127a58b3d4661f5386ec47431f2dd5ca9
 Description:  Lightweight hostname resolver plugin
 
 Package: olsrd-mod-netjson
@@ -1115,8 +1115,8 @@ Maintainer: Saverio Proto <zioproto@gmail.com>
 Architecture: mips64_octeonplus
 Installed-Size: 13668
 Filename: olsrd-mod-netjson_2020-06-18-84400e5c-1_mips64_octeonplus.ipk
-Size: 14421
-SHA256sum: acee50089650ece431970287d99fd5e5d66f8296f3c1a216446aaf8b152ab82d
+Size: 14420
+SHA256sum: 746c398b805b2618dec9934147282f9fa9b910dad64d53684d1faf524d3a350b
 Description:  netjson plugin with JSON output
 
 Package: olsrd-mod-p2pd
@@ -1128,10 +1128,10 @@ License: BSD-3-Clause
 Section: net
 Maintainer: Saverio Proto <zioproto@gmail.com>
 Architecture: mips64_octeonplus
-Installed-Size: 9227
+Installed-Size: 9228
 Filename: olsrd-mod-p2pd_2020-06-18-84400e5c-1_mips64_octeonplus.ipk
-Size: 9997
-SHA256sum: ddbff786883be7ef3ab3c99b9df1a2ead210beaef0fc2949a3ee2b167caf1594
+Size: 10002
+SHA256sum: 3c8fe40a2e678668ecf8d429cfce216d0286cdd64db2b9a090981dec79d2d3c5
 Description:  Peer to Peer Discovery plugin
 
 Package: olsrd-mod-pgraph
@@ -1145,8 +1145,8 @@ Maintainer: Saverio Proto <zioproto@gmail.com>
 Architecture: mips64_octeonplus
 Installed-Size: 3044
 Filename: olsrd-mod-pgraph_2020-06-18-84400e5c-1_mips64_octeonplus.ipk
-Size: 3785
-SHA256sum: 2ff5219f00d43131c701c5a4d15bf8e70e9dd5d611f4efbccfe4318b2874c717
+Size: 3791
+SHA256sum: 43f6edd7fc89b78fb4310b7044184bf90b0c62234bfa1849812d4c4268824c7c
 Description:  output network topology for pgraph
 
 Package: olsrd-mod-pud
@@ -1160,8 +1160,8 @@ Maintainer: Saverio Proto <zioproto@gmail.com>
 Architecture: mips64_octeonplus
 Installed-Size: 60051
 Filename: olsrd-mod-pud_2020-06-18-84400e5c-1_mips64_octeonplus.ipk
-Size: 60668
-SHA256sum: 6f96dcb92719ce236c6d6bb1f287fb76425acd760edf8a8a7dbed6a01aaf0a80
+Size: 60679
+SHA256sum: 370e288c20707b4fc09983ab77396446bcf3276238bc69fd77453d11ac77a340
 Description:  Position Update Distribution plugin
 
 Package: olsrd-mod-quagga
@@ -1175,8 +1175,8 @@ Maintainer: Saverio Proto <zioproto@gmail.com>
 Architecture: mips64_octeonplus
 Installed-Size: 6886
 Filename: olsrd-mod-quagga_2020-06-18-84400e5c-1_mips64_octeonplus.ipk
-Size: 7680
-SHA256sum: d5ec635284c0b30a2f6af0dacef3df22e1f6507634929986cf1557e3f96db8c5
+Size: 7689
+SHA256sum: e9976ffc2330885de6cedf84e6ea3b49192ff33ffc19ca4529d2d755afac7b1d
 Description:  Quagga plugin
 
 Package: olsrd-mod-secure
@@ -1188,10 +1188,10 @@ License: BSD-3-Clause
 Section: net
 Maintainer: Saverio Proto <zioproto@gmail.com>
 Architecture: mips64_octeonplus
-Installed-Size: 11575
+Installed-Size: 11577
 Filename: olsrd-mod-secure_2020-06-18-84400e5c-1_mips64_octeonplus.ipk
-Size: 12408
-SHA256sum: a0298b69d195e1e2097d3eb182c8fefbf4b83cb68fe547d4fd990885150b3714
+Size: 12412
+SHA256sum: 02999b969076d1da79c3c887fbc3cdacf19a1b53a7811b182f88a0c2369f8dd4
 Description:  Message signing plugin to secure routing domain
 
 Package: olsrd-mod-sgwdynspeed
@@ -1205,8 +1205,8 @@ Maintainer: Saverio Proto <zioproto@gmail.com>
 Architecture: mips64_octeonplus
 Installed-Size: 4678
 Filename: olsrd-mod-sgwdynspeed_2020-06-18-84400e5c-1_mips64_octeonplus.ipk
-Size: 5480
-SHA256sum: 8236f767b1828bf7aeac8eabbfe290eda3d677aa370f440bda5b81a655c41acb
+Size: 5483
+SHA256sum: 35ec8d8b8a624b4df10e4bddee0700d3fc253d647279f1dcb8a9a553285686ce
 Description:  Smart Gateway dynamic speed plugin
 
 Package: olsrd-mod-txtinfo
@@ -1218,10 +1218,10 @@ License: BSD-3-Clause
 Section: net
 Maintainer: Saverio Proto <zioproto@gmail.com>
 Architecture: mips64_octeonplus
-Installed-Size: 15951
+Installed-Size: 15953
 Filename: olsrd-mod-txtinfo_2020-06-18-84400e5c-1_mips64_octeonplus.ipk
-Size: 16720
-SHA256sum: 7f1b212f08bbb5c28ec5af98fdebbb8341f1b6c31aee34b7daa005810eb7fc63
+Size: 16719
+SHA256sum: 03984d46e4359cad6edaf8a9b502a785083bb8cdfdc424d4b833fdb845860c5a
 Description:  Small informative web server plugin
 
 Package: olsrd-mod-watchdog
@@ -1233,10 +1233,10 @@ License: BSD-3-Clause
 Section: net
 Maintainer: Saverio Proto <zioproto@gmail.com>
 Architecture: mips64_octeonplus
-Installed-Size: 1796
+Installed-Size: 1798
 Filename: olsrd-mod-watchdog_2020-06-18-84400e5c-1_mips64_octeonplus.ipk
-Size: 2533
-SHA256sum: 12b3ba26b7b934a53f0bbf517df75b7c7c8beee334bf8abd5e68e914467ebf5c
+Size: 2532
+SHA256sum: c012858456ef8906eb6e75b916c470377a454498ace80086e8c1975b2d56dc73
 Description:  Watchdog plugin
 
 Package: olsrd
@@ -1248,10 +1248,10 @@ License: BSD-3-Clause
 Section: net
 Maintainer: Saverio Proto <zioproto@gmail.com>
 Architecture: mips64_octeonplus
-Installed-Size: 145858
+Installed-Size: 145848
 Filename: olsrd_2020-06-18-84400e5c-1_mips64_octeonplus.ipk
-Size: 146551
-SHA256sum: 7ab22cf9a0357d2e6929d2fe289fdd15c2d3e0dd7cd48e6bda08d656f86bdc7a
+Size: 146556
+SHA256sum: dc99ceac518983373da7daf249f9c76c9c0fa5ee336000d966d7529b99e9190b
 Description:  OLSR (Optimized Link State Routing) daemon
 
 Package: oonf-dlep-proxy
@@ -1265,7 +1265,7 @@ Architecture: mips64_octeonplus
 Installed-Size: 109529
 Filename: oonf-dlep-proxy_0.14.1-1_mips64_octeonplus.ipk
 Size: 110332
-SHA256sum: 343885144a79469122dd277124bdb4f60fe659b6dd21ebe5ae0cadd532a50d56
+SHA256sum: ee0a59d35ff12a6e7b3dc1ca602d56d312fecaa66c99238ccab4314c3ec365fd
 Description:  Build DLEP Radio+Router Agent
 
 Package: oonf-dlep-radio
@@ -1276,10 +1276,10 @@ SourceName: oonf-dlep-radio
 Section: net
 Maintainer: Henning Rogge <hrogge@gmail.com>
 Architecture: mips64_octeonplus
-Installed-Size: 105954
+Installed-Size: 105955
 Filename: oonf-dlep-radio_0.14.1-1_mips64_octeonplus.ipk
-Size: 106738
-SHA256sum: d4d95ee96404cae705cd741cd4d3895e920968450c70f654f3cc999f489fc533
+Size: 106743
+SHA256sum: afdf5dc5a05351a3ec3ad3c098175cb9b46954d28b07c9b64d03b38384486db8
 Description:  Build DLEP Radio Agent
 
 Package: oonf-init-scripts
@@ -1292,8 +1292,8 @@ Maintainer: Henning Rogge <hrogge@gmail.com>
 Architecture: mips64_octeonplus
 Installed-Size: 1392
 Filename: oonf-init-scripts_0.9.1-r3_mips64_octeonplus.ipk
-Size: 2134
-SHA256sum: ba90456d1a92cbf8e1426d44293c31a045c69346d1cde25ca0d28f89febd0a05
+Size: 2133
+SHA256sum: 93ef5ed83f79db90cc28715526c0b90a3d7de92fb2c5ed479bc7b9772dc68044
 Description:  Common OONF startup scripts
 
 Package: oonf-olsrd2
@@ -1306,8 +1306,8 @@ Maintainer: Henning Rogge <hrogge@gmail.com>
 Architecture: mips64_octeonplus
 Installed-Size: 177364
 Filename: oonf-olsrd2_0.14.1-1_mips64_octeonplus.ipk
-Size: 177995
-SHA256sum: 699eabbc279bc21b78e77c05ef41096a737c5942d84a2918a9e53b1458c69d56
+Size: 177991
+SHA256sum: 3335a5d8976b92a0f2c08d16b5c777f6082d80ae08b82b616e19aa35f390ee1e
 Description:  Build Olsrd V2 Routing Agent
 
 Package: opennds
@@ -1320,10 +1320,10 @@ License: GPL-2.0+
 Section: net
 Maintainer: Rob White <rob@blue-wave.net>
 Architecture: mips64_octeonplus
-Installed-Size: 89391
+Installed-Size: 89396
 Filename: opennds_5.1.0-1_mips64_octeonplus.ipk
-Size: 90216
-SHA256sum: c1d8c706f46762d2864d37ccf4514bc04524afb7fc5f6497b49b8f18bfb6c5c9
+Size: 90238
+SHA256sum: de3a06824bea927d9184ee3ceadf7e89a566d757913f34c6c2b1030f80f6feda
 Description:  openNDS is a Captive Portal that offers a simple way to
  provide restricted access to the Internet by showing a splash
  page to the user before Internet access is granted.
@@ -1339,10 +1339,10 @@ License: Apache-2.0
 Section: net
 Maintainer: Pierre Pfister <pierre.pfister@darou.fr>
 Architecture: mips64_octeonplus
-Installed-Size: 98595
+Installed-Size: 98590
 Filename: pimbd_2018-06-19-dbf4e5913b06e3160f506df15e6a047a403a5f21-1_mips64_octeonplus.ipk
-Size: 99477
-SHA256sum: 80530cbdd4b4e11e6f55e37e9de05482670cb94bc86627b4098d5c0c19604f11
+Size: 99453
+SHA256sum: b6f99d277be8c73b3d6fa1d71a0fa2fd22710a02ccaedc37da7c49c1aad66c3d
 Description:  This package provides a daemon which implements the Protocol Independent
  Multicast BIDIR routing protocol. Note that a routing protocol must be 
  installed and running in order for PIM to function.
@@ -1355,10 +1355,10 @@ SourceName: prince
 License: MIT
 Section: net
 Architecture: mips64_octeonplus
-Installed-Size: 30960
+Installed-Size: 30959
 Filename: prince_v0.4-1_mips64_octeonplus.ipk
-Size: 31794
-SHA256sum: 2e918ee4881bf33b2550b9a6717facc7642a3a31a0f4d6c272a3e3cf43647220
+Size: 31783
+SHA256sum: e5c87fff0cc57941b1845cd36c59e773e36e9e332cfb862549cb37ec68610cc5
 Description:  Prince is an open source implementation of the PopRouting Algorithm.
  It has been developed as a Google Summer of Code Project in collaboration with Freifunk and the University of Trento.
  
@@ -1376,10 +1376,10 @@ License: GPL-2.0
 Section: net
 Maintainer: Vasilis Tsiligiannis <acinonyx@openwrt.gr>
 Architecture: mips64_octeonplus
-Installed-Size: 262721
+Installed-Size: 262719
 Filename: quagga-bgpd_1.1.0-1_mips64_octeonplus.ipk
-Size: 260322
-SHA256sum: a64f36a3ee6c8611b8a8b383dd487000bd684c1888dd3200bf5d4dc3a3f8ad24
+Size: 260355
+SHA256sum: fb3b3acc6d6d824605fcd7470f6a40847f370e873f4bd90b9b86d48a97382f53
 Description:  BGPv4, BGPv4+, BGPv4- routing engine
 
 Package: quagga-isisd
@@ -1391,10 +1391,10 @@ License: GPL-2.0
 Section: net
 Maintainer: Vasilis Tsiligiannis <acinonyx@openwrt.gr>
 Architecture: mips64_octeonplus
-Installed-Size: 116510
+Installed-Size: 116509
 Filename: quagga-isisd_1.1.0-1_mips64_octeonplus.ipk
-Size: 116866
-SHA256sum: 23d97b364b1f564d8e0311b3a229c2e0cc492e3d68f28b47cf8ae7e750f6a069
+Size: 116876
+SHA256sum: 98e1049c8f04db228f38f4bd2fe72e41dbe57e8ca62dad198b5f29edc9ba6480
 Description:  IS-IS routing engine
 
 Package: quagga-libospf
@@ -1408,8 +1408,8 @@ Maintainer: Vasilis Tsiligiannis <acinonyx@openwrt.gr>
 Architecture: mips64_octeonplus
 Installed-Size: 198055
 Filename: quagga-libospf_1.1.0-1_mips64_octeonplus.ipk
-Size: 198096
-SHA256sum: 8c926c15b0de3c1b3112584a4f913f5132d80a4c6f508fca8f6025226782f57d
+Size: 198092
+SHA256sum: b10e5f6b148ad4a1542f9c071ddc063ea22f18e0f542fa12d7e1277eedea4228
 Description:  OSPF library
 
 Package: quagga-libzebra
@@ -1423,8 +1423,8 @@ Maintainer: Vasilis Tsiligiannis <acinonyx@openwrt.gr>
 Architecture: mips64_octeonplus
 Installed-Size: 142191
 Filename: quagga-libzebra_1.1.0-1_mips64_octeonplus.ipk
-Size: 142142
-SHA256sum: 78157e2dcbf4bb94503f56888458fa3f379a84411d674ce36ba511375802b969
+Size: 142159
+SHA256sum: 2906546f90f705ae8c7ee02a3208fae152373e1a28d5e8c3f48b0ecfc66b8605
 Description:  zebra library
 
 Package: quagga-ospf6d
@@ -1436,10 +1436,10 @@ License: GPL-2.0
 Section: net
 Maintainer: Vasilis Tsiligiannis <acinonyx@openwrt.gr>
 Architecture: mips64_octeonplus
-Installed-Size: 109070
+Installed-Size: 109098
 Filename: quagga-ospf6d_1.1.0-1_mips64_octeonplus.ipk
-Size: 109703
-SHA256sum: 9a34942f87eccf077409304603b935ebcbf28d8a218b4d8c884adbc449244e9d
+Size: 109755
+SHA256sum: a12027ffec5390b5c84aefb2eb12752f66554bedd14c4bef88081b3580b9e22e
 Description:  OSPFv3 routing engine
 
 Package: quagga-ospfd
@@ -1451,10 +1451,10 @@ License: GPL-2.0
 Section: net
 Maintainer: Vasilis Tsiligiannis <acinonyx@openwrt.gr>
 Architecture: mips64_octeonplus
-Installed-Size: 3935
+Installed-Size: 3943
 Filename: quagga-ospfd_1.1.0-1_mips64_octeonplus.ipk
-Size: 4719
-SHA256sum: a0c681cbe7131d09a9ed0694ee4681eeb1cd52f86aa26e64013b864bafaacfea
+Size: 4723
+SHA256sum: 5b4c9f0fade524524ae6fa3b372e5eadee55aab8f041c5361ab968409f25940b
 Description:  OSPFv2 routing engine
 
 Package: quagga-ripd
@@ -1466,10 +1466,10 @@ License: GPL-2.0
 Section: net
 Maintainer: Vasilis Tsiligiannis <acinonyx@openwrt.gr>
 Architecture: mips64_octeonplus
-Installed-Size: 44281
+Installed-Size: 44285
 Filename: quagga-ripd_1.1.0-1_mips64_octeonplus.ipk
-Size: 44923
-SHA256sum: 8a8bf80b82785e8651e27e06d32ce4dd063d6cc0c7eb996995f313d82e36d056
+Size: 44940
+SHA256sum: dadd568329ad1b8213195b28ad15b72d279bb25fba1d9fa4b54899d71ad68f62
 Description:  RIP routing engine
 
 Package: quagga-ripngd
@@ -1483,8 +1483,8 @@ Maintainer: Vasilis Tsiligiannis <acinonyx@openwrt.gr>
 Architecture: mips64_octeonplus
 Installed-Size: 36860
 Filename: quagga-ripngd_1.1.0-1_mips64_octeonplus.ipk
-Size: 37522
-SHA256sum: d941e34d683b4cff7dd4b125acdb40d962667fb1b7346573bf72d62678692e55
+Size: 37523
+SHA256sum: 284e96f107f2195afc94eedaf52bd03a102198f4d5fb1e795df345d076c4529a
 Description:  RIPNG routing engine
 
 Package: quagga-vtysh
@@ -1496,10 +1496,10 @@ License: GPL-2.0
 Section: net
 Maintainer: Vasilis Tsiligiannis <acinonyx@openwrt.gr>
 Architecture: mips64_octeonplus
-Installed-Size: 173874
+Installed-Size: 173260
 Filename: quagga-vtysh_1.1.0-1_mips64_octeonplus.ipk
-Size: 173725
-SHA256sum: 9e0aa089d52cfc858a0ad2ee32d670f0932e0fdfbce3b48e918b8483993658f8
+Size: 173188
+SHA256sum: 6832ee10814db873b9179865a57ddeb317d4375267e52d3047ec055e74f0b0cc
 Description:  integrated shell for Quagga routing software
 
 Package: quagga-watchquagga
@@ -1511,10 +1511,10 @@ License: GPL-2.0
 Section: net
 Maintainer: Vasilis Tsiligiannis <acinonyx@openwrt.gr>
 Architecture: mips64_octeonplus
-Installed-Size: 12415
+Installed-Size: 12416
 Filename: quagga-watchquagga_1.1.0-1_mips64_octeonplus.ipk
-Size: 13172
-SHA256sum: e3497867e09772f639cea7d2d4151556a3ec58c2df728ede1f4cc3cb66f6c1bd
+Size: 13170
+SHA256sum: 4eb11dc186280d49eb7e9fc72189158d12365eec8b04521cdcaef41c91970f01
 Description:  Quagga watchdog
 
 Package: quagga-zebra
@@ -1526,10 +1526,10 @@ License: GPL-2.0
 Section: net
 Maintainer: Vasilis Tsiligiannis <acinonyx@openwrt.gr>
 Architecture: mips64_octeonplus
-Installed-Size: 113694
+Installed-Size: 113696
 Filename: quagga-zebra_1.1.0-1_mips64_octeonplus.ipk
-Size: 113976
-SHA256sum: 26dc3d2f27543b2f6244bf44345ed9ec85486653ba252751a2fc424ea2a8b2ca
+Size: 113990
+SHA256sum: e9fd437239a6bf528148d88596f29fd98db0002573b4479a516e04510af87ca3
 Description:  Zebra daemon
 
 Package: quagga
@@ -1541,10 +1541,10 @@ License: GPL-2.0
 Section: net
 Maintainer: Vasilis Tsiligiannis <acinonyx@openwrt.gr>
 Architecture: mips64_octeonplus
-Installed-Size: 2388
+Installed-Size: 2390
 Filename: quagga_1.1.0-1_mips64_octeonplus.ipk
-Size: 3204
-SHA256sum: 53a247411f822ba4cec302113f086456781d615c9787b4bd61b56609ee850186
+Size: 3205
+SHA256sum: 8519d2b40521510224d49154070cb0c40f2c001d98ce882b67f7366c369b8823
 Description:  A routing software package that provides TCP/IP based routing services
  with routing protocols support such as RIPv1, RIPv2, RIPng, OSPFv2,
  OSPFv3, BGP-4, and BGP-4+
@@ -1560,8 +1560,8 @@ Maintainer: Corinna "Elektra" Aichele <onelektra@gmx.net>
 Architecture: mips64_octeonplus
 Installed-Size: 12075
 Filename: vis_1440-2_mips64_octeonplus.ipk
-Size: 12842
-SHA256sum: b20d1a832be723633367cecdbdf26cce66a0ae299482e1660ec95e5f9f1a5c2f
+Size: 12839
+SHA256sum: 77bff56c0b0b93d8081c0740fe9acecffcfe20c1e18a90c334c657428e7f54ff
 Description:  visualization server for B.A.T.M.A.N. layer 3
 
 Package: zonestitcher
@@ -1573,10 +1573,10 @@ License: GPL-2.0
 Section: net
 Maintainer: Steven Barth <cyrus@openwrt.org>
 Architecture: mips64_octeonplus
-Installed-Size: 16454
+Installed-Size: 16453
 Filename: zonestitcher_2020-05-22-0dfef1eb5f067250a5f24a899536879ea4fdc4c5-1_mips64_octeonplus.ipk
-Size: 17280
-SHA256sum: 011374b46d157d23d2b99e658be177f1bfe2f6effe81701fb9d6da6671f208aa
+Size: 17273
+SHA256sum: c4ea17db77dd927f668500ba75029911c577bfba21ffaff2fd3a1124328b87f6
 Description:  This package provides a statically configured daemon for translating DNS
  requests to Multicast DNS and back again.
 

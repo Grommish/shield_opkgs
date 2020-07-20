@@ -1,4 +1,4 @@
-base-files - 223-r13871-546e140382
+base-files - 223-r13871+2-546e140382
 busybox - 1.31.1-1
 cgi-io - 19
 dnsmasq - 2.81-3
@@ -84,7 +84,6 @@ luci-proto-ppp - git-20.184.73759-da42423
 luci-ssl - git-20.184.73759-da42423
 luci-theme-bootstrap - git-20.184.73759-da42423
 mkf2fs - 1.13.0-1
-mtd - 25
 netifd - 2020-06-06-51e9fb81-1
 odhcp6c - 2020-03-28-f575351c-16
 odhcpd-ipv6only - 2020-06-21-5da52992-4
